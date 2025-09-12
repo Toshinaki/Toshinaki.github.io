@@ -1,0 +1,731 @@
+1:"$Sreact.fragment"
+2:I[12281,[],""]
+3:I[92605,[],""]
+6:I[97564,[],"OutletBoundary"]
+8:I[66005,[],"AsyncMetadataOutlet"]
+a:I[97564,[],"ViewportBoundary"]
+c:I[97564,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[87307,[],""]
+:HL["/_next/static/media/155cae559bbd1a77-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1f3fe8c6df3d47c1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3296bccdacdd55f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4de1fea1a954a5b6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c0c2bcbaa4149ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5d258b355fefebcb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/630c17af355fa44e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d664cce900333ee-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7b89a4fd5e90ede0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7f06be3f780a819a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/886f446b96dc7734-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/904be59b21bd51cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9cf9c6e84ed13b5e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a88c13d5f58b71d4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/accc82dc8525882b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdcf2ec322da5503-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c90a9e82ec3f8868-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c9e6921c7fc300d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e693e841d50dcf2f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/033e0c8492e56883.css","style"]
+:HL["/_next/static/css/b8553cf2efc1ee8b.css","style"]
+:HL["/_next/static/css/10f1809c5e42fea9.css","style"]
+:HL["/_next/static/css/777b184d172b2ce8.css","style"]
+0:{"P":null,"b":"d_MtCnb9n2Qxnfr6UVROM","p":"","c":["","ja","about"],"i":false,"f":[[["",{"children":[["locale","ja","d"],{"children":[["slugs","about","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["locale","ja","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/033e0c8492e56883.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/b8553cf2efc1ee8b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/10f1809c5e42fea9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/777b184d172b2ce8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["slugs","about","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[89108,["9928","static/chunks/9928-1636d96b4fa729ac.js","8450","static/chunks/app/%5Blocale%5D/layout-bfe4b3489e05b707.js"],"ColorSchemeScript"]
+4:["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"__variable_a8383b __variable_8c1962","children":[["$","head",null,{"children":["$","$L10",null,{}]}],["$","body",null,{"children":"$L11"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[56368,["9072","static/chunks/4352e4e9-f9d284395f93c21b.js","6452","static/chunks/c99dd624-ba7050f158aaa9cd.js","5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","9928","static/chunks/9928-1636d96b4fa729ac.js","2893","static/chunks/2893-a4457f8a5d592004.js","7806","static/chunks/7806-d89415b927276408.js","465","static/chunks/app/%5Blocale%5D/page-3561805f5ec5cc78.js"],"default"]
+13:I[79483,["9928","static/chunks/9928-1636d96b4fa729ac.js","8450","static/chunks/app/%5Blocale%5D/layout-bfe4b3489e05b707.js"],"AppProvider"]
+11:["$","$L12",null,{"formats":"$undefined","locale":"ja","messages":{"components":{"FallbackIndicator":{"title":"言語に関するお知らせ","message":"このコンテンツは選択した言語ではまだ利用できません。代わりにデフォルト言語で表示されています。"},"LanguageSwitcher":{"label":"言語切り替え"}},"metadata":{"root":{"title":"再：青年","description":"自分を解放し、世界を解放する。"},"page":{"404":{"title":"ページが見つかりません | 再：青年","description":"申し訳ありませんが、アクセスしたページは存在しないか削除されました"},"about":{"title":"サイトについて | 再：青年","description":"このサイトを設立した理由"},"portfolio":{"title":"自己紹介 | 再：青年","description":"私は誰？どこから来て？どこへ向かう？"},"contact":{"title":"お問い合わせ | 再：青年","description":"話したい、協力したい、質問したい？メールやその他の方法でお気軽にご連絡ください"}}},"label":{"scrollToTop":"トップへ戻る"}},"now":"$undefined","timeZone":"UTC","children":["$","$L13",null,{"globalConfig":{"_sys":{"filename":"global-config.ja","basename":"global-config.ja.json","hasReferences":false,"breadcrumbs":["global-config.ja"],"path":"content/global/global-config.ja.json","relativePath":"global-config.ja.json","extension":".json"},"id":"content/global/global-config.ja.json","__typename":"Global","appName":"再：青年","logo":null,"defaultLanguage":"zh","supportedLanguages":["zh","en","ja"],"fonts":{"__typename":"GlobalFonts","header":"josefinSans","body":"domine"},"header":{"__typename":"GlobalHeader","background":"#FA5252","height":"6.5rem","responsiveHeight":null,"fixed":true,"title":null,"nav":[{"__typename":"GlobalHeaderNav","label":"ブログ","href":"/blog","external":null,"group":null},{"__typename":"GlobalHeaderNav","label":"ノート","href":"/notes","external":null,"group":null},{"__typename":"GlobalHeaderNav","label":"プロジェクト","href":"/projects","external":null,"group":null},{"__typename":"GlobalHeaderNav","label":"このブログについて","href":"/about","external":null,"group":"概要"},{"__typename":"GlobalHeaderNav","label":"私について","href":"/portfolio","external":null,"group":"概要"},{"__typename":"GlobalHeaderNav","label":"お問い合わせ","href":"/contact","external":null,"group":"概要"}]},"footer":{"__typename":"GlobalFooter","background":null,"height":"11rem","responsiveHeight":null,"fixed":null,"nav":null},"social":[{"__typename":"GlobalSocial","social":"github","url":"https://github.com/Toshinaki"},{"__typename":"GlobalSocial","social":"facebook","url":"https://www.facebook.com/jm.wang42"},{"__typename":"GlobalSocial","social":"x","url":"https://x.com/shaduking"}],"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":null,"radius":"xs","colorScheme":"dark","extraColors":null}},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
+9:{"metadata":[["$","title","0",{"children":"サイトについて | 再：青年"}],["$","meta","1",{"name":"description","content":"このサイトを設立した理由"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
+14:I[96240,["9072","static/chunks/4352e4e9-f9d284395f93c21b.js","6452","static/chunks/c99dd624-ba7050f158aaa9cd.js","5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","9928","static/chunks/9928-1636d96b4fa729ac.js","2893","static/chunks/2893-a4457f8a5d592004.js","7806","static/chunks/7806-d89415b927276408.js","465","static/chunks/app/%5Blocale%5D/page-3561805f5ec5cc78.js"],"Page"]
+15:T34c1,
+    query page($relativePath: String!) {
+  page(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...PageParts
+  }
+}
+    
+    fragment PageParts on Page {
+  __typename
+  flat
+  containerWidth
+  contentMaxWidth
+  contentOffset
+  title
+  blocks {
+    __typename
+    ... on PageBlocksHero {
+      background
+      headline
+      tagline
+      actions {
+        __typename
+        label
+        icon {
+          __typename
+          name
+          color
+          size
+        }
+        iconPosition
+        variant
+        color
+        size
+        fullWidth
+        compact
+        external
+        link
+      }
+      image {
+        __typename
+        src
+        alt
+        videoUrl
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        padding {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+          padding {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+        }
+      }
+    }
+    ... on PageBlocksContent {
+      background
+      body
+    }
+    ... on PageBlocksRecentPosts {
+      background
+      title
+      path
+      limit
+      showExcerpts
+    }
+    ... on PageBlocksAction {
+      label
+      icon {
+        __typename
+        name
+        color
+        size
+      }
+      iconPosition
+      variant
+      color
+      size
+      fullWidth
+      compact
+      external
+      link
+    }
+    ... on PageBlocksCarousel {
+      background
+      carousel {
+        __typename
+        orientation
+        align
+        loop
+        slides {
+          __typename
+          slideSize
+          slideGap
+          customSlideGap
+          includeGapInSize
+          slidesToScroll
+          initialSlide
+        }
+        animation {
+          __typename
+          skipSnaps
+          containScroll
+        }
+        interaction {
+          __typename
+          draggable
+          dragFree
+        }
+        indicators {
+          __typename
+          enabled
+        }
+        controls {
+          __typename
+          display
+          hideInactive
+          size
+          offset
+          customOffset
+          nextControlIcon
+          previousControlIcon
+        }
+        plugins {
+          __typename
+          autoplay {
+            __typename
+            enabled
+            delay
+            stopOnInteraction
+            stopOnMouseEnter
+            stopOnFocusIn
+            stopOnLastSnap
+            jump
+          }
+          fade {
+            __typename
+            enabled
+          }
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          slides {
+            __typename
+            slideSize
+            slideGap
+            customSlideGap
+          }
+        }
+      }
+      children {
+        __typename
+        ... on PageBlocksCarouselChildrenHero {
+          background
+          headline
+          tagline
+          actions {
+            __typename
+            label
+            icon {
+              __typename
+              name
+              color
+              size
+            }
+            iconPosition
+            variant
+            color
+            size
+            fullWidth
+            compact
+            external
+            link
+          }
+          image {
+            __typename
+            src
+            alt
+            videoUrl
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            padding {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+              padding {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+            }
+          }
+        }
+        ... on PageBlocksCarouselChildrenRecentPosts {
+          background
+          title
+          path
+          limit
+          showExcerpts
+        }
+        ... on PageBlocksCarouselChildrenAction {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+      }
+    }
+    ... on PageBlocksCover {
+      fixed
+      children {
+        __typename
+        ... on PageBlocksCoverChildrenHero {
+          background
+          headline
+          tagline
+          actions {
+            __typename
+            label
+            icon {
+              __typename
+              name
+              color
+              size
+            }
+            iconPosition
+            variant
+            color
+            size
+            fullWidth
+            compact
+            external
+            link
+          }
+          image {
+            __typename
+            src
+            alt
+            videoUrl
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            padding {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+              padding {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+            }
+          }
+        }
+        ... on PageBlocksCoverChildrenRecentPosts {
+          background
+          title
+          path
+          limit
+          showExcerpts
+        }
+        ... on PageBlocksCoverChildrenAction {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+        ... on PageBlocksCoverChildrenCarousel {
+          background
+          carousel {
+            __typename
+            orientation
+            align
+            loop
+            slides {
+              __typename
+              slideSize
+              slideGap
+              customSlideGap
+              includeGapInSize
+              slidesToScroll
+              initialSlide
+            }
+            animation {
+              __typename
+              skipSnaps
+              containScroll
+            }
+            interaction {
+              __typename
+              draggable
+              dragFree
+            }
+            indicators {
+              __typename
+              enabled
+            }
+            controls {
+              __typename
+              display
+              hideInactive
+              size
+              offset
+              customOffset
+              nextControlIcon
+              previousControlIcon
+            }
+            plugins {
+              __typename
+              autoplay {
+                __typename
+                enabled
+                delay
+                stopOnInteraction
+                stopOnMouseEnter
+                stopOnFocusIn
+                stopOnLastSnap
+                jump
+              }
+              fade {
+                __typename
+                enabled
+              }
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              slides {
+                __typename
+                slideSize
+                slideGap
+                customSlideGap
+              }
+            }
+          }
+          children {
+            __typename
+            ... on PageBlocksCoverChildrenCarouselChildrenHero {
+              background
+              headline
+              tagline
+              actions {
+                __typename
+                label
+                icon {
+                  __typename
+                  name
+                  color
+                  size
+                }
+                iconPosition
+                variant
+                color
+                size
+                fullWidth
+                compact
+                external
+                link
+              }
+              image {
+                __typename
+                src
+                alt
+                videoUrl
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  right
+                  bottom
+                  left
+                }
+                padding {
+                  __typename
+                  top
+                  right
+                  bottom
+                  left
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    right
+                    bottom
+                    left
+                  }
+                  padding {
+                    __typename
+                    top
+                    right
+                    bottom
+                    left
+                  }
+                }
+              }
+            }
+            ... on PageBlocksCoverChildrenCarouselChildrenRecentPosts {
+              background
+              title
+              path
+              limit
+              showExcerpts
+            }
+            ... on PageBlocksCoverChildrenCarouselChildrenAction {
+              label
+              icon {
+                __typename
+                name
+                color
+                size
+              }
+              iconPosition
+              variant
+              color
+              size
+              fullWidth
+              compact
+              external
+              link
+            }
+          }
+        }
+      }
+    }
+    ... on PageBlocksFlex {
+      background
+      flex {
+        __typename
+        direction
+        gap
+        customGap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          customGap
+          align
+          justify
+          wrap
+        }
+      }
+      children {
+        __typename
+        ... on PageBlocksFlexChildrenHero {
+          background
+          headline
+          tagline
+          actions {
+            __typename
+            label
+            icon {
+              __typename
+              name
+              color
+              size
+            }
+            iconPosition
+            variant
+            color
+            size
+            fullWidth
+            compact
+            external
+            link
+          }
+          image {
+            __typename
+            src
+            alt
+            videoUrl
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            padding {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+              padding {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+            }
+          }
+        }
+        ... on PageBlocksFlexChildrenRecentPosts {
+          background
+          title
+          path
+          limit
+          showExcerpts
+        }
+        ... on PageBlocksFlexChildrenAction {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        padding {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+          padding {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+        }
+      }
+    }
+  }
+}
+    5:["$","$L14",null,{"data":{"page":{"_sys":{"filename":"about","basename":"about.mdx","hasReferences":false,"breadcrumbs":["en","about"],"path":"content/pages/en/about.mdx","relativePath":"en/about.mdx","extension":".mdx"},"id":"content/pages/en/about.mdx","__typename":"Page","flat":null,"containerWidth":"lg","contentMaxWidth":null,"contentOffset":"6rem","title":null,"blocks":[{"__typename":"PageBlocksContent","background":null,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"About this site: TODO"}]}]}}]}},"errors":null,"query":"$15","variables":{"relativePath":"en/about.mdx"},"isFallback":true}]
