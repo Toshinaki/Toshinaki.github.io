@@ -1,0 +1,933 @@
+1:"$Sreact.fragment"
+2:I[12281,[],""]
+3:I[92605,[],""]
+6:I[97564,[],"OutletBoundary"]
+8:I[66005,[],"AsyncMetadataOutlet"]
+a:I[97564,[],"ViewportBoundary"]
+c:I[97564,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[87307,[],""]
+:HL["/_next/static/media/155cae559bbd1a77-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1f3fe8c6df3d47c1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3296bccdacdd55f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4de1fea1a954a5b6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c0c2bcbaa4149ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/630c17af355fa44e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/68180864d7f93f02-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d664cce900333ee-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7b89a4fd5e90ede0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7f06be3f780a819a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/886f446b96dc7734-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/904be59b21bd51cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9cf9c6e84ed13b5e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a88c13d5f58b71d4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/accc82dc8525882b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdcf2ec322da5503-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c9e6921c7fc300d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e693e841d50dcf2f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e807dee2426166ad-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/dde8d1e49f282d41.css","style"]
+:HL["/_next/static/css/d87a8447536d7e36.css","style"]
+:HL["/_next/static/css/10f1809c5e42fea9.css","style"]
+:HL["/_next/static/css/59bc09d70c1d7159.css","style"]
+0:{"P":null,"b":"_87K2n-LsuC-3WJNlpjXB","p":"","c":["","en","portfolio"],"i":false,"f":[[["",{"children":[["locale","en","d"],{"children":[["slugs","portfolio","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["locale","en","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dde8d1e49f282d41.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d87a8447536d7e36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/10f1809c5e42fea9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/59bc09d70c1d7159.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["slugs","portfolio","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[89108,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4215","static/chunks/4215-7bec383e36508e28.js","8450","static/chunks/app/%5Blocale%5D/layout-cae938ef783b2dac.js"],"ColorSchemeScript"]
+4:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"__variable_a8383b __variable_8c1962","children":[["$","head",null,{"children":["$","$L10",null,{}]}],["$","body",null,{"children":"$L11"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[56368,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","9072","static/chunks/4352e4e9-f9d284395f93c21b.js","6452","static/chunks/c99dd624-ba7050f158aaa9cd.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4176","static/chunks/4176-e2e8c85f32d5a19a.js","4465","static/chunks/4465-c5ccec15da7365ef.js","465","static/chunks/app/%5Blocale%5D/page-339cb62659c8b9f6.js"],"default"]
+11:["$","$L12",null,{"formats":"$undefined","locale":"en","messages":{"components":{"FallbackIndicator":{"title":"Language Notice","message":"This content is not yet available in your language and is shown in the default language instead."},"LanguageSwitcher":{"label":"Change language"}},"metadata":{"root":{"title":"Re:Jeunesse","description":"Free myself. Free the world."},"page":{"404":{"title":"Page Not Found | Re:Jeunesse","description":"Sorry, the page you’re looking for doesn’t exist or has been removed"},"about":{"title":"About | Re:Jeunesse","description":"Why is this site created"},"portfolio":{"title":"About Me | Re:Jeunesse","description":"Who am I? Where do I come from? Where am I going?"},"contact":{"title":"Contact Me | Re:Jeunesse","description":"Want to chat / collaborate / ask questions? Feel free to contact me via email or other means"}}},"label":{"scrollToTop":"Back to top"},"tag":{"acg":{"title":"ACG","description":"Anime, comics, and games including light novels and related music."},"action":{"title":"Action","description":"Action movies, TV series, and games featuring high energy and stunts."},"ai":{"title":"Artificial Intelligence","description":"Study and application of AI techniques, machine learning, and intelligent systems."},"ai_art":{"title":"AI Art","description":"Artwork generated or assisted by artificial intelligence."},"ai_dev":{"title":"AI Development","description":"Software development focused on AI models, frameworks, and tools."},"animated":{"title":"Animated","description":"Animated movies and series, including cartoons and anime."},"anime_music":{"title":"Anime Music","description":"Music from anime, including openings, endings, and soundtracks."},"arpg":{"title":"Action RPG","description":"Action role-playing games where combat is real-time and player skill is key."},"astronomy":{"title":"Astronomy","description":"The study of celestial bodies, stars, planets, and the universe."},"backend":{"title":"Backend Development","description":"Server-side programming, databases, and APIs for applications."},"biology":{"title":"Biology","description":"The study of living organisms and life processes, including evolution."},"boardgame":{"title":"Board Game","description":"Physical or digital tabletop games, including card and party games."},"bond":{"title":"Bond","description":"Debt securities issued by governments or companies for investment purposes."},"boxing":{"title":"Boxing","description":"Combat sport involving punches and footwork in a ring."},"business":{"title":"Business","description":"Commercial activities, management, and entrepreneurship."},"card":{"title":"Card Game","description":"Games played with cards, including trading, strategy, and casual games."},"cat":{"title":"Cat","description":"Domesticated felines as pets, including care, training, and breeds."},"chinese_cuisine":{"title":"Chinese Cuisine","description":"Cooking and recipes from various regions of China."},"chinese_history":{"title":"Chinese History","description":"Historical events, figures, and periods in China."},"classical":{"title":"Classical Music","description":"Western classical music including symphonies, concertos, and operas."},"cloud_platform":{"title":"Cloud Platform","description":""},"comedy":{"title":"Comedy","description":"Comedy movies, TV series, and sketches."},"computer_science":{"title":"Computer Science","description":"Study of computation, programming, and algorithms."},"cooking":{"title":"Cooking","description":"Home cooking and culinary techniques."},"crypto":{"title":"Cryptocurrency","description":"Digital currencies such as Bitcoin and blockchain technology."},"cv":{"title":"Computer Vision","description":"AI field dealing with interpreting visual data and images."},"cycling":{"title":"Cycling","description":"Bicycle sport and training."},"database":{"title":"Database","description":"Structured storage systems for data, relational and NoSQL databases."},"deep_learning":{"title":"Deep Learning","description":"Machine learning using neural networks and large datasets."},"desktop":{"title":"Desktop Development","description":"Application development for desktop environments."},"dessert":{"title":"Dessert","description":"Sweet foods including cakes, pastries, and confectionery."},"detective":{"title":"Detective","description":"Mystery and detective genre works."},"drawing":{"title":"Drawing","description":"Sketching and illustration art forms."},"drum":{"title":"Drums","description":"Percussion instruments including drum kits and traditional drums."},"economy":{"title":"Economy","description":"Study of production, consumption, and resource management."},"embedded":{"title":"Embedded Systems","description":"Computing systems embedded in hardware devices."},"entrepreneurship":{"title":"Entrepreneurship","description":"Starting and managing new business ventures."},"erhu":{"title":"Erhu","description":"Chinese two-stringed bowed musical instrument."},"fantasy":{"title":"Fantasy","description":"Fantasy novels, movies, and games."},"finance":{"title":"Finance","description":"Financial management, investing, and money-related topics."},"fintech":{"title":"Fintech","description":"Financial technology and digital banking."},"fitness":{"title":"Fitness","description":"Physical activity, training, and exercise routines."},"food":{"title":"Food","description":"Food culture, recipes, and culinary experiences."},"forex":{"title":"Forex","description":"Foreign exchange trading and currency markets."},"fps":{"title":"First-Person Shooter","description":"FPS video games with first-person perspective combat."},"freelance":{"title":"Freelance","description":"Independent work and self-employed professionals."},"frontend":{"title":"Frontend Development","description":"Client-side web development with HTML, CSS, JS frameworks."},"fullstack":{"title":"Full-Stack Development","description":"Combined frontend and backend software development."},"fund":{"title":"Fund","description":"Investment funds such as mutual funds or ETFs."},"futures":{"title":"Futures","description":"Futures contracts and derivatives trading."},"game":{"title":"Game","description":"General category for video games and interactive entertainment."},"game_dev":{"title":"Game Development","description":"Development and design of video games."},"guitar":{"title":"Guitar","description":"String instrument played with fingers or pick."},"handcraft":{"title":"Handcraft","description":"Handmade crafts, including jewelry, pottery, and woodwork."},"hardware":{"title":"Hardware","description":"Physical computing devices and electronic equipment."},"health":{"title":"Health","description":"General health, wellness, and well-being."},"healthy_diet":{"title":"Healthy Diet","description":"Balanced nutrition and healthy eating habits."},"history":{"title":"History","description":"Study of past events, world and regional history."},"home_cooking":{"title":"Home Cooking","description":"Preparing meals at home."},"horror":{"title":"Horror","description":"Horror genre in movies, novels, and games."},"instrument":{"title":"Musical Instrument","description":"Various instruments used for music creation."},"international_relations":{"title":"International Relations","description":"Politics, diplomacy, and global affairs."},"investment":{"title":"Investment","description":"Allocating resources to generate returns, stocks, and bonds."},"it":{"title":"IT","description":"Information technology and software-related topics."},"jrpg":{"title":"Japanese RPG","description":"Role-playing games originating from Japan."},"keyboard":{"title":"Keyboard","description":"Electronic or digital keyboards used for music."},"language":{"title":"Programming Language","description":"Computer programming languages such as Python, JS, Rust, etc."},"literature":{"title":"Literature","description":"Novels, poetry, and written art forms."},"machine_learning":{"title":"Machine Learning","description":"AI techniques for pattern recognition and prediction."},"martial_art":{"title":"Martial Art","description":"Combat techniques including unarmed and weapon training."},"math":{"title":"Mathematics","description":"Study of numbers, quantities, and abstract structures."},"mcu":{"title":"Marvel Cinematic Universe","description":"Superhero movies and media from Marvel."},"meme":{"title":"Meme","description":"Internet memes, image macros, and trending jokes."},"metal":{"title":"Metal","description":"Heavy metal music genre."},"mobile":{"title":"Mobile Development","description":"Software development for smartphones and tablets."},"movie_tv_novel":{"title":"Movies, TV, Novels","description":"General category for movies, TV shows, and literature."},"music":{"title":"Music","description":"Various music genres, including pop, rock, classical, and anime music."},"mystery":{"title":"Mystery","description":"Mystery genre works including novels, TV, and movies."},"neuroscience":{"title":"Neuroscience","description":"Study of the nervous system and brain function."},"news":{"title":"News","description":"Current events and journalism."},"nlp":{"title":"Natural Language Processing","description":"AI field focused on human language understanding and generation."},"nutrition":{"title":"Nutrition","description":"Study of nutrients and healthy dietary practices."},"otaku":{"title":"Otaku","description":"Fans of anime, manga, and related subcultures."},"party":{"title":"Party Games","description":"Social games for groups, including casual and card games."},"pet":{"title":"Pet","description":"Pets including care, health, and breeds."},"pet_training":{"title":"Pet Training","description":"Training techniques for pets, including cats and reptiles."},"philosophy":{"title":"Philosophy","description":"Study of fundamental questions about existence, knowledge, and ethics."},"physics":{"title":"Physics","description":"Study of matter, energy, and the universe."},"piano":{"title":"Piano","description":"Keyboard instrument used in classical and modern music."},"poetry":{"title":"Poetry","description":"Artistic literary expression in verse form."},"politics":{"title":"Politics","description":"Government, policies, and political systems."},"pop":{"title":"Pop Music","description":"Popular music genre."},"programmer":{"title":"Programmer","description":"Person who writes and maintains software."},"programming":{"title":"Programming","description":"Software development, coding, and related tools."},"psychology":{"title":"Psychology","description":"Study of mind, behavior, and mental processes."},"puzzle":{"title":"Puzzle","description":"Games or activities that challenge logic and problem solving."},"racing":{"title":"Racing","description":"Competitive vehicle or sport racing."},"reinforcement_learning":{"title":"Reinforcement Learning","description":"AI learning technique based on rewards and punishments."},"reptile":{"title":"Reptile","description":"Reptile pets including snakes, lizards, and turtles."},"robot":{"title":"Robot","description":"Machines capable of carrying out tasks autonomously or semi-autonomously."},"rock":{"title":"Rock Music","description":"Rock music genre."},"rts":{"title":"Real-Time Strategy","description":"Strategy games played in real time."},"sandbox":{"title":"Sandbox","description":"Games with open-world or free-form gameplay."},"science":{"title":"Science","description":"Study of the natural and physical world."},"sci_fi":{"title":"Science Fiction","description":"Fictional works exploring futuristic technology and space."},"simulation":{"title":"Simulation","description":"Simulation games that mimic real-life scenarios."},"sketch":{"title":"Sketch","description":"Drawing and sketching art."},"sleep":{"title":"Sleep","description":"Sleep health and habits."},"snack":{"title":"Snack","description":"Light foods and treats."},"soulslike":{"title":"Soulslike","description":"Challenging action games inspired by Dark Souls."},"speech_recognition":{"title":"Speech Recognition","description":"AI techniques for recognizing spoken language."},"sport":{"title":"Sport","description":"Physical activities and games."},"stock":{"title":"Stock","description":"Shares of companies traded on stock markets."},"superhero":{"title":"Superhero","description":"Superhero movies, comics, and media."},"tbs":{"title":"Turn-Based Strategy","description":"Strategy games played in turns."},"tcm":{"title":"Traditional Chinese Medicine","description":"Health practices and herbal medicine from China."},"tea":{"title":"Tea Culture","description":"Tea preparation, types, and cultural significance."},"thriller":{"title":"Thriller","description":"Thriller genre in movies, books, and TV."},"tower_defense":{"title":"Tower Defense","description":"Games where players defend against waves of enemies."},"travel":{"title":"Travel","description":"Exploration and tourism."},"ukulele":{"title":"Ukulele","description":"Small four-stringed instrument."},"venture_capital":{"title":"Venture Capital","description":"Funding provided to startups and high-risk businesses."},"vgm":{"title":"Video Game Music","description":"Music composed for video games."},"web_novel":{"title":"Web Novel","description":"Novels published primarily online."},"world_cuisine":{"title":"World Cuisine","description":"Cuisine and recipes from around the world."},"world_history":{"title":"World History","description":"Historical events, civilizations, and global history."},"writing":{"title":"Writing","description":"Creative writing, blogging, and textual arts."}},"diary":{"title":"Diary","totalCount":"{count} diary entries"}},"now":"$undefined","timeZone":"UTC","children":"$L13"}]
+14:I[79483,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4215","static/chunks/4215-7bec383e36508e28.js","8450","static/chunks/app/%5Blocale%5D/layout-cae938ef783b2dac.js"],"AppProvider"]
+15:I[33428,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4215","static/chunks/4215-7bec383e36508e28.js","8450","static/chunks/app/%5Blocale%5D/layout-cae938ef783b2dac.js"],"DatesProvider"]
+13:["$","$L14",null,{"globalConfig":{"_sys":{"filename":"global-config.en","basename":"global-config.en.json","hasReferences":false,"breadcrumbs":["global-config.en"],"path":"content/global/global-config.en.json","relativePath":"global-config.en.json","extension":".json"},"id":"content/global/global-config.en.json","__typename":"Global","appName":"Re:Jeunesse","logo":null,"defaultLanguage":"zh","supportedLanguages":["zh","en","ja"],"fonts":{"__typename":"GlobalFonts","header":"josefinSans","body":"domine"},"header":{"__typename":"GlobalHeader","background":"#FA5252","height":"6.5rem","responsiveHeight":null,"fixed":true,"title":null,"nav":[{"__typename":"GlobalHeaderNav","label":"Blog","href":"/blog","external":null,"group":null,"isPrivate":null},{"__typename":"GlobalHeaderNav","label":"Notes","href":"/notes","external":null,"group":null,"isPrivate":null},{"__typename":"GlobalHeaderNav","label":"Projects","href":"/projects","external":null,"group":null,"isPrivate":null},{"__typename":"GlobalHeaderNav","label":"Diary","href":"/diary","external":null,"group":null,"isPrivate":true},{"__typename":"GlobalHeaderNav","label":"About This Blog","href":"/about","external":null,"group":"about","isPrivate":null},{"__typename":"GlobalHeaderNav","label":"About Me","href":"/portfolio","external":null,"group":"about","isPrivate":null},{"__typename":"GlobalHeaderNav","label":"Get in Touch","href":"/contact","external":null,"group":"about","isPrivate":null}]},"footer":{"__typename":"GlobalFooter","background":null,"height":"11rem","responsiveHeight":null,"fixed":null,"nav":null},"social":[{"__typename":"GlobalSocial","social":"github","url":"https://github.com/Toshinaki"},{"__typename":"GlobalSocial","social":"facebook","url":"https://www.facebook.com/jm.wang42"},{"__typename":"GlobalSocial","social":"x","url":"https://x.com/shaduking"}],"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":null,"radius":"xs","colorScheme":"dark","extraColors":null}},"shouldIncludePrivate":false,"children":["$","$L15",null,{"settings":{"locale":"en"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
+9:{"metadata":[["$","title","0",{"children":"About Me | Re:Jeunesse"}],["$","meta","1",{"name":"description","content":"Who am I? Where do I come from? Where am I going?"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
+16:I[93502,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","9072","static/chunks/4352e4e9-f9d284395f93c21b.js","6452","static/chunks/c99dd624-ba7050f158aaa9cd.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4176","static/chunks/4176-e2e8c85f32d5a19a.js","4465","static/chunks/4465-c5ccec15da7365ef.js","465","static/chunks/app/%5Blocale%5D/page-339cb62659c8b9f6.js"],"Page"]
+17:T42f5,
+    query page($relativePath: String!) {
+  page(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...PageParts
+  }
+}
+    
+    fragment PageParts on Page {
+  __typename
+  flat
+  title
+  titleStand
+  blocks {
+    __typename
+    ... on PageBlocksHero {
+      background
+      headline
+      tagline
+      actions {
+        __typename
+        text
+        icon {
+          __typename
+          name
+          color
+          size
+        }
+        iconPosition
+        variant
+        color
+        size
+        fullWidth
+        compact
+        external
+        link
+      }
+      image {
+        __typename
+        src
+        alt
+        videoUrl
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        padding {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+          padding {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+        }
+      }
+      flex {
+        __typename
+        direction
+        gap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          align
+          justify
+          wrap
+        }
+      }
+    }
+    ... on PageBlocksContent {
+      background
+      body
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        padding {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+          padding {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+        }
+      }
+    }
+    ... on PageBlocksRecentPosts {
+      background
+      title
+      path
+      limit
+      showExcerpts
+    }
+    ... on PageBlocksAction {
+      text
+      icon {
+        __typename
+        name
+        color
+        size
+      }
+      iconPosition
+      variant
+      color
+      size
+      fullWidth
+      compact
+      external
+      link
+    }
+    ... on PageBlocksTag {
+      tag {
+        ... on Tag {
+          __typename
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          radius
+          fullWidth
+          circle
+          description
+          group
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    ... on PageBlocksBadge {
+      label
+      icon {
+        __typename
+        name
+        color
+        size
+      }
+      iconPosition
+      variant
+      color
+      size
+      radius
+      fullWidth
+      circle
+    }
+    ... on PageBlocksCarousel {
+      background
+      carousel {
+        __typename
+        orientation
+        align
+        loop
+        slides {
+          __typename
+          slideSize
+          slideGap
+          customSlideGap
+          includeGapInSize
+          slidesToScroll
+          initialSlide
+        }
+        animation {
+          __typename
+          skipSnaps
+          containScroll
+        }
+        interaction {
+          __typename
+          draggable
+          dragFree
+        }
+        indicators {
+          __typename
+          enabled
+        }
+        controls {
+          __typename
+          display
+          hideInactive
+          size
+          offset
+          customOffset
+          nextControlIcon
+          previousControlIcon
+        }
+        plugins {
+          __typename
+          autoplay {
+            __typename
+            enabled
+            delay
+            stopOnInteraction
+            stopOnMouseEnter
+            stopOnFocusIn
+            stopOnLastSnap
+            jump
+          }
+          fade {
+            __typename
+            enabled
+          }
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          slides {
+            __typename
+            slideSize
+            slideGap
+            customSlideGap
+          }
+        }
+      }
+      slides {
+        __typename
+        ... on PageBlocksCarouselSlidesHero {
+          background
+          headline
+          tagline
+          actions {
+            __typename
+            text
+            icon {
+              __typename
+              name
+              color
+              size
+            }
+            iconPosition
+            variant
+            color
+            size
+            fullWidth
+            compact
+            external
+            link
+          }
+          image {
+            __typename
+            src
+            alt
+            videoUrl
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            padding {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+              padding {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PageBlocksCarouselSlidesRecentPosts {
+          background
+          title
+          path
+          limit
+          showExcerpts
+        }
+        ... on PageBlocksCarouselSlidesAction {
+          text
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+        ... on PageBlocksCarouselSlidesBadge {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          radius
+          fullWidth
+          circle
+        }
+      }
+    }
+    ... on PageBlocksCover {
+      fixed
+      content {
+        __typename
+        ... on PageBlocksCoverContentHero {
+          background
+          headline
+          tagline
+          actions {
+            __typename
+            text
+            icon {
+              __typename
+              name
+              color
+              size
+            }
+            iconPosition
+            variant
+            color
+            size
+            fullWidth
+            compact
+            external
+            link
+          }
+          image {
+            __typename
+            src
+            alt
+            videoUrl
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            padding {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+              padding {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PageBlocksCoverContentRecentPosts {
+          background
+          title
+          path
+          limit
+          showExcerpts
+        }
+        ... on PageBlocksCoverContentAction {
+          text
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+        ... on PageBlocksCoverContentBadge {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          radius
+          fullWidth
+          circle
+        }
+        ... on PageBlocksCoverContentCarousel {
+          background
+          carousel {
+            __typename
+            orientation
+            align
+            loop
+            slides {
+              __typename
+              slideSize
+              slideGap
+              customSlideGap
+              includeGapInSize
+              slidesToScroll
+              initialSlide
+            }
+            animation {
+              __typename
+              skipSnaps
+              containScroll
+            }
+            interaction {
+              __typename
+              draggable
+              dragFree
+            }
+            indicators {
+              __typename
+              enabled
+            }
+            controls {
+              __typename
+              display
+              hideInactive
+              size
+              offset
+              customOffset
+              nextControlIcon
+              previousControlIcon
+            }
+            plugins {
+              __typename
+              autoplay {
+                __typename
+                enabled
+                delay
+                stopOnInteraction
+                stopOnMouseEnter
+                stopOnFocusIn
+                stopOnLastSnap
+                jump
+              }
+              fade {
+                __typename
+                enabled
+              }
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              slides {
+                __typename
+                slideSize
+                slideGap
+                customSlideGap
+              }
+            }
+          }
+          slides {
+            __typename
+            ... on PageBlocksCoverContentCarouselSlidesHero {
+              background
+              headline
+              tagline
+              actions {
+                __typename
+                text
+                icon {
+                  __typename
+                  name
+                  color
+                  size
+                }
+                iconPosition
+                variant
+                color
+                size
+                fullWidth
+                compact
+                external
+                link
+              }
+              image {
+                __typename
+                src
+                alt
+                videoUrl
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  right
+                  bottom
+                  left
+                }
+                padding {
+                  __typename
+                  top
+                  right
+                  bottom
+                  left
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    right
+                    bottom
+                    left
+                  }
+                  padding {
+                    __typename
+                    top
+                    right
+                    bottom
+                    left
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PageBlocksCoverContentCarouselSlidesRecentPosts {
+              background
+              title
+              path
+              limit
+              showExcerpts
+            }
+            ... on PageBlocksCoverContentCarouselSlidesAction {
+              text
+              icon {
+                __typename
+                name
+                color
+                size
+              }
+              iconPosition
+              variant
+              color
+              size
+              fullWidth
+              compact
+              external
+              link
+            }
+            ... on PageBlocksCoverContentCarouselSlidesBadge {
+              label
+              icon {
+                __typename
+                name
+                color
+                size
+              }
+              iconPosition
+              variant
+              color
+              size
+              radius
+              fullWidth
+              circle
+            }
+          }
+        }
+      }
+      flex {
+        __typename
+        direction
+        gap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          align
+          justify
+          wrap
+        }
+      }
+    }
+    ... on PageBlocksFlex {
+      background
+      flex {
+        __typename
+        direction
+        gap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          align
+          justify
+          wrap
+        }
+      }
+      children {
+        __typename
+        ... on PageBlocksFlexChildrenAction {
+          text
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+        ... on PageBlocksFlexChildrenBadge {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          radius
+          fullWidth
+          circle
+        }
+        ... on PageBlocksFlexChildrenTag {
+          tag {
+            ... on Tag {
+              __typename
+              label
+              icon {
+                __typename
+                name
+                color
+                size
+              }
+              iconPosition
+              variant
+              color
+              size
+              radius
+              fullWidth
+              circle
+              description
+              group
+            }
+            ... on Document {
+              _sys {
+                filename
+                basename
+                hasReferences
+                breadcrumbs
+                path
+                relativePath
+                extension
+              }
+              id
+            }
+          }
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        padding {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+          padding {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+        }
+      }
+    }
+  }
+  createdAt
+  updatedAt
+  containerWidth
+  contentMaxWidth
+  contentOffset
+}
+    5:["$","$L16",null,{"data":{"page":{"_sys":{"filename":"portfolio","basename":"portfolio.mdx","hasReferences":false,"breadcrumbs":["en","portfolio"],"path":"content/pages/en/portfolio.mdx","relativePath":"en/portfolio.mdx","extension":".mdx"},"id":"content/pages/en/portfolio.mdx","__typename":"Page","flat":null,"title":"About me","titleStand":null,"blocks":[{"__typename":"PageBlocksContent","background":null,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"Who am I? Where do I come from? Where am I going?"}]},{"type":"p","children":[{"type":"text","text":"I too wish I had clear answers to these three philosophical questions. But I can't currently answer them."}]},{"type":"p","children":[{"type":"text","text":"For now, let me introduce myself with a few simple phrases (this may not be complete, and details may be omitted)."}]}]},"spacing":{"__typename":"PageBlocksContentSpacing","margin":{"__typename":"PageBlocksContentSpacingMargin","top":null,"right":null,"bottom":"md","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksContent","background":null,"body":{"type":"root","children":[{"type":"h3","children":[{"type":"text","text":"Past and present interests:"}]}]},"spacing":null},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"movie_tv_novel","icon":null,"iconPosition":"left","variant":"light","color":"#9E9E9E","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"entertainment","_sys":{"filename":"movie_tv_novel","basename":"movie_tv_novel.json","hasReferences":null,"breadcrumbs":["movie_tv_novel"],"path":"content/tags/movie_tv_novel.json","relativePath":"movie_tv_novel.json","extension":".json"},"id":"content/tags/movie_tv_novel.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"sci_fi","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"sci_fi","basename":"sci_fi.json","hasReferences":null,"breadcrumbs":["sci_fi"],"path":"content/tags/sci_fi.json","relativePath":"sci_fi.json","extension":".json"},"id":"content/tags/sci_fi.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"fantasy","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"fantasy","basename":"fantasy.json","hasReferences":null,"breadcrumbs":["fantasy"],"path":"content/tags/fantasy.json","relativePath":"fantasy.json","extension":".json"},"id":"content/tags/fantasy.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"detective","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"detective","basename":"detective.json","hasReferences":null,"breadcrumbs":["detective"],"path":"content/tags/detective.json","relativePath":"detective.json","extension":".json"},"id":"content/tags/detective.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"mystery","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"mystery","basename":"mystery.json","hasReferences":null,"breadcrumbs":["mystery"],"path":"content/tags/mystery.json","relativePath":"mystery.json","extension":".json"},"id":"content/tags/mystery.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"web_novel","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"web_novel","basename":"web_novel.json","hasReferences":null,"breadcrumbs":["web_novel"],"path":"content/tags/web_novel.json","relativePath":"web_novel.json","extension":".json"},"id":"content/tags/web_novel.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"animated","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"animated","basename":"animated.json","hasReferences":null,"breadcrumbs":["animated"],"path":"content/tags/animated.json","relativePath":"animated.json","extension":".json"},"id":"content/tags/animated.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"comedy","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"comedy","basename":"comedy.json","hasReferences":null,"breadcrumbs":["comedy"],"path":"content/tags/comedy.json","relativePath":"comedy.json","extension":".json"},"id":"content/tags/comedy.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"horror","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"horror","basename":"horror.json","hasReferences":null,"breadcrumbs":["horror"],"path":"content/tags/horror.json","relativePath":"horror.json","extension":".json"},"id":"content/tags/horror.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"thriller","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"thriller","basename":"thriller.json","hasReferences":null,"breadcrumbs":["thriller"],"path":"content/tags/thriller.json","relativePath":"thriller.json","extension":".json"},"id":"content/tags/thriller.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"superhero","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"superhero","basename":"superhero.json","hasReferences":null,"breadcrumbs":["superhero"],"path":"content/tags/superhero.json","relativePath":"superhero.json","extension":".json"},"id":"content/tags/superhero.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"action","icon":null,"iconPosition":"left","variant":"light","color":"#BBBBBB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"movie_tv_novel","_sys":{"filename":"action","basename":"action.json","hasReferences":null,"breadcrumbs":["action"],"path":"content/tags/action.json","relativePath":"action.json","extension":".json"},"id":"content/tags/action.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"literature","icon":null,"iconPosition":"left","variant":"light","color":"#FFB74D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"entertainment","_sys":{"filename":"literature","basename":"literature.json","hasReferences":null,"breadcrumbs":["literature"],"path":"content/tags/literature.json","relativePath":"literature.json","extension":".json"},"id":"content/tags/literature.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"poetry","icon":null,"iconPosition":"left","variant":"light","color":"#FFCC82","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"literature","_sys":{"filename":"poetry","basename":"poetry.json","hasReferences":null,"breadcrumbs":["poetry"],"path":"content/tags/poetry.json","relativePath":"poetry.json","extension":".json"},"id":"content/tags/poetry.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"music","icon":null,"iconPosition":"left","variant":"light","color":"#9C27B0","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"entertainment","_sys":{"filename":"music","basename":"music.json","hasReferences":null,"breadcrumbs":["music"],"path":"content/tags/music.json","relativePath":"music.json","extension":".json"},"id":"content/tags/music.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"rock","icon":null,"iconPosition":"left","variant":"light","color":"#B967C7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"music","_sys":{"filename":"rock","basename":"rock.json","hasReferences":null,"breadcrumbs":["rock"],"path":"content/tags/rock.json","relativePath":"rock.json","extension":".json"},"id":"content/tags/rock.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"metal","icon":null,"iconPosition":"left","variant":"light","color":"#B967C7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"music","_sys":{"filename":"metal","basename":"metal.json","hasReferences":null,"breadcrumbs":["metal"],"path":"content/tags/metal.json","relativePath":"metal.json","extension":".json"},"id":"content/tags/metal.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"vgm","icon":null,"iconPosition":"left","variant":"light","color":"#B967C7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"music","_sys":{"filename":"vgm","basename":"vgm.json","hasReferences":null,"breadcrumbs":["vgm"],"path":"content/tags/vgm.json","relativePath":"vgm.json","extension":".json"},"id":"content/tags/vgm.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"anime_music","icon":null,"iconPosition":"left","variant":"light","color":"#B967C7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"music","_sys":{"filename":"anime_music","basename":"anime_music.json","hasReferences":null,"breadcrumbs":["anime_music"],"path":"content/tags/anime_music.json","relativePath":"anime_music.json","extension":".json"},"id":"content/tags/anime_music.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"pop","icon":null,"iconPosition":"left","variant":"light","color":"#B967C7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"music","_sys":{"filename":"pop","basename":"pop.json","hasReferences":null,"breadcrumbs":["pop"],"path":"content/tags/pop.json","relativePath":"pop.json","extension":".json"},"id":"content/tags/pop.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"classical","icon":null,"iconPosition":"left","variant":"light","color":"#B967C7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"music","_sys":{"filename":"classical","basename":"classical.json","hasReferences":null,"breadcrumbs":["classical"],"path":"content/tags/classical.json","relativePath":"classical.json","extension":".json"},"id":"content/tags/classical.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"instrument","icon":null,"iconPosition":"left","variant":"light","color":"#7B1FA2","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"entertainment","_sys":{"filename":"instrument","basename":"instrument.json","hasReferences":null,"breadcrumbs":["instrument"],"path":"content/tags/instrument.json","relativePath":"instrument.json","extension":".json"},"id":"content/tags/instrument.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"guitar","icon":null,"iconPosition":"left","variant":"light","color":"#A262BD","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"instrument","_sys":{"filename":"guitar","basename":"guitar.json","hasReferences":null,"breadcrumbs":["guitar"],"path":"content/tags/guitar.json","relativePath":"guitar.json","extension":".json"},"id":"content/tags/guitar.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"game","icon":null,"iconPosition":"left","variant":"light","color":"#D32F2F","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"entertainment","_sys":{"filename":"game","basename":"game.json","hasReferences":null,"breadcrumbs":["game"],"path":"content/tags/game.json","relativePath":"game.json","extension":".json"},"id":"content/tags/game.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"soulslike","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"soulslike","basename":"soulslike.json","hasReferences":null,"breadcrumbs":["soulslike"],"path":"content/tags/soulslike.json","relativePath":"soulslike.json","extension":".json"},"id":"content/tags/soulslike.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"sandbox","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"sandbox","basename":"sandbox.json","hasReferences":null,"breadcrumbs":["sandbox"],"path":"content/tags/sandbox.json","relativePath":"sandbox.json","extension":".json"},"id":"content/tags/sandbox.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"racing","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"racing","basename":"racing.json","hasReferences":null,"breadcrumbs":["racing"],"path":"content/tags/racing.json","relativePath":"racing.json","extension":".json"},"id":"content/tags/racing.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"puzzle","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"puzzle","basename":"puzzle.json","hasReferences":null,"breadcrumbs":["puzzle"],"path":"content/tags/puzzle.json","relativePath":"puzzle.json","extension":".json"},"id":"content/tags/puzzle.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"arpg","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"arpg","basename":"arpg.json","hasReferences":null,"breadcrumbs":["arpg"],"path":"content/tags/arpg.json","relativePath":"arpg.json","extension":".json"},"id":"content/tags/arpg.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"jrpg","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"jrpg","basename":"jrpg.json","hasReferences":null,"breadcrumbs":["jrpg"],"path":"content/tags/jrpg.json","relativePath":"jrpg.json","extension":".json"},"id":"content/tags/jrpg.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"simulation","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"simulation","basename":"simulation.json","hasReferences":null,"breadcrumbs":["simulation"],"path":"content/tags/simulation.json","relativePath":"simulation.json","extension":".json"},"id":"content/tags/simulation.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"tower_defense","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"tower_defense","basename":"tower_defense.json","hasReferences":null,"breadcrumbs":["tower_defense"],"path":"content/tags/tower_defense.json","relativePath":"tower_defense.json","extension":".json"},"id":"content/tags/tower_defense.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"rts","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"rts","basename":"rts.json","hasReferences":null,"breadcrumbs":["rts"],"path":"content/tags/rts.json","relativePath":"rts.json","extension":".json"},"id":"content/tags/rts.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"tbs","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"tbs","basename":"tbs.json","hasReferences":null,"breadcrumbs":["tbs"],"path":"content/tags/tbs.json","relativePath":"tbs.json","extension":".json"},"id":"content/tags/tbs.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"fps","icon":null,"iconPosition":"left","variant":"light","color":"#E06D6D","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"game","_sys":{"filename":"fps","basename":"fps.json","hasReferences":null,"breadcrumbs":["fps"],"path":"content/tags/fps.json","relativePath":"fps.json","extension":".json"},"id":"content/tags/fps.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"boardgame","icon":null,"iconPosition":"left","variant":"light","color":"#F57C00","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"entertainment","_sys":{"filename":"boardgame","basename":"boardgame.json","hasReferences":null,"breadcrumbs":["boardgame"],"path":"content/tags/boardgame.json","relativePath":"boardgame.json","extension":".json"},"id":"content/tags/boardgame.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"card","icon":null,"iconPosition":"left","variant":"light","color":"#F8A34C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"boardgame","_sys":{"filename":"card","basename":"card.json","hasReferences":null,"breadcrumbs":["card"],"path":"content/tags/card.json","relativePath":"card.json","extension":".json"},"id":"content/tags/card.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"party","icon":null,"iconPosition":"left","variant":"light","color":"#F8A34C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"boardgame","_sys":{"filename":"party","basename":"party.json","hasReferences":null,"breadcrumbs":["party"],"path":"content/tags/party.json","relativePath":"party.json","extension":".json"},"id":"content/tags/party.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"science","icon":null,"iconPosition":"left","variant":"light","color":"#2196F3","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"science","basename":"science.json","hasReferences":null,"breadcrumbs":["science"],"path":"content/tags/science.json","relativePath":"science.json","extension":".json"},"id":"content/tags/science.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"math","icon":null,"iconPosition":"left","variant":"light","color":"#63B5F6","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"science","_sys":{"filename":"math","basename":"math.json","hasReferences":null,"breadcrumbs":["math"],"path":"content/tags/math.json","relativePath":"math.json","extension":".json"},"id":"content/tags/math.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"physics","icon":null,"iconPosition":"left","variant":"light","color":"#63B5F6","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"science","_sys":{"filename":"physics","basename":"physics.json","hasReferences":null,"breadcrumbs":["physics"],"path":"content/tags/physics.json","relativePath":"physics.json","extension":".json"},"id":"content/tags/physics.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"astronomy","icon":null,"iconPosition":"left","variant":"light","color":"#63B5F6","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"science","_sys":{"filename":"astronomy","basename":"astronomy.json","hasReferences":null,"breadcrumbs":["astronomy"],"path":"content/tags/astronomy.json","relativePath":"astronomy.json","extension":".json"},"id":"content/tags/astronomy.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"computer_science","icon":null,"iconPosition":"left","variant":"light","color":"#63B5F6","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"science","_sys":{"filename":"computer_science","basename":"computer_science.json","hasReferences":null,"breadcrumbs":["computer_science"],"path":"content/tags/computer_science.json","relativePath":"computer_science.json","extension":".json"},"id":"content/tags/computer_science.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"neuroscience","icon":null,"iconPosition":"left","variant":"light","color":"#63B5F6","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"science","_sys":{"filename":"neuroscience","basename":"neuroscience.json","hasReferences":null,"breadcrumbs":["neuroscience"],"path":"content/tags/neuroscience.json","relativePath":"neuroscience.json","extension":".json"},"id":"content/tags/neuroscience.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"biology","icon":null,"iconPosition":"left","variant":"light","color":"#63B5F6","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"science","_sys":{"filename":"biology","basename":"biology.json","hasReferences":null,"breadcrumbs":["biology"],"path":"content/tags/biology.json","relativePath":"biology.json","extension":".json"},"id":"content/tags/biology.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"programming","icon":null,"iconPosition":"left","variant":"light","color":"#03A9F4","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"programming","basename":"programming.json","hasReferences":null,"breadcrumbs":["programming"],"path":"content/tags/programming.json","relativePath":"programming.json","extension":".json"},"id":"content/tags/programming.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"ai_dev","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"ai_dev","basename":"ai_dev.json","hasReferences":null,"breadcrumbs":["ai_dev"],"path":"content/tags/ai_dev.json","relativePath":"ai_dev.json","extension":".json"},"id":"content/tags/ai_dev.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"frontend","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"frontend","basename":"frontend.json","hasReferences":null,"breadcrumbs":["frontend"],"path":"content/tags/frontend.json","relativePath":"frontend.json","extension":".json"},"id":"content/tags/frontend.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"backend","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"backend","basename":"backend.json","hasReferences":null,"breadcrumbs":["backend"],"path":"content/tags/backend.json","relativePath":"backend.json","extension":".json"},"id":"content/tags/backend.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"fullstack","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"fullstack","basename":"fullstack.json","hasReferences":null,"breadcrumbs":["fullstack"],"path":"content/tags/fullstack.json","relativePath":"fullstack.json","extension":".json"},"id":"content/tags/fullstack.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"desktop","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"desktop","basename":"desktop.json","hasReferences":null,"breadcrumbs":["desktop"],"path":"content/tags/desktop.json","relativePath":"desktop.json","extension":".json"},"id":"content/tags/desktop.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"cloud_platform","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"cloud_platform","basename":"cloud_platform.json","hasReferences":null,"breadcrumbs":["cloud_platform"],"path":"content/tags/cloud_platform.json","relativePath":"cloud_platform.json","extension":".json"},"id":"content/tags/cloud_platform.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"database","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"database","basename":"database.json","hasReferences":null,"breadcrumbs":["database"],"path":"content/tags/database.json","relativePath":"database.json","extension":".json"},"id":"content/tags/database.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"language","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"language","basename":"language.json","hasReferences":null,"breadcrumbs":["language"],"path":"content/tags/language.json","relativePath":"language.json","extension":".json"},"id":"content/tags/language.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"ai","icon":null,"iconPosition":"left","variant":"light","color":"#0288D1","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"ai","basename":"ai.json","hasReferences":null,"breadcrumbs":["ai"],"path":"content/tags/ai.json","relativePath":"ai.json","extension":".json"},"id":"content/tags/ai.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"machine_learning","icon":null,"iconPosition":"left","variant":"light","color":"#4DABDE","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"ai","_sys":{"filename":"machine_learning","basename":"machine_learning.json","hasReferences":null,"breadcrumbs":["machine_learning"],"path":"content/tags/machine_learning.json","relativePath":"machine_learning.json","extension":".json"},"id":"content/tags/machine_learning.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"nlp","icon":null,"iconPosition":"left","variant":"light","color":"#4DABDE","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"ai","_sys":{"filename":"nlp","basename":"nlp.json","hasReferences":null,"breadcrumbs":["nlp"],"path":"content/tags/nlp.json","relativePath":"nlp.json","extension":".json"},"id":"content/tags/nlp.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"speech_recognition","icon":null,"iconPosition":"left","variant":"light","color":"#4DABDE","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"ai","_sys":{"filename":"speech_recognition","basename":"speech_recognition.json","hasReferences":null,"breadcrumbs":["speech_recognition"],"path":"content/tags/speech_recognition.json","relativePath":"speech_recognition.json","extension":".json"},"id":"content/tags/speech_recognition.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"history","icon":null,"iconPosition":"left","variant":"light","color":"#1E88E5","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"history","basename":"history.json","hasReferences":null,"breadcrumbs":["history"],"path":"content/tags/history.json","relativePath":"history.json","extension":".json"},"id":"content/tags/history.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"chinese_history","icon":null,"iconPosition":"left","variant":"light","color":"#61ABEC","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"history","_sys":{"filename":"chinese_history","basename":"chinese_history.json","hasReferences":null,"breadcrumbs":["chinese_history"],"path":"content/tags/chinese_history.json","relativePath":"chinese_history.json","extension":".json"},"id":"content/tags/chinese_history.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"world_history","icon":null,"iconPosition":"left","variant":"light","color":"#61ABEC","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"history","_sys":{"filename":"world_history","basename":"world_history.json","hasReferences":null,"breadcrumbs":["world_history"],"path":"content/tags/world_history.json","relativePath":"world_history.json","extension":".json"},"id":"content/tags/world_history.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"philosophy","icon":null,"iconPosition":"left","variant":"light","color":"#64B5F6","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"philosophy","basename":"philosophy.json","hasReferences":null,"breadcrumbs":["philosophy"],"path":"content/tags/philosophy.json","relativePath":"philosophy.json","extension":".json"},"id":"content/tags/philosophy.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"psychology","icon":null,"iconPosition":"left","variant":"light","color":"#42A5F5","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"psychology","basename":"psychology.json","hasReferences":null,"breadcrumbs":["psychology"],"path":"content/tags/psychology.json","relativePath":"psychology.json","extension":".json"},"id":"content/tags/psychology.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"food","icon":null,"iconPosition":"left","variant":"light","color":"#FF9800","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"lifestyle","_sys":{"filename":"food","basename":"food.json","hasReferences":null,"breadcrumbs":["food"],"path":"content/tags/food.json","relativePath":"food.json","extension":".json"},"id":"content/tags/food.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"world_cuisine","icon":null,"iconPosition":"left","variant":"light","color":"#FFB64C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"food","_sys":{"filename":"world_cuisine","basename":"world_cuisine.json","hasReferences":null,"breadcrumbs":["world_cuisine"],"path":"content/tags/world_cuisine.json","relativePath":"world_cuisine.json","extension":".json"},"id":"content/tags/world_cuisine.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"snack","icon":null,"iconPosition":"left","variant":"light","color":"#FFB64C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"food","_sys":{"filename":"snack","basename":"snack.json","hasReferences":null,"breadcrumbs":["snack"],"path":"content/tags/snack.json","relativePath":"snack.json","extension":".json"},"id":"content/tags/snack.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"dessert","icon":null,"iconPosition":"left","variant":"light","color":"#FFB64C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"food","_sys":{"filename":"dessert","basename":"dessert.json","hasReferences":null,"breadcrumbs":["dessert"],"path":"content/tags/dessert.json","relativePath":"dessert.json","extension":".json"},"id":"content/tags/dessert.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"tea","icon":null,"iconPosition":"left","variant":"light","color":"#FFB64C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"food","_sys":{"filename":"tea","basename":"tea.json","hasReferences":null,"breadcrumbs":["tea"],"path":"content/tags/tea.json","relativePath":"tea.json","extension":".json"},"id":"content/tags/tea.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"cooking","icon":null,"iconPosition":"left","variant":"light","color":"#FFA726","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"lifestyle","_sys":{"filename":"cooking","basename":"cooking.json","hasReferences":null,"breadcrumbs":["cooking"],"path":"content/tags/cooking.json","relativePath":"cooking.json","extension":".json"},"id":"content/tags/cooking.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"chinese_cuisine","icon":null,"iconPosition":"left","variant":"light","color":"#FFC167","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"cooking","_sys":{"filename":"chinese_cuisine","basename":"chinese_cuisine.json","hasReferences":null,"breadcrumbs":["chinese_cuisine"],"path":"content/tags/chinese_cuisine.json","relativePath":"chinese_cuisine.json","extension":".json"},"id":"content/tags/chinese_cuisine.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"home_cooking","icon":null,"iconPosition":"left","variant":"light","color":"#FFC167","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"cooking","_sys":{"filename":"home_cooking","basename":"home_cooking.json","hasReferences":null,"breadcrumbs":["home_cooking"],"path":"content/tags/home_cooking.json","relativePath":"home_cooking.json","extension":".json"},"id":"content/tags/home_cooking.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"fitness","icon":null,"iconPosition":"left","variant":"light","color":"#FB8C00","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"lifestyle","_sys":{"filename":"fitness","basename":"fitness.json","hasReferences":null,"breadcrumbs":["fitness"],"path":"content/tags/fitness.json","relativePath":"fitness.json","extension":".json"},"id":"content/tags/fitness.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"sport","icon":null,"iconPosition":"left","variant":"light","color":"#F57C00","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"lifestyle","_sys":{"filename":"sport","basename":"sport.json","hasReferences":null,"breadcrumbs":["sport"],"path":"content/tags/sport.json","relativePath":"sport.json","extension":".json"},"id":"content/tags/sport.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"cycling","icon":null,"iconPosition":"left","variant":"light","color":"#F8A34C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"sport","_sys":{"filename":"cycling","basename":"cycling.json","hasReferences":null,"breadcrumbs":["cycling"],"path":"content/tags/cycling.json","relativePath":"cycling.json","extension":".json"},"id":"content/tags/cycling.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"health","icon":null,"iconPosition":"left","variant":"light","color":"#4CAF50","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"lifestyle","_sys":{"filename":"health","basename":"health.json","hasReferences":null,"breadcrumbs":["health"],"path":"content/tags/health.json","relativePath":"health.json","extension":".json"},"id":"content/tags/health.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"sleep","icon":null,"iconPosition":"left","variant":"light","color":"#81C784","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"health","_sys":{"filename":"sleep","basename":"sleep.json","hasReferences":null,"breadcrumbs":["sleep"],"path":"content/tags/sleep.json","relativePath":"sleep.json","extension":".json"},"id":"content/tags/sleep.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"healthy_diet","icon":null,"iconPosition":"left","variant":"light","color":"#81C784","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"health","_sys":{"filename":"healthy_diet","basename":"healthy_diet.json","hasReferences":null,"breadcrumbs":["healthy_diet"],"path":"content/tags/healthy_diet.json","relativePath":"healthy_diet.json","extension":".json"},"id":"content/tags/healthy_diet.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"travel","icon":null,"iconPosition":"left","variant":"light","color":"#8BC34A","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"lifestyle","_sys":{"filename":"travel","basename":"travel.json","hasReferences":null,"breadcrumbs":["travel"],"path":"content/tags/travel.json","relativePath":"travel.json","extension":".json"},"id":"content/tags/travel.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"handcraft","icon":null,"iconPosition":"left","variant":"light","color":"#AB47BC","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"creation","_sys":{"filename":"handcraft","basename":"handcraft.json","hasReferences":null,"breadcrumbs":["handcraft"],"path":"content/tags/handcraft.json","relativePath":"handcraft.json","extension":".json"},"id":"content/tags/handcraft.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"it","icon":null,"iconPosition":"left","variant":"light","color":"#3F51B5","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"career","_sys":{"filename":"it","basename":"it.json","hasReferences":null,"breadcrumbs":["it"],"path":"content/tags/it.json","relativePath":"it.json","extension":".json"},"id":"content/tags/it.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"programmer","icon":null,"iconPosition":"left","variant":"light","color":"#5C6BC0","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"career","_sys":{"filename":"programmer","basename":"programmer.json","hasReferences":null,"breadcrumbs":["programmer"],"path":"content/tags/programmer.json","relativePath":"programmer.json","extension":".json"},"id":"content/tags/programmer.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"otaku","icon":null,"iconPosition":"left","variant":"light","color":"#E91E63","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"internet","_sys":{"filename":"otaku","basename":"otaku.json","hasReferences":null,"breadcrumbs":["otaku"],"path":"content/tags/otaku.json","relativePath":"otaku.json","extension":".json"},"id":"content/tags/otaku.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"acg","icon":null,"iconPosition":"left","variant":"light","color":"#F06292","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"internet","_sys":{"filename":"acg","basename":"acg.json","hasReferences":null,"breadcrumbs":["acg"],"path":"content/tags/acg.json","relativePath":"acg.json","extension":".json"},"id":"content/tags/acg.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksContent","background":null,"body":{"type":"root","children":[{"type":"h3","children":[{"type":"text","text":"Things I want to try in the future:"}]}]},"spacing":{"__typename":"PageBlocksContentSpacing","margin":{"__typename":"PageBlocksContentSpacingMargin","top":"md","right":null,"bottom":null,"left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"0.25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"instrument","icon":null,"iconPosition":"left","variant":"light","color":"#7B1FA2","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"entertainment","_sys":{"filename":"instrument","basename":"instrument.json","hasReferences":null,"breadcrumbs":["instrument"],"path":"content/tags/instrument.json","relativePath":"instrument.json","extension":".json"},"id":"content/tags/instrument.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"erhu","icon":null,"iconPosition":"left","variant":"light","color":"#A262BD","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"instrument","_sys":{"filename":"erhu","basename":"erhu.json","hasReferences":null,"breadcrumbs":["erhu"],"path":"content/tags/erhu.json","relativePath":"erhu.json","extension":".json"},"id":"content/tags/erhu.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"drum","icon":null,"iconPosition":"left","variant":"light","color":"#A262BD","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"instrument","_sys":{"filename":"drum","basename":"drum.json","hasReferences":null,"breadcrumbs":["drum"],"path":"content/tags/drum.json","relativePath":"drum.json","extension":".json"},"id":"content/tags/drum.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"keyboard","icon":null,"iconPosition":"left","variant":"light","color":"#A262BD","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"instrument","_sys":{"filename":"keyboard","basename":"keyboard.json","hasReferences":null,"breadcrumbs":["keyboard"],"path":"content/tags/keyboard.json","relativePath":"keyboard.json","extension":".json"},"id":"content/tags/keyboard.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"piano","icon":null,"iconPosition":"left","variant":"light","color":"#A262BD","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"instrument","_sys":{"filename":"piano","basename":"piano.json","hasReferences":null,"breadcrumbs":["piano"],"path":"content/tags/piano.json","relativePath":"piano.json","extension":".json"},"id":"content/tags/piano.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"ukulele","icon":null,"iconPosition":"left","variant":"light","color":"#A262BD","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"instrument","_sys":{"filename":"ukulele","basename":"ukulele.json","hasReferences":null,"breadcrumbs":["ukulele"],"path":"content/tags/ukulele.json","relativePath":"ukulele.json","extension":".json"},"id":"content/tags/ukulele.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xxs","right":null,"bottom":"xxs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"programming","icon":null,"iconPosition":"left","variant":"light","color":"#03A9F4","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"programming","basename":"programming.json","hasReferences":null,"breadcrumbs":["programming"],"path":"content/tags/programming.json","relativePath":"programming.json","extension":".json"},"id":"content/tags/programming.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"game_dev","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"game_dev","basename":"game_dev.json","hasReferences":null,"breadcrumbs":["game_dev"],"path":"content/tags/game_dev.json","relativePath":"game_dev.json","extension":".json"},"id":"content/tags/game_dev.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"mobile","icon":null,"iconPosition":"left","variant":"light","color":"#4EC2F7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"programming","_sys":{"filename":"mobile","basename":"mobile.json","hasReferences":null,"breadcrumbs":["mobile"],"path":"content/tags/mobile.json","relativePath":"mobile.json","extension":".json"},"id":"content/tags/mobile.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"ai","icon":null,"iconPosition":"left","variant":"light","color":"#0288D1","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"ai","basename":"ai.json","hasReferences":null,"breadcrumbs":["ai"],"path":"content/tags/ai.json","relativePath":"ai.json","extension":".json"},"id":"content/tags/ai.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"ai_art","icon":null,"iconPosition":"left","variant":"light","color":"#4DABDE","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"ai","_sys":{"filename":"ai_art","basename":"ai_art.json","hasReferences":null,"breadcrumbs":["ai_art"],"path":"content/tags/ai_art.json","relativePath":"ai_art.json","extension":".json"},"id":"content/tags/ai_art.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"cv","icon":null,"iconPosition":"left","variant":"light","color":"#4DABDE","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"ai","_sys":{"filename":"cv","basename":"cv.json","hasReferences":null,"breadcrumbs":["cv"],"path":"content/tags/cv.json","relativePath":"cv.json","extension":".json"},"id":"content/tags/cv.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"deep_learning","icon":null,"iconPosition":"left","variant":"light","color":"#4DABDE","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"ai","_sys":{"filename":"deep_learning","basename":"deep_learning.json","hasReferences":null,"breadcrumbs":["deep_learning"],"path":"content/tags/deep_learning.json","relativePath":"deep_learning.json","extension":".json"},"id":"content/tags/deep_learning.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"reinforcement_learning","icon":null,"iconPosition":"left","variant":"light","color":"#4DABDE","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"ai","_sys":{"filename":"reinforcement_learning","basename":"reinforcement_learning.json","hasReferences":null,"breadcrumbs":["reinforcement_learning"],"path":"content/tags/reinforcement_learning.json","relativePath":"reinforcement_learning.json","extension":".json"},"id":"content/tags/reinforcement_learning.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"speech_recognition","icon":null,"iconPosition":"left","variant":"light","color":"#4DABDE","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"ai","_sys":{"filename":"speech_recognition","basename":"speech_recognition.json","hasReferences":null,"breadcrumbs":["speech_recognition"],"path":"content/tags/speech_recognition.json","relativePath":"speech_recognition.json","extension":".json"},"id":"content/tags/speech_recognition.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"hardware","icon":null,"iconPosition":"left","variant":"light","color":"#1976D2","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"knowledge","_sys":{"filename":"hardware","basename":"hardware.json","hasReferences":null,"breadcrumbs":["hardware"],"path":"content/tags/hardware.json","relativePath":"hardware.json","extension":".json"},"id":"content/tags/hardware.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"embedded","icon":null,"iconPosition":"left","variant":"light","color":"#5E9FDF","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"hardware","_sys":{"filename":"embedded","basename":"embedded.json","hasReferences":null,"breadcrumbs":["embedded"],"path":"content/tags/embedded.json","relativePath":"embedded.json","extension":".json"},"id":"content/tags/embedded.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"robot","icon":null,"iconPosition":"left","variant":"light","color":"#5E9FDF","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"hardware","_sys":{"filename":"robot","basename":"robot.json","hasReferences":null,"breadcrumbs":["robot"],"path":"content/tags/robot.json","relativePath":"robot.json","extension":".json"},"id":"content/tags/robot.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"news","icon":null,"iconPosition":"left","variant":"light","color":"#4CAF50","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"society","_sys":{"filename":"news","basename":"news.json","hasReferences":null,"breadcrumbs":["news"],"path":"content/tags/news.json","relativePath":"news.json","extension":".json"},"id":"content/tags/news.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"politics","icon":null,"iconPosition":"left","variant":"light","color":"#388E3C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"society","_sys":{"filename":"politics","basename":"politics.json","hasReferences":null,"breadcrumbs":["politics"],"path":"content/tags/politics.json","relativePath":"politics.json","extension":".json"},"id":"content/tags/politics.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"economy","icon":null,"iconPosition":"left","variant":"light","color":"#2E7D32","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"society","_sys":{"filename":"economy","basename":"economy.json","hasReferences":null,"breadcrumbs":["economy"],"path":"content/tags/economy.json","relativePath":"economy.json","extension":".json"},"id":"content/tags/economy.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"business","icon":null,"iconPosition":"left","variant":"light","color":"#66BB6A","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"society","_sys":{"filename":"business","basename":"business.json","hasReferences":null,"breadcrumbs":["business"],"path":"content/tags/business.json","relativePath":"business.json","extension":".json"},"id":"content/tags/business.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"finance","icon":null,"iconPosition":"left","variant":"light","color":"#81C784","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"society","_sys":{"filename":"finance","basename":"finance.json","hasReferences":null,"breadcrumbs":["finance"],"path":"content/tags/finance.json","relativePath":"finance.json","extension":".json"},"id":"content/tags/finance.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"bond","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"bond","basename":"bond.json","hasReferences":null,"breadcrumbs":["bond"],"path":"content/tags/bond.json","relativePath":"bond.json","extension":".json"},"id":"content/tags/bond.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"crypto","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"crypto","basename":"crypto.json","hasReferences":null,"breadcrumbs":["crypto"],"path":"content/tags/crypto.json","relativePath":"crypto.json","extension":".json"},"id":"content/tags/crypto.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"fintech","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"fintech","basename":"fintech.json","hasReferences":null,"breadcrumbs":["fintech"],"path":"content/tags/fintech.json","relativePath":"fintech.json","extension":".json"},"id":"content/tags/fintech.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"forex","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"forex","basename":"forex.json","hasReferences":null,"breadcrumbs":["forex"],"path":"content/tags/forex.json","relativePath":"forex.json","extension":".json"},"id":"content/tags/forex.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"fund","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"fund","basename":"fund.json","hasReferences":null,"breadcrumbs":["fund"],"path":"content/tags/fund.json","relativePath":"fund.json","extension":".json"},"id":"content/tags/fund.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"futures","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"futures","basename":"futures.json","hasReferences":null,"breadcrumbs":["futures"],"path":"content/tags/futures.json","relativePath":"futures.json","extension":".json"},"id":"content/tags/futures.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"investment","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"investment","basename":"investment.json","hasReferences":null,"breadcrumbs":["investment"],"path":"content/tags/investment.json","relativePath":"investment.json","extension":".json"},"id":"content/tags/investment.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"stock","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"stock","basename":"stock.json","hasReferences":null,"breadcrumbs":["stock"],"path":"content/tags/stock.json","relativePath":"stock.json","extension":".json"},"id":"content/tags/stock.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"venture_capital","icon":null,"iconPosition":"left","variant":"light","color":"#A6D7A8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"finance","_sys":{"filename":"venture_capital","basename":"venture_capital.json","hasReferences":null,"breadcrumbs":["venture_capital"],"path":"content/tags/venture_capital.json","relativePath":"venture_capital.json","extension":".json"},"id":"content/tags/venture_capital.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"international_relations","icon":null,"iconPosition":"left","variant":"light","color":"#A5D6A7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"society","_sys":{"filename":"international_relations","basename":"international_relations.json","hasReferences":null,"breadcrumbs":["international_relations"],"path":"content/tags/international_relations.json","relativePath":"international_relations.json","extension":".json"},"id":"content/tags/international_relations.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"martial_art","icon":null,"iconPosition":"left","variant":"light","color":"#F8A34C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"sport","_sys":{"filename":"martial_art","basename":"martial_art.json","hasReferences":null,"breadcrumbs":["martial_art"],"path":"content/tags/martial_art.json","relativePath":"martial_art.json","extension":".json"},"id":"content/tags/martial_art.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"boxing","icon":null,"iconPosition":"left","variant":"light","color":"#F8A34C","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"sport","_sys":{"filename":"boxing","basename":"boxing.json","hasReferences":null,"breadcrumbs":["boxing"],"path":"content/tags/boxing.json","relativePath":"boxing.json","extension":".json"},"id":"content/tags/boxing.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"health","icon":null,"iconPosition":"left","variant":"light","color":"#4CAF50","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"lifestyle","_sys":{"filename":"health","basename":"health.json","hasReferences":null,"breadcrumbs":["health"],"path":"content/tags/health.json","relativePath":"health.json","extension":".json"},"id":"content/tags/health.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"nutrition","icon":null,"iconPosition":"left","variant":"light","color":"#81C784","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"health","_sys":{"filename":"nutrition","basename":"nutrition.json","hasReferences":null,"breadcrumbs":["nutrition"],"path":"content/tags/nutrition.json","relativePath":"nutrition.json","extension":".json"},"id":"content/tags/nutrition.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"tcm","icon":null,"iconPosition":"left","variant":"light","color":"#81C784","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"health","_sys":{"filename":"tcm","basename":"tcm.json","hasReferences":null,"breadcrumbs":["tcm"],"path":"content/tags/tcm.json","relativePath":"tcm.json","extension":".json"},"id":"content/tags/tcm.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"pet","icon":null,"iconPosition":"left","variant":"light","color":"#CDDC39","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"lifestyle","_sys":{"filename":"pet","basename":"pet.json","hasReferences":null,"breadcrumbs":["pet"],"path":"content/tags/pet.json","relativePath":"pet.json","extension":".json"},"id":"content/tags/pet.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"cat","icon":null,"iconPosition":"left","variant":"light","color":"#DCE674","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"pet","_sys":{"filename":"cat","basename":"cat.json","hasReferences":null,"breadcrumbs":["cat"],"path":"content/tags/cat.json","relativePath":"cat.json","extension":".json"},"id":"content/tags/cat.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"reptile","icon":null,"iconPosition":"left","variant":"light","color":"#DCE674","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"pet","_sys":{"filename":"reptile","basename":"reptile.json","hasReferences":null,"breadcrumbs":["reptile"],"path":"content/tags/reptile.json","relativePath":"reptile.json","extension":".json"},"id":"content/tags/reptile.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"pet_training","icon":null,"iconPosition":"left","variant":"light","color":"#DCE674","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"pet","_sys":{"filename":"pet_training","basename":"pet_training.json","hasReferences":null,"breadcrumbs":["pet_training"],"path":"content/tags/pet_training.json","relativePath":"pet_training.json","extension":".json"},"id":"content/tags/pet_training.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"drawing","icon":null,"iconPosition":"left","variant":"light","color":"#9C27B0","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"creation","_sys":{"filename":"drawing","basename":"drawing.json","hasReferences":null,"breadcrumbs":["drawing"],"path":"content/tags/drawing.json","relativePath":"drawing.json","extension":".json"},"id":"content/tags/drawing.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"sketch","icon":null,"iconPosition":"left","variant":"light","color":"#B967C7","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"drawing","_sys":{"filename":"sketch","basename":"sketch.json","hasReferences":null,"breadcrumbs":["sketch"],"path":"content/tags/sketch.json","relativePath":"sketch.json","extension":".json"},"id":"content/tags/sketch.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"handcraft","icon":null,"iconPosition":"left","variant":"light","color":"#AB47BC","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"creation","_sys":{"filename":"handcraft","basename":"handcraft.json","hasReferences":null,"breadcrumbs":["handcraft"],"path":"content/tags/handcraft.json","relativePath":"handcraft.json","extension":".json"},"id":"content/tags/handcraft.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"writing","icon":null,"iconPosition":"left","variant":"light","color":"#BA68C8","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"creation","_sys":{"filename":"writing","basename":"writing.json","hasReferences":null,"breadcrumbs":["writing"],"path":"content/tags/writing.json","relativePath":"writing.json","extension":".json"},"id":"content/tags/writing.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}},{"__typename":"PageBlocksFlex","background":null,"flex":{"__typename":"PageBlocksFlexFlex","direction":"row","gap":"xxs25rem","align":"center","justify":"flex-start","wrap":true,"breakpoints":null},"children":[{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"entrepreneurship","icon":null,"iconPosition":"left","variant":"light","color":"#3949AB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"career","_sys":{"filename":"entrepreneurship","basename":"entrepreneurship.json","hasReferences":null,"breadcrumbs":["entrepreneurship"],"path":"content/tags/entrepreneurship.json","relativePath":"entrepreneurship.json","extension":".json"},"id":"content/tags/entrepreneurship.json"}},{"__typename":"PageBlocksFlexChildrenTag","tag":{"__typename":"Tag","label":"freelance","icon":null,"iconPosition":"left","variant":"light","color":"#7986CB","size":"md","radius":"md","fullWidth":false,"circle":false,"description":null,"group":"career","_sys":{"filename":"freelance","basename":"freelance.json","hasReferences":null,"breadcrumbs":["freelance"],"path":"content/tags/freelance.json","relativePath":"freelance.json","extension":".json"},"id":"content/tags/freelance.json"}}],"spacing":{"__typename":"PageBlocksFlexSpacing","margin":{"__typename":"PageBlocksFlexSpacingMargin","top":"xs","right":null,"bottom":"xs","left":null},"padding":null,"breakpoints":null}}],"createdAt":null,"updatedAt":null,"containerWidth":"lg","contentMaxWidth":"45rem","contentOffset":"6rem"}},"errors":null,"query":"$17","variables":{"relativePath":"en/portfolio.mdx"},"isFallback":false}]

@@ -1,0 +1,933 @@
+1:"$Sreact.fragment"
+2:I[12281,[],""]
+3:I[92605,[],""]
+6:I[97564,[],"OutletBoundary"]
+8:I[66005,[],"AsyncMetadataOutlet"]
+a:I[97564,[],"ViewportBoundary"]
+c:I[97564,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[87307,[],""]
+:HL["/_next/static/media/155cae559bbd1a77-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1f3fe8c6df3d47c1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3296bccdacdd55f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47cbc4e2adbc5db9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4de1fea1a954a5b6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c0c2bcbaa4149ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/630c17af355fa44e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/68180864d7f93f02-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d664cce900333ee-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7b89a4fd5e90ede0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7f06be3f780a819a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/886f446b96dc7734-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/904be59b21bd51cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9cf9c6e84ed13b5e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a88c13d5f58b71d4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/accc82dc8525882b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdcf2ec322da5503-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c9e6921c7fc300d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e693e841d50dcf2f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e807dee2426166ad-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/eaead17c7dbfcd5d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/dde8d1e49f282d41.css","style"]
+:HL["/_next/static/css/d87a8447536d7e36.css","style"]
+:HL["/_next/static/css/10f1809c5e42fea9.css","style"]
+:HL["/_next/static/css/59bc09d70c1d7159.css","style"]
+0:{"P":null,"b":"_87K2n-LsuC-3WJNlpjXB","p":"","c":["","ja","about"],"i":false,"f":[[["",{"children":[["locale","ja","d"],{"children":[["slugs","about","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["locale","ja","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dde8d1e49f282d41.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d87a8447536d7e36.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/10f1809c5e42fea9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/59bc09d70c1d7159.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["slugs","about","c"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[89108,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4215","static/chunks/4215-7bec383e36508e28.js","8450","static/chunks/app/%5Blocale%5D/layout-cae938ef783b2dac.js"],"ColorSchemeScript"]
+4:["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"__variable_a8383b __variable_8c1962","children":[["$","head",null,{"children":["$","$L10",null,{}]}],["$","body",null,{"children":"$L11"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+12:I[56368,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","9072","static/chunks/4352e4e9-f9d284395f93c21b.js","6452","static/chunks/c99dd624-ba7050f158aaa9cd.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4176","static/chunks/4176-e2e8c85f32d5a19a.js","4465","static/chunks/4465-c5ccec15da7365ef.js","465","static/chunks/app/%5Blocale%5D/page-339cb62659c8b9f6.js"],"default"]
+11:["$","$L12",null,{"formats":"$undefined","locale":"ja","messages":{"components":{"FallbackIndicator":{"title":"言語に関するお知らせ","message":"このコンテンツは選択した言語ではまだ利用できません。代わりにデフォルト言語で表示されています。"},"LanguageSwitcher":{"label":"言語切り替え"}},"metadata":{"root":{"title":"再：青年","description":"自分を解放し、世界を解放する。"},"page":{"404":{"title":"ページが見つかりません | 再：青年","description":"申し訳ありませんが、アクセスしたページは存在しないか削除されました"},"about":{"title":"サイトについて | 再：青年","description":"このサイトを設立した理由"},"portfolio":{"title":"自己紹介 | 再：青年","description":"私は誰？どこから来て？どこへ向かう？"},"contact":{"title":"話しかけてね | 再：青年","description":"話したい、協力したい、質問したい？メールやその他の方法でお気軽にご連絡ください"}}},"label":{"scrollToTop":"トップへ戻る"},"tag":{"acg":{"title":"ACG","description":"アニメ、コミック、ゲーム（ライトノベルと関連音楽を含む）。"},"action":{"title":"アクション","description":"高エネルギーとスタントを特徴とするアクション映画、テレビシリーズ、ゲーム。"},"ai":{"title":"人工知能","description":"AI技術、機械学習、インテリジェントシステムの研究と応用。"},"ai_art":{"title":"AIアート","description":"人工知能によって生成または支援された芸術作品。"},"ai_dev":{"title":"AI開発","description":"AIモデル、フレームワーク、ツールに焦点を当てたソフトウェア開発。"},"animated":{"title":"アニメーション","description":"カートゥーンやアニメを含むアニメーション映画とシリーズ。"},"anime_music":{"title":"アニメ音楽","description":"オープニング、エンディング、サウンドトラックを含むアニメからの音楽。"},"arpg":{"title":"アクションRPG","description":"戦闘がリアルタイムでプレイヤースキルが重要なアクションロールプレイングゲーム。"},"astronomy":{"title":"天文学","description":"天体、星、惑星、宇宙の研究。"},"backend":{"title":"バックエンド開発","description":"アプリケーションのサーバーサイドプログラミング、データベース、API。"},"biology":{"title":"生物学","description":"進化を含む生物と生命過程の研究。"},"boardgame":{"title":"ボードゲーム","description":"カードゲームやパーティーゲームを含む物理的またはデジタルのテーブルゲーム。"},"bond":{"title":"債券","description":"投資目的で政府や企業が発行する債務証券。"},"boxing":{"title":"ボクシング","description":"リング内でのパンチとフットワークを伴う格闘技。"},"business":{"title":"ビジネス","description":"商業活動、経営、起業。"},"card":{"title":"カードゲーム","description":"トレーディング、戦略、カジュアルゲームを含むカードを使ったゲーム。"},"cat":{"title":"猫","description":"ケア、トレーニング、品種を含むペットとしての家庭猫。"},"chinese_cuisine":{"title":"中華料理","description":"中国各地の料理とレシピ。"},"chinese_history":{"title":"中国史","description":"中国の歴史的出来事、人物、時代。"},"classical":{"title":"クラシック音楽","description":"交響曲、協奏曲、オペラを含む西洋クラシック音楽。"},"cloud_platform":{"title":"クラウドプラットフォーム","description":""},"comedy":{"title":"コメディ","description":"コメディ映画、テレビシリーズ、スケッチ。"},"computer_science":{"title":"コンピュータサイエンス","description":"計算、プログラミング、アルゴリズムの研究。"},"cooking":{"title":"料理","description":"家庭料理と調理技術。"},"crypto":{"title":"暗号通貨","description":"ビットコインなどのデジタル通貨とブロックチェーン技術。"},"cv":{"title":"コンピュータビジョン","description":"視覚データと画像の解釈を扱うAI分野。"},"cycling":{"title":"サイクリング","description":"自転車スポーツとトレーニング。"},"database":{"title":"データベース","description":"データの構造化ストレージシステム、リレーショナルとNoSQLデータベース。"},"deep_learning":{"title":"ディープラーニング","description":"ニューラルネットワークと大規模データセットを使用した機械学習。"},"desktop":{"title":"デスクトップ開発","description":"デスクトップ環境向けのアプリケーション開発。"},"dessert":{"title":"デザート","description":"ケーキ、ペストリー、菓子を含む甘い食べ物。"},"detective":{"title":"探偵","description":"ミステリーと探偵ジャンルの作品。"},"drawing":{"title":"ドローイング","description":"スケッチとイラストの芸術形式。"},"drum":{"title":"ドラム","description":"ドラムキットや伝統的なドラムを含む打楽器。"},"economy":{"title":"経済学","description":"生産、消費、資源管理の研究。"},"embedded":{"title":"組込みシステム","description":"ハードウェアデバイスに組み込まれたコンピューティングシステム。"},"entrepreneurship":{"title":"起業","description":"新しいビジネスベンチャーの開始と管理。"},"erhu":{"title":"二胡","description":"中国の二弦弓弦楽器。"},"fantasy":{"title":"ファンタジー","description":"ファンタジー小説、映画、ゲーム。"},"finance":{"title":"金融","description":"財務管理、投資、お金に関するトピック。"},"fintech":{"title":"フィンテック","description":"金融技術とデジタルバンキング。"},"fitness":{"title":"フィットネス","description":"身体活動、トレーニング、エクササイズルーチン。"},"food":{"title":"食べ物","description":"食文化、レシピ、料理体験。"},"forex":{"title":"外国為替","description":"外国為替取引と通貨市場。"},"fps":{"title":"FPS","description":"一人称視点戦闘のFPSビデオゲーム。"},"freelance":{"title":"フリーランス","description":"独立した仕事と自営業の専門家。"},"frontend":{"title":"フロントエンド開発","description":"HTML、CSS、JSフレームワークを使用したクライアントサイドWeb開発。"},"fullstack":{"title":"フルスタック開発","description":"フロントエンドとバックエンドのソフトウェア開発の組み合わせ。"},"fund":{"title":"ファンド","description":"ミューチュアルファンドやETFなどの投資ファンド。"},"futures":{"title":"先物","description":"先物契約とデリバティブ取引。"},"game":{"title":"ゲーム","description":"ビデオゲームとインタラクティブエンターテイメントの一般カテゴリー。"},"game_dev":{"title":"ゲーム開発","description":"ビデオゲームの開発と設計。"},"guitar":{"title":"ギター","description":"指やピックで演奏する弦楽器。"},"handcraft":{"title":"ハンドクラフト","description":"ジュエリー、陶器、木工を含む手作り工芸品。"},"hardware":{"title":"ハードウェア","description":"物理的なコンピューティングデバイスと電子機器。"},"health":{"title":"健康","description":"一般的な健康、ウェルネス、ウェルビーイング。"},"healthy_diet":{"title":"健康的な食事","description":"バランスの取れた栄養と健康的な食習慣。"},"history":{"title":"歴史","description":"過去の出来事、世界と地域の歴史の研究。"},"home_cooking":{"title":"家庭料理","description":"家での食事の準備。"},"horror":{"title":"ホラー","description":"映画、小説、ゲームのホラージャンル。"},"instrument":{"title":"楽器","description":"音楽創作に使用される様々な楽器。"},"international_relations":{"title":"国際関係","description":"政治、外交、グローバル問題。"},"investment":{"title":"投資","description":"リターンを生み出すための資源配分、株式、債券。"},"it":{"title":"IT","description":"情報技術とソフトウェア関連のトピック。"},"jrpg":{"title":"JRPG","description":"日本発祥のロールプレイングゲーム。"},"keyboard":{"title":"キーボード","description":"音楽用の電子またはデジタルキーボード。"},"language":{"title":"プログラミング言語","description":"Python、JS、Rustなどのコンピュータプログラミング言語。"},"literature":{"title":"文学","description":"小説、詩、書面芸術形式。"},"machine_learning":{"title":"機械学習","description":"パターン認識と予測のためのAI技術。"},"martial_art":{"title":"武道","description":"素手と武器トレーニングを含む格闘技術。"},"math":{"title":"数学","description":"数、量、抽象構造の研究。"},"mcu":{"title":"マーベル・シネマティック・ユニバース","description":"マーベルからのスーパーヒーロー映画とメディア。"},"meme":{"title":"ミーム","description":"インターネットミーム、画像マクロ、トレンドジョーク。"},"metal":{"title":"メタル","description":"ヘビーメタル音楽ジャンル。"},"mobile":{"title":"モバイル開発","description":"スマートフォンとタブレット向けのソフトウェア開発。"},"movie_tv_novel":{"title":"映画・TV・小説","description":"映画、テレビ番組、文学の一般カテゴリー。"},"music":{"title":"音楽","description":"ポップ、ロック、クラシック、アニメ音楽を含む様々な音楽ジャンル。"},"mystery":{"title":"ミステリー","description":"小説、テレビ、映画を含むミステリージャンルの作品。"},"neuroscience":{"title":"神経科学","description":"神経系と脳機能の研究。"},"news":{"title":"ニュース","description":"時事とジャーナリズム。"},"nlp":{"title":"自然言語処理","description":"人間の言語理解と生成に焦点を当てたAI分野。"},"nutrition":{"title":"栄養学","description":"栄養素と健康的な食習慣の研究。"},"otaku":{"title":"二次元","description":"アニメ、マンガ、関連サブカルチャーのファン。"},"party":{"title":"パーティーゲーム","description":"カジュアルやカードゲームを含むグループ向けソーシャルゲーム。"},"pet":{"title":"ペット","description":"ケア、健康、品種を含むペット。"},"pet_training":{"title":"ペットトレーニング","description":"猫や爬虫類を含むペットのトレーニング技術。"},"philosophy":{"title":"哲学","description":"存在、知識、倫理に関する根本的な問題の研究。"},"physics":{"title":"物理学","description":"物質、エネルギー、宇宙の研究。"},"piano":{"title":"ピアノ","description":"クラシックと現代音楽で使用される鍵盤楽器。"},"poetry":{"title":"詩","description":"韻律形式での芸術的文学表現。"},"politics":{"title":"政治","description":"政府、政策、政治制度。"},"pop":{"title":"ポップミュージック","description":"ポップ音楽ジャンル。"},"programmer":{"title":"プログラマー","description":"ソフトウェアを書いて維持する人。"},"programming":{"title":"プログラミング","description":"ソフトウェア開発、コーディング、関連ツール。"},"psychology":{"title":"心理学","description":"心、行動、精神過程の研究。"},"puzzle":{"title":"パズル","description":"論理と問題解決に挑戦するゲームや活動。"},"racing":{"title":"レーシング","description":"競技的な車両またはスポーツレース。"},"reinforcement_learning":{"title":"強化学習","description":"報酬と罰に基づくAI学習技術。"},"reptile":{"title":"爬虫類","description":"ヘビ、トカゲ、亀を含む爬虫類ペット。"},"robot":{"title":"ロボット","description":"自律的または半自律的にタスクを実行できる機械。"},"rock":{"title":"ロック音楽","description":"ロック音楽ジャンル。"},"rts":{"title":"リアルタイムストラテジー","description":"リアルタイムでプレイされる戦略ゲーム。"},"sandbox":{"title":"サンドボックス","description":"オープンワールドまたは自由形式ゲームプレイのゲーム。"},"science":{"title":"科学","description":"自然と物理世界の研究。"},"sci_fi":{"title":"SF","description":"未来技術と宇宙を探求する虚構作品。"},"simulation":{"title":"シミュレーション","description":"現実のシナリオを模倣するシミュレーションゲーム。"},"sketch":{"title":"スケッチ","description":"ドローイングとスケッチアート。"},"sleep":{"title":"睡眠","description":"睡眠の健康と習慣。"},"snack":{"title":"スナック","description":"軽食とおやつ。"},"soulslike":{"title":"ソウルライク","description":"ダークソウルにインスパイアされた挑戦的なアクションゲーム。"},"speech_recognition":{"title":"音声認識","description":"音声言語を認識するAI技術。"},"sport":{"title":"スポーツ","description":"身体活動とゲーム。"},"stock":{"title":"株式","description":"株式市場で取引される企業の株式。"},"superhero":{"title":"スーパーヒーロー","description":"スーパーヒーロー映画、コミック、メディア。"},"tbs":{"title":"ターン制ストラテジー","description":"ターンでプレイされる戦略ゲーム。"},"tcm":{"title":"中医学","description":"中国からの健康実践と漢方薬。"},"tea":{"title":"茶文化","description":"茶の準備、種類、文化的意義。"},"thriller":{"title":"スリラー","description":"映画、本、テレビのスリラージャンル。"},"tower_defense":{"title":"タワーディフェンス","description":"プレイヤーが敵の波から防御するゲーム。"},"travel":{"title":"旅行","description":"探索と観光。"},"ukulele":{"title":"ウクレレ","description":"小さな四弦楽器。"},"venture_capital":{"title":"ベンチャーキャピタル","description":"スタートアップと高リスク事業に提供される資金。"},"vgm":{"title":"ゲーム音楽","description":"ビデオゲーム用に作曲された音楽。"},"web_novel":{"title":"ウェブ小説","description":"主にオンラインで公開される小説。"},"world_cuisine":{"title":"世界料理","description":"世界各地からの料理とレシピ。"},"world_history":{"title":"世界史","description":"歴史的出来事、文明、グローバル史。"},"writing":{"title":"執筆","description":"創作文、ブログ、文字芸術。"}},"diary":{"title":"日記","totalCount":"{count}件の日記"}},"now":"$undefined","timeZone":"UTC","children":"$L13"}]
+14:I[79483,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4215","static/chunks/4215-7bec383e36508e28.js","8450","static/chunks/app/%5Blocale%5D/layout-cae938ef783b2dac.js"],"AppProvider"]
+15:I[33428,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4215","static/chunks/4215-7bec383e36508e28.js","8450","static/chunks/app/%5Blocale%5D/layout-cae938ef783b2dac.js"],"DatesProvider"]
+13:["$","$L14",null,{"globalConfig":{"_sys":{"filename":"global-config.ja","basename":"global-config.ja.json","hasReferences":false,"breadcrumbs":["global-config.ja"],"path":"content/global/global-config.ja.json","relativePath":"global-config.ja.json","extension":".json"},"id":"content/global/global-config.ja.json","__typename":"Global","appName":"再：青年","logo":null,"defaultLanguage":"zh","supportedLanguages":["zh","en","ja"],"fonts":{"__typename":"GlobalFonts","header":"josefinSans","body":"domine"},"header":{"__typename":"GlobalHeader","background":"#FA5252","height":"6.5rem","responsiveHeight":null,"fixed":true,"title":null,"nav":[{"__typename":"GlobalHeaderNav","label":"ブログ","href":"/blog","external":null,"group":null,"isPrivate":null},{"__typename":"GlobalHeaderNav","label":"ノート","href":"/notes","external":null,"group":null,"isPrivate":null},{"__typename":"GlobalHeaderNav","label":"プロジェクト","href":"/projects","external":null,"group":null,"isPrivate":null},{"__typename":"GlobalHeaderNav","label":"日記","href":"/diary","external":null,"group":null,"isPrivate":true},{"__typename":"GlobalHeaderNav","label":"このブログについて","href":"/about","external":null,"group":"概要","isPrivate":null},{"__typename":"GlobalHeaderNav","label":"私について","href":"/portfolio","external":null,"group":"概要","isPrivate":null},{"__typename":"GlobalHeaderNav","label":"話しかけてね","href":"/contact","external":null,"group":"概要","isPrivate":null}]},"footer":{"__typename":"GlobalFooter","background":null,"height":"11rem","responsiveHeight":null,"fixed":null,"nav":null},"social":[{"__typename":"GlobalSocial","social":"github","url":"https://github.com/Toshinaki"},{"__typename":"GlobalSocial","social":"facebook","url":"https://www.facebook.com/jm.wang42"},{"__typename":"GlobalSocial","social":"x","url":"https://x.com/shaduking"}],"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":null,"radius":"xs","colorScheme":"dark","extraColors":null}},"shouldIncludePrivate":false,"children":["$","$L15",null,{"settings":{"locale":"ja"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
+9:{"metadata":[["$","title","0",{"children":"サイトについて | 再：青年"}],["$","meta","1",{"name":"description","content":"このサイトを設立した理由"}]],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
+16:I[93502,["5618","static/chunks/2c7d8ac5-a6e0cd6bca61ccce.js","9072","static/chunks/4352e4e9-f9d284395f93c21b.js","6452","static/chunks/c99dd624-ba7050f158aaa9cd.js","7201","static/chunks/7201-36ec8f89db7f0be3.js","4176","static/chunks/4176-e2e8c85f32d5a19a.js","4465","static/chunks/4465-c5ccec15da7365ef.js","465","static/chunks/app/%5Blocale%5D/page-339cb62659c8b9f6.js"],"Page"]
+17:T42f5,
+    query page($relativePath: String!) {
+  page(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...PageParts
+  }
+}
+    
+    fragment PageParts on Page {
+  __typename
+  flat
+  title
+  titleStand
+  blocks {
+    __typename
+    ... on PageBlocksHero {
+      background
+      headline
+      tagline
+      actions {
+        __typename
+        text
+        icon {
+          __typename
+          name
+          color
+          size
+        }
+        iconPosition
+        variant
+        color
+        size
+        fullWidth
+        compact
+        external
+        link
+      }
+      image {
+        __typename
+        src
+        alt
+        videoUrl
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        padding {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+          padding {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+        }
+      }
+      flex {
+        __typename
+        direction
+        gap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          align
+          justify
+          wrap
+        }
+      }
+    }
+    ... on PageBlocksContent {
+      background
+      body
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        padding {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+          padding {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+        }
+      }
+    }
+    ... on PageBlocksRecentPosts {
+      background
+      title
+      path
+      limit
+      showExcerpts
+    }
+    ... on PageBlocksAction {
+      text
+      icon {
+        __typename
+        name
+        color
+        size
+      }
+      iconPosition
+      variant
+      color
+      size
+      fullWidth
+      compact
+      external
+      link
+    }
+    ... on PageBlocksTag {
+      tag {
+        ... on Tag {
+          __typename
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          radius
+          fullWidth
+          circle
+          description
+          group
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    ... on PageBlocksBadge {
+      label
+      icon {
+        __typename
+        name
+        color
+        size
+      }
+      iconPosition
+      variant
+      color
+      size
+      radius
+      fullWidth
+      circle
+    }
+    ... on PageBlocksCarousel {
+      background
+      carousel {
+        __typename
+        orientation
+        align
+        loop
+        slides {
+          __typename
+          slideSize
+          slideGap
+          customSlideGap
+          includeGapInSize
+          slidesToScroll
+          initialSlide
+        }
+        animation {
+          __typename
+          skipSnaps
+          containScroll
+        }
+        interaction {
+          __typename
+          draggable
+          dragFree
+        }
+        indicators {
+          __typename
+          enabled
+        }
+        controls {
+          __typename
+          display
+          hideInactive
+          size
+          offset
+          customOffset
+          nextControlIcon
+          previousControlIcon
+        }
+        plugins {
+          __typename
+          autoplay {
+            __typename
+            enabled
+            delay
+            stopOnInteraction
+            stopOnMouseEnter
+            stopOnFocusIn
+            stopOnLastSnap
+            jump
+          }
+          fade {
+            __typename
+            enabled
+          }
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          slides {
+            __typename
+            slideSize
+            slideGap
+            customSlideGap
+          }
+        }
+      }
+      slides {
+        __typename
+        ... on PageBlocksCarouselSlidesHero {
+          background
+          headline
+          tagline
+          actions {
+            __typename
+            text
+            icon {
+              __typename
+              name
+              color
+              size
+            }
+            iconPosition
+            variant
+            color
+            size
+            fullWidth
+            compact
+            external
+            link
+          }
+          image {
+            __typename
+            src
+            alt
+            videoUrl
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            padding {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+              padding {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PageBlocksCarouselSlidesRecentPosts {
+          background
+          title
+          path
+          limit
+          showExcerpts
+        }
+        ... on PageBlocksCarouselSlidesAction {
+          text
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+        ... on PageBlocksCarouselSlidesBadge {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          radius
+          fullWidth
+          circle
+        }
+      }
+    }
+    ... on PageBlocksCover {
+      fixed
+      content {
+        __typename
+        ... on PageBlocksCoverContentHero {
+          background
+          headline
+          tagline
+          actions {
+            __typename
+            text
+            icon {
+              __typename
+              name
+              color
+              size
+            }
+            iconPosition
+            variant
+            color
+            size
+            fullWidth
+            compact
+            external
+            link
+          }
+          image {
+            __typename
+            src
+            alt
+            videoUrl
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            padding {
+              __typename
+              top
+              right
+              bottom
+              left
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+              padding {
+                __typename
+                top
+                right
+                bottom
+                left
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PageBlocksCoverContentRecentPosts {
+          background
+          title
+          path
+          limit
+          showExcerpts
+        }
+        ... on PageBlocksCoverContentAction {
+          text
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+        ... on PageBlocksCoverContentBadge {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          radius
+          fullWidth
+          circle
+        }
+        ... on PageBlocksCoverContentCarousel {
+          background
+          carousel {
+            __typename
+            orientation
+            align
+            loop
+            slides {
+              __typename
+              slideSize
+              slideGap
+              customSlideGap
+              includeGapInSize
+              slidesToScroll
+              initialSlide
+            }
+            animation {
+              __typename
+              skipSnaps
+              containScroll
+            }
+            interaction {
+              __typename
+              draggable
+              dragFree
+            }
+            indicators {
+              __typename
+              enabled
+            }
+            controls {
+              __typename
+              display
+              hideInactive
+              size
+              offset
+              customOffset
+              nextControlIcon
+              previousControlIcon
+            }
+            plugins {
+              __typename
+              autoplay {
+                __typename
+                enabled
+                delay
+                stopOnInteraction
+                stopOnMouseEnter
+                stopOnFocusIn
+                stopOnLastSnap
+                jump
+              }
+              fade {
+                __typename
+                enabled
+              }
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              slides {
+                __typename
+                slideSize
+                slideGap
+                customSlideGap
+              }
+            }
+          }
+          slides {
+            __typename
+            ... on PageBlocksCoverContentCarouselSlidesHero {
+              background
+              headline
+              tagline
+              actions {
+                __typename
+                text
+                icon {
+                  __typename
+                  name
+                  color
+                  size
+                }
+                iconPosition
+                variant
+                color
+                size
+                fullWidth
+                compact
+                external
+                link
+              }
+              image {
+                __typename
+                src
+                alt
+                videoUrl
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  right
+                  bottom
+                  left
+                }
+                padding {
+                  __typename
+                  top
+                  right
+                  bottom
+                  left
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    right
+                    bottom
+                    left
+                  }
+                  padding {
+                    __typename
+                    top
+                    right
+                    bottom
+                    left
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PageBlocksCoverContentCarouselSlidesRecentPosts {
+              background
+              title
+              path
+              limit
+              showExcerpts
+            }
+            ... on PageBlocksCoverContentCarouselSlidesAction {
+              text
+              icon {
+                __typename
+                name
+                color
+                size
+              }
+              iconPosition
+              variant
+              color
+              size
+              fullWidth
+              compact
+              external
+              link
+            }
+            ... on PageBlocksCoverContentCarouselSlidesBadge {
+              label
+              icon {
+                __typename
+                name
+                color
+                size
+              }
+              iconPosition
+              variant
+              color
+              size
+              radius
+              fullWidth
+              circle
+            }
+          }
+        }
+      }
+      flex {
+        __typename
+        direction
+        gap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          align
+          justify
+          wrap
+        }
+      }
+    }
+    ... on PageBlocksFlex {
+      background
+      flex {
+        __typename
+        direction
+        gap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          align
+          justify
+          wrap
+        }
+      }
+      children {
+        __typename
+        ... on PageBlocksFlexChildrenAction {
+          text
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          fullWidth
+          compact
+          external
+          link
+        }
+        ... on PageBlocksFlexChildrenBadge {
+          label
+          icon {
+            __typename
+            name
+            color
+            size
+          }
+          iconPosition
+          variant
+          color
+          size
+          radius
+          fullWidth
+          circle
+        }
+        ... on PageBlocksFlexChildrenTag {
+          tag {
+            ... on Tag {
+              __typename
+              label
+              icon {
+                __typename
+                name
+                color
+                size
+              }
+              iconPosition
+              variant
+              color
+              size
+              radius
+              fullWidth
+              circle
+              description
+              group
+            }
+            ... on Document {
+              _sys {
+                filename
+                basename
+                hasReferences
+                breadcrumbs
+                path
+                relativePath
+                extension
+              }
+              id
+            }
+          }
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        padding {
+          __typename
+          top
+          right
+          bottom
+          left
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+          padding {
+            __typename
+            top
+            right
+            bottom
+            left
+          }
+        }
+      }
+    }
+  }
+  createdAt
+  updatedAt
+  containerWidth
+  contentMaxWidth
+  contentOffset
+}
+    5:["$","$L16",null,{"data":{"page":{"_sys":{"filename":"about","basename":"about.mdx","hasReferences":false,"breadcrumbs":["ja","about"],"path":"content/pages/ja/about.mdx","relativePath":"ja/about.mdx","extension":".mdx"},"id":"content/pages/ja/about.mdx","__typename":"Page","flat":null,"title":"このウェブサイトができた理由","titleStand":null,"blocks":[{"__typename":"PageBlocksContent","background":null,"body":{"type":"root","children":[{"type":"h2","children":[{"type":"text","text":"背景"}]},{"type":"p","children":[{"type":"text","text":"今年（2025年）の2月か3月に転職活動で、たくさんの履歴書を送っていた時期に、CMS構築サービスを提供している会社に出会いました。ふと、以前何度か失敗したウェブサイト構築の試みを思い出しました。軽く振り返ってみると、問題はコードレベルではなく、コンテンツの企画とビジュアルデザインでつまずいていたことに気づきました。何かを始める前に考えすぎてしまう傾向があります。例えば、いくつのタグを事前に定義すべきか？カテゴリーをどのように分けるべきか？スタイルの統一はどうするか？多言語対応は必要か？そして、私は面倒くさがり屋でもあります。悩んだ末、結局何も始めないままモチベーションを失ってしまうことがよくありました。そこで今回は、痛い目を見て、コンテンツを最優先し、まずは自分が書き続けられるようにすることにしました。それ以外は重要でないものはすべて後回しです。もちろん、最終的に技術スタックを決定し、この記事を書き始める前にも、かなりの期間悩みました。"}]},{"type":"p","children":[{"type":"text","text":"そして、これはすでにこの記事の2番目のバージョンです。"}]},{"type":"h2","children":[{"type":"text","text":"技術選定"}]},{"type":"p","children":[{"type":"text","text":"仕事を見つけ、新しい仕事が始まるまでの間に多くの空き時間ができたので、「今回はきちんとウェブサイトを構築しよう」と決意し、技術選定を開始しました。"}]},{"type":"p","children":[{"type":"text","text":"最優先原則は、すべてを執筆に捧げることです。これは、使いやすいエディターが必要なだけでなく、怠惰を含め、執筆を妨げる可能性のあるすべての要因を最大限に排除する必要があることも意味します。"}]},{"type":"p","children":[{"type":"text","text":"以前の Next.js + Markdown や Next.js + Github issues の失敗経験を振り返ると、手動でドキュメントを管理するよりも、CMSシステムを導入する必要があることに気づきました。CMSといえば、経験豊富ではありませんが、Wordpress（PHP）やWagtail（Python）にも浅く触れたことがあります。しかし、半人前のプログラマーとして、また数年前のフロントエンドの仕事の影響もあり、MDXのサポートが最も重要な検討事項となりました。これだけで、ほとんどのフレームワークは除外されます。さらに、軽量化とコストを考慮し、最終的にCMSとして"},{"type":"a","url":"https://tina.io/","title":null,"children":[{"type":"text","text":"TinaCM"}]},{"type":"text","text":"を決定しました。欠点はありますが、なんとか使えます。"}]},{"type":"p","children":[{"type":"text","text":"次にフロントエンドです。Reactに慣れていることと、これまでの経験から、本能的にReactベースのソリューションを選択したいと考えていました。しかし、正直なところ、Reactのこの数年の発展方向には不安を感じています（具体的なことは、また機会があれば議論しましょう）。ReactエコシステムとそのUIライブラリを手放すのは難しいですが、このウェブサイトはコンテンツ優先なので、最終的にフロントエンドは"},{"type":"a","url":"https://astro.build/","title":null,"children":[{"type":"text","text":"Astro"}]},{"type":"text","text":"に決定しました。"}]},{"type":"p","children":[{"type":"text","text":"もちろん、これも前のバージョンの決定です。"}]},{"type":"p","children":[{"type":"text","text":"Astroの高い自由度のため、逆に自分で手を加える部分が多くなります。様々なコンポーネントやCSSを手書きするのを避けるため、結局"},{"type":"a","url":"https://nextjs.org/","title":null,"children":[{"type":"text","text":"Next.js"}]},{"type":"text","text":"、つまり現在のバージョンを選択することになりました。これは私がこのフレームワークをとても気に入っているからではなく、純粋にReactエコシステムの中でSSGという点において、これ以上の選択肢がなかったからです。"}]},{"type":"h2","children":[{"type":"text","text":"コアとなるモチベーション"}]},{"type":"p","children":[{"type":"text","text":"ウェブサイト構築への興味という要素を抜きにすれば、最も根本的な原動力は、私が本当にテキスト管理プラットフォームを必要としていることです。"}]},{"type":"p","children":[{"type":"text","text":"私は学習が好きで、学習が好きだと信じています。学んだことはメモを取らなければ、学ばなかったのと同じです。しかし、特定のメモプラットフォームやソフトウェアを使いたくないし、あちこちに"},{"type":"text","text":".txt","code":true},{"type":"text","text":"や"},{"type":"text","text":".doc","code":true},{"type":"text","text":"を散らばらせたくもないので、整理が大変です。そのため、メモを取るのが面倒になり、学習を始めることができないことがよくあります。学んだことを記録しないと、不安を引き起こしやすく、それが新しい学習を始めることを困難にします。悪循環に陥っているわけです。"}]}]},"spacing":null}],"createdAt":null,"updatedAt":null,"containerWidth":"lg","contentMaxWidth":"45rem","contentOffset":"6rem"}},"errors":null,"query":"$17","variables":{"relativePath":"ja/about.mdx"},"isFallback":false}]
