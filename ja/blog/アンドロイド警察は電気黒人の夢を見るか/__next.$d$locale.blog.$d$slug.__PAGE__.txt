@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[14613,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","139","static/chunks/14924e61-2342287f63ada6cd.js","51","static/chunks/79b5b7d6-b248d74bb1c91500.js","423","static/chunks/6f38067f-d49b4485a7b4a687.js","376","static/chunks/434220a3-5b6fcb0250ccc8ae.js","239","static/chunks/00a7135c-da84bf3efd633384.js","231","static/chunks/231-1b9ad4f271582f0a.js","75","static/chunks/75-5ce74514463d5931.js","602","static/chunks/602-76e8e06cea3df1a8.js","147","static/chunks/147-c8210db55d4da6ab.js","477","static/chunks/477-47a2a216aeba3007.js","191","static/chunks/191-65f1279598bbe2e5.js","414","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-5bf581d26e6126be.js"],"PostRenderer"]
+5:I[92212,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T8ab,
+    query post($relativePath: String!) {
+  post(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...PostParts
+  }
+}
+    
+    fragment PostParts on Post {
+  __typename
+  createdAt
+  updatedAt
+  canonicalId
+  draft
+  publishedAt
+  title
+  excerpt
+  readingTime
+  author {
+    ... on Author {
+      __typename
+      createdAt
+      updatedAt
+      featured
+      name
+      pronouns
+      avatar
+      avatarAlt
+      professional {
+        __typename
+        title
+        company
+        bio
+        resume
+      }
+      contact {
+        __typename
+        email
+        location
+        timezone
+        availableForWork
+        website
+      }
+      social {
+        __typename
+        platform
+        username
+        url
+      }
+      expertise {
+        __typename
+        skills
+        interests
+        languages {
+          __typename
+          language
+          proficiency
+        }
+      }
+      backgroundInfo {
+        __typename
+        education
+        experience
+        certifications
+      }
+    }
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+  }
+  tags {
+    __typename
+    tag {
+      ... on Tag {
+        __typename
+        createdAt
+        updatedAt
+        name
+        label
+        description
+        badgeConfig {
+          __typename
+          color
+          icon
+          iconPosition
+          variant
+          size
+          customSize
+          radius
+          customRadius
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+  }
+  coverImage
+  coverImageAlt
+  series {
+    __typename
+    name
+    title
+    order
+  }
+  body
+  pageLayout {
+    __typename
+    flat
+    containerWidth
+    customContainerWidth
+    contentMaxWidth
+    customContentMaxWidth
+    contentOffset
+  }
+}
+    0:{"buildId":"6mJczk3eyYjkNi2ELY6Ct","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"post":{"_sys":{"filename":"アンドロイド警察は電気黒人の夢を見るか","basename":"アンドロイド警察は電気黒人の夢を見るか.mdx","hasReferences":false,"breadcrumbs":["ja","2026-01","アンドロイド警察は電気黒人の夢を見るか"],"path":"content/blog/ja/2026-01/アンドロイド警察は電気黒人の夢を見るか.mdx","relativePath":"ja/2026-01/アンドロイド警察は電気黒人の夢を見るか.mdx","extension":".mdx"},"id":"content/blog/ja/2026-01/アンドロイド警察は電気黒人の夢を見るか.mdx","__typename":"Post","createdAt":"2026-01-19T14:40:25.644Z","updatedAt":"2026-01-19T15:42:22.479Z","canonicalId":"do-android-polices-dream-of-electric-nigger","draft":null,"publishedAt":null,"title":"アンドロイド警察は電気黒人の夢を見るか","excerpt":"AIの急速な普及に伴い、その利便性の裏にある偏見のリスクが浮き彫りになっています。統計的予測エンジンであるAIは、学習データに含まれる社会的な差別を再現し、固定化する恐れがあります。技術を否定するのではなく、その本質と限界を正しく理解し、安易に判断を委ねない批判的な視点を持つことが求められています。","readingTime":null,"author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","featured":true,"name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/Toshinaki_avatar.png","avatarAlt":"Toshinaki","professional":{"__typename":"AuthorProfessional","title":"程序员（前端为主，后端努力中）","company":"Stockmark Inc.","bio":{"type":"root","children":[]},"resume":null},"contact":{"__typename":"AuthorContact","email":null,"location":null,"timezone":"Asia/Tokyo","availableForWork":null,"website":null},"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"expertise":{"__typename":"AuthorExpertise","skills":null,"interests":null,"languages":[{"__typename":"AuthorExpertiseLanguages","language":"汉语","proficiency":"母语"},{"__typename":"AuthorExpertiseLanguages","language":"日语","proficiency":"流利"},{"__typename":"AuthorExpertiseLanguages","language":"英语","proficiency":"基础"}]},"backgroundInfo":null,"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"tags":null,"coverImage":"/uploads/posts/covers/https___substack-post-media.s3.amazonaws.com_public_images_9e6026ae-3214-40c8-ba45-d30fcf31967d_1456x910[1].jpeg","coverImageAlt":"無限に拡張するメガストラクチャー","series":null,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"多くの人が筆者と似たような感覚を抱いているのではないでしょうか。"}]},{"type":"p","children":[{"type":"text","text":"昨年から、AIは徐々に生活に欠かせない存在となってきました。使用頻度は高まり、関わる範囲は広がり、依存度も深まっています。\n同時に、執筆、プログラミング、検索、デザイン、カスタマーサービスなど、ほぼすべての情報集約型分野をカバーする形で、多種多様なAI製品が爆発的なスピードで出現しています。"}]},{"type":"p","children":[{"type":"text","text":"かなりの長期間、これらのAI製品の使用は筆者にそれほど多くの思考をもたらすことはありませんでした。むしろ、単にこう感嘆していただけでした。\n**「なんて便利な時代なんだ」**と。"}]},{"type":"p","children":[{"type":"text","text":"しかしある日、筆者は偶然、採用活動に使用されている「AIツール」に触れました。その瞬間、脳内の神経シナプスが活性化され、最初に浮かんできたイメージは——"},{"type":"text","text":"シビュラシステム","bold":true},{"type":"text","text":"でした。"}]},{"type":"p","children":[{"type":"img","url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQ1pyYno_kAAw3Eo_uDOM0J_w96pJGnfn1Q&s","caption":null,"children":[{"type":"text","text":""}]}]},{"type":"h2","children":[{"type":"text","text":"シビュラシステム：単なる「犯罪予測」ではない"}]},{"type":"p","children":[{"type":"text","text":"シビュラシステムは、アニメ"},{"type":"a","url":"https://ja.wikipedia.org/wiki/PSYCHO-PASS_%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%82%B9","title":null,"children":[{"type":"text","text":"『PSYCHO-PASS サイコパス』"}]},{"type":"text","text":"に登場する架空の社会管理システムです。多くの人の印象は「犯罪係数の監視」に留まっているかもしれません。それは主に「犯罪」というテーマがドラマチックな葛藤を生み出しやすく、作品内で多く描写されているからです。\nより古い映画『マイノリティ・リポート』でも、同様の犯罪予測制度が描かれていました。また、近年注目を集めているドラマ『ブラック・ミラー』でも、この種のエピソードは頻繁に登場します。"}]},{"type":"p","children":[{"type":"text","text":"しかし、シビュラシステムは単なる犯罪傾向の監視システムではありません。それは、ある人間が何に向いているか、どこまで行けるかを直接決定します。学業や職業から、責任あるポストに就く資格があるか、さらには結婚や出産の権利にまで影響を及ぼします。言い換えれば、個人の「人生の選択」が、システムによって計算された「最適解」に置き換わるのです。シビュラシステムの制御下では、個体は選択をしているのではなく、割り当てられた人生の経路を実行しているに過ぎません。"}]},{"type":"p","children":[{"type":"text","text":"もちろん、現在の現実世界におけるAI技術は、これらの作品に登場するシステムとはまだ程遠いものです。"}]},{"type":"p","children":[{"type":"text","text":"そして、これらの作品で議論される「自由」「選択」「人権」といった壮大なテーマも、筆者が今この瞬間に最も関心を寄せている問題ではありません。"}]},{"type":"p","children":[{"type":"text","text":"筆者の真の懸念は、別の次元から来ています。"}]},{"type":"h2","children":[{"type":"text","text":"AIの「偏見」"}]},{"type":"p","children":[{"type":"text","text":"まず、いくつかの現実の事例を見てみましょう。"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"2018年の報道によると、Amazonの採用AIは過去10年間の採用データで学習した結果、性別への偏見を学習してしまい、最終的に廃止されました。"},{"type":"a","url":"https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"1"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"2016年のCOMPAS再犯リスク評価ツールに関する調査では、このシステムが黒人を「高リスク」と評価する確率が白人よりも明らかに高く、アルゴリズムが司法実務において深刻な公平性の疑問をもたらしていることが示されました。"},{"type":"a","url":"https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"2"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"MITの実験とその後の学術論文は、主要な商用顔認識システムにおいて、肌の色の濃い女性の認識誤差が、肌の色の薄い男性よりも顕著に高いことを示しました。"},{"type":"a","url":"https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"3"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"2024年の研究では、ChatGPTが非標準的な英語（インド英語、アフリカ系アメリカ人英語など）に応答する際、ステレオタイプや蔑称的な内容、高圧的な口調が現れやすいことが判明しました。"},{"type":"a","url":"https://arxiv.org/abs/2406.08818?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"4"}]}]}]}]},{"type":"p","children":[{"type":"text","text":"性差別、人種差別。"}]},{"type":"blockquote","children":[{"type":"text","text":"なぜ「AI」にもこれらの差別が存在するのでしょうか？"}]},{"type":"h2","children":[{"type":"text","text":"差別は生まれつきではない：AIの本質"}]},{"type":"p","children":[{"type":"text","text":"この問いに答えるには、まず一つの事実を明確にする必要があります。"}]},{"type":"p","children":[{"type":"text","text":"現在、大衆に広く認知され使用されているAI、特に大規模言語モデル（LLM）は、本質的に"},{"type":"text","text":"統計的予測エンジン","bold":true},{"type":"text","text":"です。その目標は、膨大なテキストとラベルに基づき、与えられたコンテキストにおいて「次のトークン（単語またはサブワード）」が出現する確率を最大化することです。"}]},{"type":"p","children":[{"type":"text","text":"それは意味や因果関係を真に「理解」しているわけではなく、統計的な構造の中で最も可能性の高い継続を探しているに過ぎません。"}]},{"type":"p","children":[{"type":"text","text":"これが、現在のAIで最もよく知られている、あるいは悪名高い問題の一つである「ハルシネーション（幻覚）」に直結しています。つまり、事実の制約がない場合でも、自信満々に誤った情報を生成してしまうのです。"}]},{"type":"p","children":[{"type":"text","text":"そして、採用差別や司法の偏見といった問題は、本質的に同じ源泉から来ています。それは、"},{"type":"text","text":"訓練データ自体が抱えている歴史的・社会的偏見","bold":true},{"type":"text","text":"です。"}]},{"type":"p","children":[{"type":"text","text":"Amazonの採用システムは「女性を差別」したのではなく、歴史的に「誰がより多く採用されてきたか」を忠実に学習したのです。COMPASの問題もアルゴリズムの主観的な悪意ではなく、不平等な法執行とデータ記録に起因しています。"}]},{"type":"p","children":[{"type":"text","text":"さらに言えば、「公平」「優秀」「安全」「正常」といった概念自体、客観的に存在する実体ではなく、形容詞とその派生概念によって構成される主観的な判断です。それらに絶対性は存在せず、特定の社会、文化、時間の背景の下で形成される相対的な合意に過ぎません。ひとたびこれらの"},{"type":"text","text":"相対的な","italic":true},{"type":"text","text":"価値がモデルのパラメータにエンコードされると、それは「技術的"},{"type":"text","text":"中立","italic":true},{"type":"text","text":"」という形で長期的に固定化され、繰り返し出力されることになります。"}]},{"type":"p","children":[{"type":"text","text":"ここで心理学界の比喩があります。大量の心理学的調査や実験が在学中の大学生をサンプルに依存しているため、現代心理学は皮肉を込めて「大学生心理学」と呼ばれることがあります。"}]},{"type":"p","children":[{"type":"text","text":"これもまた、データの出所と代表性が結論の適用範囲を直接決定することを思い出させてくれます。そして、同様の問題が汎用型AIシステムで発生した場合、その影響は単一学科のサンプルバイアスよりもはるかに大きな増幅効果を持つことになります。"}]},{"type":"h3","children":[{"type":"text","text":"データ汚染攻撃"}]},{"type":"p","children":[{"type":"text","text":"さらに、問題は「意図しない複製」に留まらず、「能動的な汚染」の可能性も含んでいます。"}]},{"type":"p","children":[{"type":"text","text":"2016年、マイクロソフトの対話ロボットTayは、公開から数時間以内に大量の悪意ある入力によって過激でヘイトに満ちた言論を急速に学習・出力し、最終的に停止に追い込まれました。また、近年登場したNightshadeなどの技術は、訓練データに微小な攪乱を加えることで、システム的にモデルを「毒化」させる現実的な可能性をさらに示しています。"}]},{"type":"p","children":[{"type":"text","text":"データ自体が新たな攻撃面となっています。データの分布に影響を与えられる者が、表立たない形でモデルの振る舞い、ひいてはそれが生み出す社会的結果を変えてしまう可能性があるのです。"}]},{"type":"h2","children":[{"type":"text","text":"AI創設者たちからの警告"}]},{"type":"p","children":[{"type":"text","text":"注目すべきは、これらの懸念が外部の批判だけに存在するのではないということです。AI分野の多くの創設者たちも、同様の警戒を公に表明しています。彼らは一般的に、大規模な自己教師あり学習と表現学習が確かに汎用知能の入り口に触れていると考えていますが、LLMは依然として確率予測の枠組みの中で動作しており、堅牢な因果モデルや現実の制約に対する内的な理解を欠いていると指摘しています。"}]},{"type":"p","children":[{"type":"text","text":"これにより、モデルは文法的に完璧で論理が一貫していても、現実レベルでは成立せず、さらには価値レベルで明らかな問題がある内容を生成できてしまうのです。"}]},{"type":"p","children":[{"type":"text","text":"言い換えれば、LLMは真に「自分が何を言っているかを知っている」理解者ではなく、極めて流暢な「話し手」に近い存在です。先鋭的な政治的トピックを脇に置いたとしても、この流暢さが権威ある地位を与えられ、採用、司法、教育、金融といった重要な分野で使用されるとき、そのリスクはもはや抽象的な理論問題ではなく、現実に存在する社会的リスクとなります。"}]},{"type":"h2","children":[{"type":"text","text":"弁証法"}]},{"type":"p","children":[{"type":"text","text":"もちろん、このことが筆者が既存のAIツールを使い続けることを妨げるわけではありません。ツールの広範な使用は、事実として一部の能力の退化を招いています。例えば、筆者はもはや入力メソッドなしで、ペンを使って一編の記事を書き上げることは困難です。"}]},{"type":"p","children":[{"type":"text","text":"歴史上、登場した当初から完璧だった技術は一つもありません。弓矢が拳銃に取って代わられたからといって、特定の歴史段階における弓矢の重要な価値が否定されるわけではありません。"}]},{"type":"p","children":[{"type":"text","text":"筆者は技術そのものに反対しているわけではなく、AIがもたらす巨大な効率性と利便性を否定しているわけでもありません。ただ、あまりにも早く判断権を完全にシステムに委ねてしまうことに不安を感じているのです。"}]},{"type":"p","children":[{"type":"text","text":"従来の機械学習と比較して、LLMが巨大な飛躍であることは疑いようがありません。それは情報の取得、知識の生産、そして労働のあり方を深く変えました。\nしかし、だからこそ、"},{"type":"text","text":"その本質を理解し","bold":true},{"type":"text","text":"、"},{"type":"text","text":"その境界を見極め","bold":true},{"type":"text","text":"、"},{"type":"text","text":"その副作用を警戒すること","bold":true},{"type":"text","text":"が、かつてないほど重要になっているのです。"}]},{"type":"p","children":[{"type":"text","text":"筆者は依然として真の意味での人工知能に期待を寄せていますが、より期待しているのは——技術の進歩が最終的に、人類のより全面的な、より深い解放をもたらすことです。"}]}]},"pageLayout":null}},"errors":null,"query":"$3","variables":{"relativePath":"ja/2026-01/アンドロイド警察は電気黒人の夢を見るか.mdx"}},"isFallback":false,"adjacentPosts":{},"seriesInfo":null}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

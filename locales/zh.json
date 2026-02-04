@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "siteName": "再：青年",
+    "siteDescription": "解放自己。解放世界。",
+    "titleTemplate": "{title} | {siteName}"
+  },
+
+  "pages": {
+    "blog": {
+      "title": "博客",
+      "description": "记录与分享",
+      "allPosts": "所有文章",
+      "recentPosts": "最近文章",
+      "featuredPosts": "精选文章",
+      "byTag": "标签: {tag}",
+      "bySeries": "系列: {series}",
+      "noPosts": "暂无文章",
+      "postsCount": "{count, plural, one {# 篇文章} other {# 篇文章}}",
+      "series": {
+        "title": "系列文章",
+        "viewAll": "查看完整系列"
+      }
+    },
+
+    "notes": {
+      "title": "笔记",
+      "description": "学习记录",
+      "allNotes": "所有笔记",
+      "allSeries": "所有系列",
+      "seriesOverview": "系列概览",
+      "noNotes": "暂无笔记",
+      "notesCount": "{count, plural, one {# 篇笔记} other {# 篇笔记}}",
+      "chapters": "共 {count, plural, one {# 篇笔记} other {# 篇笔记}}",
+      "progress": {
+        "label": "学习进度",
+        "not-started": "未开始",
+        "in-progress": "进行中",
+        "completed": "已完成",
+        "on-hold": "暂停"
+      },
+      "source": {
+        "title": "学习资源",
+        "book": "书籍",
+        "video": "视频",
+        "by": "{creator}",
+        "platform": "平台: {platform}",
+        "moreInfo": "更多信息"
+      }
+    },
+
+    "projects": {
+      "title": "项目",
+      "description": "作品集",
+      "allProjects": "所有项目",
+      "featuredProjects": "精选项目",
+      "noProjects": "暂无项目",
+      "projectsCount": "{count, plural, one {# 个项目} other {# 个项目}}",
+      "techStack": "技术栈",
+      "viewProject": "查看项目",
+      "viewSource": "查看源码",
+      "status": {
+        "label": "状态",
+        "inProgress": "进行中",
+        "completed": "已完成",
+        "archived": "已归档"
+      },
+      "date": "项目时间",
+      "linkType": {
+        "website": "网站",
+        "github": "GitHub",
+        "gitlab": "GitLab",
+        "gitee": "Gitee",
+        "bitbucket": "Bitbucket",
+        "npm": "npm",
+        "docs": "文档",
+        "other": "链接"
+      }
+    },
+
+    "about": {
+      "title": "关于本站"
+    },
+
+    "portfolio": {
+      "title": "关于我",
+      "background": {
+        "education": "教育背景",
+        "experience": "工作经历"
+      },
+      "expertise": {
+        "skills": "我会",
+        "interests": "我喜欢",
+        "languages": "我会说"
+      },
+      "social": "关注我"
+    },
+
+    "diary": {
+      "title": "日记",
+      "subtitle": "私人记录",
+      "allEntries": "所有日记",
+      "noEntries": "暂无日记",
+      "diaryCount": "{count, plural, one {# 篇日记} other {# 篇日记}}",
+      "mood": {
+        "label": "心情",
+        "great": "很好",
+        "good": "不错",
+        "okay": "一般",
+        "bad": "不好",
+        "terrible": "很差"
+      },
+      "calendar": {
+        "title": "日历视图",
+        "today": "今天",
+        "hasEntry": "有日记"
+      }
+    },
+
+    "404": {
+      "title": "页面未找到 | 再：青年",
+      "description": "抱歉，您访问的页面不存在或已被移除"
+    }
+  },
+
+  "common": {
+    "readMore": "阅读更多",
+    "readingTime": "{minutes, plural, one {# 分钟阅读} other {# 分钟阅读}}",
+    "publishedAt": "发布于",
+    "updatedAt": "更新于",
+    "author": "作者",
+    "tags": "标签",
+    "share": "分享",
+    "copyLink": "复制链接",
+    "linkCopied": "链接已复制",
+    "loading": "加载中...",
+    "noResults": "暂无内容",
+    "viewAll": "查看全部",
+    "previous": "上一个",
+    "next": "下一个",
+    "backTo": "返回{target}",
+    "draft": "草稿",
+    "featured": "精选"
+  },
+
+  "layout": {
+    "themeToggle": "切换主题",
+    "themeDark": "深色模式",
+    "themeLight": "浅色模式",
+    "themeSystem": "跟随系统",
+    "languageSwitch": "切换语言",
+    "copyright": "© {year} {name}. All rights reserved.",
+    "poweredBy": "由 {tech} 驱动"
+  },
+
+  "components": {
+    "AdjacentPagination": {
+      "prev": "上一篇",
+      "next": "下一篇"
+    },
+    "FallbackIndicator": {
+      "message": "此页面暂无{requested}版本，正在显示{fallback}版本"
+    },
+    "ScrollToTop": {
+      "label": "回到顶部"
+    },
+    "pagination": {
+      "page": "第 {current} 页，共 {total} 页",
+      "first": "首页",
+      "last": "末页",
+      "prev": "上一页",
+      "next": "下一页"
+    },
+    "toc": {
+      "title": "目录"
+    },
+    "seriesNav": {
+      "title": "系列导航",
+      "previous": "上一篇",
+      "next": "下一篇",
+      "partOf": "本文属于系列「{series}」",
+      "partN": "第 {n} 篇，共 {total, plural, one {# 篇} other {# 篇}}"
+    },
+    "tagCloud": {
+      "title": "标签云",
+      "postCount": "{count, plural, one {# 篇文章} other {# 篇文章}}"
+    }
+  },
+
+  "tags": {
+    "title": "标签",
+    "allTags": "所有标签",
+    "postsWithTag": "包含「{tag}」的内容",
+    "noTags": "暂无标签"
+  },
+
+  "search": {
+    "title": "搜索",
+    "placeholder": "搜索文章、笔记...",
+    "results": "找到 {count, plural, one {# 个结果} other {# 个结果}}",
+    "noResults": "未找到相关内容",
+    "searching": "搜索中...",
+    "filterBy": "筛选",
+    "filters": {
+      "all": "全部",
+      "blog": "博客",
+      "notes": "笔记",
+      "projects": "项目"
+    }
+  },
+
+  "error": {
+    "404": {
+      "title": "页面不存在",
+      "message": "您访问的页面不存在或已被移除",
+      "action": "返回首页"
+    },
+    "500": {
+      "title": "服务器错误",
+      "message": "出了点问题，请稍后再试",
+      "action": "刷新页面"
+    }
+  },
+
+  "a11y": {
+    "skipToContent": "跳转到主要内容",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "externalLink": "（在新标签页打开）",
+    "currentPage": "当前页面"
+  },
+
+  "time": {
+    "justNow": "刚刚",
+    "minutesAgo": "{minutes} 分钟前",
+    "hoursAgo": "{hours} 小时前",
+    "daysAgo": "{days} 天前",
+    "weeksAgo": "{weeks} 周前",
+    "monthsAgo": "{months} 个月前",
+    "yearsAgo": "{years} 年前"
+  }
+}

@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[34558,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","139","static/chunks/14924e61-2342287f63ada6cd.js","51","static/chunks/79b5b7d6-b248d74bb1c91500.js","423","static/chunks/6f38067f-d49b4485a7b4a687.js","376","static/chunks/434220a3-5b6fcb0250ccc8ae.js","231","static/chunks/231-1b9ad4f271582f0a.js","75","static/chunks/75-5ce74514463d5931.js","602","static/chunks/602-76e8e06cea3df1a8.js","147","static/chunks/147-c8210db55d4da6ab.js","477","static/chunks/477-47a2a216aeba3007.js","842","static/chunks/842-ab658c0102860ef7.js","341","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/%5Bslug%5D/page-2316dfb48785c7ab.js"],"NoteRenderer"]
+5:I[92212,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Ta56,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        featured
+        name
+        pronouns
+        avatar
+        avatarAlt
+        professional {
+          __typename
+          title
+          company
+          bio
+          resume
+        }
+        contact {
+          __typename
+          email
+          location
+          timezone
+          availableForWork
+          website
+        }
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+        expertise {
+          __typename
+          skills
+          interests
+          languages {
+            __typename
+            language
+            proficiency
+          }
+        }
+        backgroundInfo {
+          __typename
+          education
+          experience
+          certifications
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+  }
+}
+    0:{"buildId":"6mJczk3eyYjkNi2ELY6Ct","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"deliberate-practice-for-excellence","basename":"deliberate-practice-for-excellence.mdx","hasReferences":false,"breadcrumbs":["en","deliberate-practice","deliberate-practice-for-excellence"],"path":"content/notes/en/deliberate-practice/deliberate-practice-for-excellence.mdx","relativePath":"en/deliberate-practice/deliberate-practice-for-excellence.mdx","extension":".mdx"},"id":"content/notes/en/deliberate-practice/deliberate-practice-for-excellence.mdx","__typename":"NoteNote","createdAt":"2026-01-24T02:58:59.838Z","updatedAt":"2026-01-25T04:38:27.113Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","featured":true,"name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/Toshinaki_avatar.png","avatarAlt":"Toshinaki","professional":{"__typename":"AuthorProfessional","title":"程序员（前端为主，后端努力中）","company":"Stockmark Inc.","bio":{"type":"root","children":[]},"resume":null},"contact":{"__typename":"AuthorContact","email":null,"location":null,"timezone":"Asia/Tokyo","availableForWork":null,"website":null},"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"expertise":{"__typename":"AuthorExpertise","skills":null,"interests":null,"languages":[{"__typename":"AuthorExpertiseLanguages","language":"汉语","proficiency":"母语"},{"__typename":"AuthorExpertiseLanguages","language":"日语","proficiency":"流利"},{"__typename":"AuthorExpertiseLanguages","language":"英语","proficiency":"基础"}]},"backgroundInfo":null,"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["en","Toshinaki"],"path":"content/authors/en/Toshinaki.json","relativePath":"en/Toshinaki.json","extension":".json"},"id":"content/authors/en/Toshinaki.json"},"canonicalId":"peak-secrets-from-the-new-science-of-expertise-01","seriesName":"Deliberate Practice","title":"Deliberate Practice for Excellence","order":1,"body":{"type":"root","children":[{"type":"h2","children":[{"type":"text","text":"TLDR"}]},{"type":"h2","children":[{"type":"text","text":"Chapter Summaries"}]},{"type":"h3","children":[{"type":"text","text":"0. Introduction: Does Talent Exist?"}]},{"type":"p","children":[{"type":"text","text":"Core Argument: Excellence is not innate, but a skill mastered through correct training methods."}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The True \"Gift\" is Adaptability: The extraordinary talents possessed by outstanding individuals are actually the innate human capacity for adaptability. They simply utilize this adaptability more than the average person."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Training Creates Skills"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The Brain is Not Fixed: Traditional views suggest that potential is fixed and learning aims to \"uncover\" it. However, since the 1990s, research has shown that the brain has a much greater capacity for adaptation than we previously imagined."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Training Changes Structure: Training can act as a \"trigger,\" causing the brain to \"rewire\" in various ways, such as forming new connections between neurons or strengthening existing ones."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Age and Adaptability: Although the brains of young people (e.g., before age 6) are more adaptable, the body and brain retain significant adaptability throughout adulthood, allowing for the development of various new abilities through correct training."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Experts vs. Ordinary People: Experts prompt changes in the brain and body through focused training. The significant talent they possess is the same talent we all have: the brain and body's capacity for adaptability. They simply utilize that capacity more than we do."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Correct Practice is the Only Way: Relying solely on \"sincere desire and hard work\" is not enough for continuous improvement. The only path to excellence is correct practice, namely \"deliberate practice.\""}]}]}]},{"type":"h4","children":[{"type":"text","text":"Case Studies"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Mozart's Perfect Pitch"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Traditional Perception: Mozart could accurately identify any tone by age 7. This perfect pitch was once seen as a manifestation of his innate, magical talent."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Scientific Discovery: Research has found that perfect pitch is more common among speakers of tonal languages, and almost all possessors received musical training in early childhood (ages three or four)."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Experimental Evidence: Ayako Sakakibara successfully developed perfect pitch in children participating in a study through training. This indicates that perfect pitch is not a gift at all, but an ability that can be cultivated and developed through moderate exposure and training."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The Truth About Mozart: Mozart's perfect pitch and precocious achievements were the result of systematic training starting at age 4, conducted with greater intensity and for longer durations by his father, Leopold Mozart."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Ray Allen and Effort"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Public Misconception: NBA star Ray Allen is a famous three-point shooter, often mistakenly thought to be \"naturally gifted.\""}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Allen's View: Allen himself opposes this claim, emphasizing that his achievements are due to the immense effort he puts into shooting practice every day. His example illustrates that achievement comes from continuous hard work rather than inherited superior genes."}]}]}]}]}]},{"type":"h4","children":[{"type":"text","text":"Adaptability of the Brain and Body"}]},{"type":"p","children":[{"type":"text","text":"Further research shows:"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The Brain is Not Fixed: In the past, scientists believed that the \"wiring\" of the adult brain was fixed. However, since the 1990s, research has shown that the brain has a much greater capacity for adaptation than we previously imagined."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Training Changes Structure: Training can act as a \"trigger,\" causing the brain to \"rewire\" in various ways, such as forming new connections between neurons or strengthening existing ones."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Age and Adaptability: Although the brains of young people (e.g., before age 6) are more adaptable, the body and brain retain significant adaptability throughout adulthood, allowing for the development of various new abilities through correct training."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Experts vs. Ordinary People: Experts prompt changes in the brain and body through focused training. The significant talent they possess is the same talent we all have: the brain and body's capacity for adaptability. They simply utilize that capacity more than we do."}]}]}]}]}}},"errors":null,"query":"$3","variables":{"relativePath":"en/deliberate-practice/deliberate-practice-for-excellence.mdx"}},"isFallback":false,"series":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["en","deliberate-practice","index"],"path":"content/notes/en/deliberate-practice/index.mdx","relativePath":"en/deliberate-practice/index.mdx","extension":".mdx"},"id":"content/notes/en/deliberate-practice/index.mdx","__typename":"NoteSeries","createdAt":"2026-01-23T03:32:35.713Z","updatedAt":"2026-01-25T08:10:15.651Z","canonicalId":"peak-secrets-from-the-new-science-of-expertise","seriesName":"Deliberate Practice","title":"Reading Notes on \"Peak\"","description":null,"showOrder":false,"progress":"not-started","coverImage":"/uploads/notes/covers/刻意练习.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"Peak: Secrets from the New Science of Expertise","creator":"Anders Ericsson / Robert Pool","platform":null,"url":"https://book.douban.com/subject/26895993/","coverImage":"/uploads/notes/sources/刻意练习.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null},"adjancentNotes":{}}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

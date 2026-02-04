@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[34558,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","139","static/chunks/14924e61-2342287f63ada6cd.js","51","static/chunks/79b5b7d6-b248d74bb1c91500.js","423","static/chunks/6f38067f-d49b4485a7b4a687.js","376","static/chunks/434220a3-5b6fcb0250ccc8ae.js","231","static/chunks/231-1b9ad4f271582f0a.js","75","static/chunks/75-5ce74514463d5931.js","602","static/chunks/602-76e8e06cea3df1a8.js","147","static/chunks/147-c8210db55d4da6ab.js","477","static/chunks/477-47a2a216aeba3007.js","842","static/chunks/842-ab658c0102860ef7.js","341","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/%5Bslug%5D/page-2316dfb48785c7ab.js"],"NoteRenderer"]
+5:I[92212,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Ta56,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        featured
+        name
+        pronouns
+        avatar
+        avatarAlt
+        professional {
+          __typename
+          title
+          company
+          bio
+          resume
+        }
+        contact {
+          __typename
+          email
+          location
+          timezone
+          availableForWork
+          website
+        }
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+        expertise {
+          __typename
+          skills
+          interests
+          languages {
+            __typename
+            language
+            proficiency
+          }
+        }
+        backgroundInfo {
+          __typename
+          education
+          experience
+          certifications
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+  }
+}
+    0:{"buildId":"6mJczk3eyYjkNi2ELY6Ct","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"01-刻意练习成就卓越","basename":"01-刻意练习成就卓越.mdx","hasReferences":false,"breadcrumbs":["zh","刻意练习","01-刻意练习成就卓越"],"path":"content/notes/zh/刻意练习/01-刻意练习成就卓越.mdx","relativePath":"zh/刻意练习/01-刻意练习成就卓越.mdx","extension":".mdx"},"id":"content/notes/zh/刻意练习/01-刻意练习成就卓越.mdx","__typename":"NoteNote","createdAt":"2026-01-24T02:58:59.838Z","updatedAt":"2026-01-25T04:38:27.113Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","featured":true,"name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/Toshinaki_avatar.png","avatarAlt":"Toshinaki","professional":{"__typename":"AuthorProfessional","title":"程序员（前端为主，后端努力中）","company":"Stockmark Inc.","bio":{"type":"root","children":[]},"resume":null},"contact":{"__typename":"AuthorContact","email":null,"location":null,"timezone":"Asia/Tokyo","availableForWork":null,"website":null},"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"expertise":{"__typename":"AuthorExpertise","skills":null,"interests":null,"languages":[{"__typename":"AuthorExpertiseLanguages","language":"汉语","proficiency":"母语"},{"__typename":"AuthorExpertiseLanguages","language":"日语","proficiency":"流利"},{"__typename":"AuthorExpertiseLanguages","language":"英语","proficiency":"基础"}]},"backgroundInfo":null,"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["en","Toshinaki"],"path":"content/authors/en/Toshinaki.json","relativePath":"en/Toshinaki.json","extension":".json"},"id":"content/authors/en/Toshinaki.json"},"canonicalId":"peak-secrets-from-the-new-science-of-expertise-01","seriesName":"刻意练习","title":"刻意练习成就卓越","order":1,"body":{"type":"root","children":[{"type":"h2","children":[{"type":"text","text":"TLDR"}]},{"type":"h2","children":[{"type":"text","text":"各章总结"}]},{"type":"h3","children":[{"type":"text","text":"0. 引言 天才存在吗"}]},{"type":"p","children":[{"type":"text","text":"核心论点：杰出并非天生，而是通过正确的训练方法掌握的技能"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"真正的“天才”是适应能力： 杰出人物拥有的卓越才能其实是人类与生俱来的适应能力。他们只是比普通人更多地利用了这种适应能力。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"训练创造技能"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"大脑并非固定 传统观点认为潜力是固定的，学习旨在“发掘”潜力。然而，自 20 世纪 90 年代以来，研究表明大脑具有比我们想象中更强的适应能力。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"训练改变结构 训练可以作为“触发因子”，导致大脑以各种方式“重新布线”，例如神经元之间形成新的连接，或强化现有连接。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"年龄与适应能力 尽管年轻人的大脑（如 6 岁以前）适应能力更强，但身体和大脑在整个成年时期仍保留着极大的适应能力，可以通过正确的训练培养各种新能力。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"专家与常人 专家通过专注的训练促使大脑和身体发生改变，而他们拥有的重要才华，与我们每个人都拥有的才华是一样的：大脑和身体都具有适应能力，只是他们比我们更多地利用了那一能力。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"正确的练习是唯一途径： 仅仅依靠“真诚的愿望与刻苦的努力”并不足以持续提高。通往卓越的唯一途径是正确的练习，即 “刻意练习”。"}]}]}]},{"type":"h4","children":[{"type":"text","text":"案例"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"莫扎特的完美音高"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"传统认知： 莫扎特 7 岁时就能准确辨别任何调子，这种完美音高曾被视为他天生神奇才能的体现。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"科学发现： 研究发现，完美音高在讲声调语言的人中更常见，且几乎所有拥有者都在幼年时期（三四岁）接受过音乐训练。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"实验证据： 榊原彩子通过训练，成功地培养了参与研究的孩子们的完美音高。这表明完美音高根本不是天赋，而是通过适度接触和训练可以培养和发展的能力。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"莫扎特真相： 莫扎特的完美音高和早熟成就，是其父利奥波德·莫扎特从他 4 岁开始，进行强度更大、时间更长的系统训练的结果。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"雷·阿伦与努力"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"公众误解： NBA 球星雷·阿伦是著名的三分射手，常被误认为是“天生就杰出”。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"阿伦的观点： 阿伦本人反对这种说法，强调自己的成就归功于每天付出的巨大努力来训练投篮。他的例子说明，成就来源于持续不断的刻苦练习，而非遗传了优秀的基因。"}]}]}]}]}]},{"type":"h4","children":[{"type":"text","text":"大脑和身体的适应能力"}]},{"type":"p","children":[{"type":"text","text":"进一步的研究表明："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"大脑并非固定 过去科学家认为成年人的大脑“布线”是固定的。然而，自 20 世纪 90 年代以来，研究表明大脑具有比我们想象中更强的适应能力。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"训练改变结构 训练可以作为“触发因子”，导致大脑以各种方式“重新布线”，例如神经元之间形成新的连接，或强化现有连接。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"年龄与适应能力 尽管年轻人的大脑（如 6 岁以前）适应能力更强，但身体和大脑在整个成年时期仍保留着极大的适应能力，可以通过正确的训练培养各种新能力。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"专家与常人\n专家通过专注的训练促使大脑和身体发生改变，而他们拥有的重要才华，与我们每个人都拥有的才华是一样的：大脑和身体都具有适应能力，只是他们比我们更多地利用了那一能力。"}]}]}]}]}}},"errors":null,"query":"$3","variables":{"relativePath":"zh/刻意练习/01-刻意练习成就卓越.mdx"}},"isFallback":false,"series":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["zh","刻意练习","index"],"path":"content/notes/zh/刻意练习/index.mdx","relativePath":"zh/刻意练习/index.mdx","extension":".mdx"},"id":"content/notes/zh/刻意练习/index.mdx","__typename":"NoteSeries","createdAt":"2026-01-23T03:32:35.713Z","updatedAt":"2026-01-25T08:10:15.651Z","canonicalId":"peak-secrets-from-the-new-science-of-expertise","seriesName":"刻意练习","title":"《刻意练习》读书笔记","description":null,"showOrder":false,"progress":"not-started","coverImage":"/uploads/notes/covers/刻意练习.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"刻意练习：如何从新手到大师","creator":"[美] 安德斯·艾利克森（Anders Ericsson） / 罗伯特·普尔（Robert Pool）","platform":null,"url":"https://book.douban.com/subject/26895993/","coverImage":"/uploads/notes/sources/刻意练习.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null},"adjancentNotes":{}}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

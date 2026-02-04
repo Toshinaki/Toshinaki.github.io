@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[29314,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","139","static/chunks/14924e61-2342287f63ada6cd.js","51","static/chunks/79b5b7d6-b248d74bb1c91500.js","423","static/chunks/6f38067f-d49b4485a7b4a687.js","376","static/chunks/434220a3-5b6fcb0250ccc8ae.js","231","static/chunks/231-1b9ad4f271582f0a.js","75","static/chunks/75-5ce74514463d5931.js","602","static/chunks/602-76e8e06cea3df1a8.js","147","static/chunks/147-c8210db55d4da6ab.js","477","static/chunks/477-47a2a216aeba3007.js","842","static/chunks/842-ab658c0102860ef7.js","947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-4258e84d3b5cf9e4.js"],"SeriesRenderer"]
+5:I[92212,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Ta56,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        featured
+        name
+        pronouns
+        avatar
+        avatarAlt
+        professional {
+          __typename
+          title
+          company
+          bio
+          resume
+        }
+        contact {
+          __typename
+          email
+          location
+          timezone
+          availableForWork
+          website
+        }
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+        expertise {
+          __typename
+          skills
+          interests
+          languages {
+            __typename
+            language
+            proficiency
+          }
+        }
+        backgroundInfo {
+          __typename
+          education
+          experience
+          certifications
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+  }
+}
+    0:{"buildId":"6mJczk3eyYjkNi2ELY6Ct","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["ja","限界的練習","index"],"path":"content/notes/ja/限界的練習/index.mdx","relativePath":"ja/限界的練習/index.mdx","extension":".mdx"},"id":"content/notes/ja/限界的練習/index.mdx","__typename":"NoteSeries","createdAt":"2026-01-23T03:32:35.713Z","updatedAt":"2026-01-25T08:10:15.651Z","canonicalId":"peak-secrets-from-the-new-science-of-expertise","seriesName":"限界的練習","title":"『限界的練習』読書ノート","description":null,"showOrder":false,"progress":"not-started","coverImage":"/uploads/notes/covers/刻意练习.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"超一流になるのは才能か努力か？","creator":"[米] アンダーズ・エリクソン（Anders Ericsson） / ロバート・プール（Robert Pool）","platform":null,"url":"https://book.douban.com/subject/26895993/","coverImage":"/uploads/notes/sources/刻意练习.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null}},"errors":null,"query":"$3","variables":{"relativePath":"ja/限界的練習/index.mdx"}},"isFallback":false,"notes":[]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

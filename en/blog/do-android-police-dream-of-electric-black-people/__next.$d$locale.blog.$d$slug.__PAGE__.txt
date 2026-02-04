@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[14613,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","139","static/chunks/14924e61-2342287f63ada6cd.js","51","static/chunks/79b5b7d6-b248d74bb1c91500.js","423","static/chunks/6f38067f-d49b4485a7b4a687.js","376","static/chunks/434220a3-5b6fcb0250ccc8ae.js","239","static/chunks/00a7135c-da84bf3efd633384.js","231","static/chunks/231-1b9ad4f271582f0a.js","75","static/chunks/75-5ce74514463d5931.js","602","static/chunks/602-76e8e06cea3df1a8.js","147","static/chunks/147-c8210db55d4da6ab.js","477","static/chunks/477-47a2a216aeba3007.js","191","static/chunks/191-65f1279598bbe2e5.js","414","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-5bf581d26e6126be.js"],"PostRenderer"]
+5:I[92212,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T8ab,
+    query post($relativePath: String!) {
+  post(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...PostParts
+  }
+}
+    
+    fragment PostParts on Post {
+  __typename
+  createdAt
+  updatedAt
+  canonicalId
+  draft
+  publishedAt
+  title
+  excerpt
+  readingTime
+  author {
+    ... on Author {
+      __typename
+      createdAt
+      updatedAt
+      featured
+      name
+      pronouns
+      avatar
+      avatarAlt
+      professional {
+        __typename
+        title
+        company
+        bio
+        resume
+      }
+      contact {
+        __typename
+        email
+        location
+        timezone
+        availableForWork
+        website
+      }
+      social {
+        __typename
+        platform
+        username
+        url
+      }
+      expertise {
+        __typename
+        skills
+        interests
+        languages {
+          __typename
+          language
+          proficiency
+        }
+      }
+      backgroundInfo {
+        __typename
+        education
+        experience
+        certifications
+      }
+    }
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+  }
+  tags {
+    __typename
+    tag {
+      ... on Tag {
+        __typename
+        createdAt
+        updatedAt
+        name
+        label
+        description
+        badgeConfig {
+          __typename
+          color
+          icon
+          iconPosition
+          variant
+          size
+          customSize
+          radius
+          customRadius
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+  }
+  coverImage
+  coverImageAlt
+  series {
+    __typename
+    name
+    title
+    order
+  }
+  body
+  pageLayout {
+    __typename
+    flat
+    containerWidth
+    customContainerWidth
+    contentMaxWidth
+    customContentMaxWidth
+    contentOffset
+  }
+}
+    0:{"buildId":"6mJczk3eyYjkNi2ELY6Ct","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"post":{"_sys":{"filename":"do-android-police-dream-of-electric-black-people","basename":"do-android-police-dream-of-electric-black-people.mdx","hasReferences":false,"breadcrumbs":["en","2026-01","do-android-police-dream-of-electric-black-people"],"path":"content/blog/en/2026-01/do-android-police-dream-of-electric-black-people.mdx","relativePath":"en/2026-01/do-android-police-dream-of-electric-black-people.mdx","extension":".mdx"},"id":"content/blog/en/2026-01/do-android-police-dream-of-electric-black-people.mdx","__typename":"Post","createdAt":"2026-01-19T14:40:25.644Z","updatedAt":"2026-01-19T15:42:22.479Z","canonicalId":"do-android-polices-dream-of-electric-nigger","draft":null,"publishedAt":null,"title":"Do Android Police Dream of Electric Black People?","excerpt":"As AI becomes an indispensable part of daily life, this article examines the risks of delegating human judgment to algorithms. Drawing parallels to the Sibyl System, the author highlights how AI, as a statistical prediction engine, often replicates historical biases found in its training data. While acknowledging the efficiency of these tools, the post emphasizes the importance of understanding AI's limitations and maintaining a critical perspective to prevent technology from entrenching social prejudices.","readingTime":null,"author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","featured":true,"name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/Toshinaki_avatar.png","avatarAlt":"Toshinaki","professional":{"__typename":"AuthorProfessional","title":"程序员（前端为主，后端努力中）","company":"Stockmark Inc.","bio":{"type":"root","children":[]},"resume":null},"contact":{"__typename":"AuthorContact","email":null,"location":null,"timezone":"Asia/Tokyo","availableForWork":null,"website":null},"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"expertise":{"__typename":"AuthorExpertise","skills":null,"interests":null,"languages":[{"__typename":"AuthorExpertiseLanguages","language":"汉语","proficiency":"母语"},{"__typename":"AuthorExpertiseLanguages","language":"日语","proficiency":"流利"},{"__typename":"AuthorExpertiseLanguages","language":"英语","proficiency":"基础"}]},"backgroundInfo":null,"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["en","Toshinaki"],"path":"content/authors/en/Toshinaki.json","relativePath":"en/Toshinaki.json","extension":".json"},"id":"content/authors/en/Toshinaki.json"},"tags":null,"coverImage":"/uploads/posts/covers/https___substack-post-media.s3.amazonaws.com_public_images_9e6026ae-3214-40c8-ba45-d30fcf31967d_1456x910[1].jpeg","coverImageAlt":"The infinitely expanding megastructure","series":null,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"I believe many people share a feeling similar to mine:"}]},{"type":"p","children":[{"type":"text","text":"Since last year, AI has gradually become an indispensable presence in our lives—used with increasing frequency, covering a wider range of tasks, and fostering a deeper level of dependence.\nAt the same time, various AI products have emerged at an explosive pace, covering almost all information-intensive fields such as writing, programming, searching, design, and customer service."}]},{"type":"p","children":[{"type":"text","text":"For a long time, using these AI products didn't trigger much extra thought for me; it was mostly just a simple exclamation:\n"},{"type":"text","text":"What a convenient era we live in.","bold":true}]},{"type":"p","children":[{"type":"text","text":"Until one day, I happened to come across an \"AI tool\" used for recruitment. The synapses in my brain were instantly activated, and the first image that surfaced was—"},{"type":"text","text":"the Sibyl System","bold":true},{"type":"text","text":"."}]},{"type":"p","children":[{"type":"img","url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQ1pyYno_kAAw3Eo_uDOM0J_w96pJGnfn1Q&s","caption":null,"children":[{"type":"text","text":""}]}]},{"type":"h2","children":[{"type":"text","text":"The Sibyl System: More Than Just \"Crime Prediction\""}]},{"type":"p","children":[{"type":"text","text":"The Sibyl System is a fictional social management system in the anime "},{"type":"a","url":"https://ja.wikipedia.org/wiki/PSYCHO-PASS_%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%82%B9","title":null,"children":[{"type":"text","text":"PSYCHO-PASS","italic":true}]},{"type":"text","text":". Many people's impression of it stops at \"monitoring crime coefficients,\" mainly because the theme of \"crime\" is easier to use for creating dramatic conflict and thus receives more depiction in the work.\nIn the earlier film "},{"type":"text","text":"Minority Report","italic":true},{"type":"text","text":", a similar crime prediction system was also depicted; and in the widely acclaimed TV series "},{"type":"text","text":"Black Mirror","italic":true},{"type":"text","text":" in recent years, such plots appear even more frequently."}]},{"type":"p","children":[{"type":"text","text":"But the Sibyl System is far more than just a monitoring system for criminal tendencies. It can directly determine what a person is suited for and how far they can go: from education and career to whether they are qualified for high-responsibility positions, and even influencing marriage and childbearing rights. In other words, an individual's \"life choices\" are replaced by the \"optimal solution\" calculated by the system. Under the control of the Sibyl System, individuals are not making choices, but executing an assigned life path."}]},{"type":"p","children":[{"type":"text","text":"Of course, current real-world AI technology is still a far cry from the systems in these works."}]},{"type":"p","children":[{"type":"text","text":"And the grand issues discussed in these works, such as \"freedom,\" \"choice,\" and \"human rights,\" are not the problems I am most concerned about at this moment."}]},{"type":"p","children":[{"type":"text","text":"My true concern comes from another dimension."}]},{"type":"h2","children":[{"type":"text","text":"The \"Bias\" of AI"}]},{"type":"p","children":[{"type":"text","text":"Let's look at some real-world cases first."}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"In a 2018 report, Amazon's recruitment AI was abandoned because it was trained on ten years of past hiring data and learned gender bias. "},{"type":"a","url":"https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"1"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"A 2016 investigation into the COMPAS recidivism risk assessment tool showed that the system was significantly more likely to rate Black defendants as \"high risk\" than white defendants, raising serious questions about fairness in judicial practice. "},{"type":"a","url":"https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"2"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Experiments and subsequent academic papers from MIT showed that mainstream commercial facial recognition systems have significantly higher error rates for dark-skinned women than for light-skinned men. "},{"type":"a","url":"https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"3"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"A 2024 study found that ChatGPT is more likely to produce stereotypes, derogatory content, and a condescending tone when responding to non-standard English (such as Indian English or African American Vernacular English). "},{"type":"a","url":"https://arxiv.org/abs/2406.08818?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"4"}]}]}]}]},{"type":"p","children":[{"type":"text","text":"Sexism, racism."}]},{"type":"blockquote","children":[{"type":"text","text":"Why does \"AI\" have these biases?"}]},{"type":"h2","children":[{"type":"text","text":"Bias is Not Innate: The Essence of AI"}]},{"type":"p","children":[{"type":"text","text":"To answer this question, we first need to clarify a fact."}]},{"type":"p","children":[{"type":"text","text":"The AI currently widely recognized and used by the public, especially Large Language Models (LLMs), is essentially a "},{"type":"text","text":"statistical prediction engine","bold":true},{"type":"text","text":". Its goal is to maximize the probability of the \"next token (word or subword)\" appearing given a context, based on massive amounts of text and labels."}]},{"type":"p","children":[{"type":"text","text":"It doesn't truly \"understand\" meaning or causality; it simply looks for the most probable continuation within a statistical structure."}]},{"type":"p","children":[{"type":"text","text":"This also directly leads to one of the most well-known or notorious problems of current AI—\"hallucination\": generating incorrect information confidently even when facts are lacking."}]},{"type":"p","children":[{"type":"text","text":"And problems like recruitment discrimination and judicial bias essentially come from the same source: "},{"type":"text","text":"the historical and social biases carried by the training data itself","bold":true},{"type":"text","text":"."}]},{"type":"p","children":[{"type":"text","text":"Amazon's recruitment system wasn't \"discriminating against women\"; it was faithfully learning \"who was more frequently hired\" in history. The problem with COMPAS wasn't the subjective malice of the algorithm, but rather unequal law enforcement and data recording."}]},{"type":"p","children":[{"type":"text","text":"Furthermore, concepts like \"fairness,\" \"excellence,\" \"safety,\" and \"normality\" are not objective entities themselves, but subjective judgments composed of adjectives and their derived concepts. They do not possess absolute nature; they only form relative consensus within specific social, cultural, and temporal contexts. Once these "},{"type":"text","text":"relative","italic":true},{"type":"text","text":" values are encoded into model parameters, they are solidified and repeatedly output in the form of \"technological "},{"type":"text","text":"neutrality","italic":true},{"type":"text","text":".\""}]},{"type":"p","children":[{"type":"text","text":"There is an analogy from the field of psychology: because a large number of psychological surveys and experiments rely on college students as samples, modern psychology is sometimes jokingly called \"college student psychology.\""}]},{"type":"p","children":[{"type":"text","text":"This also reminds us that the source and representativeness of data directly determine the scope of application for conclusions; and when similar problems appear in general-purpose AI systems, their impact will have a greater amplification effect than the sample bias of a single discipline."}]},{"type":"h3","children":[{"type":"text","text":"Data Poisoning Attacks"}]},{"type":"p","children":[{"type":"text","text":"Moreover, the problem isn't limited to \"unintentional replication,\" but also includes the possibility of \"active contamination.\""}]},{"type":"p","children":[{"type":"text","text":"In 2016, Microsoft's chatbot Tay was forced offline within hours of its launch because it quickly learned and output extreme and hateful speech due to a large amount of malicious input. In recent years, technologies like Nightshade have further demonstrated the practical feasibility of systematically \"poisoning\" models by adding tiny perturbations to training data."}]},{"type":"p","children":[{"type":"text","text":"Data itself has become a new attack surface: whoever can influence data distribution might change model behavior and the resulting social outcomes without being noticed."}]},{"type":"h2","children":[{"type":"text","text":"Warnings from AI Founders"}]},{"type":"p","children":[{"type":"text","text":"It is worth noting that these concerns do not exist only among external critics; many founding figures in the field of AI have also publicly expressed similar vigilance. They generally believe that while large-scale self-supervised learning and representation learning have indeed touched the edges of general intelligence, LLMs still operate within a framework of probabilistic prediction, lacking robust causal models and an internal understanding of real-world constraints."}]},{"type":"p","children":[{"type":"text","text":"This allows models to generate content that is grammatically perfect and logically coherent, yet factually incorrect or even clearly problematic at the value level."}]},{"type":"p","children":[{"type":"text","text":"In other words, an LLM is more like an extremely fluent \"speaker\" than an understander who truly \"knows what they are saying.\" Setting aside sharp political issues, when this fluency is granted authoritative status and used in critical fields such as recruitment, justice, education, and finance, the risk is no longer an abstract theoretical problem, but a tangible social risk."}]},{"type":"h2","children":[{"type":"text","text":"Dialectics"}]},{"type":"p","children":[{"type":"text","text":"Of course, this doesn't stop me from continuing to use existing AI tools. The widespread use of tools has already led to the degradation of certain abilities in practice—for example, it is now difficult for me to write a complete article with a pen without an input method."}]},{"type":"p","children":[{"type":"text","text":"Historically, no technology has ever been perfect at its inception; the fact that bows and arrows were replaced by pistols does not negate their important value in a specific historical stage."}]},{"type":"p","children":[{"type":"text","text":"I am not against technology itself, nor do I deny the huge efficiency and convenience brought by AI; I am simply uneasy about handing over the power of judgment entirely to the system too early."}]},{"type":"p","children":[{"type":"text","text":"Compared to traditional machine learning, LLMs are undoubtedly a huge leap. They have profoundly changed information acquisition, knowledge production, and ways of working.\nBut precisely because of this, "},{"type":"text","text":"understanding its essence","bold":true},{"type":"text","text":", "},{"type":"text","text":"recognizing its boundaries","bold":true},{"type":"text","text":", and "},{"type":"text","text":"being alert to its side effects","bold":true},{"type":"text","text":" becomes particularly important."}]},{"type":"p","children":[{"type":"text","text":"I still have expectations for true artificial intelligence, but what I look forward to even more is that technological progress will ultimately bring about a more comprehensive and profound liberation for humanity."}]}]},"pageLayout":null}},"errors":null,"query":"$3","variables":{"relativePath":"en/2026-01/do-android-police-dream-of-electric-black-people.mdx"}},"isFallback":false,"adjacentPosts":{},"seriesInfo":null}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

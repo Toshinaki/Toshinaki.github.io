@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "siteName": "Re:Jeunesse",
+    "siteDescription": "Free yourself. Free the world.",
+    "titleTemplate": "{title} | {siteName}"
+  },
+
+  "pages": {
+    "blog": {
+      "title": "Blog",
+      "description": "Recording & Sharing",
+      "allPosts": "All Posts",
+      "recentPosts": "Recent Posts",
+      "featuredPosts": "Featured Posts",
+      "byTag": "Tag: {tag}",
+      "bySeries": "Series: {series}",
+      "noPosts": "No posts yet",
+      "postsCount": "{count, plural, one {# post} other {# posts}}",
+      "series": {
+        "title": "Series",
+        "viewAll": "View Full Series"
+      }
+    },
+
+    "notes": {
+      "title": "Notes",
+      "description": "Learning Log",
+      "allNotes": "All Notes",
+      "allSeries": "All Series",
+      "seriesOverview": "Series Overview",
+      "noNotes": "No notes yet",
+      "notesCount": "{count, plural, one {# note} other {# notes}}",
+      "chapters": "Total {count, plural, one {# note} other {# notes}}",
+      "progress": {
+        "label": "Progress",
+        "not-started": "Not Started",
+        "in-progress": "In Progress",
+        "completed": "Completed",
+        "on-hold": "On Hold"
+      },
+      "source": {
+        "title": "Resources",
+        "book": "Book",
+        "video": "Video",
+        "by": "{creator}",
+        "platform": "Platform: {platform}",
+        "moreInfo": "More Info"
+      }
+    },
+
+    "projects": {
+      "title": "Projects",
+      "description": "Portfolio",
+      "allProjects": "All Projects",
+      "featuredProjects": "Featured Projects",
+      "noProjects": "No projects yet",
+      "projectsCount": "{count, plural, one {# project} other {# projects}}",
+      "techStack": "Tech Stack",
+      "viewProject": "View Project",
+      "viewSource": "View Source",
+      "status": {
+        "label": "Status",
+        "inProgress": "In Progress",
+        "completed": "Completed",
+        "archived": "Archived"
+      },
+      "date": "Date",
+      "linkType": {
+        "website": "Website",
+        "github": "GitHub",
+        "gitlab": "GitLab",
+        "gitee": "Gitee",
+        "bitbucket": "Bitbucket",
+        "npm": "npm",
+        "docs": "Docs",
+        "other": "Link"
+      }
+    },
+
+    "about": {
+      "title": "About Site"
+    },
+
+    "portfolio": {
+      "title": "About Me",
+      "background": {
+        "education": "Education",
+        "experience": "Experience"
+      },
+      "expertise": {
+        "skills": "Skills",
+        "interests": "Interests",
+        "languages": "Languages"
+      },
+      "social": "Connect"
+    },
+
+    "diary": {
+      "title": "Diary",
+      "subtitle": "Personal Log",
+      "allEntries": "All Entries",
+      "noEntries": "No entries yet",
+      "diaryCount": "{count, plural, one {# entry} other {# entries}}",
+      "mood": {
+        "label": "Mood",
+        "great": "Great",
+        "good": "Good",
+        "okay": "Okay",
+        "bad": "Bad",
+        "terrible": "Terrible"
+      },
+      "calendar": {
+        "title": "Calendar View",
+        "today": "Today",
+        "hasEntry": "Has entry"
+      }
+    },
+
+    "404": {
+      "title": "Page Not Found | {siteName}",
+      "description": "Sorry, the page you are looking for does not exist or has been removed."
+    }
+  },
+
+  "common": {
+    "readMore": "Read More",
+    "readingTime": "{minutes, plural, one {# min read} other {# min read}}",
+    "publishedAt": "Published on",
+    "updatedAt": "Updated on",
+    "author": "Author",
+    "tags": "Tags",
+    "share": "Share",
+    "copyLink": "Copy Link",
+    "linkCopied": "Link copied",
+    "loading": "Loading...",
+    "noResults": "No content found",
+    "viewAll": "View All",
+    "previous": "Previous",
+    "next": "Next",
+    "backTo": "Back to {target}",
+    "draft": "Draft",
+    "featured": "Featured"
+  },
+
+  "layout": {
+    "themeToggle": "Toggle Theme",
+    "themeDark": "Dark Mode",
+    "themeLight": "Light Mode",
+    "themeSystem": "System",
+    "languageSwitch": "Switch Language",
+    "copyright": "© {year} {name}. All rights reserved.",
+    "poweredBy": "Powered by {tech}"
+  },
+
+  "components": {
+    "AdjacentPagination": {
+      "prev": "Previous",
+      "next": "Next"
+    },
+    "FallbackIndicator": {
+      "message": "This page is not available in {requested}; displaying {fallback} version."
+    },
+    "ScrollToTop": {
+      "label": "Back to Top"
+    },
+    "pagination": {
+      "page": "Page {current} of {total}",
+      "first": "First",
+      "last": "Last",
+      "prev": "Prev",
+      "next": "Next"
+    },
+    "toc": {
+      "title": "Table of Contents"
+    },
+    "seriesNav": {
+      "title": "Series Navigation",
+      "previous": "Previous",
+      "next": "Next",
+      "partOf": "Part of series \"{series}\"",
+      "partN": "Part {n} of {total, plural, one {# part} other {# parts}}"
+    },
+    "tagCloud": {
+      "title": "Tags",
+      "postCount": "{count, plural, one {# post} other {# posts}}"
+    }
+  },
+
+  "tags": {
+    "title": "Tags",
+    "allTags": "All Tags",
+    "postsWithTag": "Content tagged \"{tag}\"",
+    "noTags": "No tags found"
+  },
+
+  "search": {
+    "title": "Search",
+    "placeholder": "Search posts, notes...",
+    "results": "Found {count, plural, one {# result} other {# results}}",
+    "noResults": "No results found",
+    "searching": "Searching...",
+    "filterBy": "Filter by",
+    "filters": {
+      "all": "All",
+      "blog": "Blog",
+      "notes": "Notes",
+      "projects": "Projects"
+    }
+  },
+
+  "error": {
+    "404": {
+      "title": "Page Not Found",
+      "message": "The page you are looking for does not exist or has been removed.",
+      "action": "Back to Home"
+    },
+    "500": {
+      "title": "Server Error",
+      "message": "Something went wrong. Please try again later.",
+      "action": "Refresh Page"
+    }
+  },
+
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "externalLink": "(opens in a new tab)",
+    "currentPage": "Current page"
+  },
+
+  "time": {
+    "justNow": "Just now",
+    "minutesAgo": "{minutes} minutes ago",
+    "hoursAgo": "{hours} hours ago",
+    "daysAgo": "{days} days ago",
+    "weeksAgo": "{weeks} weeks ago",
+    "monthsAgo": "{months} months ago",
+    "yearsAgo": "{years} years ago"
+  }
+}

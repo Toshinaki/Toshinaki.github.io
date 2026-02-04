@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[44001,[],""]
+3:I[81493,[],""]
+0:{"buildId":"6mJczk3eyYjkNi2ELY6Ct","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

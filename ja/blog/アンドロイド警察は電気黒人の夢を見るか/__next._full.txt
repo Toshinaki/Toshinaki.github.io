@@ -1,0 +1,355 @@
+1:"$Sreact.fragment"
+2:I[44001,[],""]
+3:I[81493,[],""]
+6:I[92212,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[92212,[],"ViewportBoundary"]
+b:I[92212,[],"MetadataBoundary"]
+d:I[6163,[],""]
+:HL["/_next/static/media/013465ab24b5e2ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/03f17d7c3aa26da2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/07742062c2ec3b55-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/091c03e5d6ea6d84-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0a002f5319e6b358-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0a3f9be12cd52d6a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0e4e843640321a14-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/105f650fe2b5d42b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1245abf6aff69198-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/15fb600d42056579-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/167ee8e96fbb569c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/17072c6d3ac5dd2b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1bec96b1fc532b39-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1d3ab314c572fe59-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1fe2c2cc73a996ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/215992f82a7fc8d9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2329f82f48d3e252-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/235349d9c353e5d7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/235e1413f94eb7df-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/27189fa32c829a10-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2721c83bedfbfacc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2d39ca87528a10fe-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2eae2d0d526dd7e7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2ff7fc6f93c85c9f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3061f5b6eb250216-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3195b9990a471e0e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/37f1fd599fd51852-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/399fe7a00b199ff6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/39a945e867963fe5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3a793f372ad6908f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b210ad12b47ded7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c282db8a43b7648-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3cf3730779422fda-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3d031459eacc86dd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3d8917b52af967ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3db8134653b57583-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3ef86813b18244e4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/400ef3b3d658076e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4046ec9b7a3cd7ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/44788dbce07da950-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/45542685dcea2778-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4759979789a5a53d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4840173a88d500b9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/48ee0eb829fd67dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/492a05f84d892f68-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/494bd1e605f65b51-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/495c95e95df6df48-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4a0ad145d59630d5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4be9076b1e8d9d3a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4eaae9a755d6739d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4fb89f155b696c77-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/503e02acc3651395-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/533e956dcf04c523-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5486cf78ec8b6aa4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5535d313c4d0dd07-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/580e937fa63cc299-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5865568f9f0ed48b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5956e233d38b36b0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5a63fca0554e2af7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5a9ef9d66f53ab0d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6003289b1a0723d3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/606cdd767ee835e0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/609eb1ae761915cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/60b4cf9c89d558b0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/63885f7c1e9eccfb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/640eaa65cf124f08-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/64698228b2165a7c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/677590baa4ca2e13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/691f29e396bda4f2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d95d0c27d8047ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e0a7691717621ac-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e99d52b70c1c780-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f28feadd9af1a00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f9cf82daf0013d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70141a28668ebc54-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7527bcc8ad8212dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/78db4f537e4b09d0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ab863dbb91a9ebb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7bf733c96a9957d7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7cc2c9a860b885ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d8c7b021bdcbfbb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/804a1838fe4df1f2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/827817a6583e8e63-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/855bf691c0a65918-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/85a55989c080432c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/86e95c1ae558f263-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/87374e80e25182dd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8a968650a42b8e0a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8fb1a96451cec840-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92ebb4d8a0e206c8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92f9a759eb15589b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/953b7aa585d36a2b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/963e7e1f88cb3a00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97327acf874ffa11-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9734ccb552bd325e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97f8c491b42d68d2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/985dd91a244380ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/986436dc0499dd2f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a9788a4e16c5c51-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9ced71d9a17429e0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a191b9bac6f8600d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a4129c4f34f1b5c0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a591cdc407ab586f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a65337acff4f4821-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a849c6a4a23421a7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a92656b129864a12-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a9cda1d8a2085c55-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/aacbf89b63ff3595-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b00dd9bf215f2bdd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b3a72d9fe424b761-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b4453bb1af72eecd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b5db02f0d09d688d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b70f4c267ee5d80a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7b43acee81d05a8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7ffde2383bb16ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b8360fe28dd22583-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b86cd06026fa06d1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ba207823b79d7338-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/baf38b70164202b2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd4e47cdb1b92e8e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd8b174424a8a846-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdf029be9f79bf1e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bfb532d5b1e18ccb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0085ea68429c35d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0139f7fd13515ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c050c0dd427d93a6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0731ba78c40a013-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c40eb5c239e2500e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c4123ec14930c740-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5195215cb712e9c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5aea32fcbdafb2d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5e23c4ce2ad4d33-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c7f0fb8f1284c686-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cb2592f89a5b3482-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cdf2c76defadf6a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cf3bc018c5e93c8c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2354fc5eec55fa8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d297340ef23eda35-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2cb8298fb1a7960-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3553b6f774f5f10-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3dfc32b7cd0c1b2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f4148e673eefa1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f4c1319cb9fc96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d40b82f1199447e9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d426e27a540fb37b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d4df281bd2c98884-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d5390949c79b867c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d5eb20bcdcf5616a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6aadaac38d50a34-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6db785f12578923-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d707554fc70c9fe8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7b08b16873350f4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7b77a371bb6ff1a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db113296d95e0ea3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd25e201a7365ca8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd72cf8ee95a6209-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dea7fd53655a05d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dedba05d74695149-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dfa838533585ac88-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e02314469b6a91af-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e03d93e818236bd0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e25467c81b2f6847-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e5ac5a164fe4de15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e63949304190a2f6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e7c031161b7acec9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e8e727663d48509c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef6d3f52c547a6e3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/efad461bde42560a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0519f43f8688da0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0a41d057f0cb19e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f1f373d0bf9183e9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f2896b9701b79d61-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f3b2fa186c207b4f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f77b4e4ded2b5d1a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f892e6109f32666c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f8d8377bcc8eeb37-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/faa67b8e498729b3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/faab3f8f77e50539-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fab5947736a1b125-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fbba1c17701ceb2c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fc1b5331646ff7ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fed0a2adbb55725b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ff03e98909115ed9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ffbe681f6d1db2a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/262bd2d5b52b8135.css","style"]
+:HL["/_next/static/css/1829311fc0a4884a.css","style"]
+:HL["/_next/static/css/0d4280e472983cf9.css","style"]
+:HL["/_next/static/css/e91be897a1315866.css","style"]
+:HL["/_next/static/css/d6be514a46f210b3.css","style"]
+0:{"P":null,"b":"6mJczk3eyYjkNi2ELY6Ct","c":["","ja","blog","%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E8%AD%A6%E5%AF%9F%E3%81%AF%E9%9B%BB%E6%B0%97%E9%BB%92%E4%BA%BA%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%8B",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d"],{"children":["blog",{"children":[["slug","%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E8%AD%A6%E5%AF%9F%E3%81%AF%E9%9B%BB%E6%B0%97%E9%BB%92%E4%BA%BA%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%8B","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/262bd2d5b52b8135.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/1829311fc0a4884a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/0d4280e472983cf9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/e91be897a1315866.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/d6be514a46f210b3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[7587,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","231","static/chunks/231-1b9ad4f271582f0a.js","648","static/chunks/648-406ee92f90c1ee51.js","147","static/chunks/147-c8210db55d4da6ab.js","450","static/chunks/app/%5Blocale%5D/layout-ec03b472228e909e.js"],"ColorSchemeScript"]
+4:["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"__variable_3dc64f __variable_d2b1f7 __variable_6a8b35","children":[["$","head",null,{"children":["$","$Le",null,{}]}],["$","body",null,{"children":"$Lf"}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:I[2602,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","139","static/chunks/14924e61-2342287f63ada6cd.js","51","static/chunks/79b5b7d6-b248d74bb1c91500.js","423","static/chunks/6f38067f-d49b4485a7b4a687.js","376","static/chunks/434220a3-5b6fcb0250ccc8ae.js","239","static/chunks/00a7135c-da84bf3efd633384.js","231","static/chunks/231-1b9ad4f271582f0a.js","75","static/chunks/75-5ce74514463d5931.js","602","static/chunks/602-76e8e06cea3df1a8.js","147","static/chunks/147-c8210db55d4da6ab.js","477","static/chunks/477-47a2a216aeba3007.js","191","static/chunks/191-65f1279598bbe2e5.js","414","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-5bf581d26e6126be.js"],"default"]
+11:I[24147,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","231","static/chunks/231-1b9ad4f271582f0a.js","648","static/chunks/648-406ee92f90c1ee51.js","147","static/chunks/147-c8210db55d4da6ab.js","450","static/chunks/app/%5Blocale%5D/layout-ec03b472228e909e.js"],"AppProvider"]
+f:["$","$L10",null,{"formats":"$undefined","locale":"ja","messages":{"meta":{"siteName":"再：青年","siteDescription":"自分を解放せよ。世界を解放せよ。","titleTemplate":"{title} | {siteName}"},"pages":{"404":{"title":"ページが見つかりません | {siteName}","description":"お探しのページは存在しないか、移動した可能性があります。"},"blog":{"title":"ブログ","description":"記録と共有","allPosts":"すべての記事","recentPosts":"最近の記事","featuredPosts":"おすすめの記事","byTag":"タグ: {tag}","bySeries":"シリーズ: {series}","noPosts":"記事がありません","postsCount":"{count, plural, one {# 記事} other {# 記事}}","series":{"title":"連載シリーズ","viewAll":"シリーズ全体を見る"}},"notes":{"title":"ノート","description":"学習の記録","allNotes":"すべてのノート","allSeries":"すべてのシリーズ","seriesOverview":"シリーズ概要","noNotes":"ノートがありません","notesCount":"{count, plural, one {# ノート} other {# ノート}}","chapters":"全 {count, plural, one {# 章} other {# 章}}","progress":{"label":"学習状況","not-started":"未着手","in-progress":"学習中","completed":"完了","on-hold":"保留"},"source":{"title":"学習リソース","book":"書籍","video":"動画","by":"{creator}","platform":"プラットフォーム: {platform}","moreInfo":"詳細情報"}},"projects":{"title":"プロジェクト","description":"制作物・ポートフォリオ","allProjects":"すべてのプロジェクト","featuredProjects":"注目のプロジェクト","noProjects":"プロジェクトがありません","projectsCount":"{count, plural, one {# プロジェクト} other {# プロジェクト}}","techStack":"使用技術","viewProject":"プロジェクトを見る","viewSource":"ソースコードを見る","status":{"label":"ステータス","inProgress":"開発中","completed":"完了","archived":"アーカイブ済み"},"date":"日付","linkType":{"website":"ウェブサイト","github":"GitHub","gitlab":"GitLab","gitee":"Gitee","bitbucket":"Bitbucket","npm":"npm","docs":"ドキュメント","other":"リンク"}},"about":{"title":"このサイトについて"},"portfolio":{"title":"私について","background":{"education":"学歴","experience":"職歴"},"expertise":{"skills":"スキル","interests":"趣味・関心","languages":"言語"},"social":"フォローする"},"diary":{"title":"日記","subtitle":"私的な記録","allEntries":"すべての日記","noEntries":"日記がありません","diaryCount":"{count, plural, one {# 篇の日記} other {# 篇の日記}}","mood":{"label":"気分","great":"最高","good":"良い","okay":"普通","bad":"悪い","terrible":"最悪"},"calendar":{"title":"カレンダー表示","today":"今日","hasEntry":"日記あり"}}},"common":{"readMore":"続きを読む","readingTime":"{minutes, plural, one {読了まで約 # 分} other {読了まで約 # 分}}","publishedAt":"公開日","updatedAt":"更新日","author":"著者","tags":"タグ","share":"共有","copyLink":"リンクをコピー","linkCopied":"コピーしました","loading":"読み込み中...","noResults":"コンテンツがありません","viewAll":"すべて見る","previous":"前へ","next":"次へ","backTo":"{target}へ戻る","draft":"下書き","featured":"おすすめ"},"layout":{"themeToggle":"テーマ切り替え","themeDark":"ダークモード","themeLight":"ライトモード","themeSystem":"システム準拠","languageSwitch":"言語切り替え","copyright":"© {year} {name}. All rights reserved.","poweredBy":"Powered by {tech}"},"components":{"AdjacentPagination":{"prev":"前の記事","next":"次の記事"},"FallbackIndicator":{"message":"このページは{requested}版が利用できないため、{fallback}版を表示しています。"},"ScrollToTop":{"label":"トップへ戻る"},"pagination":{"page":"{total} ページ中 {current} ページ目","first":"最初","last":"最後","prev":"前へ","next":"次へ"},"toc":{"title":"目次"},"seriesNav":{"title":"シリーズナビ","previous":"前回","next":"次回","partOf":"シリーズ「{series}」の記事","partN":"第 {n} 回 / 全 {total, plural, one {# 回} other {# 回}}"},"tagCloud":{"title":"タグクラウド","postCount":"{count, plural, one {# 記事} other {# 記事}}"}},"tags":{"title":"タグ","allTags":"すべてのタグ","postsWithTag":"「{tag}」タグの付いたコンテンツ","noTags":"タグがありません"},"search":{"title":"検索","placeholder":"記事やノートを検索...","results":"{count, plural, one {# 件見つかりました} other {# 件見つかりました}}","noResults":"見つかりませんでした","searching":"検索中...","filterBy":"絞り込み","filters":{"all":"すべて","blog":"ブログ","notes":"ノート","projects":"プロジェクト"}},"error":{"404":{"title":"ページが存在しません","message":"アクセスしようとしたページは存在しないか、削除されています。","action":"ホームに戻る"},"500":{"title":"サーバーエラー","message":"問題が発生しました。しばらくしてからもう一度お試しください。","action":"ページを再読み込み"}},"a11y":{"skipToContent":"メインコンテンツへスキップ","openMenu":"メニューを開く","closeMenu":"メニューを閉じる","externalLink":"（新しいタブで開きます）","currentPage":"現在のページ"},"time":{"justNow":"たった今","minutesAgo":"{minutes} 分前","hoursAgo":"{hours} 時間前","daysAgo":"{days} 日前","weeksAgo":"{weeks} 週間前","monthsAgo":"{months} ヶ月前","yearsAgo":"{years} 年前"}},"now":"$undefined","timeZone":"UTC","children":["$","$L11",null,{"globalConfig":{"_sys":{"filename":"global.ja","basename":"global.ja.json","hasReferences":false,"breadcrumbs":["global.ja"],"path":"content/global/global.ja.json","relativePath":"global.ja.json","extension":".json"},"id":"content/global/global.ja.json","__typename":"Global","locale":"ja","createdAt":"2026-01-07T16:05:34.692Z","updatedAt":"2026-01-07T16:08:32.942Z","siteName":"再：青年","siteDescription":null,"logoConfig":{"__typename":"GlobalLogoConfig","type":"icon","iconConfig":null,"image":null,"text":"再：青年"},"favicon":null,"ogImage":null,"header":{"__typename":"GlobalHeader","showThemeToggle":null,"nav":[{"__typename":"GlobalHeaderNav","label":"ブログ","href":"/blog","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"ノート","href":"/notes","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"プロジェクト","href":"/projects","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"日記","href":"/diary","external":false,"group":"","isPrivate":true},{"__typename":"GlobalHeaderNav","label":"概要","href":"/about","external":false,"group":"","isPrivate":false}],"height":"6.5rem","breakpoints":null,"background":null},"footer":{"__typename":"GlobalFooter","copyrightText":"© 2026 JM. All rights reserved.","authorForSocial":null,"nav":null,"height":"11rem","breakpoints":null,"background":null},"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":{"__typename":"GlobalThemeFontFamily","heading":"josefinSans","body":"domine"},"colorScheme":"light"},"i18n":{"__typename":"GlobalI18n","defaultLocale":"zh","supportedLocales":["zh","en","ja"]},"analytics":null,"rss":null,"comments":null},"shouldIncludePrivate":false,"children":"$L12"}]}]
+13:I[4195,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","231","static/chunks/231-1b9ad4f271582f0a.js","648","static/chunks/648-406ee92f90c1ee51.js","147","static/chunks/147-c8210db55d4da6ab.js","450","static/chunks/app/%5Blocale%5D/layout-ec03b472228e909e.js"],"DatesProvider"]
+12:["$","$L13",null,{"settings":{"locale":"ja"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
+14:I[14613,["865","static/chunks/71059ffd-cdaabfe9011c8b71.js","139","static/chunks/14924e61-2342287f63ada6cd.js","51","static/chunks/79b5b7d6-b248d74bb1c91500.js","423","static/chunks/6f38067f-d49b4485a7b4a687.js","376","static/chunks/434220a3-5b6fcb0250ccc8ae.js","239","static/chunks/00a7135c-da84bf3efd633384.js","231","static/chunks/231-1b9ad4f271582f0a.js","75","static/chunks/75-5ce74514463d5931.js","602","static/chunks/602-76e8e06cea3df1a8.js","147","static/chunks/147-c8210db55d4da6ab.js","477","static/chunks/477-47a2a216aeba3007.js","191","static/chunks/191-65f1279598bbe2e5.js","414","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-5bf581d26e6126be.js"],"PostRenderer"]
+15:T8ab,
+    query post($relativePath: String!) {
+  post(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...PostParts
+  }
+}
+    
+    fragment PostParts on Post {
+  __typename
+  createdAt
+  updatedAt
+  canonicalId
+  draft
+  publishedAt
+  title
+  excerpt
+  readingTime
+  author {
+    ... on Author {
+      __typename
+      createdAt
+      updatedAt
+      featured
+      name
+      pronouns
+      avatar
+      avatarAlt
+      professional {
+        __typename
+        title
+        company
+        bio
+        resume
+      }
+      contact {
+        __typename
+        email
+        location
+        timezone
+        availableForWork
+        website
+      }
+      social {
+        __typename
+        platform
+        username
+        url
+      }
+      expertise {
+        __typename
+        skills
+        interests
+        languages {
+          __typename
+          language
+          proficiency
+        }
+      }
+      backgroundInfo {
+        __typename
+        education
+        experience
+        certifications
+      }
+    }
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+  }
+  tags {
+    __typename
+    tag {
+      ... on Tag {
+        __typename
+        createdAt
+        updatedAt
+        name
+        label
+        description
+        badgeConfig {
+          __typename
+          color
+          icon
+          iconPosition
+          variant
+          size
+          customSize
+          radius
+          customRadius
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+  }
+  coverImage
+  coverImageAlt
+  series {
+    __typename
+    name
+    title
+    order
+  }
+  body
+  pageLayout {
+    __typename
+    flat
+    containerWidth
+    customContainerWidth
+    contentMaxWidth
+    customContentMaxWidth
+    contentOffset
+  }
+}
+    5:["$","$L14",null,{"fetchResult":{"data":{"post":{"_sys":{"filename":"アンドロイド警察は電気黒人の夢を見るか","basename":"アンドロイド警察は電気黒人の夢を見るか.mdx","hasReferences":false,"breadcrumbs":["ja","2026-01","アンドロイド警察は電気黒人の夢を見るか"],"path":"content/blog/ja/2026-01/アンドロイド警察は電気黒人の夢を見るか.mdx","relativePath":"ja/2026-01/アンドロイド警察は電気黒人の夢を見るか.mdx","extension":".mdx"},"id":"content/blog/ja/2026-01/アンドロイド警察は電気黒人の夢を見るか.mdx","__typename":"Post","createdAt":"2026-01-19T14:40:25.644Z","updatedAt":"2026-01-19T15:42:22.479Z","canonicalId":"do-android-polices-dream-of-electric-nigger","draft":null,"publishedAt":null,"title":"アンドロイド警察は電気黒人の夢を見るか","excerpt":"AIの急速な普及に伴い、その利便性の裏にある偏見のリスクが浮き彫りになっています。統計的予測エンジンであるAIは、学習データに含まれる社会的な差別を再現し、固定化する恐れがあります。技術を否定するのではなく、その本質と限界を正しく理解し、安易に判断を委ねない批判的な視点を持つことが求められています。","readingTime":null,"author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","featured":true,"name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/Toshinaki_avatar.png","avatarAlt":"Toshinaki","professional":{"__typename":"AuthorProfessional","title":"程序员（前端为主，后端努力中）","company":"Stockmark Inc.","bio":{"type":"root","children":[]},"resume":null},"contact":{"__typename":"AuthorContact","email":null,"location":null,"timezone":"Asia/Tokyo","availableForWork":null,"website":null},"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"expertise":{"__typename":"AuthorExpertise","skills":null,"interests":null,"languages":[{"__typename":"AuthorExpertiseLanguages","language":"汉语","proficiency":"母语"},{"__typename":"AuthorExpertiseLanguages","language":"日语","proficiency":"流利"},{"__typename":"AuthorExpertiseLanguages","language":"英语","proficiency":"基础"}]},"backgroundInfo":null,"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"tags":null,"coverImage":"/uploads/posts/covers/https___substack-post-media.s3.amazonaws.com_public_images_9e6026ae-3214-40c8-ba45-d30fcf31967d_1456x910[1].jpeg","coverImageAlt":"無限に拡張するメガストラクチャー","series":null,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"多くの人が筆者と似たような感覚を抱いているのではないでしょうか。"}]},{"type":"p","children":[{"type":"text","text":"昨年から、AIは徐々に生活に欠かせない存在となってきました。使用頻度は高まり、関わる範囲は広がり、依存度も深まっています。\n同時に、執筆、プログラミング、検索、デザイン、カスタマーサービスなど、ほぼすべての情報集約型分野をカバーする形で、多種多様なAI製品が爆発的なスピードで出現しています。"}]},{"type":"p","children":[{"type":"text","text":"かなりの長期間、これらのAI製品の使用は筆者にそれほど多くの思考をもたらすことはありませんでした。むしろ、単にこう感嘆していただけでした。\n**「なんて便利な時代なんだ」**と。"}]},{"type":"p","children":[{"type":"text","text":"しかしある日、筆者は偶然、採用活動に使用されている「AIツール」に触れました。その瞬間、脳内の神経シナプスが活性化され、最初に浮かんできたイメージは——"},{"type":"text","text":"シビュラシステム","bold":true},{"type":"text","text":"でした。"}]},{"type":"p","children":[{"type":"img","url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQ1pyYno_kAAw3Eo_uDOM0J_w96pJGnfn1Q&s","caption":null,"children":[{"type":"text","text":""}]}]},{"type":"h2","children":[{"type":"text","text":"シビュラシステム：単なる「犯罪予測」ではない"}]},{"type":"p","children":[{"type":"text","text":"シビュラシステムは、アニメ"},{"type":"a","url":"https://ja.wikipedia.org/wiki/PSYCHO-PASS_%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%82%B9","title":null,"children":[{"type":"text","text":"『PSYCHO-PASS サイコパス』"}]},{"type":"text","text":"に登場する架空の社会管理システムです。多くの人の印象は「犯罪係数の監視」に留まっているかもしれません。それは主に「犯罪」というテーマがドラマチックな葛藤を生み出しやすく、作品内で多く描写されているからです。\nより古い映画『マイノリティ・リポート』でも、同様の犯罪予測制度が描かれていました。また、近年注目を集めているドラマ『ブラック・ミラー』でも、この種のエピソードは頻繁に登場します。"}]},{"type":"p","children":[{"type":"text","text":"しかし、シビュラシステムは単なる犯罪傾向の監視システムではありません。それは、ある人間が何に向いているか、どこまで行けるかを直接決定します。学業や職業から、責任あるポストに就く資格があるか、さらには結婚や出産の権利にまで影響を及ぼします。言い換えれば、個人の「人生の選択」が、システムによって計算された「最適解」に置き換わるのです。シビュラシステムの制御下では、個体は選択をしているのではなく、割り当てられた人生の経路を実行しているに過ぎません。"}]},{"type":"p","children":[{"type":"text","text":"もちろん、現在の現実世界におけるAI技術は、これらの作品に登場するシステムとはまだ程遠いものです。"}]},{"type":"p","children":[{"type":"text","text":"そして、これらの作品で議論される「自由」「選択」「人権」といった壮大なテーマも、筆者が今この瞬間に最も関心を寄せている問題ではありません。"}]},{"type":"p","children":[{"type":"text","text":"筆者の真の懸念は、別の次元から来ています。"}]},{"type":"h2","children":[{"type":"text","text":"AIの「偏見」"}]},{"type":"p","children":[{"type":"text","text":"まず、いくつかの現実の事例を見てみましょう。"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"2018年の報道によると、Amazonの採用AIは過去10年間の採用データで学習した結果、性別への偏見を学習してしまい、最終的に廃止されました。"},{"type":"a","url":"https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"1"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"2016年のCOMPAS再犯リスク評価ツールに関する調査では、このシステムが黒人を「高リスク」と評価する確率が白人よりも明らかに高く、アルゴリズムが司法実務において深刻な公平性の疑問をもたらしていることが示されました。"},{"type":"a","url":"https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"2"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"MITの実験とその後の学術論文は、主要な商用顔認識システムにおいて、肌の色の濃い女性の認識誤差が、肌の色の薄い男性よりも顕著に高いことを示しました。"},{"type":"a","url":"https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"3"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"2024年の研究では、ChatGPTが非標準的な英語（インド英語、アフリカ系アメリカ人英語など）に応答する際、ステレオタイプや蔑称的な内容、高圧的な口調が現れやすいことが判明しました。"},{"type":"a","url":"https://arxiv.org/abs/2406.08818?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"4"}]}]}]}]},{"type":"p","children":[{"type":"text","text":"性差別、人種差別。"}]},{"type":"blockquote","children":[{"type":"text","text":"なぜ「AI」にもこれらの差別が存在するのでしょうか？"}]},{"type":"h2","children":[{"type":"text","text":"差別は生まれつきではない：AIの本質"}]},{"type":"p","children":[{"type":"text","text":"この問いに答えるには、まず一つの事実を明確にする必要があります。"}]},{"type":"p","children":[{"type":"text","text":"現在、大衆に広く認知され使用されているAI、特に大規模言語モデル（LLM）は、本質的に"},{"type":"text","text":"統計的予測エンジン","bold":true},{"type":"text","text":"です。その目標は、膨大なテキストとラベルに基づき、与えられたコンテキストにおいて「次のトークン（単語またはサブワード）」が出現する確率を最大化することです。"}]},{"type":"p","children":[{"type":"text","text":"それは意味や因果関係を真に「理解」しているわけではなく、統計的な構造の中で最も可能性の高い継続を探しているに過ぎません。"}]},{"type":"p","children":[{"type":"text","text":"これが、現在のAIで最もよく知られている、あるいは悪名高い問題の一つである「ハルシネーション（幻覚）」に直結しています。つまり、事実の制約がない場合でも、自信満々に誤った情報を生成してしまうのです。"}]},{"type":"p","children":[{"type":"text","text":"そして、採用差別や司法の偏見といった問題は、本質的に同じ源泉から来ています。それは、"},{"type":"text","text":"訓練データ自体が抱えている歴史的・社会的偏見","bold":true},{"type":"text","text":"です。"}]},{"type":"p","children":[{"type":"text","text":"Amazonの採用システムは「女性を差別」したのではなく、歴史的に「誰がより多く採用されてきたか」を忠実に学習したのです。COMPASの問題もアルゴリズムの主観的な悪意ではなく、不平等な法執行とデータ記録に起因しています。"}]},{"type":"p","children":[{"type":"text","text":"さらに言えば、「公平」「優秀」「安全」「正常」といった概念自体、客観的に存在する実体ではなく、形容詞とその派生概念によって構成される主観的な判断です。それらに絶対性は存在せず、特定の社会、文化、時間の背景の下で形成される相対的な合意に過ぎません。ひとたびこれらの"},{"type":"text","text":"相対的な","italic":true},{"type":"text","text":"価値がモデルのパラメータにエンコードされると、それは「技術的"},{"type":"text","text":"中立","italic":true},{"type":"text","text":"」という形で長期的に固定化され、繰り返し出力されることになります。"}]},{"type":"p","children":[{"type":"text","text":"ここで心理学界の比喩があります。大量の心理学的調査や実験が在学中の大学生をサンプルに依存しているため、現代心理学は皮肉を込めて「大学生心理学」と呼ばれることがあります。"}]},{"type":"p","children":[{"type":"text","text":"これもまた、データの出所と代表性が結論の適用範囲を直接決定することを思い出させてくれます。そして、同様の問題が汎用型AIシステムで発生した場合、その影響は単一学科のサンプルバイアスよりもはるかに大きな増幅効果を持つことになります。"}]},{"type":"h3","children":[{"type":"text","text":"データ汚染攻撃"}]},{"type":"p","children":[{"type":"text","text":"さらに、問題は「意図しない複製」に留まらず、「能動的な汚染」の可能性も含んでいます。"}]},{"type":"p","children":[{"type":"text","text":"2016年、マイクロソフトの対話ロボットTayは、公開から数時間以内に大量の悪意ある入力によって過激でヘイトに満ちた言論を急速に学習・出力し、最終的に停止に追い込まれました。また、近年登場したNightshadeなどの技術は、訓練データに微小な攪乱を加えることで、システム的にモデルを「毒化」させる現実的な可能性をさらに示しています。"}]},{"type":"p","children":[{"type":"text","text":"データ自体が新たな攻撃面となっています。データの分布に影響を与えられる者が、表立たない形でモデルの振る舞い、ひいてはそれが生み出す社会的結果を変えてしまう可能性があるのです。"}]},{"type":"h2","children":[{"type":"text","text":"AI創設者たちからの警告"}]},{"type":"p","children":[{"type":"text","text":"注目すべきは、これらの懸念が外部の批判だけに存在するのではないということです。AI分野の多くの創設者たちも、同様の警戒を公に表明しています。彼らは一般的に、大規模な自己教師あり学習と表現学習が確かに汎用知能の入り口に触れていると考えていますが、LLMは依然として確率予測の枠組みの中で動作しており、堅牢な因果モデルや現実の制約に対する内的な理解を欠いていると指摘しています。"}]},{"type":"p","children":[{"type":"text","text":"これにより、モデルは文法的に完璧で論理が一貫していても、現実レベルでは成立せず、さらには価値レベルで明らかな問題がある内容を生成できてしまうのです。"}]},{"type":"p","children":[{"type":"text","text":"言い換えれば、LLMは真に「自分が何を言っているかを知っている」理解者ではなく、極めて流暢な「話し手」に近い存在です。先鋭的な政治的トピックを脇に置いたとしても、この流暢さが権威ある地位を与えられ、採用、司法、教育、金融といった重要な分野で使用されるとき、そのリスクはもはや抽象的な理論問題ではなく、現実に存在する社会的リスクとなります。"}]},{"type":"h2","children":[{"type":"text","text":"弁証法"}]},{"type":"p","children":[{"type":"text","text":"もちろん、このことが筆者が既存のAIツールを使い続けることを妨げるわけではありません。ツールの広範な使用は、事実として一部の能力の退化を招いています。例えば、筆者はもはや入力メソッドなしで、ペンを使って一編の記事を書き上げることは困難です。"}]},{"type":"p","children":[{"type":"text","text":"歴史上、登場した当初から完璧だった技術は一つもありません。弓矢が拳銃に取って代わられたからといって、特定の歴史段階における弓矢の重要な価値が否定されるわけではありません。"}]},{"type":"p","children":[{"type":"text","text":"筆者は技術そのものに反対しているわけではなく、AIがもたらす巨大な効率性と利便性を否定しているわけでもありません。ただ、あまりにも早く判断権を完全にシステムに委ねてしまうことに不安を感じているのです。"}]},{"type":"p","children":[{"type":"text","text":"従来の機械学習と比較して、LLMが巨大な飛躍であることは疑いようがありません。それは情報の取得、知識の生産、そして労働のあり方を深く変えました。\nしかし、だからこそ、"},{"type":"text","text":"その本質を理解し","bold":true},{"type":"text","text":"、"},{"type":"text","text":"その境界を見極め","bold":true},{"type":"text","text":"、"},{"type":"text","text":"その副作用を警戒すること","bold":true},{"type":"text","text":"が、かつてないほど重要になっているのです。"}]},{"type":"p","children":[{"type":"text","text":"筆者は依然として真の意味での人工知能に期待を寄せていますが、より期待しているのは——技術の進歩が最終的に、人類のより全面的な、より深い解放をもたらすことです。"}]}]},"pageLayout":null}},"errors":null,"query":"$15","variables":{"relativePath":"ja/2026-01/アンドロイド警察は電気黒人の夢を見るか.mdx"}},"isFallback":false,"adjacentPosts":{"prev":"$undefined","next":"$undefined"},"seriesInfo":null}]
+8:null
+c:[["$","title","0",{"children":"アンドロイド警察は電気黒人の夢を見るか | 再：青年"}],["$","meta","1",{"name":"description","content":"AIの急速な普及に伴い、その利便性の裏にある偏見のリスクが浮き彫りになっています。統計的予測エンジンであるAIは、学習データに含まれる社会的な差別を再現し、固定化する恐れがあります。技術を否定するのではなく、その本質と限界を正しく理解し、安易に判断を委ねない批判的な視点を持つことが求められています。"}],["$","meta","2",{"name":"author","content":"Toshinaki"}],["$","link","3",{"rel":"canonical","href":"https://re-jeunesse.org/ja/blog/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E8%AD%A6%E5%AF%9F%E3%81%AF%E9%9B%BB%E6%B0%97%E9%BB%92%E4%BA%BA%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%8B/"}],["$","link","4",{"rel":"alternate","hrefLang":"zh","href":"https://re-jeunesse.org/zh/blog/%E4%BB%BF%E7%94%9F%E8%AD%A6%E5%AF%9F%E4%BC%9A%E6%A2%A6%E5%88%B0%E7%94%B5%E5%AD%90%E9%BB%91%E4%BA%BA%E5%90%97/"}],["$","link","5",{"rel":"alternate","hrefLang":"ja","href":"https://re-jeunesse.org/ja/blog/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E8%AD%A6%E5%AF%9F%E3%81%AF%E9%9B%BB%E6%B0%97%E9%BB%92%E4%BA%BA%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%8B/"}],["$","link","6",{"rel":"alternate","hrefLang":"en","href":"https://re-jeunesse.org/en/blog/do-android-police-dream-of-electric-black-people/"}],["$","meta","7",{"property":"og:title","content":"アンドロイド警察は電気黒人の夢を見るか"}],["$","meta","8",{"property":"og:description","content":"AIの急速な普及に伴い、その利便性の裏にある偏見のリスクが浮き彫りになっています。統計的予測エンジンであるAIは、学習データに含まれる社会的な差別を再現し、固定化する恐れがあります。技術を否定するのではなく、その本質と限界を正しく理解し、安易に判断を委ねない批判的な視点を持つことが求められています。"}],["$","meta","9",{"property":"og:image","content":"https://re-jeunesse.org/uploads/posts/covers/https___substack-post-media.s3.amazonaws.com_public_images_9e6026ae-3214-40c8-ba45-d30fcf31967d_1456x910[1].jpeg"}],["$","meta","10",{"property":"og:image:alt","content":"無限に拡張するメガストラクチャー"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:modified_time","content":"2026-01-19T15:42:22.479Z"}],["$","meta","13",{"property":"article:author","content":"Toshinaki"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"アンドロイド警察は電気黒人の夢を見るか"}],["$","meta","16",{"name":"twitter:description","content":"AIの急速な普及に伴い、その利便性の裏にある偏見のリスクが浮き彫りになっています。統計的予測エンジンであるAIは、学習データに含まれる社会的な差別を再現し、固定化する恐れがあります。技術を否定するのではなく、その本質と限界を正しく理解し、安易に判断を委ねない批判的な視点を持つことが求められています。"}],["$","meta","17",{"name":"twitter:image","content":"https://re-jeunesse.org/uploads/posts/covers/https___substack-post-media.s3.amazonaws.com_public_images_9e6026ae-3214-40c8-ba45-d30fcf31967d_1456x910[1].jpeg"}],["$","meta","18",{"name":"twitter:image:alt","content":"無限に拡張するメガストラクチャー"}]]
