@@ -1,0 +1,178 @@
+1:"$Sreact.fragment"
+2:I[48126,["865","static/chunks/71059ffd-4886edb1596ab7fc.js","139","static/chunks/14924e61-fd73a40778c0a741.js","51","static/chunks/79b5b7d6-b4c4d15a623a918b.js","423","static/chunks/6f38067f-2cf920e8ad17b99a.js","376","static/chunks/434220a3-8e8ffa8e928b76b2.js","710","static/chunks/710-45a60831dbca1cdb.js","144","static/chunks/144-cdb24a4da6984149.js","731","static/chunks/731-b4cd5527968de934.js","509","static/chunks/509-037ac0be1f1fd7e2.js","218","static/chunks/218-80eb22e650aaba6d.js","45","static/chunks/45-eb118ca3946a0353.js","426","static/chunks/426-f7f1377a6a326f00.js","341","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/%5Bslug%5D/page-0f946bef465367c1.js"],"NoteRenderer"]
+5:I[41770,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Tb4d,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    private
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        featured
+        name
+        pronouns
+        avatar
+        avatarAlt
+        professional {
+          __typename
+          title
+          company
+          bio
+          resume
+        }
+        contact {
+          __typename
+          email
+          location
+          timezone
+          availableForWork
+          website
+        }
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+        expertise {
+          __typename
+          skills
+          interests
+          languages {
+            __typename
+            language
+            proficiency
+          }
+        }
+        backgroundInfo {
+          __typename
+          education
+          experience
+          certifications
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+    reading {
+      __typename
+      showTopToc
+      showTopTocTitle
+      topTocCollapsedByDefault
+      tocMaxHeadingLevel
+      showSideToc
+      sideTocMaxHeadingLevel
+      enableHeadingCollapse
+      headingCollapseLevels
+    }
+  }
+}
+    0:{"buildId":"z0gLsT98HVmu1RoR30I3e","rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"第1巻-金色の卵を産むガチョウを育てる","basename":"第1巻-金色の卵を産むガチョウを育てる.mdx","hasReferences":false,"breadcrumbs":["ja","子犬のマネー","第1巻-金色の卵を産むガチョウを育てる"],"path":"content/notes/ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","relativePath":"ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","extension":".mdx"},"id":"content/notes/ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","__typename":"NoteNote","createdAt":"2026-02-08T06:54:13.353Z","updatedAt":"2026-02-08T07:17:54.916Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","featured":true,"name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/Toshinaki_avatar.png","avatarAlt":"Toshinaki","professional":{"__typename":"AuthorProfessional","title":"程序员（前端为主，后端努力中）","company":"Stockmark Inc.","bio":{"type":"root","children":[]},"resume":null},"contact":{"__typename":"AuthorContact","email":null,"location":null,"timezone":"Asia/Tokyo","availableForWork":null,"website":null},"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"expertise":{"__typename":"AuthorExpertise","skills":null,"interests":null,"languages":[{"__typename":"AuthorExpertiseLanguages","language":"汉语","proficiency":"母语"},{"__typename":"AuthorExpertiseLanguages","language":"日语","proficiency":"流利"},{"__typename":"AuthorExpertiseLanguages","language":"英语","proficiency":"基础"}]},"backgroundInfo":null,"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"canonicalId":"a-dog-called-money-01","seriesName":"子犬のマネー","title":"第1巻：金色の卵を産むガチョウを育てる","order":1,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"『子犬のマネー』第1巻は、お金に関する物語を通して、資産形成の考え方を確立し、収入を増やし、投資を配分するまでの全プロセスを体系的に紹介しています。以下は、本書の核となる資産形成のスキルと概念です。"}]},{"type":"h3","children":[{"type":"text","text":"一、 資産形成の目標と心構えの構築"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"富を築く願望を明確にする","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"豊かになりたい"},{"type":"text","text":"10の理由","bold":true},{"type":"text","text":"を書き出し、その中から"},{"type":"text","text":"最も重要な3つの願望","bold":true},{"type":"text","text":"を核となる目標として選びます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"目標は"},{"type":"text","text":"具体化","bold":true},{"type":"text","text":"する必要があります："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「夢のアルバム」を作成し、願望に関連する写真を収集し、毎日数回見て「視覚化」思考を行い、実現した姿を想像します。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「夢の貯金箱」を設立し、実際の進捗を見えるようにします。"}]}]}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自信を築く（成功日記）","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自信は富を築く鍵です。毎日少なくとも"},{"type":"text","text":"5つの小さな成功","bold":true},{"type":"text","text":"を記録し、それによって自信を築きます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"困難や恐怖に直面したときは、成功日記を読み返し、"},{"type":"text","text":"あなたが知っていること、できること、持っているもの","bold":true},{"type":"text","text":"にエネルギーを集中させます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「する」は「する」であり、「試みる」「試す」「挑戦する」などの言葉は避けます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"周囲の意見に影響されないようにし、「意見」と「助言」の違いを明確にします。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"二、 富を築く原則と行動力"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"問題を解決することが富である","bold":true},{"type":"text","text":"：他人の問題を解決したり、価値を提供したりすることで、お金を稼ぐことができます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"行動規範","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"72時間ルール","bold":true},{"type":"text","text":"：何かをすると決めたら、72時間以内に行動に移さなければ、二度としない可能性があります。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"10分ルール","bold":true},{"type":"text","text":"：状況がどうであれ、毎日10分間、将来に大きな意味のあること（成功日記の記録、将来の構想など）を続ける。"},{"type":"text","text":"順境","bold":true},{"type":"text","text":"でも"},{"type":"text","text":"逆境","bold":true},{"type":"text","text":"でも、毎日"},{"type":"text","text":"前進","bold":true},{"type":"text","text":"し続ける必要があります。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"多様な収入源","bold":true},{"type":"text","text":"：単一の仕事だけに頼らず、自分の"},{"type":"text","text":"興味や得意なこと","bold":true},{"type":"text","text":"を利用して価値を交換し、代替収入源を探します。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"三、 収入の配分と債務処理"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"50-40-10収入配分法","bold":true},{"type":"text","text":"（基本的な生活費を差し引いた後）："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"50%は「ガチョウを育てる」ため","bold":true},{"type":"text","text":"（貯蓄投資、配当を生み出す）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"40%は「夢の貯金箱」に入れる","bold":true},{"type":"text","text":"（中短期目標達成のための資金を蓄積する）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"10%は消費に使う","bold":true},{"type":"text","text":"（日常の出費と小遣い）。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"債務処理に関する4つの忠告","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"クレジットカードを破棄する","bold":true},{"type":"text","text":"：許容範囲を超える消費を避けます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"最低限の分割払いで返済する","bold":true},{"type":"text","text":"：より多くの現金を緊急時に備えて残し、すべての余剰資金を借金返済に充てないようにします。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「半分返済、半分貯蓄」","bold":true},{"type":"text","text":"：生活費を差し引いた後、残りの資金の半分を貯蓄してガチョウを育て、もう半分を借金返済に充てることで、借金返済と同時に資産形成も行います。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"消費前の問いかけ","bold":true},{"type":"text","text":"：消費する前に「これは本当に必要か？」と自問します。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"四、 投資による資産増加（「金色の卵を産むガチョウ」を育てる）"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"ガチョウと金色の卵の論理","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「ガチョウ」は元本、「金色の卵」は利息または収益","bold":true},{"type":"text","text":"を表します。目先の消費のために「ガチョウを殺す」のではなく、元本を複利で増やし続ける必要があります。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"利息収入（金色の卵）が生活費を賄えるようになったとき、経済的自由が達成されます。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資信託の原則","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"少なくとも10年の歴史","bold":true},{"type":"text","text":"があり、"},{"type":"text","text":"大規模な多国籍","bold":true},{"type":"text","text":"の株式ファンドを選びます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"長期保有","bold":true},{"type":"text","text":"：5〜10年の投資期間を準備し、短期的な市場の下落によって売却しないようにします。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"資産形成計算ツール","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"72の法則","bold":true},{"type":"text","text":"：「72を年利で割る」と"},{"type":"text","text":"元本が2倍になるまでの時間","bold":true},{"type":"text","text":"が得られます。また、「72をインフレ率で割る」と"},{"type":"text","text":"お金の価値が半分になるまでの時間","bold":true},{"type":"text","text":"が得られます。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"五、 核となる名言のまとめ"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"お金は中立的","bold":true},{"type":"text","text":"であり、人を幸福にも不幸にもしません。それは単なる拡大鏡であり、その人の本来の姿を映し出すだけです。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"より幸福な生活を送るためには、環境の変化を期待するだけでなく、自分自身を変える必要があります","bold":true},{"type":"text","text":"。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"幸運は、十分な準備と努力の結果","bold":true},{"type":"text","text":"です。"}]}]}]}]},"reading":null}},"errors":null,"query":"$3","variables":{"relativePath":"ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx"}},"isFallback":false,"series":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["ja","子犬のマネー","index"],"path":"content/notes/ja/子犬のマネー/index.mdx","relativePath":"ja/子犬のマネー/index.mdx","extension":".mdx"},"id":"content/notes/ja/子犬のマネー/index.mdx","__typename":"NoteSeries","createdAt":"2026-02-08T06:50:19.761Z","updatedAt":"2026-02-08T07:00:57.839Z","canonicalId":"a-dog-called-money","seriesName":"子犬のマネー","title":"『子犬のマネー』読書ノート","description":null,"showOrder":true,"private":null,"progress":"not-started","coverImage":"/uploads/notes/covers/小狗钱钱1.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"子犬のマネー：子供たちに富を正しく認識させ、富を創造するように導く「お金の童話」","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/3576486/","coverImage":"/uploads/notes/sources/小狗钱钱1.jpg","notes":{"type":"root","children":[]}},{"__typename":"NoteSeriesSources","type":"book","title":"子犬のマネー2：子供たちの優れた品格を発見し育む","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/6971390/","coverImage":"/uploads/notes/sources/小狗钱钱2.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null},"adjancentNotes":{"next":{"url":"/notes/子犬のマネー/第二巻-根と実の弁証法","title":"第二巻：根と実の弁証法"}}}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null
