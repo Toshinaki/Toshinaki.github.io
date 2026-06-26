@@ -1,0 +1,370 @@
+1:"$Sreact.fragment"
+2:I[11351,[],""]
+3:I[66283,[],""]
+6:I[71838,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[71838,[],"ViewportBoundary"]
+c:I[71838,[],"MetadataBoundary"]
+e:I[31293,[],"default",1]
+:HL["/_next/static/media/013465ab24b5e2ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/03f17d7c3aa26da2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/07742062c2ec3b55-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/091c03e5d6ea6d84-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0a002f5319e6b358-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0a3f9be12cd52d6a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0e4e843640321a14-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/105f650fe2b5d42b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1245abf6aff69198-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/15fb600d42056579-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/167ee8e96fbb569c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/17072c6d3ac5dd2b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1bec96b1fc532b39-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1d3ab314c572fe59-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1fe2c2cc73a996ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/215992f82a7fc8d9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2329f82f48d3e252-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/235349d9c353e5d7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/235e1413f94eb7df-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/27189fa32c829a10-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2721c83bedfbfacc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2d39ca87528a10fe-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2eae2d0d526dd7e7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2ff7fc6f93c85c9f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3061f5b6eb250216-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3195b9990a471e0e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/37f1fd599fd51852-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/399fe7a00b199ff6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/39a945e867963fe5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3a793f372ad6908f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b210ad12b47ded7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c282db8a43b7648-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3cf3730779422fda-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3d031459eacc86dd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3d8917b52af967ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3db8134653b57583-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3ef86813b18244e4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/400ef3b3d658076e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4046ec9b7a3cd7ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/44788dbce07da950-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/45542685dcea2778-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4759979789a5a53d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4840173a88d500b9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/48ee0eb829fd67dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/492a05f84d892f68-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/494bd1e605f65b51-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/495c95e95df6df48-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4a0ad145d59630d5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4be9076b1e8d9d3a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4eaae9a755d6739d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4fb89f155b696c77-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/503e02acc3651395-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/533e956dcf04c523-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5486cf78ec8b6aa4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5535d313c4d0dd07-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/580e937fa63cc299-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5865568f9f0ed48b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5956e233d38b36b0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5a63fca0554e2af7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5a9ef9d66f53ab0d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6003289b1a0723d3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/606cdd767ee835e0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/609eb1ae761915cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/60b4cf9c89d558b0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/63885f7c1e9eccfb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/640eaa65cf124f08-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/64698228b2165a7c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/677590baa4ca2e13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/691f29e396bda4f2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d95d0c27d8047ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e0a7691717621ac-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e99d52b70c1c780-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f28feadd9af1a00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f9cf82daf0013d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70141a28668ebc54-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7527bcc8ad8212dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/78db4f537e4b09d0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ab863dbb91a9ebb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7bf733c96a9957d7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7cc2c9a860b885ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d8c7b021bdcbfbb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/804a1838fe4df1f2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/827817a6583e8e63-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/855bf691c0a65918-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/85a55989c080432c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/86e95c1ae558f263-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/87374e80e25182dd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8a968650a42b8e0a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8fb1a96451cec840-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92ebb4d8a0e206c8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92f9a759eb15589b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/953b7aa585d36a2b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/963e7e1f88cb3a00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97327acf874ffa11-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9734ccb552bd325e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97f8c491b42d68d2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/985dd91a244380ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/986436dc0499dd2f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a9788a4e16c5c51-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9ced71d9a17429e0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a191b9bac6f8600d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a4129c4f34f1b5c0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a591cdc407ab586f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a65337acff4f4821-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a849c6a4a23421a7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a92656b129864a12-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a9cda1d8a2085c55-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/aacbf89b63ff3595-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b00dd9bf215f2bdd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b3a72d9fe424b761-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b4453bb1af72eecd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b5db02f0d09d688d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b70f4c267ee5d80a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7b43acee81d05a8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7ffde2383bb16ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b8360fe28dd22583-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b86cd06026fa06d1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ba207823b79d7338-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/baf38b70164202b2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd4e47cdb1b92e8e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd8b174424a8a846-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdf029be9f79bf1e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bfb532d5b1e18ccb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0085ea68429c35d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0139f7fd13515ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c050c0dd427d93a6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0731ba78c40a013-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c40eb5c239e2500e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c4123ec14930c740-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5195215cb712e9c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5aea32fcbdafb2d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5e23c4ce2ad4d33-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c7f0fb8f1284c686-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cb2592f89a5b3482-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cdf2c76defadf6a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cf3bc018c5e93c8c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2354fc5eec55fa8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d297340ef23eda35-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2cb8298fb1a7960-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3553b6f774f5f10-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3dfc32b7cd0c1b2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f4148e673eefa1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f4c1319cb9fc96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d40b82f1199447e9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d426e27a540fb37b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d4df281bd2c98884-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d5390949c79b867c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d5eb20bcdcf5616a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6aadaac38d50a34-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6db785f12578923-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d707554fc70c9fe8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7b08b16873350f4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7b77a371bb6ff1a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db113296d95e0ea3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd25e201a7365ca8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd72cf8ee95a6209-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dea7fd53655a05d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dedba05d74695149-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dfa838533585ac88-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e02314469b6a91af-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e03d93e818236bd0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e25467c81b2f6847-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e5ac5a164fe4de15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e63949304190a2f6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e7c031161b7acec9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e8e727663d48509c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef6d3f52c547a6e3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/efad461bde42560a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0519f43f8688da0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0a41d057f0cb19e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f1f373d0bf9183e9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f2896b9701b79d61-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f3b2fa186c207b4f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f77b4e4ded2b5d1a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f892e6109f32666c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f8d8377bcc8eeb37-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/faa67b8e498729b3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/faab3f8f77e50539-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fab5947736a1b125-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fbba1c17701ceb2c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fc1b5331646ff7ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fed0a2adbb55725b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ff03e98909115ed9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ffbe681f6d1db2a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/262bd2d5b52b8135.css","style"]
+:HL["/_next/static/css/fedaceebeafe1473.css","style"]
+:HL["/_next/static/css/d8be5d8584e4e908.css","style"]
+:HL["/_next/static/css/8ba300abfc2ca1ee.css","style"]
+:HL["/_next/static/css/bed7463ddbed6219.css","style"]
+0:{"P":null,"c":["","ja","notes","%E5%AD%90%E7%8A%AC%E3%81%AE%E3%83%9E%E3%83%8D%E3%83%BC",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",null],{"children":["notes",{"children":[["series","%E5%AD%90%E7%8A%AC%E3%81%AE%E3%83%9E%E3%83%8D%E3%83%BC","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/262bd2d5b52b8135.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/fedaceebeafe1473.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/d8be5d8584e4e908.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/8ba300abfc2ca1ee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/bed7463ddbed6219.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"2yBnKGnaMEeI0Gg021CGq"}
+f:[]
+9:"$Wf"
+10:I[41879,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"ColorSchemeScript"]
+4:["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"__variable_3dc64f __variable_d2b1f7 __variable_6a8b35","children":[["$","head",null,{"children":["$","$L10",null,{}]}],["$","body",null,{"children":"$L11"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[8847,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","579","static/chunks/579-f65c76ee6a002b84.js","947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-beadf149a352c546.js"],"default"]
+11:["$","$L12",null,{"formats":"$undefined","locale":"ja","messages":{"share":{"label":"シェア","webShare":"シェア…","copy":"リンクをコピー","copied":"コピーしました","platforms":{"x":"X でシェア","facebook":"Facebook でシェア","reddit":"Reddit でシェア","line":"LINE でシェア","weibo":"Weibo でシェア","qzone":"Qzone でシェア","douban":"Douban でシェア","email":"メールでシェア"}},"meta":{"siteName":"再：青年","siteDescription":"自分を解放せよ。世界を解放せよ。","titleTemplate":"{title} | {siteName}","noteSeriesDescription":"「{series}」シリーズのノート"},"home":{"intro":{"greeting":"{greeting}、{name} です 👋","greetings":{"default":"こんにちは","morning":{"hello":["おはよう","おはようございます"],"line":["起きた","また一日"]},"noon":{"hello":["こんにちは","やあ"],"line":["お昼ですね"]},"afternoon":{"hello":["こんにちは"],"line":["眠くなる時間","まだ頑張ってる"]},"evening":{"hello":["こんばんは"],"line":["一日お疲れ","いい夜です"]},"night":{"hello":[],"line":["夜更けです","まだ起きてる","夜は長い"]}},"more":"私について"},"hero":{"reshuffle":"シャッフル"},"recent":{"heading":"最近の更新"},"featured":{"heading":"おすすめ","drag":"↔ ドラッグで移動"},"entries":{"heading":"見てまわる","go":"入る","blog":{"title":"ブログ","description":"随筆・思考・技術メモ"},"notes":{"title":"ノート","description":"体系的な読書・学習シリーズ"},"projects":{"title":"プロジェクト","description":"作ったもの・オープンソース"}}},"pages":{"404":{"title":"ページが見つかりません | {siteName}","description":"お探しのページは存在しないか、移動した可能性があります。"},"blog":{"title":"ブログ","description":"記録と共有","allPosts":"すべての記事","recentPosts":"最近の記事","featuredPosts":"おすすめの記事","byTag":"タグ: {tag}","bySeries":"シリーズ: {series}","noPosts":"記事がありません","postsCount":"{count, plural, one {# 記事} other {# 記事}}","series":{"title":"連載シリーズ","viewAll":"シリーズ全体を見る"}},"notes":{"title":"ノート","description":"学習の記録","allNotes":"すべてのノート","allSeries":"すべてのシリーズ","seriesOverview":"シリーズ概要","noNotes":"ノートがありません","notesCount":"{count, plural, one {# ノート} other {# ノート}}","chapters":"全 {count, plural, one {# 章} other {# 章}}","progress":{"label":"学習状況","not-started":"未着手","in-progress":"学習中","completed":"完了","on-hold":"保留"},"source":{"title":"学習リソース","book":"書籍","video":"動画","by":"{creator}","platform":"プラットフォーム: {platform}","moreInfo":"詳細情報"}},"projects":{"title":"プロジェクト","description":"制作物・ポートフォリオ","allProjects":"すべてのプロジェクト","featuredProjects":"注目のプロジェクト","noProjects":"プロジェクトがありません","projectsCount":"{count, plural, one {# プロジェクト} other {# プロジェクト}}","techStack":"使用技術","viewProject":"プロジェクトを見る","viewSource":"ソースコードを見る","status":{"label":"ステータス","inProgress":"開発中","completed":"完了","archived":"アーカイブ済み"},"date":"日付","linkType":{"website":"ウェブサイト","github":"GitHub","gitlab":"GitLab","gitee":"Gitee","bitbucket":"Bitbucket","npm":"npm","docs":"ドキュメント","other":"リンク"}},"about":{"title":"このサイトについて"},"portfolio":{"title":"私について","now":"近況","bio":"私という人間","background":{"education":"学歴","experience":"職歴"},"expertise":{"skills":"スキル","interests":"趣味・関心","languages":"言語"},"social":"フォローする"},"diary":{"title":"日記","subtitle":"私的な記録","allEntries":"すべての日記","noEntries":"日記がありません","diaryCount":"{count, plural, one {# 篇の日記} other {# 篇の日記}}","mood":{"label":"気分","great":"最高","good":"良い","okay":"普通","bad":"悪い","terrible":"最悪"},"calendar":{"title":"カレンダー表示","today":"今日","hasEntry":"日記あり"}}},"common":{"readMore":"続きを読む","readingTime":"{minutes, plural, one {読了まで約 # 分} other {読了まで約 # 分}}","publishedAt":"公開日","updatedAt":"更新日","author":"著者","tags":"タグ","share":"共有","copyLink":"リンクをコピー","linkCopied":"コピーしました","loading":"読み込み中...","noResults":"コンテンツがありません","viewAll":"すべて見る","previous":"前へ","next":"次へ","backTo":"{target}へ戻る","draft":"下書き","private":"非公開","featured":"おすすめ","types":{"blog":"ブログ","notes":"ノート","projects":"プロジェクト"}},"layout":{"themeToggle":"テーマ切り替え","themeDark":"ダークモード","themeLight":"ライトモード","themeSystem":"システム準拠","languageSwitch":"言語切り替え","menu":"メニュー","closeMenu":"メニューを閉じる","copyright":"© {year} {name}. All rights reserved.","poweredBy":"Powered by {tech}"},"components":{"AdjacentPagination":{"prev":"前の記事","next":"次の記事"},"FallbackIndicator":{"title":"言語フォールバック","message":"このページは{requested}版が利用できないため、{fallback}版を表示しています。"},"ScrollToTop":{"label":"トップへ戻る"},"headingLinkButton":{"label":"リンクをコピー","copiedLabel":"コピーしました","failedLabel":"コピーに失敗しました","ariaLabel":"この見出しへのリンクをコピー","copiedAriaLabel":"この見出しへのリンクをコピーしました"},"pagination":{"page":"{total} ページ中 {current} ページ目","first":"最初","last":"最後","prev":"前へ","next":"次へ"},"toc":{"title":"目次","expandAll":"すべて展開","collapseAll":"すべて折りたたむ"},"seriesNav":{"title":"シリーズナビ","previous":"前回","next":"次回","partOf":"シリーズ「{series}」の記事","partN":"第 {n} 回 / 全 {total, plural, one {# 回} other {# 回}}"},"tagCloud":{"title":"タグクラウド","postCount":"{count, plural, one {# 記事} other {# 記事}}"}},"tags":{"title":"タグ","allTags":"すべてのタグ","postsWithTag":"「{tag}」タグの付いたコンテンツ","noTags":"タグがありません"},"search":{"title":"検索","placeholder":"記事やノートを検索...","results":"{count, plural, one {# 件見つかりました} other {# 件見つかりました}}","noResults":"見つかりませんでした","searching":"検索中...","filterBy":"絞り込み","filters":{"all":"すべて","blog":"ブログ","notes":"ノート","projects":"プロジェクト"}},"error":{"404":{"title":"ページが存在しません","message":"アクセスしようとしたページは存在しないか、削除されています。","action":"ホームに戻る"},"500":{"title":"サーバーエラー","message":"問題が発生しました。しばらくしてからもう一度お試しください。","action":"ページを再読み込み"}},"a11y":{"skipToContent":"メインコンテンツへスキップ","openMenu":"メニューを開く","closeMenu":"メニューを閉じる","externalLink":"（新しいタブで開きます）","currentPage":"現在のページ"},"time":{"justNow":"たった今","minutesAgo":"{minutes} 分前","hoursAgo":"{hours} 時間前","daysAgo":"{days} 日前","weeksAgo":"{weeks} 週間前","monthsAgo":"{months} ヶ月前","yearsAgo":"{years} 年前"}},"now":"$undefined","timeZone":"UTC","children":"$L13"}]
+14:I[14971,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"AppProvider"]
+15:I[96353,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"DatesProvider"]
+13:["$","$L14",null,{"globalConfig":{"_sys":{"filename":"global.ja","basename":"global.ja.json","hasReferences":false,"breadcrumbs":["global.ja"],"path":"content/global/global.ja.json","relativePath":"global.ja.json","extension":".json"},"id":"content/global/global.ja.json","__typename":"Global","locale":"ja","createdAt":"2026-01-07T16:05:34.692Z","updatedAt":"2026-01-07T16:08:32.942Z","siteName":"再：青年","siteDescription":null,"logoConfig":{"__typename":"GlobalLogoConfig","type":"icon","iconConfig":null,"image":null,"text":"再：青年"},"favicon":null,"ogImage":null,"header":{"__typename":"GlobalHeader","showThemeToggle":null,"nav":[{"__typename":"GlobalHeaderNav","label":"ブログ","href":"/blog","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"ノート","href":"/notes","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"プロジェクト","href":"/projects","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"日記","href":"/diary","external":false,"group":"","isPrivate":true},{"__typename":"GlobalHeaderNav","label":"私について","href":"/portfolio","external":false,"group":"概要","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"当サイトについて","href":"/about","external":false,"group":"概要","isPrivate":false}],"height":"6.5rem","breakpoints":null,"background":null},"footer":{"__typename":"GlobalFooter","copyrightText":"© 2026 JM. All rights reserved.","authorForSocial":null,"nav":[{"__typename":"GlobalFooterNav","label":"ブログ","href":"/blog","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"ノート","href":"/notes","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"プロジェクト","href":"/projects","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"私について","href":"/portfolio","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"当サイトについて","href":"/about","external":false,"group":""}],"height":"11rem","breakpoints":null,"background":null},"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":{"__typename":"GlobalThemeFontFamily","heading":"josefinSans","body":"domine"},"colorScheme":"light"},"i18n":{"__typename":"GlobalI18n","defaultLocale":"zh","supportedLocales":["zh","en","ja"]},"reading":{"__typename":"GlobalReading","showTopToc":true,"showTopTocTitle":true,"topTocCollapsedByDefault":false,"tocMaxHeadingLevel":"h3","showSideToc":true,"sideTocMaxHeadingLevel":"h3","enableHeadingCollapse":true,"headingCollapseLevels":["h2","h3"]},"analytics":null,"rss":null,"comments":null},"shouldIncludePrivate":false,"children":["$","$L15",null,{"settings":{"locale":"ja"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
+16:I[96825,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","579","static/chunks/579-f65c76ee6a002b84.js","947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-beadf149a352c546.js"],"SeriesRenderer"]
+17:Ta10,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    private
+    featured
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        name
+        pronouns
+        avatar
+        avatarAlt
+        tagline
+        jobTitle
+        company
+        intro
+        now
+        about
+        skills {
+          __typename
+          group
+          items
+        }
+        interests {
+          __typename
+          group
+          items
+        }
+        email
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+    reading {
+      __typename
+      showTopToc
+      showTopTocTitle
+      topTocCollapsedByDefault
+      tocMaxHeadingLevel
+      showSideToc
+      sideTocMaxHeadingLevel
+      enableHeadingCollapse
+      headingCollapseLevels
+    }
+  }
+}
+    5:["$","$L16",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["ja","子犬のマネー","index"],"path":"content/notes/ja/子犬のマネー/index.mdx","relativePath":"ja/子犬のマネー/index.mdx","extension":".mdx"},"id":"content/notes/ja/子犬のマネー/index.mdx","__typename":"NoteSeries","createdAt":"2026-02-08T06:50:19.761Z","updatedAt":"2026-02-08T07:00:57.839Z","canonicalId":"a-dog-called-money","seriesName":"子犬のマネー","title":"『子犬のマネー』読書ノート","description":null,"showOrder":true,"private":null,"featured":true,"progress":"completed","coverImage":"/uploads/notes/covers/小狗钱钱1.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"子犬のマネー：子供たちに富を正しく認識させ、富を創造するように導く「お金の童話」","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/3576486/","coverImage":"/uploads/notes/sources/小狗钱钱1.jpg","notes":{"type":"root","children":[]}},{"__typename":"NoteSeriesSources","type":"book","title":"子犬のマネー2：子供たちの優れた品格を発見し育む","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/6971390/","coverImage":"/uploads/notes/sources/小狗钱钱2.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null}},"errors":null,"query":"$17","variables":{"relativePath":"ja/子犬のマネー/index.mdx"}},"isFallback":false,"notes":[{"_sys":{"filename":"第1巻-金色の卵を産むガチョウを育てる","basename":"第1巻-金色の卵を産むガチョウを育てる.mdx","hasReferences":null,"breadcrumbs":["ja","子犬のマネー","第1巻-金色の卵を産むガチョウを育てる"],"path":"content/notes/ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","relativePath":"ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","extension":".mdx"},"id":"content/notes/ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","__typename":"NoteNote","createdAt":"2026-02-08T06:54:13.353Z","updatedAt":"2026-02-08T07:17:54.916Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["創造者","生涯学習","デジタルノマド（目標）"],"jobTitle":"プログラマー（フロント中心、バックエンド勉強中）","company":"Stockmark Inc.","intro":"いい年の独身男。投資・資産運用は初心者。プログラミングは趣味——「作る」ことが好きで、コードは低コストで無公害な制作手段だから。そして仕事でもある。今はリモートワーク、目標はデジタルノマド。\nこれからはゲームを作りたいし、3Dプリンターも触ってみたい。\n運動不足なので、自分に無理やり自転車を漕がせている——もちろん自転車そのものも好きだけど。痩せすぎに見えないよう、軽く筋トレも。辛いものが好き、パクチーも好き。ホラー映画も好き。\n学ぶのが好きで、役に立つものも立たないものも、いろんなスキルを。\n文学少女が好き。\n「逆・哲学的自殺」から抜け出そうともがいている最中。","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"codex の無能さにうんざりして、Claude に乗り換えた。今は「3/n刀流」——このサイト、ローカルのボードゲームプラットフォーム、タスク管理システムを同時に進めている。Claude は codex よりはマシだが、トークンの制限がきつすぎるし、細かいところは結局自分で見るしかない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資のほうは、トランプと中東のニュースに心を揺さぶられっぱなし。ゴールドをだいぶ買ったが、高値づかみで、いまは含み損。唯一の利益は円安から——日本政府、いい加減なんとかならないのか？！"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"意味を渇望しながら、その意味を信じてはいない。"}]},{"type":"p","children":[{"type":"text","text":"他人の目に、俺はおそらくかなり理性的な人間として映る——自分でもそう思っていた。けれど最近になってようやく気づいた、というより、ようやく直視する気になったのだ。心の奥には、ずっともう一人のひどく感情的な自分が、底色として在り続けていた。たぶん、この理性と感性の長きにわたる争いこそが、今の俺を形づくってきたのだろう。"}]},{"type":"h5","children":[{"type":"text","text":"苦しむシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"仏は、人に八苦ありと説く。生・老・病・死、それは天の定めた半分であり、人の意志ではどうにもならず、誰一人逃れられない。もう半分——求不得、愛別離、怨憎会、そしてあの「五陰熾盛」——は、すべて人の心から生まれる。感性ゆえに、俺はあまりにたやすく心を動かされ、それゆえあまりにたやすく傷つく。世は無常、人生は意のままにならぬことが十のうち八九。こうして苦しみは、影のように付きまとう。"}]},{"type":"p","children":[{"type":"text","text":"少しずつ、それに対処するすべを編み出してきた。気を紛らわすこと、これは意識的にずっと試みてきたもの。「逆・哲学的自殺」、これは無意識のうちに、ずっとやってきたもの。"}]},{"type":"p","children":[{"type":"text","text":"この歳になって振り返ると、理性はおそらく、生まれつき備わったものではない。むしろ一つの選択なのだ——感性に、そして感性の生む苦しみに対抗するために、俺は自分を理性的に保つことを選んだ。正直に言えば、効き目はさほどよくない。"}]},{"type":"p","children":[{"type":"text","text":"カミュは言う。「不条理」は、「意味を求める人間」と「沈黙する世界という現実」との衝突から生まれる、と。いかなる意味も与えてくれない宇宙を前にして、人は——物理的に自殺し、苦しみを根元から断つか。それは臆病な妥協だ。あるいは「哲学的自殺」、信仰（信仰への飛躍）に身を投じて人為的に意味を与えるか。それは理性への裏切りだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は気を紛らわそうとした。役に立つものも立たないものも、さまざまな技能を学んだ。手仕事が好きだ。折り紙が好きだ。コードを書くのが好きだ。「作る」ことが好きなのだ——こういう、目標のはっきりしたことが。一本の明快な道を一歩ずつ進んでいるとき、俺はそこへ完全に没入できる。そのとき「自分」は消え去り、苦しみの感覚も、しばし忘れていられる。"}]},{"type":"p","children":[{"type":"text","text":"けれど忘却は束の間で、気晴らしもまた一時のものにすぎない。"}]},{"type":"p","children":[{"type":"text","text":"目をそらすことは、解決ではない。そこで俺は、逆向きの「哲学的自殺」へと入っていった。俺の理性と矜持は、より偉大な存在があり、しかも自分は決してそれには成り得ない、と認めることを許さない。だから信仰は、俺の解にはならない。代わりに俺は、自分の内にある意味への欲求そのものを、解体することを選んだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は自分に言い聞かせる。世界に意味などないのだと。太陽はいつか地球を呑み込み、宇宙もやがて熱的死へと帰してゆくのだと。すべては定められた法則のままに動き、過去も現在も未来もとうに決まっていて、いわゆる自由意志など、人間の傲慢が生んだ幻にすぎないのだと。"}]},{"type":"p","children":[{"type":"text","text":"だが、これも明らかにうまくはいかなかった。さもなければ、俺は今ごろどこかの寺で頭を剃り、木魚を叩いているか、道服をまとって名山大川を訪ね歩いているはずだ。"}]},{"type":"p","children":[{"type":"text","text":"その果てが、今の俺だ——帯に短し襷に長し。多くを望みながら、失うことを恐れている。うっすらと、学習性無力感のようなものが漂う。何もかもが、不条理との戦いに敗れたあとの無力感に満ちている。"}]},{"type":"p","children":[{"type":"text","text":"だが、こんな不健康な生き方に、俺は少し倦んできた。"}]},{"type":"p","children":[{"type":"text","text":"最近、新しい試みを始めた。"},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":"——運命を愛せよ。足もとの道ばかりを見つめるのではなく、道すがらの風景にも、目を向けてみる。"}]},{"type":"p","children":[{"type":"text","text":"覚えている。ある夕暮れ、淀川沿いを自転車で走っていると、夕日が岸辺の木の葉に射していた。葉は揺れながらきらきらと光り、みずみずしくて——その一瞬、「かわいい」という言葉の意味が、少しわかった気がした。それから、子どもの頃に見た、マーティンという少年が主人公のアニメを思い出す。マーティンは毎朝ちがう場所で目を覚まし、ちがう素性の誰かになり、ちがう人生を生きる——俺が望んでいたのは、どうやらずっと、それだったのだ。"}]},{"type":"p","children":[{"type":"text","text":"もしかすると、これこそがカミュの説いた、不条理への対し方——反抗、なのだろうか。"}]},{"type":"h5","children":[{"type":"text","text":"幸福なシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"俺は、デジタルノマドになるための準備を始めた。お金の管理を始め、投資を学び、収入を——とりわけ不労所得を——増やす方法を探している。身のまわりの、さまざまな人や物事に目を留めるようになった。この「道を行く」という感覚を、楽しもうとし始めている。"}]},{"type":"p","children":[{"type":"text","text":"これは本当に、俺の道なのだろうか。わからない。それでも俺は、この道は幸福なのだと、自分に信じ込ませなければならない。もし十分に幸運なら、いつの日か、本当に自分のものと呼べる「道」を、見つけられるかもしれない。"}]},{"type":"p","children":[{"type":"text","text":"人生はあわただしい百年、夢幻泡影のごとし。ただ願わくは、定められた死が訪れるそのとき、俺が安らかにこう言えますように——「我すでに道を行く、死すとも悔いなし」と。"}]}]},"skills":[{"__typename":"AuthorSkills","group":"技術","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"言語","items":["中国語 · 母語","日本語 · 流暢","英語 · 入門"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["学習","読書","制作","サイクリング","ギター練習"]},{"__typename":"AuthorInterests","group":"やりたいこと","items":["ゲーム開発","3Dプリント"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"canonicalId":"a-dog-called-money-01","seriesName":"子犬のマネー","title":"第1巻：金色の卵を産むガチョウを育てる","order":1,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"『子犬のマネー』第1巻は、お金に関する物語を通して、資産形成の考え方を確立し、収入を増やし、投資を配分するまでの全プロセスを体系的に紹介しています。以下は、本書の核となる資産形成のスキルと概念です。"}]},{"type":"h3","children":[{"type":"text","text":"一、 資産形成の目標と心構えの構築"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"富を築く願望を明確にする","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"豊かになりたい"},{"type":"text","text":"10の理由","bold":true},{"type":"text","text":"を書き出し、その中から"},{"type":"text","text":"最も重要な3つの願望","bold":true},{"type":"text","text":"を核となる目標として選びます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"目標は"},{"type":"text","text":"具体化","bold":true},{"type":"text","text":"する必要があります："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「夢のアルバム」を作成し、願望に関連する写真を収集し、毎日数回見て「視覚化」思考を行い、実現した姿を想像します。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「夢の貯金箱」を設立し、実際の進捗を見えるようにします。"}]}]}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自信を築く（成功日記）","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自信は富を築く鍵です。毎日少なくとも"},{"type":"text","text":"5つの小さな成功","bold":true},{"type":"text","text":"を記録し、それによって自信を築きます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"困難や恐怖に直面したときは、成功日記を読み返し、"},{"type":"text","text":"あなたが知っていること、できること、持っているもの","bold":true},{"type":"text","text":"にエネルギーを集中させます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「する」は「する」であり、「試みる」「試す」「挑戦する」などの言葉は避けます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"周囲の意見に影響されないようにし、「意見」と「助言」の違いを明確にします。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"二、 富を築く原則と行動力"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"問題を解決することが富である","bold":true},{"type":"text","text":"：他人の問題を解決したり、価値を提供したりすることで、お金を稼ぐことができます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"行動規範","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"72時間ルール","bold":true},{"type":"text","text":"：何かをすると決めたら、72時間以内に行動に移さなければ、二度としない可能性があります。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"10分ルール","bold":true},{"type":"text","text":"：状況がどうであれ、毎日10分間、将来に大きな意味のあること（成功日記の記録、将来の構想など）を続ける。"},{"type":"text","text":"順境","bold":true},{"type":"text","text":"でも"},{"type":"text","text":"逆境","bold":true},{"type":"text","text":"でも、毎日"},{"type":"text","text":"前進","bold":true},{"type":"text","text":"し続ける必要があります。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"多様な収入源","bold":true},{"type":"text","text":"：単一の仕事だけに頼らず、自分の"},{"type":"text","text":"興味や得意なこと","bold":true},{"type":"text","text":"を利用して価値を交換し、代替収入源を探します。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"三、 収入の配分と債務処理"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"50-40-10収入配分法","bold":true},{"type":"text","text":"（基本的な生活費を差し引いた後）："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"50%は「ガチョウを育てる」ため","bold":true},{"type":"text","text":"（貯蓄投資、配当を生み出す）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"40%は「夢の貯金箱」に入れる","bold":true},{"type":"text","text":"（中短期目標達成のための資金を蓄積する）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"10%は消費に使う","bold":true},{"type":"text","text":"（日常の出費と小遣い）。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"債務処理に関する4つの忠告","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"クレジットカードを破棄する","bold":true},{"type":"text","text":"：許容範囲を超える消費を避けます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"最低限の分割払いで返済する","bold":true},{"type":"text","text":"：より多くの現金を緊急時に備えて残し、すべての余剰資金を借金返済に充てないようにします。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「半分返済、半分貯蓄」","bold":true},{"type":"text","text":"：生活費を差し引いた後、残りの資金の半分を貯蓄してガチョウを育て、もう半分を借金返済に充てることで、借金返済と同時に資産形成も行います。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"消費前の問いかけ","bold":true},{"type":"text","text":"：消費する前に「これは本当に必要か？」と自問します。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"四、 投資による資産増加（「金色の卵を産むガチョウ」を育てる）"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"ガチョウと金色の卵の論理","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「ガチョウ」は元本、「金色の卵」は利息または収益","bold":true},{"type":"text","text":"を表します。目先の消費のために「ガチョウを殺す」のではなく、元本を複利で増やし続ける必要があります。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"利息収入（金色の卵）が生活費を賄えるようになったとき、経済的自由が達成されます。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資信託の原則","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"少なくとも10年の歴史","bold":true},{"type":"text","text":"があり、"},{"type":"text","text":"大規模な多国籍","bold":true},{"type":"text","text":"の株式ファンドを選びます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"長期保有","bold":true},{"type":"text","text":"：5〜10年の投資期間を準備し、短期的な市場の下落によって売却しないようにします。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"資産形成計算ツール","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"72の法則","bold":true},{"type":"text","text":"：「72を年利で割る」と"},{"type":"text","text":"元本が2倍になるまでの時間","bold":true},{"type":"text","text":"が得られます。また、「72をインフレ率で割る」と"},{"type":"text","text":"お金の価値が半分になるまでの時間","bold":true},{"type":"text","text":"が得られます。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"五、 核となる名言のまとめ"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"お金は中立的","bold":true},{"type":"text","text":"であり、人を幸福にも不幸にもしません。それは単なる拡大鏡であり、その人の本来の姿を映し出すだけです。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"より幸福な生活を送るためには、環境の変化を期待するだけでなく、自分自身を変える必要があります","bold":true},{"type":"text","text":"。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"幸運は、十分な準備と努力の結果","bold":true},{"type":"text","text":"です。"}]}]}]}]},"reading":null},{"_sys":{"filename":"第二巻-根と実の弁証法","basename":"第二巻-根と実の弁証法.mdx","hasReferences":null,"breadcrumbs":["ja","子犬のマネー","第二巻-根と実の弁証法"],"path":"content/notes/ja/子犬のマネー/第二巻-根と実の弁証法.mdx","relativePath":"ja/子犬のマネー/第二巻-根と実の弁証法.mdx","extension":".mdx"},"id":"content/notes/ja/子犬のマネー/第二巻-根と実の弁証法.mdx","__typename":"NoteNote","createdAt":"2026-02-09T13:57:35.142Z","updatedAt":"2026-02-09T13:57:35.142Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["創造者","生涯学習","デジタルノマド（目標）"],"jobTitle":"プログラマー（フロント中心、バックエンド勉強中）","company":"Stockmark Inc.","intro":"いい年の独身男。投資・資産運用は初心者。プログラミングは趣味——「作る」ことが好きで、コードは低コストで無公害な制作手段だから。そして仕事でもある。今はリモートワーク、目標はデジタルノマド。\nこれからはゲームを作りたいし、3Dプリンターも触ってみたい。\n運動不足なので、自分に無理やり自転車を漕がせている——もちろん自転車そのものも好きだけど。痩せすぎに見えないよう、軽く筋トレも。辛いものが好き、パクチーも好き。ホラー映画も好き。\n学ぶのが好きで、役に立つものも立たないものも、いろんなスキルを。\n文学少女が好き。\n「逆・哲学的自殺」から抜け出そうともがいている最中。","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"codex の無能さにうんざりして、Claude に乗り換えた。今は「3/n刀流」——このサイト、ローカルのボードゲームプラットフォーム、タスク管理システムを同時に進めている。Claude は codex よりはマシだが、トークンの制限がきつすぎるし、細かいところは結局自分で見るしかない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資のほうは、トランプと中東のニュースに心を揺さぶられっぱなし。ゴールドをだいぶ買ったが、高値づかみで、いまは含み損。唯一の利益は円安から——日本政府、いい加減なんとかならないのか？！"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"意味を渇望しながら、その意味を信じてはいない。"}]},{"type":"p","children":[{"type":"text","text":"他人の目に、俺はおそらくかなり理性的な人間として映る——自分でもそう思っていた。けれど最近になってようやく気づいた、というより、ようやく直視する気になったのだ。心の奥には、ずっともう一人のひどく感情的な自分が、底色として在り続けていた。たぶん、この理性と感性の長きにわたる争いこそが、今の俺を形づくってきたのだろう。"}]},{"type":"h5","children":[{"type":"text","text":"苦しむシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"仏は、人に八苦ありと説く。生・老・病・死、それは天の定めた半分であり、人の意志ではどうにもならず、誰一人逃れられない。もう半分——求不得、愛別離、怨憎会、そしてあの「五陰熾盛」——は、すべて人の心から生まれる。感性ゆえに、俺はあまりにたやすく心を動かされ、それゆえあまりにたやすく傷つく。世は無常、人生は意のままにならぬことが十のうち八九。こうして苦しみは、影のように付きまとう。"}]},{"type":"p","children":[{"type":"text","text":"少しずつ、それに対処するすべを編み出してきた。気を紛らわすこと、これは意識的にずっと試みてきたもの。「逆・哲学的自殺」、これは無意識のうちに、ずっとやってきたもの。"}]},{"type":"p","children":[{"type":"text","text":"この歳になって振り返ると、理性はおそらく、生まれつき備わったものではない。むしろ一つの選択なのだ——感性に、そして感性の生む苦しみに対抗するために、俺は自分を理性的に保つことを選んだ。正直に言えば、効き目はさほどよくない。"}]},{"type":"p","children":[{"type":"text","text":"カミュは言う。「不条理」は、「意味を求める人間」と「沈黙する世界という現実」との衝突から生まれる、と。いかなる意味も与えてくれない宇宙を前にして、人は——物理的に自殺し、苦しみを根元から断つか。それは臆病な妥協だ。あるいは「哲学的自殺」、信仰（信仰への飛躍）に身を投じて人為的に意味を与えるか。それは理性への裏切りだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は気を紛らわそうとした。役に立つものも立たないものも、さまざまな技能を学んだ。手仕事が好きだ。折り紙が好きだ。コードを書くのが好きだ。「作る」ことが好きなのだ——こういう、目標のはっきりしたことが。一本の明快な道を一歩ずつ進んでいるとき、俺はそこへ完全に没入できる。そのとき「自分」は消え去り、苦しみの感覚も、しばし忘れていられる。"}]},{"type":"p","children":[{"type":"text","text":"けれど忘却は束の間で、気晴らしもまた一時のものにすぎない。"}]},{"type":"p","children":[{"type":"text","text":"目をそらすことは、解決ではない。そこで俺は、逆向きの「哲学的自殺」へと入っていった。俺の理性と矜持は、より偉大な存在があり、しかも自分は決してそれには成り得ない、と認めることを許さない。だから信仰は、俺の解にはならない。代わりに俺は、自分の内にある意味への欲求そのものを、解体することを選んだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は自分に言い聞かせる。世界に意味などないのだと。太陽はいつか地球を呑み込み、宇宙もやがて熱的死へと帰してゆくのだと。すべては定められた法則のままに動き、過去も現在も未来もとうに決まっていて、いわゆる自由意志など、人間の傲慢が生んだ幻にすぎないのだと。"}]},{"type":"p","children":[{"type":"text","text":"だが、これも明らかにうまくはいかなかった。さもなければ、俺は今ごろどこかの寺で頭を剃り、木魚を叩いているか、道服をまとって名山大川を訪ね歩いているはずだ。"}]},{"type":"p","children":[{"type":"text","text":"その果てが、今の俺だ——帯に短し襷に長し。多くを望みながら、失うことを恐れている。うっすらと、学習性無力感のようなものが漂う。何もかもが、不条理との戦いに敗れたあとの無力感に満ちている。"}]},{"type":"p","children":[{"type":"text","text":"だが、こんな不健康な生き方に、俺は少し倦んできた。"}]},{"type":"p","children":[{"type":"text","text":"最近、新しい試みを始めた。"},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":"——運命を愛せよ。足もとの道ばかりを見つめるのではなく、道すがらの風景にも、目を向けてみる。"}]},{"type":"p","children":[{"type":"text","text":"覚えている。ある夕暮れ、淀川沿いを自転車で走っていると、夕日が岸辺の木の葉に射していた。葉は揺れながらきらきらと光り、みずみずしくて——その一瞬、「かわいい」という言葉の意味が、少しわかった気がした。それから、子どもの頃に見た、マーティンという少年が主人公のアニメを思い出す。マーティンは毎朝ちがう場所で目を覚まし、ちがう素性の誰かになり、ちがう人生を生きる——俺が望んでいたのは、どうやらずっと、それだったのだ。"}]},{"type":"p","children":[{"type":"text","text":"もしかすると、これこそがカミュの説いた、不条理への対し方——反抗、なのだろうか。"}]},{"type":"h5","children":[{"type":"text","text":"幸福なシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"俺は、デジタルノマドになるための準備を始めた。お金の管理を始め、投資を学び、収入を——とりわけ不労所得を——増やす方法を探している。身のまわりの、さまざまな人や物事に目を留めるようになった。この「道を行く」という感覚を、楽しもうとし始めている。"}]},{"type":"p","children":[{"type":"text","text":"これは本当に、俺の道なのだろうか。わからない。それでも俺は、この道は幸福なのだと、自分に信じ込ませなければならない。もし十分に幸運なら、いつの日か、本当に自分のものと呼べる「道」を、見つけられるかもしれない。"}]},{"type":"p","children":[{"type":"text","text":"人生はあわただしい百年、夢幻泡影のごとし。ただ願わくは、定められた死が訪れるそのとき、俺が安らかにこう言えますように——「我すでに道を行く、死すとも悔いなし」と。"}]}]},"skills":[{"__typename":"AuthorSkills","group":"技術","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"言語","items":["中国語 · 母語","日本語 · 流暢","英語 · 入門"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["学習","読書","制作","サイクリング","ギター練習"]},{"__typename":"AuthorInterests","group":"やりたいこと","items":["ゲーム開発","3Dプリント"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"canonicalId":"a-dog-called-money-02","seriesName":"子犬のマネー","title":"第二巻：根と実の弁証法","order":2,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"『子犬のマネー2』の核心テーマは、第一巻の「お金の管理方法」から**「人格の形成方法」"},{"type":"text","text":"へと昇華しています。著者は","bold":true},{"type":"text","text":"「ドーナツ原理」**を通じて、物質的富（外側の輪）と内なる人格（中央の穴）が表裏一体である弁証法的関係を説明し、優れた人格が永続的な幸福と真の成功を得るための礎であることを強調しています。"}]},{"type":"h3","children":[{"type":"text","text":"一、核心理論：ドーナツ原理 (The Donut Principle)"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"外側の輪（目に見える成功）","bold":true},{"type":"text","text":"：お金、名声、キャリアを表します。これらは目に見えますが、外側の輪だけでは人生は不完全です。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"中央の穴（内なる人格）","bold":true},{"type":"text","text":"：人間の内面を表します。目には見えませんが、ドーナツが真に存在する意味です。人格に裏打ちされていない成功は空虚で脆いものです。"}]}]}]},{"type":"h4","children":[{"type":"text","text":"根と実の弁証法"}]},{"type":"p","children":[{"type":"text","text":"中国語の文脈により適合させるため、「ドーナツ」を**「樹木モデル」**に変換することができます。"}]},{"type":"p","children":[{"type":"text","text":"• "},{"type":"text","text":"実","bold":true},{"type":"text","text":"（外的な成功）：ドーナツの外側の輪に対応します。お金、名声、キャリアを表します。これらは目に見える成果ですが、実だけを追い求め、根系を無視すれば、富は長続きしません。"}]},{"type":"p","children":[{"type":"text","text":"• "},{"type":"text","text":"根系","bold":true},{"type":"text","text":"（内なる人格）：ドーナツの中央の穴に対応します。人間の内面を表します。地中に深く埋まっていて目には見えませんが、木全体の生命の源であり、実の豊かさと甘さを決定します。"}]},{"type":"p","children":[{"type":"text","text":"• 核心ロジック：お金自体は中立的な拡大鏡であり、その人の本来の姿を映し出します。"},{"type":"text","text":"真の豊かさとは、内面と外面を共に磨き、物質と精神のバランスが取れた状態です","bold":true},{"type":"text","text":"。優れた人格に裏打ちされていない成功は空虚で脆いものです。"}]},{"type":"h3","children":[{"type":"text","text":"二、優れた人格を形成するための七つの原則"}]},{"type":"p","children":[{"type":"text","text":"本書の真髄は、「内なる富」を育むための七つの具体的な原則にあり、これこそが人を「より価値ある存在」にする鍵です。"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"友好的で親しみやすい (Friendly & Kind)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"無益な争いには一切介入せず、自分を抑える。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"謙虚で礼儀正しく、自分が常に正しいわけではないと認める。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"他人を傷つけず、他人も同様に素晴らしい人生を送れることを願う。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"責任を負う勇気 (Courage to Take Responsibility)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"職責と答え","bold":true},{"type":"text","text":"：答え（Antwort）は職責（Verantwortung）の中に隠されている。何かあったら自分で決断し、責任を環境や他人に押し付けない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"言い訳をしない","bold":true},{"type":"text","text":"：責任を他人に押し付けると同時に、それに応じた権限も相手に渡してしまう。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"コントロールできることに焦点を当てる","bold":true},{"type":"text","text":"：不公平な扱いにではなく、自分ができ、知り、持っているものに注意を集中する。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"他人に親切にする (Be Kind to Others)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"光の法則","bold":true},{"type":"text","text":"：他人の長所だけを褒める。褒めるのが適切でない場合は沈黙を守る（光だけを見れば、あなた自身が光となる）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"建設的な批判","bold":true},{"type":"text","text":"：できるだけ他人を批判しない。もし批判する必要がある場合は、礼儀正しく友好的な方法で行う。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"助け、与える (Helping & Giving)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"利他精神","bold":true},{"type":"text","text":"：無償で他人を助けたり、喜びをもたらしたりする機会を探す。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"感情の調整","bold":true},{"type":"text","text":"：気分が落ち込んでいるとき、他人を助けることでポジティブなフィードバックと喜びを得る。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"感謝の心 (Gratitude)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"奇跡に注目する","bold":true},{"type":"text","text":"：当たり前のように見えること（見る、聞く、歩く能力など）に感謝の気持ちを持ち続ける。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"困難の中での気づき","bold":true},{"type":"text","text":"：困難に遭遇したとしても、その中から感謝すべきこと（健康の価値など）を見つける。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"たゆまぬ学習 (Constant Learning)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"謙虚さを保つ","bold":true},{"type":"text","text":"：傲慢さは学習の停止を意味する。毎日新しいことを学ぶべきである。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"他者から学ぶ","bold":true},{"type":"text","text":"：広く読書し、優れた人々から学ぶことで自己を向上させる。他人と盲目的に比較するのではなく。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"信頼に値する (Trustworthy)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自律の力","bold":true},{"type":"text","text":"：成功は習慣にかかっている。時間を守り、自律的な人間になる。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"約束を守る","bold":true},{"type":"text","text":"：他人や自分自身に対して行った約束（例：72時間ルール）は必ず実行する。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"三、内なる人格の修練方法"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"7枚のインデックスカード法","bold":true},{"type":"text","text":"：7枚のカードを用意し、それぞれに一つの原則とその説明を書き込む。毎日そのうちの一枚に集中し、これらの原則が完全に生活習慣として内面化されるまで繰り返す。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"恐怖への対処（成功日記）","bold":true},{"type":"text","text":"：恐れを感じたとき、成功日記を読み返す。恐怖は失敗を想像することから生じるが、成功日記に注目することで、ポジティブな目標に向かって考えることができる。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"四、社交と価値観の昇華"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"関係口座 (Relationship Account)","bold":true},{"type":"text","text":"：人との関係は銀行口座のようなものだ。善行は「預金」、傷つけることは「引き出し」。口座の預金が豊富であれば、意図しない過ちや摩擦もより容易に解消できる。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"二重の帰属意識","bold":true},{"type":"text","text":"：人はある国の市民であると同時に、「世界市民」でもある。自分を世界市民と見なすことで、異なる文化をよりよく理解し、受け入れ、利己心から生じる争いを避けることができる。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"まとめ"}]},{"type":"p","children":[{"type":"text","text":"第一巻が**「いかにしてお金を持つか」"},{"type":"text","text":"（実を摘むこと）を教えるなら、第二巻は","bold":true},{"type":"text","text":"「いかにお金にふさわしい人間になるか」**（深く根を張ること）を教えています。根が深く張ってこそ、富という果実は甘く、永続的なものとなるでしょう。"}]}]},"reading":null}]}]
+18:I[1259,[],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"『子犬のマネー』読書ノート | 再：青年"}],["$","link","1",{"rel":"canonical","href":"https://re-jeunesse.org/ja/notes/%E5%AD%90%E7%8A%AC%E3%81%AE%E3%83%9E%E3%83%8D%E3%83%BC/"}],["$","link","2",{"rel":"alternate","hrefLang":"zh","href":"https://re-jeunesse.org/zh/notes/%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1/"}],["$","link","3",{"rel":"alternate","hrefLang":"ja","href":"https://re-jeunesse.org/ja/notes/%E5%AD%90%E7%8A%AC%E3%81%AE%E3%83%9E%E3%83%8D%E3%83%BC/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://re-jeunesse.org/en/notes/a-dog-called-money/"}],["$","meta","5",{"property":"og:title","content":"『子犬のマネー』読書ノート"}],["$","meta","6",{"property":"og:image","content":"https://re-jeunesse.org/uploads/notes/covers/%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B11.jpg"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"『子犬のマネー』読書ノート"}],["$","meta","9",{"name":"twitter:image","content":"https://re-jeunesse.org/uploads/notes/covers/%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B11.jpg"}],["$","link","10",{"rel":"icon","href":"/icon.svg?ce7055fa98cb49d8","type":"image/svg+xml","sizes":"any"}],["$","$L18","11",{}]]

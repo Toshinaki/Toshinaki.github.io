@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[74206,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","579","static/chunks/579-f65c76ee6a002b84.js","341","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/%5Bslug%5D/page-50ec960bb9f6ff12.js"],"NoteRenderer"]
+5:I[71838,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Ta10,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    private
+    featured
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        name
+        pronouns
+        avatar
+        avatarAlt
+        tagline
+        jobTitle
+        company
+        intro
+        now
+        about
+        skills {
+          __typename
+          group
+          items
+        }
+        interests {
+          __typename
+          group
+          items
+        }
+        email
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+    reading {
+      __typename
+      showTopToc
+      showTopTocTitle
+      topTocCollapsedByDefault
+      tocMaxHeadingLevel
+      showSideToc
+      sideTocMaxHeadingLevel
+      enableHeadingCollapse
+      headingCollapseLevels
+    }
+  }
+}
+    0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"volume-2-the-dialectic-of-roots-and-fruits","basename":"volume-2-the-dialectic-of-roots-and-fruits.mdx","hasReferences":false,"breadcrumbs":["en","a-dog-called-money","volume-2-the-dialectic-of-roots-and-fruits"],"path":"content/notes/en/a-dog-called-money/volume-2-the-dialectic-of-roots-and-fruits.mdx","relativePath":"en/a-dog-called-money/volume-2-the-dialectic-of-roots-and-fruits.mdx","extension":".mdx"},"id":"content/notes/en/a-dog-called-money/volume-2-the-dialectic-of-roots-and-fruits.mdx","__typename":"NoteNote","createdAt":"2026-02-09T13:57:35.142Z","updatedAt":"2026-02-09T13:57:35.142Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["Creator","Lifelong Learner","Aspiring Digital Nomad"],"jobTitle":"Programmer (frontend-first, backend in progress)","company":"Stockmark Inc.","intro":"An older single guy. A beginner at investing. Coding is a hobby — mainly because I like to make things, and code is a low-cost, pollution-free way to make them; it's also my job. Working remotely for now, with digital nomad as the goal.\nNext I want to make games, and try 3D printing.\nI move too little, so I make myself ride a bike — though I do genuinely like cycling; and lift a little, so I don't look too skinny. I like spicy food, and cilantro. I like horror films.\nI like learning — all sorts of skills, useful or not.\nI have a soft spot for the literary girl.\nCurrently trying to break free from “reverse philosophical suicide”.","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Fed up with codex's incompetence, I switched to Claude and went full '3/n Sword Style' — running several projects at once: this site, a local board-game platform, a task manager. Claude is a notch better than codex, but the token limits are too tight, and I still have to keep an eye on the details myself."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"On the investing side, every headline out of Trump and the Middle East tugs at my nerves. I bought a fair bit of gold — too high, as it turns out, so I'm underwater for now; my only gain comes from the yen sliding. Will the Japanese government ever get it together?!"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"I crave meaning, yet I don't believe in it."}]},{"type":"p","children":[{"type":"text","text":"To others I probably come across as a fairly rational person — and I used to think so myself. But only recently have I realized — or rather, only recently become willing to face — that deep down there has always been another, far more emotional self, sitting underneath as the ground tone of who I am. Perhaps it is exactly this long war between reason and feeling that has made me who I am today."}]},{"type":"h5","children":[{"type":"text","text":"The Suffering Sisyphus"}]},{"type":"p","children":[{"type":"text","text":"The Buddha speaks of the Eight Sufferings. Birth, old age, sickness, death — that is the half decreed by heaven, beyond anyone's will, that no one escapes. The other half — not getting what you want, parting from those you love, meeting those you hate, and that “blaze of the five aggregates” — is all born of the human heart. Being emotional, I am too easily moved, and so too easily wounded. The world is impermanent; in life, eight or nine times out of ten things do not go your way. And so suffering follows me like a shadow."}]},{"type":"p","children":[{"type":"text","text":"Over time I have worked out a few ways to cope with it: distracting myself, which is what I have consciously tried; and “reverse philosophical suicide,” which is what I have unconsciously been doing all along."}]},{"type":"p","children":[{"type":"text","text":"At this age, looking back, I don't think reason was something I was born with. It feels more like a choice — I chose to keep myself rational, to push back against feeling, against the pain that feeling brings. To be honest, it has not worked very well."}]},{"type":"p","children":[{"type":"text","text":"Camus held that “the absurd” arises from the collision between “man's longing for meaning” and “the silence of the world.” Faced with a universe that offers no meaning at all, you either commit physical suicide and end the suffering at its root — a coward's compromise; or you commit “philosophical suicide,” throwing yourself into faith (the leap of faith) to grant meaning by force — a betrayal of reason."}]},{"type":"p","children":[{"type":"text","text":"I tried to distract myself. I learned all sorts of skills, useful and useless. I like making things by hand, I like origami, I like writing code. I like making — I like this kind of thing, the kind with a clear goal. When I walk a clear path step by step, I can lose myself in it completely; “I” dissolves, and the feeling of pain can be set aside for a while."}]},{"type":"p","children":[{"type":"text","text":"But forgetting is brief, and distraction is only temporary."}]},{"type":"p","children":[{"type":"text","text":"To look away is not to resolve. So I entered the reverse of “philosophical suicide.” My reason and my pride will not let me admit that there is some greater being I could never become — so faith is no cure for me. Instead, I chose to dissolve my own need for meaning."}]},{"type":"p","children":[{"type":"text","text":"I tell myself the world is meaningless: that the sun will one day swallow the earth, that the universe will wind down into heat death. I tell myself everything runs by fixed laws — past, present and future already determined — and that so-called free will is nothing but the arrogance of our species, an illusion."}]},{"type":"p","children":[{"type":"text","text":"But this, clearly, has not worked either; otherwise by now I would have shaved my head and be tapping a wooden fish in some temple, or roaming the famed mountains and rivers in Daoist robes."}]},{"type":"p","children":[{"type":"text","text":"Which leaves me where I am now: neither here nor there; wanting much, yet afraid to lose; with a faint sense of learned helplessness. All of it steeped in the powerlessness that comes from fighting the absurd and losing."}]},{"type":"p","children":[{"type":"text","text":"But I have grown a little tired of this unhealthy way of living."}]},{"type":"p","children":[{"type":"text","text":"Lately I have begun to try something new — "},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":", to love one's fate: no longer fixing my eyes only on the road beneath my feet, but learning to lift my head and take in the scenery along the way."}]},{"type":"p","children":[{"type":"text","text":"I remember one evening, cycling along the Yodo River, the setting sun falling on the leaves by the bank; they trembled and glittered, tender and dewy — and in that instant I understood something new about the word “lovely.” I also remember an animated series I watched as a child, whose hero was named Martin: every morning Martin woke in a different place, became someone with a different identity, lived a different life — and what I have wanted, it seems, has been exactly that, all along."}]},{"type":"p","children":[{"type":"text","text":"Maybe this is the answer Camus held up against the absurd: revolt?"}]},{"type":"h5","children":[{"type":"text","text":"The Happy Sisyphus"}]},{"type":"p","children":[{"type":"text","text":"I have started preparing to become a digital nomad. I have begun managing my money and learning to invest; I look for ways to grow my income, passive income above all; I have started paying attention to the people and things around me, in all their variety. I am beginning to try to enjoy this feeling of being “on the road.”"}]},{"type":"p","children":[{"type":"text","text":"Is this really my path? I don't know. But I have to make myself believe that this path is a happy one. If I am lucky enough, then perhaps one day I will find the “Way” that is truly my own."}]},{"type":"p","children":[{"type":"text","text":"A hundred hurried years of life, like a dream, an illusion, a bubble, a shadow. I only hope that, when my appointed death comes, I can say in peace: “I have walked the road; though I die, I have no regret.”"}]}]},"skills":[{"__typename":"AuthorSkills","group":"Tech","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"Languages","items":["Chinese · Native","Japanese · Fluent","English · Beginner"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["Learning","Reading","Making","Cycling","Practicing guitar"]},{"__typename":"AuthorInterests","group":"To try","items":["Game dev","3D printing"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["en","Toshinaki"],"path":"content/authors/en/Toshinaki.json","relativePath":"en/Toshinaki.json","extension":".json"},"id":"content/authors/en/Toshinaki.json"},"canonicalId":"a-dog-called-money-02","seriesName":"A Dog Called Money","title":"Volume 2: The Dialectic of Roots and Fruits","order":2,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"The core theme of \"A Dog Called Money 2\" evolves from \"How to Manage Money\" in the first volume to "},{"type":"text","text":"\"How to Shape Character.\"","bold":true},{"type":"text","text":" The author elaborates on the "},{"type":"text","text":"\"Donut Principle\"","bold":true},{"type":"text","text":" to explain the dialectical relationship between material wealth (outer ring) and inner character (hole) as two sides of the same coin, emphasizing that excellent character is the cornerstone for achieving lasting happiness and true success."}]},{"type":"h3","children":[{"type":"text","text":"I. Core Theory: The Donut Principle (The Donut Principle)"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Outer Ring (Visible Success)","bold":true},{"type":"text","text":": Represents money, fame, and career. These are visible, but if there's only an outer ring, life is incomplete."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Hole (Inner Character)","bold":true},{"type":"text","text":": Represents the human heart. Although invisible, it is the true meaning of the donut's existence. Success without character support is empty and fragile."}]}]}]},{"type":"h4","children":[{"type":"text","text":"The Dialectic of Roots and Fruits"}]},{"type":"p","children":[{"type":"text","text":"To better suit the Chinese context, the \"donut\" can be transformed into a "},{"type":"text","text":"\"tree model\"","bold":true},{"type":"text","text":":"}]},{"type":"p","children":[{"type":"text","text":"• "},{"type":"text","text":"Fruits","bold":true},{"type":"text","text":" (External Success): Corresponds to the outer ring of the donut. Represents money, fame, and career. These are visible achievements, but if one only pursues fruits and neglects the roots, wealth will be difficult to sustain."}]},{"type":"p","children":[{"type":"text","text":"• "},{"type":"text","text":"Roots","bold":true},{"type":"text","text":" (Inner Character): Corresponds to the hole in the middle of the donut. Represents the human heart. Although deeply buried underground and invisible, it is the life source of the entire tree, determining the abundance and sweetness of the fruits."}]},{"type":"p","children":[{"type":"text","text":"• Core Logic: Money itself is a neutral magnifying glass that reveals a person's true nature. "},{"type":"text","text":"True wealth is a state of cultivating both inner and outer aspects, balancing material and spiritual well-being","bold":true},{"type":"text","text":"; success without excellent character support is empty and fragile."}]},{"type":"h3","children":[{"type":"text","text":"II. Seven Principles for Shaping Excellent Character"}]},{"type":"p","children":[{"type":"text","text":"The essence of the book lies in the seven specific principles for cultivating \"inner wealth,\" which are key to becoming \"more valuable\":"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Friendly & Kind (Friendly & Kind)","bold":true},{"type":"text","text":":"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Restrain yourself and do not get involved in any pointless disputes."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Be humble and polite, acknowledging that you are not always right."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Do not harm others, and wish others to live equally well."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Courage to Take Responsibility (Courage to Take Responsibility)","bold":true},{"type":"text","text":":"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Responsibility and Answer","bold":true},{"type":"text","text":": The answer (Antwort) is hidden in responsibility (Verantwortung). Make your own choices when faced with issues, and do not shift blame to circumstances or others."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Reject Excuses","bold":true},{"type":"text","text":": While shifting responsibility to others, you also transfer the corresponding power to them."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Focus on Control","bold":true},{"type":"text","text":": Concentrate your attention on what you can do, what you know, and what you possess, rather than unfair treatment."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Be Kind to Others (Be Kind to Others)","bold":true},{"type":"text","text":":"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Law of Light","bold":true},{"type":"text","text":": Only praise others' strengths. If it's inconvenient to praise, then remain silent (When you only see the light, you become the light)."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Constructive Criticism","bold":true},{"type":"text","text":": Try not to criticize others; if criticism is necessary, do so in a polite and friendly manner."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Helping & Giving (Helping & Giving)","bold":true},{"type":"text","text":":"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Altruism","bold":true},{"type":"text","text":": Look for opportunities to provide help or bring joy to others without expecting anything in return."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Emotional Regulation","bold":true},{"type":"text","text":": When you're feeling down, gain positive feedback and happiness by helping others."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Gratitude (Gratitude)","bold":true},{"type":"text","text":":"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Focus on Miracles","bold":true},{"type":"text","text":": Be grateful for seemingly ordinary things (such as the ability to see, hear, and walk)."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Perceiving Difficulties","bold":true},{"type":"text","text":": Even when encountering difficulties, look for things to be grateful for within them (such as the value of health)."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Constant Learning (Constant Learning)","bold":true},{"type":"text","text":":"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Stay Humble","bold":true},{"type":"text","text":": Arrogance means stopping learning. You should learn something new every day."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Learn from Others","bold":true},{"type":"text","text":": Read widely and improve yourself by learning from excellent people, rather than blindly comparing yourself to others."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Trustworthy (Trustworthy)","bold":true},{"type":"text","text":":"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The Power of Self-Discipline","bold":true},{"type":"text","text":": Success depends on habits. Be a punctual and self-disciplined person."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Keep Promises","bold":true},{"type":"text","text":": Commitments made to others and to yourself (e.g., the 72-hour rule) must be fulfilled."}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"III. Methods for Cultivating Inner Character"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"7 Index Card Method","bold":true},{"type":"text","text":": Prepare 7 cards, writing one principle and its explanation on each. Focus on one card each day, repeating the cycle until these principles are thoroughly internalized as daily habits."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Coping with Fear (Success Journal)","bold":true},{"type":"text","text":": When you feel afraid, review your success journal. Fear stems from imagining failure, while focusing on your success journal can guide you to think towards positive goals."}]}]}]},{"type":"h3","children":[{"type":"text","text":"IV. The Elevation of Social Connections and Values"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Relationship Account (Relationship Account)","bold":true},{"type":"text","text":": Relationships between people are like bank accounts. Good deeds are \"deposits,\" and harm is \"withdrawals.\" When the account balance is healthy, it's easier to resolve unintentional mistakes and conflicts."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Dual Sense of Belonging","bold":true},{"type":"text","text":": A person can be a citizen of a certain country and also a \"citizen of the world.\" By viewing oneself as a global citizen, one can better understand and embrace different cultures, avoiding disputes arising from selfishness."}]}]}]},{"type":"h3","children":[{"type":"text","text":"Summary"}]},{"type":"p","children":[{"type":"text","text":"If the first volume teaches you "},{"type":"text","text":"\"How to Have Money\"","bold":true},{"type":"text","text":" (picking fruits), the second volume teaches you "},{"type":"text","text":"\"How to Deserve Money\"","bold":true},{"type":"text","text":" (deeply rooting). Only with deep roots will the fruits of wealth be sweet and lasting."}]}]},"reading":null}},"errors":null,"query":"$3","variables":{"relativePath":"en/a-dog-called-money/volume-2-the-dialectic-of-roots-and-fruits.mdx"}},"isFallback":false,"series":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["en","a-dog-called-money","index"],"path":"content/notes/en/a-dog-called-money/index.mdx","relativePath":"en/a-dog-called-money/index.mdx","extension":".mdx"},"id":"content/notes/en/a-dog-called-money/index.mdx","__typename":"NoteSeries","createdAt":"2026-02-08T06:50:19.761Z","updatedAt":"2026-02-08T07:00:57.839Z","canonicalId":"a-dog-called-money","seriesName":"A Dog Called Money","title":"Reading Notes on A Dog Called Money","description":null,"showOrder":true,"private":null,"featured":true,"progress":"completed","coverImage":"/uploads/notes/covers/小狗钱钱1.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"A Dog Called Money: A 'Money Fairy Tale' Guiding Children to Correctly Understand and Create Wealth","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/3576486/","coverImage":"/uploads/notes/sources/小狗钱钱1.jpg","notes":{"type":"root","children":[]}},{"__typename":"NoteSeriesSources","type":"book","title":"A Dog Called Money 2: Discovering and Cultivating Children's Excellent Qualities","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/6971390/","coverImage":"/uploads/notes/sources/小狗钱钱2.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null},"adjancentNotes":{"prev":{"url":"/notes/a-dog-called-money/book-1-cultivating-the-goose-that-lays-golden-eggs","title":"Book 1: Cultivating the Goose That Lays Golden Eggs"}},"shareUrl":"https://re-jeunesse.org/en/notes/a-dog-called-money/volume-2-the-dialectic-of-roots-and-fruits"}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2yBnKGnaMEeI0Gg021CGq"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

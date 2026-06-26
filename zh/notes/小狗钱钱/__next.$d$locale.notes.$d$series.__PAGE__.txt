@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[96825,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","579","static/chunks/579-f65c76ee6a002b84.js","947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-beadf149a352c546.js"],"SeriesRenderer"]
+5:I[71838,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Ta10,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    private
+    featured
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        name
+        pronouns
+        avatar
+        avatarAlt
+        tagline
+        jobTitle
+        company
+        intro
+        now
+        about
+        skills {
+          __typename
+          group
+          items
+        }
+        interests {
+          __typename
+          group
+          items
+        }
+        email
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+    reading {
+      __typename
+      showTopToc
+      showTopTocTitle
+      topTocCollapsedByDefault
+      tocMaxHeadingLevel
+      showSideToc
+      sideTocMaxHeadingLevel
+      enableHeadingCollapse
+      headingCollapseLevels
+    }
+  }
+}
+    0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["zh","小狗钱钱","index"],"path":"content/notes/zh/小狗钱钱/index.mdx","relativePath":"zh/小狗钱钱/index.mdx","extension":".mdx"},"id":"content/notes/zh/小狗钱钱/index.mdx","__typename":"NoteSeries","createdAt":"2026-02-08T06:50:19.761Z","updatedAt":"2026-06-14T14:19:36.621Z","canonicalId":"a-dog-called-money","seriesName":"小狗钱钱","title":"《小狗钱钱》读书笔记","description":null,"showOrder":true,"private":null,"featured":true,"progress":"completed","coverImage":"/uploads/notes/covers/小狗钱钱1.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"小狗钱钱：引导孩子正确认识财富、创造财富的“金钱童话\"","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/3576486/","coverImage":"/uploads/notes/sources/小狗钱钱1.jpg","notes":{"type":"root","children":[]}},{"__typename":"NoteSeriesSources","type":"book","title":"小狗钱钱2：发掘和培养孩子的优秀品格","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/6971390/","coverImage":"/uploads/notes/sources/小狗钱钱2.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null}},"errors":null,"query":"$3","variables":{"relativePath":"zh/小狗钱钱/index.mdx"}},"isFallback":false,"notes":[{"_sys":{"filename":"01-第一册-培养好下金蛋的鹅","basename":"01-第一册-培养好下金蛋的鹅.mdx","hasReferences":null,"breadcrumbs":["zh","小狗钱钱","01-第一册-培养好下金蛋的鹅"],"path":"content/notes/zh/小狗钱钱/01-第一册-培养好下金蛋的鹅.mdx","relativePath":"zh/小狗钱钱/01-第一册-培养好下金蛋的鹅.mdx","extension":".mdx"},"id":"content/notes/zh/小狗钱钱/01-第一册-培养好下金蛋的鹅.mdx","__typename":"NoteNote","createdAt":"2026-02-08T06:54:13.353Z","updatedAt":"2026-02-08T07:17:54.916Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-06-23T09:03:15.183Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["创造者","终身学习","数字游民（目标）"],"jobTitle":"程序员（前端为主，后端努力中）","company":"Stockmark Inc.","intro":"大龄单身青年。投资/理财新手。编程是兴趣——主要是因为我喜欢“制作”，而编程是一个低成本无污染的制作手段；也是工作。目前远程办公，目标数字游民。\n接下来想做游戏，想玩3D打印。\n运动量不足，所以强迫自己骑车，当然我也喜欢骑车；轻微地锻炼肌肉，为了看起来不是太瘦。喜欢辣，喜欢香菜。喜欢恐怖片。\n喜欢学习，包括各种有用没用的技能。\n喜欢文学少女。\n处于努力摆脱“反向哲学自杀”的状态。","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"受够了 codex 的无能，切到了 Claude，开了「3/n刀流」——这个网站、一个本地桌游平台、一个任务管理系统同时推进。Claude 是比 codex 强些，可惜 token 卡得太紧，细节也还得自己盯。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投资上，被特朗普和中东的消息牵着心弦。黄金买了不少，却买贵了，眼下浮亏；唯一的盈利来自日元贬值——日本政府还能不能好了？！"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"我渴望意义，却又不相信意义。"}]},{"type":"p","children":[{"type":"text","text":"在别人眼里，我大概是个相当理性的人——我自己也是这么以为的。但最近我才发现，或者说最近才愿意正视：在内心深处，其实一直有着另一个很感性的我作为底色存在。大约正是这感性与理性的常年缠斗，造就了今天的我。"}]},{"type":"h5","children":[{"type":"text","text":"痛苦的西西弗斯"}]},{"type":"p","children":[{"type":"text","text":"佛说人有八苦：生、老、病、死，是天定的那一半，不以人的意志为转移，谁也躲不过；另一半——求不得、爱别离、怨憎会，连同那个“五阴炽盛”——则统统生自人心。感性让我太容易动心，也因此太容易被刺痛。世事无常，人生不如意之事十之八九。于是痛苦如影随形。"}]},{"type":"p","children":[{"type":"text","text":"我慢慢发展出了一些应付它的办法：让自己分心，是我一直有意识地尝试的；“反向哲学自杀”，是我一直无意识中在做的。"}]},{"type":"p","children":[{"type":"text","text":"到了如今这个年纪，回头看来，理性大概并非我与生俱来的。这更像一个选择——我选择让自己保持理性，来对抗感性，对抗由感性引发的痛苦。说实话，效果并不算好。"}]},{"type":"p","children":[{"type":"text","text":"加缪认为，“荒谬”产生于“人对意义的渴望”与“世界沉默的现实”之间的冲突。面对无法提供任何意义的宇宙，要么物理自杀，从根源上终止痛苦；这是懦弱的妥协。要么“哲学自杀”，投身于信仰（信仰之跃）来人为地赋予意义；这是对理性的欺骗。"}]},{"type":"p","children":[{"type":"text","text":"我曾试着让自己分心。我学习各种有用没用的技能。我喜欢做手工，喜欢折纸，喜欢写代码。我喜欢制作——喜欢这一类有着明确目标的事。沿着一条清楚的路一步步走下去时，我能完全地专注进去，这时“自己”便随之消失，痛苦的感受也可以暂时忘却。"}]},{"type":"p","children":[{"type":"text","text":"然而忘却是短暂的，分心也是暂时的。"}]},{"type":"p","children":[{"type":"text","text":"忽视，并不是解决之道。于是我进入了反向的“哲学自杀”。我的理性与尊严不允许我承认有着更伟大的存在、而我永远无法成为祂，所以信仰并不是我的解药。所以我选择了消解掉自己对意义的需求。"}]},{"type":"p","children":[{"type":"text","text":"我告诉自己世界是无意义的，太阳总有一天会吞没地球，宇宙也终会归于热寂。我告诉自己一切都是按照既定的规律运行的，过去现在未来其实都已经确定，所谓的自由意志不过是人类自大的幻觉而已。"}]},{"type":"p","children":[{"type":"text","text":"不过很明显这也没有成功，否则我现在应该剃光头在哪个寺庙敲着木鱼，或者穿着道袍寻访名山大川。"}]},{"type":"p","children":[{"type":"text","text":"这就导致了我现在的状态：高不成低不就，想要很多又害怕失去，隐隐有种习得性无助的感觉。所有一切，无不充斥着对抗荒谬后失败的无力感。"}]},{"type":"p","children":[{"type":"text","text":"不过我有些厌倦了这样不健康的活法。"}]},{"type":"p","children":[{"type":"text","text":"最近我开始了一些新的尝试。"},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":"——热爱命运：不再只盯着脚下的路，也学着抬头看看沿途的风景。"}]},{"type":"p","children":[{"type":"text","text":"记得有天傍晚，我沿着淀川骑车，夕阳正落在岸边的树叶上，叶子颤颤巍巍地闪着光，水水嫩嫩——那一瞬，我忽然对“可爱”二字有了些新的理解。还记得小的时候看过一个主人公叫马丁的动画，马丁每天醒来都在不同的地方、变成不同身份的人、过着不同的人生——我想要的，似乎一直就是这个。"}]},{"type":"p","children":[{"type":"text","text":"也许这就是加缪所提倡的对抗荒谬的解法：反抗？"}]},{"type":"h5","children":[{"type":"text","text":"幸福的西西弗斯"}]},{"type":"p","children":[{"type":"text","text":"我开始为成为数字游民做准备。我开始理财、学习投资，我寻找增加收入（特别是被动收入）的办法，我开始留意身边形形色色的事和人。我开始试着享受这种“走在路上”的感觉。"}]},{"type":"p","children":[{"type":"text","text":"这真的是我的路吗？我不知道。但我必须让自己相信这条路是幸福的。如果我足够幸运，也许有朝一日，我能找到真正属于我的“道”。"}]},{"type":"p","children":[{"type":"text","text":"人生匆匆百年，如梦幻泡影。只希望命定之死到来之时，我能坦然说出：“我已走在路上，纵死不悔”。"}]}]},"skills":[{"__typename":"AuthorSkills","group":"技术","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"语言","items":["汉语 · 母语","日语 · 流利","英语 · 入门"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["学习","读书","制作","骑行","练习吉他"]},{"__typename":"AuthorInterests","group":"想做","items":["游戏开发","3D打印"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["zh","Toshinaki"],"path":"content/authors/zh/Toshinaki.json","relativePath":"zh/Toshinaki.json","extension":".json"},"id":"content/authors/zh/Toshinaki.json"},"canonicalId":"a-dog-called-money-01","seriesName":"小狗钱钱","title":"第一册：培养好下金蛋的鹅","order":1,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"《小狗钱钱》第一册通过一个关于理财的故事，系统性地介绍了从建立理财观念、增加收入到投资分配的全过程。以下是书中的核心理财技巧与观念："}]},{"type":"h3","children":[{"type":"text","text":"一、 理财目标与心态构建"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"明确致富愿望","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"写下"},{"type":"text","text":"10个","bold":true},{"type":"text","text":"想变得富有的理由，并从中挑选出"},{"type":"text","text":"3个最重要的愿望","bold":true},{"type":"text","text":"作为核心目标。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"目标需要"},{"type":"text","text":"具象化","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"制作“梦想相册”，收集与愿望相关的照片，每天看几遍并进行“视觉化”思考，想象实现后的样子。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"建立“梦想储蓄罐”，让自己看到实际的进展"}]}]}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"建立自信（成功日记）","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自信是致富的关键。每天记录至少"},{"type":"text","text":"5件","bold":true},{"type":"text","text":"做成功的小事，以此树立信心。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"当遇到困难或恐惧时，翻看成功日记，将精力集中在"},{"type":"text","text":"你知道的、能做的和拥有的","bold":true},{"type":"text","text":"东西上。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"“做”就是“做”，避免“试着”，“试试”，“尝试”等词语"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"不要被周围的意见影响；分清楚“意见”和“建议”的区别"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"二、 创富原则与行动力"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"解决难题即是财富","bold":true},{"type":"text","text":"：为别人解决一个难题或提供价值，就能赚到钱。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"行动准则","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"72小时规定","bold":true},{"type":"text","text":"：当你决定做一件事时，必须在72小时内付诸行动，否则可能永远不会再做。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"10分钟法则","bold":true},{"type":"text","text":"：无论环境如何，每天坚持花10分钟做对未来有重大意义的事情（如记录成功日记、构思未来）。无论是"},{"type":"text","text":"顺境","bold":true},{"type":"text","text":"还是"},{"type":"text","text":"逆境","bold":true},{"type":"text","text":"，每天都要保持"},{"type":"text","text":"前进","bold":true},{"type":"text","text":"。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"多元化收入","bold":true},{"type":"text","text":"：不要仅依赖单一的工作，要利用自己的"},{"type":"text","text":"兴趣和擅长","bold":true},{"type":"text","text":"去交换价值，寻找替代收入方案。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"三、 收入分配与债务处理"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"50-40-10收入分配法","bold":true},{"type":"text","text":"（扣除基本生活开支后）："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"50% 用来“养鹅”","bold":true},{"type":"text","text":"（储蓄理财，产生红利）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"40% 存入“梦想储蓄罐”","bold":true},{"type":"text","text":"（为实现中短期目标积累资金）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"10% 用来消费","bold":true},{"type":"text","text":"（日常开销与零花钱）。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"处理债务的四个忠告","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"毁掉信用卡","bold":true},{"type":"text","text":"：避免超出承受能力的消费。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"按最低标准分期还款","bold":true},{"type":"text","text":"：留出更多现金应急，不要把所有闲钱都用于还债。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"“一半还债，一半攒钱”","bold":true},{"type":"text","text":"：在扣除生活费后，将剩余资金的一半存起来养鹅，另一半用于还债，确保在还债的同时也在积累财富。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"消费前的问询","bold":true},{"type":"text","text":"：消费前问自己“这真的有必要吗？”。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"四、 投资增值（养“会下金蛋的鹅”）"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"鹅与金蛋的逻辑","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"“鹅”代表本金，“金蛋”代表利息或收益","bold":true},{"type":"text","text":"。不要为了眼前的消费而“杀鹅”，要让本金通过复利不断增值。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"当利息收入（金蛋）能支撑生活开支时，即实现了财务自由。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投资基金的原则","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"选择"},{"type":"text","text":"至少有10年历史","bold":true},{"type":"text","text":"、"},{"type":"text","text":"大型跨国","bold":true},{"type":"text","text":"的股票基金。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"长期持有","bold":true},{"type":"text","text":"：准备好5-10年的投资周期，不因短期行情下跌而卖出。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"理财计算工具","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"72公式","bold":true},{"type":"text","text":"：用“72除以年化利率”得出"},{"type":"text","text":"本金翻倍所需时间","bold":true},{"type":"text","text":"；也可以用“72除以通胀率”得出"},{"type":"text","text":"钱贬值一半的时间","bold":true},{"type":"text","text":"。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"五、 核心金句总结"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"金钱是中性的","bold":true},{"type":"text","text":"，既不会使人幸福也不会带来不幸，它只是一个放大镜，展示出一个人本来的样子。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"要想过更幸福的生活，必须改变自身","bold":true},{"type":"text","text":"，而非仅仅期待环境改变。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"运气是充分准备加上努力工作的结果","bold":true},{"type":"text","text":"。"}]}]}]}]},"reading":null},{"_sys":{"filename":"02-第二册-根与果的辩证法","basename":"02-第二册-根与果的辩证法.mdx","hasReferences":null,"breadcrumbs":["zh","小狗钱钱","02-第二册-根与果的辩证法"],"path":"content/notes/zh/小狗钱钱/02-第二册-根与果的辩证法.mdx","relativePath":"zh/小狗钱钱/02-第二册-根与果的辩证法.mdx","extension":".mdx"},"id":"content/notes/zh/小狗钱钱/02-第二册-根与果的辩证法.mdx","__typename":"NoteNote","createdAt":"2026-02-09T13:57:35.142Z","updatedAt":"2026-02-09T13:57:35.142Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-06-23T09:03:15.183Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["创造者","终身学习","数字游民（目标）"],"jobTitle":"程序员（前端为主，后端努力中）","company":"Stockmark Inc.","intro":"大龄单身青年。投资/理财新手。编程是兴趣——主要是因为我喜欢“制作”，而编程是一个低成本无污染的制作手段；也是工作。目前远程办公，目标数字游民。\n接下来想做游戏，想玩3D打印。\n运动量不足，所以强迫自己骑车，当然我也喜欢骑车；轻微地锻炼肌肉，为了看起来不是太瘦。喜欢辣，喜欢香菜。喜欢恐怖片。\n喜欢学习，包括各种有用没用的技能。\n喜欢文学少女。\n处于努力摆脱“反向哲学自杀”的状态。","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"受够了 codex 的无能，切到了 Claude，开了「3/n刀流」——这个网站、一个本地桌游平台、一个任务管理系统同时推进。Claude 是比 codex 强些，可惜 token 卡得太紧，细节也还得自己盯。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投资上，被特朗普和中东的消息牵着心弦。黄金买了不少，却买贵了，眼下浮亏；唯一的盈利来自日元贬值——日本政府还能不能好了？！"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"我渴望意义，却又不相信意义。"}]},{"type":"p","children":[{"type":"text","text":"在别人眼里，我大概是个相当理性的人——我自己也是这么以为的。但最近我才发现，或者说最近才愿意正视：在内心深处，其实一直有着另一个很感性的我作为底色存在。大约正是这感性与理性的常年缠斗，造就了今天的我。"}]},{"type":"h5","children":[{"type":"text","text":"痛苦的西西弗斯"}]},{"type":"p","children":[{"type":"text","text":"佛说人有八苦：生、老、病、死，是天定的那一半，不以人的意志为转移，谁也躲不过；另一半——求不得、爱别离、怨憎会，连同那个“五阴炽盛”——则统统生自人心。感性让我太容易动心，也因此太容易被刺痛。世事无常，人生不如意之事十之八九。于是痛苦如影随形。"}]},{"type":"p","children":[{"type":"text","text":"我慢慢发展出了一些应付它的办法：让自己分心，是我一直有意识地尝试的；“反向哲学自杀”，是我一直无意识中在做的。"}]},{"type":"p","children":[{"type":"text","text":"到了如今这个年纪，回头看来，理性大概并非我与生俱来的。这更像一个选择——我选择让自己保持理性，来对抗感性，对抗由感性引发的痛苦。说实话，效果并不算好。"}]},{"type":"p","children":[{"type":"text","text":"加缪认为，“荒谬”产生于“人对意义的渴望”与“世界沉默的现实”之间的冲突。面对无法提供任何意义的宇宙，要么物理自杀，从根源上终止痛苦；这是懦弱的妥协。要么“哲学自杀”，投身于信仰（信仰之跃）来人为地赋予意义；这是对理性的欺骗。"}]},{"type":"p","children":[{"type":"text","text":"我曾试着让自己分心。我学习各种有用没用的技能。我喜欢做手工，喜欢折纸，喜欢写代码。我喜欢制作——喜欢这一类有着明确目标的事。沿着一条清楚的路一步步走下去时，我能完全地专注进去，这时“自己”便随之消失，痛苦的感受也可以暂时忘却。"}]},{"type":"p","children":[{"type":"text","text":"然而忘却是短暂的，分心也是暂时的。"}]},{"type":"p","children":[{"type":"text","text":"忽视，并不是解决之道。于是我进入了反向的“哲学自杀”。我的理性与尊严不允许我承认有着更伟大的存在、而我永远无法成为祂，所以信仰并不是我的解药。所以我选择了消解掉自己对意义的需求。"}]},{"type":"p","children":[{"type":"text","text":"我告诉自己世界是无意义的，太阳总有一天会吞没地球，宇宙也终会归于热寂。我告诉自己一切都是按照既定的规律运行的，过去现在未来其实都已经确定，所谓的自由意志不过是人类自大的幻觉而已。"}]},{"type":"p","children":[{"type":"text","text":"不过很明显这也没有成功，否则我现在应该剃光头在哪个寺庙敲着木鱼，或者穿着道袍寻访名山大川。"}]},{"type":"p","children":[{"type":"text","text":"这就导致了我现在的状态：高不成低不就，想要很多又害怕失去，隐隐有种习得性无助的感觉。所有一切，无不充斥着对抗荒谬后失败的无力感。"}]},{"type":"p","children":[{"type":"text","text":"不过我有些厌倦了这样不健康的活法。"}]},{"type":"p","children":[{"type":"text","text":"最近我开始了一些新的尝试。"},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":"——热爱命运：不再只盯着脚下的路，也学着抬头看看沿途的风景。"}]},{"type":"p","children":[{"type":"text","text":"记得有天傍晚，我沿着淀川骑车，夕阳正落在岸边的树叶上，叶子颤颤巍巍地闪着光，水水嫩嫩——那一瞬，我忽然对“可爱”二字有了些新的理解。还记得小的时候看过一个主人公叫马丁的动画，马丁每天醒来都在不同的地方、变成不同身份的人、过着不同的人生——我想要的，似乎一直就是这个。"}]},{"type":"p","children":[{"type":"text","text":"也许这就是加缪所提倡的对抗荒谬的解法：反抗？"}]},{"type":"h5","children":[{"type":"text","text":"幸福的西西弗斯"}]},{"type":"p","children":[{"type":"text","text":"我开始为成为数字游民做准备。我开始理财、学习投资，我寻找增加收入（特别是被动收入）的办法，我开始留意身边形形色色的事和人。我开始试着享受这种“走在路上”的感觉。"}]},{"type":"p","children":[{"type":"text","text":"这真的是我的路吗？我不知道。但我必须让自己相信这条路是幸福的。如果我足够幸运，也许有朝一日，我能找到真正属于我的“道”。"}]},{"type":"p","children":[{"type":"text","text":"人生匆匆百年，如梦幻泡影。只希望命定之死到来之时，我能坦然说出：“我已走在路上，纵死不悔”。"}]}]},"skills":[{"__typename":"AuthorSkills","group":"技术","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"语言","items":["汉语 · 母语","日语 · 流利","英语 · 入门"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["学习","读书","制作","骑行","练习吉他"]},{"__typename":"AuthorInterests","group":"想做","items":["游戏开发","3D打印"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["zh","Toshinaki"],"path":"content/authors/zh/Toshinaki.json","relativePath":"zh/Toshinaki.json","extension":".json"},"id":"content/authors/zh/Toshinaki.json"},"canonicalId":"a-dog-called-money-02","seriesName":"小狗钱钱","title":"第二册：根与果的辩证法","order":2,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"《小狗钱钱2》的核心主题从第一册的“如何管理金钱”升华为**“如何塑造品格”。"},{"type":"text","text":"作者通过","bold":true},{"type":"text","text":"“甜甜圈原理”**阐述了物质财富（外圈）与内在品格（圆孔）互为表里的辩证关系，强调优秀的品格是获取持久幸福和真正成功的基石。"}]},{"type":"h3","children":[{"type":"text","text":"一、 核心理论：甜甜圈原理 (The Donut Principle)"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"外圈（看得见的成功）","bold":true},{"type":"text","text":"：代表金钱、名誉和事业。它们是可见的，但如果只有外圈，人生是不完整的。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"圆孔（内在的品格）","bold":true},{"type":"text","text":"：代表人类的内心。虽然看不见，却是甜甜圈真正存在的意义。没有品格支撑的成功是空虚且脆弱的。"}]}]}]},{"type":"h4","children":[{"type":"text","text":"根与果的辩证法"}]},{"type":"p","children":[{"type":"text","text":"为了更贴合中文语境，可以将“甜甜圈”转化为**“树木模型”**："}]},{"type":"p","children":[{"type":"text","text":"• "},{"type":"text","text":"果实","bold":true},{"type":"text","text":"（外在的成功）：对应甜甜圈的外圈。代表金钱、名誉和事业。它们是可见的成就，但如果只追求果实而忽视根系，财富将难以持久。"}]},{"type":"p","children":[{"type":"text","text":"• "},{"type":"text","text":"根系","bold":true},{"type":"text","text":"（内在的品格）：对应甜甜圈中间的圆孔。代表人类的内心。虽然深埋地下不可见，却是整棵树的生命源泉，决定了果实的丰硕与甜美。"}]},{"type":"p","children":[{"type":"text","text":"• 核心逻辑：金钱本身是中性的放大镜，会展示出一个人本来的样子。"},{"type":"text","text":"真正的富裕是内外兼修、物质与精神平衡的状态","bold":true},{"type":"text","text":"；没有优秀品格支撑的成功是空虚且脆弱的。"}]},{"type":"h3","children":[{"type":"text","text":"二、 塑造优秀品格的七条准则"}]},{"type":"p","children":[{"type":"text","text":"书中的精髓在于培养“内在财富”的七项具体准则，这是让人变得“更值钱”的关键："}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"友好亲和 (Friendly & Kind)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"克制自己，不介入任何无谓的争端。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"谦虚有礼，承认自己并不是永远正确。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"不伤害他人，希望他人能生活得同样美好。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"勇于承担 (Courage to Take Responsibility)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"职责与答案","bold":true},{"type":"text","text":"：答案（Antwort）隐藏在职责（Verantwortung）中。遇事自我抉择，不将责任推卸给环境或他人。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"拒绝借口","bold":true},{"type":"text","text":"：把责任推托给别人的同时，也将相应的权力转交给了对方。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"关注掌控力","bold":true},{"type":"text","text":"：将注意力集中在你能做到的、你知道的和拥有的东西上，而非不公平的待遇。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"善待他人 (Be Kind to Others)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"光明法则","bold":true},{"type":"text","text":"：只称赞他人的优点。如果不便称赞，则保持沉默（当你只看到光明，你就成为光明）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"建设性批评","bold":true},{"type":"text","text":"：尽量不批评他人，如必须批评，要以礼貌友善的方式。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"帮助给予 (Helping & Giving)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"利他精神","bold":true},{"type":"text","text":"：寻找机会无偿为他人提供帮助或带去快乐。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"情绪调节","bold":true},{"type":"text","text":"：当你心情不好时，通过帮助他人来获得正向反馈和快乐。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"感恩之心 (Gratitude)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"关注奇迹","bold":true},{"type":"text","text":"：对看似寻常的事情（如看、听、走的能力）保持感激。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"困境感知","bold":true},{"type":"text","text":"：即便是遇到困难，也要从中寻找值得感激的事物（如健康的价值）。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"勤学不辍 (Constant Learning)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"保持谦恭","bold":true},{"type":"text","text":"：骄傲自满意味着停止学习。每天都应学到新东西。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"向他人学习","bold":true},{"type":"text","text":"：广泛阅读，通过向优秀的人学习来完善自我，而非与他人盲目比较。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"值得信赖 (Trustworthy)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自律的力量","bold":true},{"type":"text","text":"：成功取决于习惯。做一个守时、自律的人。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"信守承诺","bold":true},{"type":"text","text":"：对他人及对自己作出的承诺（如72小时规定）必须执行。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"三、 内在品格的修炼方法"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"7张索引卡片法","bold":true},{"type":"text","text":"：准备7张卡片，每张写一条准则及其解释。每天专注其中一张，循环往复，直至这些准则彻底内化为生活习惯。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"应对恐惧（成功日记）","bold":true},{"type":"text","text":"：当感到畏惧时，翻看成功日记。恐惧源于设想失败，而关注成功日记能引导你朝着积极的目标思考。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"四、 社交与价值观的升华"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"关系账户 (Relationship Account)","bold":true},{"type":"text","text":"：人与人的关系就像银行账户。善行是“存钱”，伤害是“取钱”。账户存款丰厚时，能更容易化解无意的失误和摩擦。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"双重归属感","bold":true},{"type":"text","text":"：人既可以是某一国的公民，也可以是“世界公民”。通过视自己为世界公民，能更好地理解包容不同文化，避免因自私产生的争端。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"总结"}]},{"type":"p","children":[{"type":"text","text":"如果说第一册教你**“如何拥有金钱”"},{"type":"text","text":"（摘取果实），第二册则教你","bold":true},{"type":"text","text":"“如何配得上金钱”**（深扎根基）。只有根基深厚，财富的果实才会甜美且持久。"}]}]},"reading":null}]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2yBnKGnaMEeI0Gg021CGq"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

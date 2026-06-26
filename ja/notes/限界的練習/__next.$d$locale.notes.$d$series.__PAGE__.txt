@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[96825,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","579","static/chunks/579-f65c76ee6a002b84.js","947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-beadf149a352c546.js"],"SeriesRenderer"]
+5:I[71838,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Ta10,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    private
+    featured
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        name
+        pronouns
+        avatar
+        avatarAlt
+        tagline
+        jobTitle
+        company
+        intro
+        now
+        about
+        skills {
+          __typename
+          group
+          items
+        }
+        interests {
+          __typename
+          group
+          items
+        }
+        email
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+    reading {
+      __typename
+      showTopToc
+      showTopTocTitle
+      topTocCollapsedByDefault
+      tocMaxHeadingLevel
+      showSideToc
+      sideTocMaxHeadingLevel
+      enableHeadingCollapse
+      headingCollapseLevels
+    }
+  }
+}
+    0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["ja","限界的練習","index"],"path":"content/notes/ja/限界的練習/index.mdx","relativePath":"ja/限界的練習/index.mdx","extension":".mdx"},"id":"content/notes/ja/限界的練習/index.mdx","__typename":"NoteSeries","createdAt":"2026-01-23T03:32:35.713Z","updatedAt":"2026-01-25T08:10:15.651Z","canonicalId":"peak-secrets-from-the-new-science-of-expertise","seriesName":"限界的練習","title":"『限界的練習』読書ノート","description":null,"showOrder":false,"private":null,"featured":null,"progress":"not-started","coverImage":"/uploads/notes/covers/刻意练习.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"超一流になるのは才能か努力か？","creator":"[米] アンダーズ・エリクソン（Anders Ericsson） / ロバート・プール（Robert Pool）","platform":null,"url":"https://book.douban.com/subject/26895993/","coverImage":"/uploads/notes/sources/刻意练习.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null}},"errors":null,"query":"$3","variables":{"relativePath":"ja/限界的練習/index.mdx"}},"isFallback":false,"notes":[{"_sys":{"filename":"卓越した成果を出すために","basename":"卓越した成果を出すために.mdx","hasReferences":null,"breadcrumbs":["ja","限界的練習","卓越した成果を出すために"],"path":"content/notes/ja/限界的練習/卓越した成果を出すために.mdx","relativePath":"ja/限界的練習/卓越した成果を出すために.mdx","extension":".mdx"},"id":"content/notes/ja/限界的練習/卓越した成果を出すために.mdx","__typename":"NoteNote","createdAt":"2026-01-24T02:58:59.838Z","updatedAt":"2026-01-25T04:38:27.113Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["創造者","生涯学習","デジタルノマド（目標）"],"jobTitle":"プログラマー（フロント中心、バックエンド勉強中）","company":"Stockmark Inc.","intro":"いい年の独身男。投資・資産運用は初心者。プログラミングは趣味——「作る」ことが好きで、コードは低コストで無公害な制作手段だから。そして仕事でもある。今はリモートワーク、目標はデジタルノマド。\nこれからはゲームを作りたいし、3Dプリンターも触ってみたい。\n運動不足なので、自分に無理やり自転車を漕がせている——もちろん自転車そのものも好きだけど。痩せすぎに見えないよう、軽く筋トレも。辛いものが好き、パクチーも好き。ホラー映画も好き。\n学ぶのが好きで、役に立つものも立たないものも、いろんなスキルを。\n文学少女が好き。\n「逆・哲学的自殺」から抜け出そうともがいている最中。","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"codex の無能さにうんざりして、Claude に乗り換えた。今は「3/n刀流」——このサイト、ローカルのボードゲームプラットフォーム、タスク管理システムを同時に進めている。Claude は codex よりはマシだが、トークンの制限がきつすぎるし、細かいところは結局自分で見るしかない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資のほうは、トランプと中東のニュースに心を揺さぶられっぱなし。ゴールドをだいぶ買ったが、高値づかみで、いまは含み損。唯一の利益は円安から——日本政府、いい加減なんとかならないのか？！"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"意味を渇望しながら、その意味を信じてはいない。"}]},{"type":"p","children":[{"type":"text","text":"他人の目に、俺はおそらくかなり理性的な人間として映る——自分でもそう思っていた。けれど最近になってようやく気づいた、というより、ようやく直視する気になったのだ。心の奥には、ずっともう一人のひどく感情的な自分が、底色として在り続けていた。たぶん、この理性と感性の長きにわたる争いこそが、今の俺を形づくってきたのだろう。"}]},{"type":"h5","children":[{"type":"text","text":"苦しむシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"仏は、人に八苦ありと説く。生・老・病・死、それは天の定めた半分であり、人の意志ではどうにもならず、誰一人逃れられない。もう半分——求不得、愛別離、怨憎会、そしてあの「五陰熾盛」——は、すべて人の心から生まれる。感性ゆえに、俺はあまりにたやすく心を動かされ、それゆえあまりにたやすく傷つく。世は無常、人生は意のままにならぬことが十のうち八九。こうして苦しみは、影のように付きまとう。"}]},{"type":"p","children":[{"type":"text","text":"少しずつ、それに対処するすべを編み出してきた。気を紛らわすこと、これは意識的にずっと試みてきたもの。「逆・哲学的自殺」、これは無意識のうちに、ずっとやってきたもの。"}]},{"type":"p","children":[{"type":"text","text":"この歳になって振り返ると、理性はおそらく、生まれつき備わったものではない。むしろ一つの選択なのだ——感性に、そして感性の生む苦しみに対抗するために、俺は自分を理性的に保つことを選んだ。正直に言えば、効き目はさほどよくない。"}]},{"type":"p","children":[{"type":"text","text":"カミュは言う。「不条理」は、「意味を求める人間」と「沈黙する世界という現実」との衝突から生まれる、と。いかなる意味も与えてくれない宇宙を前にして、人は——物理的に自殺し、苦しみを根元から断つか。それは臆病な妥協だ。あるいは「哲学的自殺」、信仰（信仰への飛躍）に身を投じて人為的に意味を与えるか。それは理性への裏切りだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は気を紛らわそうとした。役に立つものも立たないものも、さまざまな技能を学んだ。手仕事が好きだ。折り紙が好きだ。コードを書くのが好きだ。「作る」ことが好きなのだ——こういう、目標のはっきりしたことが。一本の明快な道を一歩ずつ進んでいるとき、俺はそこへ完全に没入できる。そのとき「自分」は消え去り、苦しみの感覚も、しばし忘れていられる。"}]},{"type":"p","children":[{"type":"text","text":"けれど忘却は束の間で、気晴らしもまた一時のものにすぎない。"}]},{"type":"p","children":[{"type":"text","text":"目をそらすことは、解決ではない。そこで俺は、逆向きの「哲学的自殺」へと入っていった。俺の理性と矜持は、より偉大な存在があり、しかも自分は決してそれには成り得ない、と認めることを許さない。だから信仰は、俺の解にはならない。代わりに俺は、自分の内にある意味への欲求そのものを、解体することを選んだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は自分に言い聞かせる。世界に意味などないのだと。太陽はいつか地球を呑み込み、宇宙もやがて熱的死へと帰してゆくのだと。すべては定められた法則のままに動き、過去も現在も未来もとうに決まっていて、いわゆる自由意志など、人間の傲慢が生んだ幻にすぎないのだと。"}]},{"type":"p","children":[{"type":"text","text":"だが、これも明らかにうまくはいかなかった。さもなければ、俺は今ごろどこかの寺で頭を剃り、木魚を叩いているか、道服をまとって名山大川を訪ね歩いているはずだ。"}]},{"type":"p","children":[{"type":"text","text":"その果てが、今の俺だ——帯に短し襷に長し。多くを望みながら、失うことを恐れている。うっすらと、学習性無力感のようなものが漂う。何もかもが、不条理との戦いに敗れたあとの無力感に満ちている。"}]},{"type":"p","children":[{"type":"text","text":"だが、こんな不健康な生き方に、俺は少し倦んできた。"}]},{"type":"p","children":[{"type":"text","text":"最近、新しい試みを始めた。"},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":"——運命を愛せよ。足もとの道ばかりを見つめるのではなく、道すがらの風景にも、目を向けてみる。"}]},{"type":"p","children":[{"type":"text","text":"覚えている。ある夕暮れ、淀川沿いを自転車で走っていると、夕日が岸辺の木の葉に射していた。葉は揺れながらきらきらと光り、みずみずしくて——その一瞬、「かわいい」という言葉の意味が、少しわかった気がした。それから、子どもの頃に見た、マーティンという少年が主人公のアニメを思い出す。マーティンは毎朝ちがう場所で目を覚まし、ちがう素性の誰かになり、ちがう人生を生きる——俺が望んでいたのは、どうやらずっと、それだったのだ。"}]},{"type":"p","children":[{"type":"text","text":"もしかすると、これこそがカミュの説いた、不条理への対し方——反抗、なのだろうか。"}]},{"type":"h5","children":[{"type":"text","text":"幸福なシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"俺は、デジタルノマドになるための準備を始めた。お金の管理を始め、投資を学び、収入を——とりわけ不労所得を——増やす方法を探している。身のまわりの、さまざまな人や物事に目を留めるようになった。この「道を行く」という感覚を、楽しもうとし始めている。"}]},{"type":"p","children":[{"type":"text","text":"これは本当に、俺の道なのだろうか。わからない。それでも俺は、この道は幸福なのだと、自分に信じ込ませなければならない。もし十分に幸運なら、いつの日か、本当に自分のものと呼べる「道」を、見つけられるかもしれない。"}]},{"type":"p","children":[{"type":"text","text":"人生はあわただしい百年、夢幻泡影のごとし。ただ願わくは、定められた死が訪れるそのとき、俺が安らかにこう言えますように——「我すでに道を行く、死すとも悔いなし」と。"}]}]},"skills":[{"__typename":"AuthorSkills","group":"技術","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"言語","items":["中国語 · 母語","日本語 · 流暢","英語 · 入門"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["学習","読書","制作","サイクリング","ギター練習"]},{"__typename":"AuthorInterests","group":"やりたいこと","items":["ゲーム開発","3Dプリント"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"canonicalId":"peak-secrets-from-the-new-science-of-expertise-01","seriesName":"限界的練習","title":"卓越した成果を出すために","order":1,"body":{"type":"root","children":[{"type":"h2","children":[{"type":"text","text":"TLDR"}]},{"type":"h2","children":[{"type":"text","text":"各章のまとめ"}]},{"type":"h3","children":[{"type":"text","text":"0. はじめに 天才は存在するか"}]},{"type":"p","children":[{"type":"text","text":"核心的な論点：卓越性は生まれつきのものではなく、正しい訓練方法を通じて習得されるスキルである。"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"本当の「天才」とは適応能力である： 傑出した人物が持つ卓越した才能は、実は人間に本来備わっている適応能力である。彼らは普通の人よりもその適応能力をより多く活用したに過ぎない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"訓練がスキルを創造する"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"脳は固定されていない 従来の観点では、ポテンシャルは固定されており、学習はポテンシャルを「掘り起こす」ためのものだと考えられていた。しかし、1990年代以降の研究により、脳は想像以上に強い適応能力を持っていることが示されている。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"訓練が構造を変える 訓練は「トリガー」として機能し、脳を様々な方法で「再配線」させる。例えば、ニューロン間に新しい接続を形成したり、既存の接続を強化したりする。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"年齢と適応能力 若い時期（6歳以前など）の脳は適応能力がより高いものの、身体と脳は成人期を通じて極めて大きな適応能力を保持しており、正しい訓練によって様々な新しい能力を養うことができる。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"エキスパートと常人 エキスパートは集中した訓練を通じて脳と身体に変化を促す。彼らが持つ重要な才能は、私たち一人一人が持っている才能と同じである。つまり、脳と身体には適応能力があり、彼らはその能力を私たちよりも多く利用しただけなのだ。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"正しい練習が唯一の道である： 単なる「心からの願いと懸命な努力」だけでは、継続的な向上には不十分である。卓越性への唯一の道は、正しい練習、すなわち「限界的練習（刻意練習）」である。"}]}]}]},{"type":"h4","children":[{"type":"text","text":"事例"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"モーツァルトの絶対音感"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"従来の認識： モーツァルトは7歳の時にどんな音も正確に聞き分けることができた。この絶対音感は、彼の生まれ持った不思議な才能の現れだと考えられていた。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"科学的発見： 研究により、絶対音感は声調言語を話す人々の間でより一般的であり、かつ所有者のほぼ全員が幼少期（3、4歳）に音楽訓練を受けていることが判明した。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"実験的証拠： 榊原彩子氏は訓練を通じて、研究に参加した子供たちに絶対音感を身につけさせることに成功した。これは、絶対音感が決して天賦の才ではなく、適切な接触と訓練によって養い、発展させることができる能力であることを示している。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"モーツァルトの真実： モーツァルトの絶対音感と早熟な成果は、父レオポルト・モーツァルトが彼が4歳の時から行った、より強度の高い、長時間の系統的な訓練の結果であった。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"レイ・アレンと努力"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"世間の誤解： NBAのスター選手であるレイ・アレンは有名なスリーポイントシューターであり、しばしば「生まれつき傑出している」と誤解されていた。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"アレンの視点： アレン本人はこの説を否定し、自身の成果はシュート練習に毎日費やした多大な努力のおかげであると強調している。彼の例は、成果が優れた遺伝子からではなく、絶え間ない懸命な練習から生まれることを物語っている。"}]}]}]}]}]},{"type":"h4","children":[{"type":"text","text":"脳と身体の適応能力"}]},{"type":"p","children":[{"type":"text","text":"さらなる研究が示すこと："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"脳は固定されていない かつて科学者は成人の脳の「配線」は固定されていると考えていた。しかし、1990年代以降の研究により、脳は想像以上に強い適応能力を持っていることが示されている。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"訓練が構造を変える 訓練は「トリガー」として機能し、脳を様々な方法で「再配線」させる。例えば、ニューロン間に新しい接続を形成したり、既存の接続を強化したりする。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"年齢と適応能力 若い時期（6歳以前など）の脳は適応能力がより高いものの、身体と脳は成人期を通じて極めて大きな適応能力を保持しており、正しい訓練によって様々な新しい能力を養うことができる。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"エキスパートと常人\nエキスパートは集中した訓練を通じて脳と身体に変化を促す。彼らが持つ重要な才能は、私たち一人一人が持っている才能と同じである。つまり、脳と身体には適応能力があり、彼らはその能力を私たちよりも多く利用しただけなのだ。"}]}]}]}]},"reading":null}]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2yBnKGnaMEeI0Gg021CGq"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

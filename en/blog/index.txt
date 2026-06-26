@@ -1,0 +1,2159 @@
+1:"$Sreact.fragment"
+2:I[11351,[],""]
+3:I[66283,[],""]
+6:I[71838,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[71838,[],"ViewportBoundary"]
+c:I[71838,[],"MetadataBoundary"]
+e:I[31293,[],"default",1]
+:HL["/_next/static/media/013465ab24b5e2ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/03f17d7c3aa26da2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/07742062c2ec3b55-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/091c03e5d6ea6d84-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0a002f5319e6b358-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0a3f9be12cd52d6a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0e4e843640321a14-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/105f650fe2b5d42b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1245abf6aff69198-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/15fb600d42056579-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/167ee8e96fbb569c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/17072c6d3ac5dd2b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1bec96b1fc532b39-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1d3ab314c572fe59-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1fe2c2cc73a996ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/215992f82a7fc8d9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2329f82f48d3e252-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/235349d9c353e5d7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/235e1413f94eb7df-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/27189fa32c829a10-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2721c83bedfbfacc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2d39ca87528a10fe-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2eae2d0d526dd7e7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2ff7fc6f93c85c9f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3061f5b6eb250216-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3195b9990a471e0e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/37f1fd599fd51852-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/399fe7a00b199ff6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/39a945e867963fe5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3a793f372ad6908f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b210ad12b47ded7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c282db8a43b7648-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3cf3730779422fda-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3d031459eacc86dd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3d8917b52af967ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3db8134653b57583-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3ef86813b18244e4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/400ef3b3d658076e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4046ec9b7a3cd7ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/44788dbce07da950-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/45542685dcea2778-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4759979789a5a53d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4840173a88d500b9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/48ee0eb829fd67dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/492a05f84d892f68-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/494bd1e605f65b51-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/495c95e95df6df48-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4a0ad145d59630d5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4be9076b1e8d9d3a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4eaae9a755d6739d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4fb89f155b696c77-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/503e02acc3651395-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/533e956dcf04c523-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5486cf78ec8b6aa4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5535d313c4d0dd07-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/580e937fa63cc299-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5865568f9f0ed48b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5956e233d38b36b0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5a63fca0554e2af7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5a9ef9d66f53ab0d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6003289b1a0723d3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/606cdd767ee835e0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/609eb1ae761915cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/60b4cf9c89d558b0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/63885f7c1e9eccfb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/640eaa65cf124f08-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/64698228b2165a7c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/677590baa4ca2e13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/691f29e396bda4f2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d95d0c27d8047ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e0a7691717621ac-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e99d52b70c1c780-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f28feadd9af1a00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f9cf82daf0013d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70141a28668ebc54-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7527bcc8ad8212dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/78db4f537e4b09d0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ab863dbb91a9ebb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7bf733c96a9957d7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7cc2c9a860b885ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d8c7b021bdcbfbb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/804a1838fe4df1f2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/827817a6583e8e63-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/855bf691c0a65918-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/85a55989c080432c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/86e95c1ae558f263-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/87374e80e25182dd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8a968650a42b8e0a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8fb1a96451cec840-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92ebb4d8a0e206c8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92f9a759eb15589b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/953b7aa585d36a2b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/963e7e1f88cb3a00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97327acf874ffa11-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9734ccb552bd325e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97f8c491b42d68d2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/985dd91a244380ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/986436dc0499dd2f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a9788a4e16c5c51-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9ced71d9a17429e0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a191b9bac6f8600d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a4129c4f34f1b5c0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a591cdc407ab586f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a65337acff4f4821-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a849c6a4a23421a7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a92656b129864a12-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a9cda1d8a2085c55-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/aacbf89b63ff3595-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b00dd9bf215f2bdd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b3a72d9fe424b761-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b4453bb1af72eecd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b5db02f0d09d688d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b70f4c267ee5d80a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7b43acee81d05a8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7ffde2383bb16ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b8360fe28dd22583-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b86cd06026fa06d1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ba207823b79d7338-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/baf38b70164202b2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd4e47cdb1b92e8e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd8b174424a8a846-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdf029be9f79bf1e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bfb532d5b1e18ccb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0085ea68429c35d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0139f7fd13515ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c050c0dd427d93a6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0731ba78c40a013-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c40eb5c239e2500e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c4123ec14930c740-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5195215cb712e9c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5aea32fcbdafb2d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5e23c4ce2ad4d33-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c7f0fb8f1284c686-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cb2592f89a5b3482-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cdf2c76defadf6a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cf3bc018c5e93c8c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2354fc5eec55fa8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d297340ef23eda35-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2cb8298fb1a7960-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3553b6f774f5f10-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3dfc32b7cd0c1b2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f4148e673eefa1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f4c1319cb9fc96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d40b82f1199447e9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d426e27a540fb37b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d4df281bd2c98884-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d5390949c79b867c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d5eb20bcdcf5616a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6aadaac38d50a34-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6db785f12578923-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d707554fc70c9fe8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7b08b16873350f4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7b77a371bb6ff1a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db113296d95e0ea3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd25e201a7365ca8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd72cf8ee95a6209-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dea7fd53655a05d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dedba05d74695149-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dfa838533585ac88-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e02314469b6a91af-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e03d93e818236bd0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e25467c81b2f6847-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e5ac5a164fe4de15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e63949304190a2f6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e7c031161b7acec9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e8e727663d48509c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef6d3f52c547a6e3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/efad461bde42560a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0519f43f8688da0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0a41d057f0cb19e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f1f373d0bf9183e9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f2896b9701b79d61-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f3b2fa186c207b4f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f77b4e4ded2b5d1a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f892e6109f32666c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f8d8377bcc8eeb37-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/faa67b8e498729b3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/faab3f8f77e50539-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fab5947736a1b125-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fbba1c17701ceb2c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fc1b5331646ff7ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fed0a2adbb55725b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ff03e98909115ed9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ffbe681f6d1db2a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/262bd2d5b52b8135.css","style"]
+:HL["/_next/static/css/fedaceebeafe1473.css","style"]
+:HL["/_next/static/css/d8be5d8584e4e908.css","style"]
+:HL["/_next/static/css/8ba300abfc2ca1ee.css","style"]
+:HL["/_next/static/css/bed7463ddbed6219.css","style"]
+0:{"P":null,"c":["","en","blog",""],"q":"","i":false,"f":[[["",{"children":[["locale","en","d",null],{"children":["blog",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/262bd2d5b52b8135.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/fedaceebeafe1473.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/d8be5d8584e4e908.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/8ba300abfc2ca1ee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/bed7463ddbed6219.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"2yBnKGnaMEeI0Gg021CGq"}
+f:[]
+9:"$Wf"
+10:I[41879,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"ColorSchemeScript"]
+4:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"__variable_3dc64f __variable_d2b1f7 __variable_6a8b35","children":[["$","head",null,{"children":["$","$L10",null,{}]}],["$","body",null,{"children":"$L11"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[8847,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","728","static/chunks/a191244a-83a077a9b55fef50.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","454","static/chunks/app/%5Blocale%5D/blog/page-d4d13b0d8612428f.js"],"default"]
+11:["$","$L12",null,{"formats":"$undefined","locale":"en","messages":{"share":{"label":"Share","webShare":"Share…","copy":"Copy link","copied":"Copied","platforms":{"x":"Share on X","facebook":"Share on Facebook","reddit":"Share on Reddit","line":"Share on LINE","weibo":"Share on Weibo","qzone":"Share on Qzone","douban":"Share on Douban","email":"Share via email"}},"meta":{"siteName":"Re:Jeunesse","siteDescription":"Free yourself. Free the world.","titleTemplate":"{title} | {siteName}","noteSeriesDescription":"Notes from the {series} series"},"home":{"intro":{"greeting":"{greeting}, I'm {name} 👋","greetings":{"default":"Hi","morning":{"hello":["Good morning","Morning"],"line":["Up already","Another day"]},"noon":{"hello":["Hey"],"line":["Midday","Lunchtime"]},"afternoon":{"hello":["Good afternoon"],"line":["The drowsy hour","Still going"]},"evening":{"hello":["Good evening"],"line":["Day's done","Nice night"]},"night":{"hello":[],"line":["It's late","Still up","The night's young"]}},"more":"About me"},"hero":{"reshuffle":"Shuffle"},"recent":{"heading":"Recent"},"featured":{"heading":"Featured","drag":"↔ Drag to browse"},"entries":{"heading":"Explore","go":"Enter","blog":{"title":"Blog","description":"Essays, thoughts & tech notes"},"notes":{"title":"Notes","description":"Structured reading & study series"},"projects":{"title":"Projects","description":"Things I've built & open source"}}},"pages":{"404":{"title":"Page Not Found | {siteName}","description":"Sorry, the page you are looking for does not exist or has been removed."},"blog":{"title":"Blog","description":"Recording & Sharing","allPosts":"All Posts","recentPosts":"Recent Posts","featuredPosts":"Featured Posts","byTag":"Tag: {tag}","bySeries":"Series: {series}","noPosts":"No posts yet","postsCount":"{count, plural, one {# post} other {# posts}}","series":{"title":"Series","viewAll":"View Full Series"}},"notes":{"title":"Notes","description":"Learning Log","allNotes":"All Notes","allSeries":"All Series","seriesOverview":"Series Overview","noNotes":"No notes yet","notesCount":"{count, plural, one {# note} other {# notes}}","chapters":"Total {count, plural, one {# note} other {# notes}}","progress":{"label":"Progress","not-started":"Not Started","in-progress":"In Progress","completed":"Completed","on-hold":"On Hold"},"source":{"title":"Resources","book":"Book","video":"Video","by":"{creator}","platform":"Platform: {platform}","moreInfo":"More Info"}},"projects":{"title":"Projects","description":"Portfolio","allProjects":"All Projects","featuredProjects":"Featured Projects","noProjects":"No projects yet","projectsCount":"{count, plural, one {# project} other {# projects}}","techStack":"Tech Stack","viewProject":"View Project","viewSource":"View Source","status":{"label":"Status","inProgress":"In Progress","completed":"Completed","archived":"Archived"},"date":"Date","linkType":{"website":"Website","github":"GitHub","gitlab":"GitLab","gitee":"Gitee","bitbucket":"Bitbucket","npm":"npm","docs":"Docs","other":"Link"}},"about":{"title":"About Site"},"portfolio":{"title":"About Me","now":"Now","bio":"Who I Am","background":{"education":"Education","experience":"Experience"},"expertise":{"skills":"Skills","interests":"Interests","languages":"Languages"},"social":"Connect"},"diary":{"title":"Diary","subtitle":"Personal Log","allEntries":"All Entries","noEntries":"No entries yet","diaryCount":"{count, plural, one {# entry} other {# entries}}","mood":{"label":"Mood","great":"Great","good":"Good","okay":"Okay","bad":"Bad","terrible":"Terrible"},"calendar":{"title":"Calendar View","today":"Today","hasEntry":"Has entry"}}},"common":{"readMore":"Read More","readingTime":"{minutes, plural, one {# min read} other {# min read}}","publishedAt":"Published on","updatedAt":"Updated on","author":"Author","tags":"Tags","share":"Share","copyLink":"Copy Link","linkCopied":"Link copied","loading":"Loading...","noResults":"No content found","viewAll":"View All","previous":"Previous","next":"Next","backTo":"Back to {target}","draft":"Draft","private":"Private","featured":"Featured","types":{"blog":"Blog","notes":"Notes","projects":"Projects"}},"layout":{"themeToggle":"Toggle Theme","themeDark":"Dark Mode","themeLight":"Light Mode","themeSystem":"System","languageSwitch":"Switch Language","menu":"Menu","closeMenu":"Close menu","copyright":"© {year} {name}. All rights reserved.","poweredBy":"Powered by {tech}"},"components":{"AdjacentPagination":{"prev":"Previous","next":"Next"},"FallbackIndicator":{"title":"Language fallback","message":"This page is not available in {requested}; displaying {fallback} version."},"ScrollToTop":{"label":"Back to Top"},"headingLinkButton":{"label":"Copy link","copiedLabel":"Copied","failedLabel":"Copy failed","ariaLabel":"Copy link to this heading","copiedAriaLabel":"Link to this heading copied"},"pagination":{"page":"Page {current} of {total}","first":"First","last":"Last","prev":"Prev","next":"Next"},"toc":{"title":"Table of Contents","expandAll":"Expand all","collapseAll":"Collapse all"},"seriesNav":{"title":"Series Navigation","previous":"Previous","next":"Next","partOf":"Part of series \"{series}\"","partN":"Part {n} of {total, plural, one {# part} other {# parts}}"},"tagCloud":{"title":"Tags","postCount":"{count, plural, one {# post} other {# posts}}"}},"tags":{"title":"Tags","allTags":"All Tags","postsWithTag":"Content tagged \"{tag}\"","noTags":"No tags found"},"search":{"title":"Search","placeholder":"Search posts, notes...","results":"Found {count, plural, one {# result} other {# results}}","noResults":"No results found","searching":"Searching...","filterBy":"Filter by","filters":{"all":"All","blog":"Blog","notes":"Notes","projects":"Projects"}},"error":{"404":{"title":"Page Not Found","message":"The page you are looking for does not exist or has been removed.","action":"Back to Home"},"500":{"title":"Server Error","message":"Something went wrong. Please try again later.","action":"Refresh Page"}},"a11y":{"skipToContent":"Skip to content","openMenu":"Open menu","closeMenu":"Close menu","externalLink":"(opens in a new tab)","currentPage":"Current page"},"time":{"justNow":"Just now","minutesAgo":"{minutes} minutes ago","hoursAgo":"{hours} hours ago","daysAgo":"{days} days ago","weeksAgo":"{weeks} weeks ago","monthsAgo":"{months} months ago","yearsAgo":"{years} years ago"}},"now":"$undefined","timeZone":"UTC","children":"$L13"}]
+14:I[14971,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"AppProvider"]
+15:I[96353,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"DatesProvider"]
+13:["$","$L14",null,{"globalConfig":{"_sys":{"filename":"global.en","basename":"global.en.json","hasReferences":false,"breadcrumbs":["global.en"],"path":"content/global/global.en.json","relativePath":"global.en.json","extension":".json"},"id":"content/global/global.en.json","__typename":"Global","locale":"en","createdAt":"2026-01-07T16:05:34.692Z","updatedAt":"2026-01-08T14:31:46.182Z","siteName":"Re:Jeunesse","siteDescription":null,"logoConfig":{"__typename":"GlobalLogoConfig","type":"icon","iconConfig":null,"image":null,"text":"Re:Jeunesse"},"favicon":null,"ogImage":null,"header":{"__typename":"GlobalHeader","showThemeToggle":null,"nav":[{"__typename":"GlobalHeaderNav","label":"Blog","href":"/blog","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"Notes","href":"/notes","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"Projects","href":"/projects","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"Diary","href":"/diary","external":false,"group":"","isPrivate":true},{"__typename":"GlobalHeaderNav","label":"About Me","href":"/portfolio","external":false,"group":"About","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"About This Site","href":"/about","external":false,"group":"About","isPrivate":false}],"height":"6.5rem","breakpoints":null,"background":null},"footer":{"__typename":"GlobalFooter","copyrightText":"© 2026 JM. All rights reserved.","authorForSocial":null,"nav":[{"__typename":"GlobalFooterNav","label":"Blog","href":"/blog","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"Notes","href":"/notes","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"Projects","href":"/projects","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"About Me","href":"/portfolio","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"About This Site","href":"/about","external":false,"group":""}],"height":"11rem","breakpoints":null,"background":null},"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":{"__typename":"GlobalThemeFontFamily","heading":"josefinSans","body":"domine"},"colorScheme":"light"},"i18n":{"__typename":"GlobalI18n","defaultLocale":"zh","supportedLocales":["zh","en","ja"]},"reading":{"__typename":"GlobalReading","showTopToc":true,"showTopTocTitle":true,"topTocCollapsedByDefault":false,"tocMaxHeadingLevel":"h3","showSideToc":true,"sideTocMaxHeadingLevel":"h3","enableHeadingCollapse":true,"headingCollapseLevels":["h2","h3"]},"analytics":null,"rss":null,"comments":null},"shouldIncludePrivate":false,"children":["$","$L15",null,{"settings":{"locale":"en"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
+16:I[1259,[],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Blog | Re:Jeunesse"}],["$","meta","1",{"name":"description","content":"Recording & Sharing"}],["$","link","2",{"rel":"canonical","href":"https://re-jeunesse.org/en/blog/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://re-jeunesse.org/en/blog/"}],["$","link","4",{"rel":"alternate","hrefLang":"ja","href":"https://re-jeunesse.org/ja/blog/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh","href":"https://re-jeunesse.org/zh/blog/"}],["$","meta","6",{"property":"og:title","content":"Blog | Re:Jeunesse"}],["$","meta","7",{"property":"og:description","content":"Recording & Sharing"}],["$","meta","8",{"property":"og:site_name","content":"Re:Jeunesse"}],["$","meta","9",{"property":"og:locale","content":"en"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Blog | Re:Jeunesse"}],["$","meta","13",{"name":"twitter:description","content":"Recording & Sharing"}],["$","link","14",{"rel":"icon","href":"/icon.svg?ce7055fa98cb49d8","type":"image/svg+xml","sizes":"any"}],["$","$L16","15",{}]]
+17:I[75950,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","728","static/chunks/a191244a-83a077a9b55fef50.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","454","static/chunks/app/%5Blocale%5D/blog/page-d4d13b0d8612428f.js"],"PostListRenderer"]
+18:Tacaa,
+    query pages($relativePath: String!) {
+  pages(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...PagesParts
+  }
+}
+    
+    fragment PagesParts on Pages {
+  __typename
+  createdAt
+  updatedAt
+  title
+  showTitle
+  titleStand
+  showTitleStand
+  description
+  blocks {
+    __typename
+    ... on PagesBlocksCover {
+      fixed
+      item {
+        __typename
+        ... on PagesBlocksCoverItemCarousel {
+          slides {
+            __typename
+            ... on PagesBlocksCoverItemCarouselSlidesFlex {
+              items {
+                __typename
+                ... on PagesBlocksCoverItemCarouselSlidesFlexItemsHero {
+                  title
+                  subtitle
+                  textAlign
+                  children
+                  background {
+                    __typename
+                    color
+                    image
+                    overlay {
+                      __typename
+                      enabled
+                      color
+                      opacity
+                    }
+                  }
+                  spacing {
+                    __typename
+                    margin {
+                      __typename
+                      top
+                      customTop
+                      right
+                      customRight
+                      bottom
+                      customBottom
+                      left
+                      customLeft
+                    }
+                    padding {
+                      __typename
+                      top
+                      customTop
+                      right
+                      customRight
+                      bottom
+                      customBottom
+                      left
+                      customLeft
+                    }
+                    breakpoints {
+                      __typename
+                      breakpoint
+                      margin {
+                        __typename
+                        top
+                        customTop
+                        right
+                        customRight
+                        bottom
+                        customBottom
+                        left
+                        customLeft
+                      }
+                      padding {
+                        __typename
+                        top
+                        customTop
+                        right
+                        customRight
+                        bottom
+                        customBottom
+                        left
+                        customLeft
+                      }
+                    }
+                  }
+                  flex {
+                    __typename
+                    direction
+                    gap
+                    customGap
+                    align
+                    justify
+                    wrap
+                    breakpoints {
+                      __typename
+                      breakpoint
+                      direction
+                      gap
+                      customGap
+                      align
+                      justify
+                      wrap
+                    }
+                  }
+                }
+                ... on PagesBlocksCoverItemCarouselSlidesFlexItemsContent {
+                  content
+                  background {
+                    __typename
+                    color
+                    image
+                    overlay {
+                      __typename
+                      enabled
+                      color
+                      opacity
+                    }
+                  }
+                  spacing {
+                    __typename
+                    margin {
+                      __typename
+                      top
+                      customTop
+                      right
+                      customRight
+                      bottom
+                      customBottom
+                      left
+                      customLeft
+                    }
+                    padding {
+                      __typename
+                      top
+                      customTop
+                      right
+                      customRight
+                      bottom
+                      customBottom
+                      left
+                      customLeft
+                    }
+                    breakpoints {
+                      __typename
+                      breakpoint
+                      margin {
+                        __typename
+                        top
+                        customTop
+                        right
+                        customRight
+                        bottom
+                        customBottom
+                        left
+                        customLeft
+                      }
+                      padding {
+                        __typename
+                        top
+                        customTop
+                        right
+                        customRight
+                        bottom
+                        customBottom
+                        left
+                        customLeft
+                      }
+                    }
+                  }
+                }
+              }
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                customGap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  customGap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PagesBlocksCoverItemCarouselSlidesHero {
+              title
+              subtitle
+              textAlign
+              children
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                customGap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  customGap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PagesBlocksCoverItemCarouselSlidesContent {
+              content
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+            }
+          }
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          carousel {
+            __typename
+            height
+            orientation
+            type
+            slides {
+              __typename
+              slideSize
+              slideGap
+              customSlideGap
+              includeGapInSize
+              initialSlide
+            }
+            align
+            loop
+            interaction {
+              __typename
+              draggable
+              dragFree
+              withKeyboardEvents
+            }
+            animation {
+              __typename
+              duration
+              skipSnaps
+              containScroll
+              inViewThreshold
+            }
+            controls {
+              __typename
+              withControls
+              controlSize
+              controlsOffset
+              customControlsOffset
+              nextControlIcon
+              previousControlIcon
+            }
+            indicators {
+              __typename
+              withIndicators
+            }
+            plugins {
+              __typename
+              autoplay {
+                __typename
+                enabled
+                delay
+                stopOnInteraction
+                stopOnMouseEnter
+                stopOnFocusIn
+                stopOnLastSnap
+                jump
+                playOnInit
+              }
+              fade {
+                __typename
+                enabled
+              }
+              classNames {
+                __typename
+                enabled
+              }
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              slideSize
+              slideGap
+              customSlideGap
+            }
+          }
+        }
+        ... on PagesBlocksCoverItemFlex {
+          items {
+            __typename
+            ... on PagesBlocksCoverItemFlexItemsHero {
+              title
+              subtitle
+              textAlign
+              children
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                customGap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  customGap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PagesBlocksCoverItemFlexItemsContent {
+              content
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+            }
+          }
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksCoverItemHero {
+          title
+          subtitle
+          textAlign
+          children
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksCoverItemContent {
+          content
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+        }
+      }
+      height
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+    }
+    ... on PagesBlocksCarousel {
+      slides {
+        __typename
+        ... on PagesBlocksCarouselSlidesFlex {
+          items {
+            __typename
+            ... on PagesBlocksCarouselSlidesFlexItemsHero {
+              title
+              subtitle
+              textAlign
+              children
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                customGap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  customGap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PagesBlocksCarouselSlidesFlexItemsContent {
+              content
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+            }
+          }
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksCarouselSlidesHero {
+          title
+          subtitle
+          textAlign
+          children
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksCarouselSlidesContent {
+          content
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+        }
+      }
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+      carousel {
+        __typename
+        height
+        orientation
+        type
+        slides {
+          __typename
+          slideSize
+          slideGap
+          customSlideGap
+          includeGapInSize
+          initialSlide
+        }
+        align
+        loop
+        interaction {
+          __typename
+          draggable
+          dragFree
+          withKeyboardEvents
+        }
+        animation {
+          __typename
+          duration
+          skipSnaps
+          containScroll
+          inViewThreshold
+        }
+        controls {
+          __typename
+          withControls
+          controlSize
+          controlsOffset
+          customControlsOffset
+          nextControlIcon
+          previousControlIcon
+        }
+        indicators {
+          __typename
+          withIndicators
+        }
+        plugins {
+          __typename
+          autoplay {
+            __typename
+            enabled
+            delay
+            stopOnInteraction
+            stopOnMouseEnter
+            stopOnFocusIn
+            stopOnLastSnap
+            jump
+            playOnInit
+          }
+          fade {
+            __typename
+            enabled
+          }
+          classNames {
+            __typename
+            enabled
+          }
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          slideSize
+          slideGap
+          customSlideGap
+        }
+      }
+    }
+    ... on PagesBlocksFlex {
+      items {
+        __typename
+        ... on PagesBlocksFlexItemsHero {
+          title
+          subtitle
+          textAlign
+          children
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksFlexItemsContent {
+          content
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+        }
+      }
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+      flex {
+        __typename
+        direction
+        gap
+        customGap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          customGap
+          align
+          justify
+          wrap
+        }
+      }
+    }
+    ... on PagesBlocksHero {
+      title
+      subtitle
+      textAlign
+      children
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+      flex {
+        __typename
+        direction
+        gap
+        customGap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          customGap
+          align
+          justify
+          wrap
+        }
+      }
+    }
+    ... on PagesBlocksContent {
+      content
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+    }
+  }
+  pageLayout {
+    __typename
+    flat
+    containerWidth
+    customContainerWidth
+    contentMaxWidth
+    customContentMaxWidth
+    contentOffset
+  }
+}
+    5:["$","$L17",null,{"posts":[{"_sys":{"filename":"is-a-working-holiday-really-for-me","basename":"is-a-working-holiday-really-for-me.mdx","hasReferences":null,"breadcrumbs":["en","2026-06","is-a-working-holiday-really-for-me"],"path":"content/blog/en/2026-06/is-a-working-holiday-really-for-me.mdx","relativePath":"en/2026-06/is-a-working-holiday-really-for-me.mdx","extension":".mdx"},"id":"content/blog/en/2026-06/is-a-working-holiday-really-for-me.mdx","__typename":"Post","createdAt":"2026-06-03T08:45:27.102Z","updatedAt":"2026-06-03T13:42:45.161Z","canonicalId":"working-holiday-fitness-check","draft":false,"featured":null,"publishedAt":"2026-06-03T13:42:45.161Z","title":"Is a Working Holiday Really for Me?","excerpt":"Presents a neutral decision-making framework to assess the pros and cons of a Working Holiday (WH). It supports individuals in making rational choices suited to their personal circumstances through three questions: clarifying goals, considering alternatives, and calculating all costs, including opportunity costs.","readingTime":17,"author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["Creator","Lifelong Learner","Aspiring Digital Nomad"],"jobTitle":"Programmer (frontend-first, backend in progress)","company":"Stockmark Inc.","intro":"An older single guy. A beginner at investing. Coding is a hobby — mainly because I like to make things, and code is a low-cost, pollution-free way to make them; it's also my job. Working remotely for now, with digital nomad as the goal.\nNext I want to make games, and try 3D printing.\nI move too little, so I make myself ride a bike — though I do genuinely like cycling; and lift a little, so I don't look too skinny. I like spicy food, and cilantro. I like horror films.\nI like learning — all sorts of skills, useful or not.\nI have a soft spot for the literary girl.\nCurrently trying to break free from “reverse philosophical suicide”.","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Fed up with codex's incompetence, I switched to Claude and went full '3/n Sword Style' — running several projects at once: this site, a local board-game platform, a task manager. Claude is a notch better than codex, but the token limits are too tight, and I still have to keep an eye on the details myself."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"On the investing side, every headline out of Trump and the Middle East tugs at my nerves. I bought a fair bit of gold — too high, as it turns out, so I'm underwater for now; my only gain comes from the yen sliding. Will the Japanese government ever get it together?!"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"I crave meaning, yet I don't believe in it."}]},{"type":"p","children":[{"type":"text","text":"To others I probably come across as a fairly rational person — and I used to think so myself. But only recently have I realized — or rather, only recently become willing to face — that deep down there has always been another, far more emotional self, sitting underneath as the ground tone of who I am. Perhaps it is exactly this long war between reason and feeling that has made me who I am today."}]},{"type":"h5","children":[{"type":"text","text":"The Suffering Sisyphus"}]},{"type":"p","children":[{"type":"text","text":"The Buddha speaks of the Eight Sufferings. Birth, old age, sickness, death — that is the half decreed by heaven, beyond anyone's will, that no one escapes. The other half — not getting what you want, parting from those you love, meeting those you hate, and that “blaze of the five aggregates” — is all born of the human heart. Being emotional, I am too easily moved, and so too easily wounded. The world is impermanent; in life, eight or nine times out of ten things do not go your way. And so suffering follows me like a shadow."}]},{"type":"p","children":[{"type":"text","text":"Over time I have worked out a few ways to cope with it: distracting myself, which is what I have consciously tried; and “reverse philosophical suicide,” which is what I have unconsciously been doing all along."}]},{"type":"p","children":[{"type":"text","text":"At this age, looking back, I don't think reason was something I was born with. It feels more like a choice — I chose to keep myself rational, to push back against feeling, against the pain that feeling brings. To be honest, it has not worked very well."}]},{"type":"p","children":[{"type":"text","text":"Camus held that “the absurd” arises from the collision between “man's longing for meaning” and “the silence of the world.” Faced with a universe that offers no meaning at all, you either commit physical suicide and end the suffering at its root — a coward's compromise; or you commit “philosophical suicide,” throwing yourself into faith (the leap of faith) to grant meaning by force — a betrayal of reason."}]},{"type":"p","children":[{"type":"text","text":"I tried to distract myself. I learned all sorts of skills, useful and useless. I like making things by hand, I like origami, I like writing code. I like making — I like this kind of thing, the kind with a clear goal. When I walk a clear path step by step, I can lose myself in it completely; “I” dissolves, and the feeling of pain can be set aside for a while."}]},{"type":"p","children":[{"type":"text","text":"But forgetting is brief, and distraction is only temporary."}]},{"type":"p","children":[{"type":"text","text":"To look away is not to resolve. So I entered the reverse of “philosophical suicide.” My reason and my pride will not let me admit that there is some greater being I could never become — so faith is no cure for me. Instead, I chose to dissolve my own need for meaning."}]},{"type":"p","children":[{"type":"text","text":"I tell myself the world is meaningless: that the sun will one day swallow the earth, that the universe will wind down into heat death. I tell myself everything runs by fixed laws — past, present and future already determined — and that so-called free will is nothing but the arrogance of our species, an illusion."}]},{"type":"p","children":[{"type":"text","text":"But this, clearly, has not worked either; otherwise by now I would have shaved my head and be tapping a wooden fish in some temple, or roaming the famed mountains and rivers in Daoist robes."}]},{"type":"p","children":[{"type":"text","text":"Which leaves me where I am now: neither here nor there; wanting much, yet afraid to lose; with a faint sense of learned helplessness. All of it steeped in the powerlessness that comes from fighting the absurd and losing."}]},{"type":"p","children":[{"type":"text","text":"But I have grown a little tired of this unhealthy way of living."}]},{"type":"p","children":[{"type":"text","text":"Lately I have begun to try something new — "},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":", to love one's fate: no longer fixing my eyes only on the road beneath my feet, but learning to lift my head and take in the scenery along the way."}]},{"type":"p","children":[{"type":"text","text":"I remember one evening, cycling along the Yodo River, the setting sun falling on the leaves by the bank; they trembled and glittered, tender and dewy — and in that instant I understood something new about the word “lovely.” I also remember an animated series I watched as a child, whose hero was named Martin: every morning Martin woke in a different place, became someone with a different identity, lived a different life — and what I have wanted, it seems, has been exactly that, all along."}]},{"type":"p","children":[{"type":"text","text":"Maybe this is the answer Camus held up against the absurd: revolt?"}]},{"type":"h5","children":[{"type":"text","text":"The Happy Sisyphus"}]},{"type":"p","children":[{"type":"text","text":"I have started preparing to become a digital nomad. I have begun managing my money and learning to invest; I look for ways to grow my income, passive income above all; I have started paying attention to the people and things around me, in all their variety. I am beginning to try to enjoy this feeling of being “on the road.”"}]},{"type":"p","children":[{"type":"text","text":"Is this really my path? I don't know. But I have to make myself believe that this path is a happy one. If I am lucky enough, then perhaps one day I will find the “Way” that is truly my own."}]},{"type":"p","children":[{"type":"text","text":"A hundred hurried years of life, like a dream, an illusion, a bubble, a shadow. I only hope that, when my appointed death comes, I can say in peace: “I have walked the road; though I die, I have no regret.”"}]}]},"skills":[{"__typename":"AuthorSkills","group":"Tech","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"Languages","items":["Chinese · Native","Japanese · Fluent","English · Beginner"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["Learning","Reading","Making","Cycling","Practicing guitar"]},{"__typename":"AuthorInterests","group":"To try","items":["Game dev","3D printing"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["en","Toshinaki"],"path":"content/authors/en/Toshinaki.json","relativePath":"en/Toshinaki.json","extension":".json"},"id":"content/authors/en/Toshinaki.json"},"tags":null,"coverImage":null,"coverImageAlt":null,"series":null,"body":{"type":"root","children":[{"type":"h2","children":[{"type":"text","text":"A Decision Framework Anyone Can Use"}]},{"type":"h3","children":[{"type":"text","text":"Foreword"}]},{"type":"p","children":[{"type":"text","text":"This framework is not about answering \"should I go on a WH,\" but rather helping to determine \"is this choice rational for me personally.\""}]},{"type":"p","children":[{"type":"text","text":"There are already plenty of positive narratives about WH on the market; this framework intentionally supplements the systematically overlooked other side. Negative arguments are not conclusions, but rather omitted information. The framework itself is "},{"type":"text","text":"neutral","bold":true},{"type":"text","text":"—using it to conclude \"should go\" or \"should not go\" is equally valid. What's important is not the conclusion, but whether I have truly clarified my goals, alternative solutions, and costs."}]},{"type":"p","children":[{"type":"text","text":"How to use:","bold":true},{"type":"text","text":" Answer each question honestly, without being swayed by the feeling of \"wanting to go.\" If you can't answer a certain question, that itself is an important signal."}]},{"type":"blockquote","children":[{"type":"text","text":"Note: The author currently resides in Japan, so all subsequent judgments are from a Japanese perspective."}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h3","children":[{"type":"text","text":"Part One: Why Do Many People Overestimate WH?"}]},{"type":"h4","children":[{"type":"text","text":"1-1. \"Going abroad will change your life\"?"}]},{"type":"p","children":[{"type":"text","text":"There's a reason this saying is popular: people whose lives changed after going will repeatedly talk about the experience, while those whose lives didn't change won't say anything. This creates a survivor bias."}]},{"type":"p","children":[{"type":"text","text":"The real question worth asking isn't \"will going abroad really change things,\" but rather \"why do some people change, and others don't.\""}]},{"type":"p","children":[{"type":"text","text":"Here's a fitting analogy: no matter how you squeeze an orange, only orange juice comes out. Change the environment, and what comes out is still what you originally had. For people with self-reflection, curiosity, and initiative, these qualities will be stimulated; for those without them, they won't magically appear just by changing locations. Output will not exceed input."}]},{"type":"p","children":[{"type":"text","text":"People who can't change themselves through reading or self-discipline are unlikely to benefit from going abroad."}]},{"type":"h4","children":[{"type":"text","text":"1-2. \"Europe/America = Internationalization\"?"}]},{"type":"p","children":[{"type":"text","text":"Many WH recommenders default to English-speaking countries as destinations. However, if the goal is \"broadening horizons,\" the differences between rapidly developing Asian cities and Japan might be far greater."}]},{"type":"p","children":[{"type":"text","text":"The equation \"Europe/America = internationalization\" essentially treats the specific world order established by the United States after WWII as the \"standard.\" Japanese society has deeply absorbed American culture over 80 years post-war; consumer culture, entertainment, and values have largely been imported from the US for a long time. The substantive differences between English-speaking countries and Japan might be much smaller than many people imagine."}]},{"type":"p","children":[{"type":"text","text":"Moreover, the US itself is now retracting inwards, and the premise \"Europe/America = international standard\" is becoming increasingly untenable. See Appendix B for details."}]},{"type":"h4","children":[{"type":"text","text":"1-3. The Confusion Between \"Experience\" and \"Investment\""}]},{"type":"p","children":[{"type":"text","text":"For some, a WH is a life "},{"type":"text","text":"investment","bold":true},{"type":"text","text":"; for others, it's an expensive "},{"type":"text","text":"consumer","bold":true},{"type":"text","text":" experience. Neither is wrong, but you must be honest with yourself: which one do I want? Without clarity on this, it's easy to fall into a state of \"any outcome can be rationalized\" upon returning."}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h3","children":[{"type":"text","text":"Part Two: Decision Framework"}]},{"type":"p","children":[{"type":"text","text":"Answer the following three questions in order. "},{"type":"text","text":"Q1 is a prerequisite; if you can't answer it clearly, stop directly and do not proceed to evaluate Q2 and Q3.","bold":true},{"type":"text","text":" Q2 and Q3 are optimization problems, influencing \"how to go\" and \"when to go,\" rather than the fundamental decision of \"whether to go.\""}]},{"type":"h4","children":[{"type":"text","text":"Q1: What exactly do you want to gain?"}]},{"type":"table","children":[{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Primary Motivation"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Questions to Ask"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Improve English to a practical level"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Can you state specific goals? Business English, immigration exams, conversational fluency?"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Consider overseas employment or immigration"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"WH can sometimes be a reasonable step towards this goal"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Experience different cultures and values"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"If you can accept \"this is consumption,\" then it's fine"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Want to escape the current environment"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"WH changes the external environment. If your problems are internal—career direction, interpersonal relationships, self-perception—changing the environment won't automatically solve them; you'll still be the same person. Such situations might require counseling, career change, or other actions directly addressing the root cause."}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"\"Feels good,\" \"recommended by others\""}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Note: This is not a goal"}]}]}]}],"props":{"align":[]}},{"type":"p","children":[{"type":"text","text":"Judgment Standard:","bold":true},{"type":"text","text":" One year after returning to Japan, can I specifically state \"what I gained\"? Can I state it now? If not, it means the goal is still unclear. If you go on a WH with vague goals, you'll be able to rationalize any outcome upon returning."}]},{"type":"h4","children":[{"type":"text","text":"Q2: Is WH the best means to achieve this goal?"}]},{"type":"table","children":[{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Goal"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Alternative Solutions"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Judgment Axis"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Improve English"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Online foreign tutors, short-term language schools (1-3 months), participation in international projects"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"1 year vs. 3 months + cost difference, which is more cost-effective?"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Broaden horizons"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Long-term residence in rapidly developing Asian cities, digital nomad"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"The destination itself is also worth reconsidering"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Overseas work experience"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Remote work, digital nomad visa"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Can live abroad while maintaining income"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Explore immigration possibilities"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Try a 1-month short stay first, then decide whether to continue"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"See explanation below"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Restart life"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"WH may not be suitable for this goal"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"See Q1 explanation"}]}]}]}],"props":{"align":[]}},{"type":"p","children":[{"type":"text","text":"As \"Fortress Besieged\" states: \"People outside the city want to get in, and people inside the city want to get out.\""}]},{"type":"p","children":[{"type":"text","text":"Tourism is peering from outside the city; you only know what it feels like once you actually live inside. Before committing to a year, trying a one-month trial stay is the lowest-cost verification method and can filter out many unrealistic expectations."}]},{"type":"p","children":[{"type":"text","text":"Judgment Standard:","bold":true},{"type":"text","text":" If there's a lower-cost, higher-certainty method to achieve the same goal, can I clearly explain \"why it has to be a WH\"? If not, other options might be more reasonable."}]},{"type":"p","children":[{"type":"text","text":"For details on the actual work that can be done during a WH, see Appendix C."}]},{"type":"h4","children":[{"type":"text","text":"Q3: Have you truly calculated the costs?"}]},{"type":"p","children":[{"type":"text","text":"What WH recommenders most easily overlook is the opportunity cost for adults. The opportunity cost for students is close to zero, but for working professionals, it's entirely different."}]},{"type":"p","children":[{"type":"text","text":"Financial Costs","bold":true}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Local living expenses (rent, food, transportation)"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Loss of Japanese income (monthly salary × 12+ months)"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Ongoing social insurance and pension costs"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Income gap during job search after returning home"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Increased actual costs due to yen depreciation (as of 2025-2026)"}]}]}]},{"type":"p","children":[{"type":"text","text":"Career Costs","bold":true}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Interruption of career accumulation (projects, promotions, evaluations)"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Need to explain the \"gap period\" upon returning home; before departure, one should clearly think about: what to do after returning, same industry or career change, and how much actual impact the gap period will have on job searching in that industry"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The rapid popularization of AI poses the same risk to many industries: a 1+ year gap could create an irreversible disparity"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Resetting internal company networks and trust relationships"}]}]}]},{"type":"p","children":[{"type":"text","text":"Assessing Opportunity Cost by Age","bold":true}]},{"type":"table","children":[{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Age Group"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Opportunity Cost Assessment"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"22-25 years old (recent graduate)"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Low opportunity cost, career accumulation has not yet begun"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"26-29 years old (3-7 years work experience)"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Career formation period, depends on industry"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"30-35 years old (8-13 years work experience)"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"High opportunity cost, 1 year's loss will compound in subsequent years"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"35+ years old"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Most countries have a WH age limit of 30, no longer applicable"}]}]}]}],"props":{"align":[]}},{"type":"p","children":[{"type":"text","text":"Judgment Standard:","bold":true},{"type":"text","text":" Add up the financial and career costs to calculate the \"true cost of 1 year,\" then compare it to the value of the goal set in Q1—is the return still positive?"}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h3","children":[{"type":"text","text":"Part Three: Decision Matrix"}]},{"type":"table","children":[{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Q1: Goal clear and specific"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Q2: No better alternative means"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Q3: Positive return after calculating costs"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Judgment"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"✗"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"—"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"—"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Stop, clarify goal first"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"✓"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"✗"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"✓ or ✗"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"Reconsider means and timing"}]}]}]},{"type":"tr","children":[{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"✓"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"✓"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"✓"}]}]},{"type":"td","children":[{"type":"p","children":[{"type":"text","text":"GO"}]}]}]}],"props":{"align":[]}},{"type":"blockquote","children":[{"type":"text","text":"Note:","bold":true},{"type":"text","text":" \"Reconsider\" is not a permanent rejection of WH, but a judgment \"at this current time and under these conditions.\" If conditions change, the answer can also change."},{"type":"break","children":[{"type":"text","text":""}]},{"type":"text","text":"For example, someone who temporarily doesn't meet Q3 can ask themselves: how long will it take, and what conditions need to be met, for this judgment to reverse?"}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h3","children":[{"type":"text","text":"Part Four: Use Case - The Author's Own Conclusion (For Reference Only)"}]},{"type":"p","children":[{"type":"text","text":"The following is the result of applying this framework to myself. Others do not necessarily need to reach the same conclusion."}]},{"type":"p","children":[{"type":"text","text":"Q1: Goal","bold":true},{"type":"text","text":"\nI have some interest in improving English and gaining overseas experience, but I can't find a specific goal strong enough to justify the cost of 1 year. My current higher priority is building long-term financial freedom."}]},{"type":"p","children":[{"type":"text","text":"Q2: Is the means optimal?","bold":true},{"type":"text","text":"\nMore suitable alternatives exist. The "},{"type":"text","text":"digital nomad model","italic":true},{"type":"text","text":" allows for living abroad while maintaining income, which is more financially reasonable. Furthermore, for the purpose of \"broadening horizons,\" rapidly developing Asian cities offer greater cognitive stimulation, while also being lower cost and closer in proximity."}]},{"type":"p","children":[{"type":"text","text":"Q3: Costs and long-term strategy","bold":true},{"type":"text","text":"\nThis is a phase of \"stockpiling bullets.\" There is significant global economic uncertainty, and spending a large amount of assets on overseas consumption at this point is not strategically cost-effective. In contrast, maintaining and increasing assets, building passive income streams, and staying agile will enable action when real opportunities arise in the future—whether it's bottom-fishing, career transition, or relocation."}]},{"type":"p","children":[{"type":"text","text":"The prerequisite for proactive action is having resources at hand."}]},{"type":"p","children":[{"type":"text","text":"Conclusion:","bold":true}]},{"type":"blockquote","children":[{"type":"text","text":"There's nothing inherently wrong with a WH. It's just that for the same cost, there are better uses for me."}]},{"type":"p","children":[{"type":"text","text":"This is not a negation of WH, but rather, after comparing my goals, alternative solutions, and costs, there exists a more reasonable choice for me at this current point in time."}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h3","children":[{"type":"text","text":"Postscript"}]},{"type":"p","children":[{"type":"text","text":"For those who use this framework and conclude \"should go,\" that is a rational judgment. The same applies to those who conclude \"should not go.\""}]},{"type":"p","children":[{"type":"text","text":"What's important is: was this decision made because \"people around me recommended it\" and \"it feels good,\" or was it a judgment made with your own mind after truly clarifying your goals, alternative solutions, and costs?"}]},{"type":"p","children":[{"type":"text","text":"Others' experiences can be referenced, but only you know your own situation best."}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h2","children":[{"type":"text","text":"Appendix"}]},{"type":"h3","children":[{"type":"text","text":"Appendix A: Psychological Factors Behind WH Returnees Saying \"It Was Great\" — A Critical Supplement"}]},{"type":"p","children":[{"type":"text","text":"This appendix is presented as a critical hypothesis, containing the author's \"deep malice,\" and does not necessarily apply to all returnees.","italic":true}]},{"type":"p","children":[{"type":"text","text":"1. Resolution of Cognitive Dissonance","bold":true}]},{"type":"p","children":[{"type":"text","text":"Admitting \"I spent 1 year and millions of Japanese Yen on a failed decision\" carries an extremely high psychological cost. The sunk cost fallacy in behavioral economics applies here as well. The greater the investment, the more people tend to rationalize it after the fact. A significant proportion of returnees' positive evaluations may contain this effect."}]},{"type":"p","children":[{"type":"text","text":"2. Conforming to Social Expectations","bold":true}]},{"type":"p","children":[{"type":"text","text":"The question \"How was it?\" itself presupposes the answer \"It must have been great, right?\" Answering \"not much change\" requires considerable courage. All testimonies are filtered through a social lens."}]},{"type":"p","children":[{"type":"text","text":"3. Identity and Superiority","bold":true}]},{"type":"p","children":[{"type":"text","text":"Once a WH becomes part of one's self-image, denying it is akin to denying oneself. At the same time, overseas living experience constitutes a subtle status symbol in society. When returnees recommend it, part of their enthusiasm might stem from the structure of \"I who went > you who didn't,\" and by encouraging others to go, their own choice receives further validation."}]},{"type":"p","children":[{"type":"text","text":"4. Impossibility of Counterfactuals","bold":true}]},{"type":"p","children":[{"type":"text","text":"\"The self who didn't go\" has no basis for comparison. Therefore, feelings like \"I changed\" or \"I grew\" are, in principle, unfalsifiable."}]},{"type":"p","children":[{"type":"text","text":"5. A recommender's enthusiasm is not the same as objective judgment","bold":true}]},{"type":"p","children":[{"type":"text","text":"This is a concrete form of the survivorship bias mentioned in the main text — the people recommending WH are precisely those whose lives were significantly changed by it, while the silent majority who came back underwhelmed are nowhere to be seen. Everyone's starting point is different, and for some people the impact of the experience far exceeds the average — but intensity of experience and universal applicability are two different things."}]},{"type":"p","children":[{"type":"text","text":"On top of that, when the person recommending WH stands to benefit from your decision — visa agents, or YouTubers and influencers monetizing their content — that enthusiasm deserves extra skepticism. Don't be someone else's exit liquidity — or the bagholders."}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"p","children":[{"type":"text","text":"These do not mean \"returnees' testimonies are untrustworthy.\" Rather, they serve as a reminder: when receiving them, distinguish whether it's an \"absolute evaluation of the experience\" or \"post-hoc rationalization of an investment.\"","italic":true}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h3","children":[{"type":"text","text":"Appendix B: The Shaking Premise of \"Europe/America = Internationalization\""}]},{"type":"h4","children":[{"type":"text","text":"The Retreat of American Soft Power"}]},{"type":"p","children":[{"type":"text","text":"For decades after the war, the United States exported a powerful cultural influence through Hollywood, popular music, technology industries, and democratic values. This influence led many to equate \"going to Europe/America\" with \"accessing a more advanced world.\""}]},{"type":"p","children":[{"type":"text","text":"But this premise is shaking. Since 2025, the U.S. government has significantly cut support for international institutions, withdrawing from over 60 international organizations, including UN-related agencies. In tariff policy, the trend of globalization shifting towards regionalization has clearly accelerated. Joseph Nye and Robert Keohane, in their June 2025 article, meticulously documented the decline of American soft power—a trend not solely caused by policy, but rather the result of multiple superimposed factors."}]},{"type":"p","children":[{"type":"text","text":"In short, the United States is transforming from a \"world leader\" into an increasingly inward-looking power. The equation \"going to an English-speaking country equals accessing the international forefront\" is becoming invalid at a practical level."}]},{"type":"h4","children":[{"type":"text","text":"How Significant Are the Substantive Differences Between Japan and English-Speaking Countries?"}]},{"type":"p","children":[{"type":"text","text":"A frequently overlooked fact is that Japan has deeply internalized American culture over 80 years post-war. Scholars point out that the cultural policies implemented by the United States during its occupation of Japan fostered a \"dependency mentality\" towards America among the Japanese elite, a mentality that persists to this day. Consumer culture, popular music, Hollywood, fast food, business thinking—these have long been part of daily life in Japan, not something \"one needs to go abroad to experience.\""}]},{"type":"p","children":[{"type":"text","text":"English-speaking countries also belong to this cultural sphere. A significant proportion of the value systems that Japanese people encounter in English-speaking countries are already circulating within Japan."}]},{"type":"h4","children":[{"type":"text","text":"Where Do the Real Differences Lie?"}]},{"type":"p","children":[{"type":"text","text":"If the goal is to encounter \"civilizational logic fundamentally different from Japan's,\" then the answer is likely not in English-speaking countries, but in:"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"East Asian cities with distinctly different economic models and urban development logic"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"South Asia and the Middle East, with thousands of years of independent civilizational traditions"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Southeast Asia, currently undergoing rapid social transformation"}]}]}]},{"type":"p","children":[{"type":"text","text":"The cognitive impact offered by these places is often far greater than moving from Japan to another Anglo-American cultural sphere country."}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"p","children":[{"type":"text","text":"References:","bold":true}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"NPR — "},{"type":"text","text":"U.S. will leave 66 international organizations as Trump further retreats from global cooperation","italic":true},{"type":"text","text":" (January 7, 2026)\n"},{"type":"a","url":"https://www.npr.org/2026/01/07/g-s1-104999/united-states-exits-international-organizations-united-nations","title":null,"children":[{"type":"text","text":"https://www.npr.org/2026/01/07/g-s1-104999/united-states-exits-international-organizations-united-nations"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Nye, J.S. & Keohane, R.O. — "},{"type":"text","text":"Trump and the Sources of U.S. Power","italic":true},{"type":"text","text":", Foreign Affairs (2025)\n"},{"type":"a","url":"https://www.foreignaffairs.com/united-states/new-soft-power-imbalance","title":null,"children":[{"type":"text","text":"https://www.foreignaffairs.com/united-states/new-soft-power-imbalance"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"BOK Financial — "},{"type":"text","text":"Tariffs, trade realignments accelerating deglobalization","italic":true},{"type":"text","text":" (January 2026)\n"},{"type":"a","url":"https://thestatement.bokf.com/articles/2026/01/is-the-us-leading-the-dance-of-deglobalization","title":null,"children":[{"type":"text","text":"https://thestatement.bokf.com/articles/2026/01/is-the-us-leading-the-dance-of-deglobalization"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Matsuda, T. — "},{"type":"text","text":"Soft Power and Its Perils: U.S. Cultural Policy in Early Postwar Japan and Permanent Dependency","italic":true},{"type":"text","text":", Wilson Center\n"},{"type":"a","url":"https://www.wilsoncenter.org/book/soft-power-and-its-perils-us-cultural-policy-early-postwar-japan-and-permanent-dependency","title":null,"children":[{"type":"text","text":"https://www.wilsoncenter.org/book/soft-power-and-its-perils-us-cultural-policy-early-postwar-japan-and-permanent-dependency"}]}]}]}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h3","children":[{"type":"text","text":"Appendix C: The Reality of Actual Work During a WH"}]},{"type":"p","children":[{"type":"text","text":"Actual Situation of Employable Occupations","bold":true}]},{"type":"p","children":[{"type":"text","text":"Given the employment restrictions of WH visas, language barriers, and lack of connections, the actual jobs available are concentrated in the following categories:"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Agriculture, fruit picking: limited to rural areas, physical labor, seasonal"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Meat processing, aquatic product processing: high physical demands"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Hotel/resort room cleaning, front desk"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Restaurant staff (mainly chain, fast food)"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Light physical work in factories, warehouses"}]}]}]},{"type":"p","children":[{"type":"text","text":"If the goal in Q1 is \"accumulating overseas work experience in a professional field,\" this list itself is an important basis for the Q2 judgment."}]},{"type":"p","children":[{"type":"text","text":"Barriers to Professional Positions","bold":true}]},{"type":"p","children":[{"type":"text","text":"Professional positions such as IT, design, and marketing are actually extremely difficult to secure for the following reasons:"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Local employers prioritize citizens and permanent residents"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Visa duration makes employers unwilling to involve visa holders in long-term projects"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The language proficiency required for professional work in English is far higher than for daily conversation"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Job competition is extremely fierce with zero connections"}]}]}]},{"type":"p","children":[{"type":"text","text":"Institutional Benefits for Receiving Countries","bold":true}]},{"type":"p","children":[{"type":"text","text":"The WH system is also a rational design for receiving countries: it provides labor for low-wage jobs that locals are unwilling to do, contributes to domestic demand through consumption during the stay, generates visa processing fees, and collects income tax during the stay (many people do not apply for tax refunds after returning home)."}]},{"type":"p","children":[{"type":"text","text":"Individuals entering on a WH visa, due to language, visa restrictions, and lack of connections, have significantly weaker bargaining power than local permanent employees and are prone to accepting unfavorable conditions. Related labor environment issues have been documented for years."}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"p","children":[{"type":"text","text":"References:","bold":true}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The Conversation — "},{"type":"text","text":"Australia's new agricultural visa could supercharge exploitation","italic":true},{"type":"text","text":" (2021)\n"},{"type":"a","url":"https://theconversation.com/australias-new-agricultural-visa-could-supercharge-exploitation-172304","title":null,"children":[{"type":"text","text":"https://theconversation.com/australias-new-agricultural-visa-could-supercharge-exploitation-172304"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"BBC News — "},{"type":"text","text":"Victoria to investigate foreign worker exploitation in Australia","italic":true},{"type":"text","text":"\n"},{"type":"a","url":"https://feeds.bbci.co.uk/news/world-australia-32586779","title":null,"children":[{"type":"text","text":"https://feeds.bbci.co.uk/news/world-australia-32586779"}]}]}]}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h3","children":[{"type":"text","text":"Appendix D: The Real Voices of Returnees — Analysis of Regret Patterns"}]},{"type":"p","children":[{"type":"text","text":"This appendix is compiled based on public records from Japanese Q&A websites, SNS, and job support media, and does not constitute statistical data.","italic":true}]},{"type":"h4","children":[{"type":"text","text":"Common Regret Patterns"}]},{"type":"p","children":[{"type":"text","text":"The voices left by returnees online reveal several recurring patterns:"}]},{"type":"p","children":[{"type":"text","text":"1. English did not improve","bold":true},{"type":"text","text":"\nThe \"I'll learn it once I go\" mindset ultimately fell through. It is extremely common for those who set out with the goal of improving English to find themselves, upon returning home, still at a conversational level, unable to use it in business settings."}]},{"type":"p","children":[{"type":"text","text":"2. Unable to find a job after returning home","bold":true},{"type":"text","text":"\nReal questions like \"I regret it so much I want to cry every day,\" \"I can't find a job after returning home and feel desperate,\" and \"What was that year even for?\" have appeared on Q&A websites. The WH period creates a gap on resumes, and some companies directly eliminate candidates during the screening phase because of it."}]},{"type":"p","children":[{"type":"text","text":"3. Comparison with peers who stayed in the home country","bold":true},{"type":"text","text":"\n\"While I was working abroad for a year, my peers in Japan were getting promoted, getting married, buying homes\"—the images of \"successful lives\" flowing on SNS become a trigger for self-doubt among returnees."}]},{"type":"p","children":[{"type":"text","text":"4. Survivor bias on SNS","bold":true},{"type":"text","text":"\nA noteworthy phenomenon: SNS is flooded with success stories, while voices of failure are systematically drowned out. As a job support website pointed out: \"SNS is a collection of highlight moments; those who are struggling simply aren't speaking up.\" This directly echoes the psychological mechanisms in points 1 and 2 of Appendix A."}]},{"type":"h4","children":[{"type":"text","text":"An Intriguing Case Study"}]},{"type":"p","children":[{"type":"text","text":"A blogger wrote an article titled \"ワーホリで人生終わった (WH ruined my life),\" but the content concluded with \"but looking back 10 years later, it was still the best experience of my life.\" The discrepancy between the title and the conclusion is itself a living example of Appendix A, point 1 (sunk cost rationalization)—the greater the cost incurred, the more one needs to convince oneself it was worth it."}]},{"type":"h4","children":[{"type":"text","text":"General Attitude of Japanese Companies Towards WH Experience"}]},{"type":"p","children":[{"type":"text","text":"Multiple Japanese job support websites consistently point out:"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Japanese companies generally view WH as \"vacation\" rather than work experience"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Short-term part-time work during a WH cannot be counted as formal work history"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The evaluation of WH experience on a resume varies greatly depending on the industry and company culture, and cannot be generalized"}]}]}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"p","children":[{"type":"text","text":"References:","bold":true}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"夢カナ留学 — "},{"type":"text","text":"ワーホリで人生終わった？ワーホリ後に就職できないって本当？","italic":true},{"type":"text","text":"\n"},{"type":"a","url":"https://ryugaku.yume-kana.com/41582/","title":null,"children":[{"type":"text","text":"https://ryugaku.yume-kana.com/41582/"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"インバウンドテクノロジー — "},{"type":"text","text":"ワーホリで人生終わった？帰国後の不安を武器に変える完全ガイド","italic":true},{"type":"text","text":"\n"},{"type":"a","url":"https://ib-tec.co.jp/career-advice/working-holiday-life-over/","title":null,"children":[{"type":"text","text":"https://ib-tec.co.jp/career-advice/working-holiday-life-over/"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"留学ドットコム — "},{"type":"text","text":"ワーホリで後悔するのはなぜ？","italic":true},{"type":"text","text":"\n"},{"type":"a","url":"https://www.ausbiznet.com/canada/column/16873","title":null,"children":[{"type":"text","text":"https://www.ausbiznet.com/canada/column/16873"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"GCR留学 — "},{"type":"text","text":"ワーホリは帰国後に就職はできない？","italic":true},{"type":"text","text":"\n"},{"type":"a","url":"https://gcryugaku.com/magazine/working-holiday-employment/","title":null,"children":[{"type":"text","text":"https://gcryugaku.com/magazine/working-holiday-employment/"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"IAJP留学センター — "},{"type":"text","text":"ワーホリから帰国後の就職が難しいと言われる理由","italic":true},{"type":"text","text":"\n"},{"type":"a","url":"https://www.studyoversea.jp/column/9215/","title":null,"children":[{"type":"text","text":"https://www.studyoversea.jp/column/9215/"}]}]}]}]}]},"reading":null,"pageLayout":null,"locale":"en","slug":"is-a-working-holiday-really-for-me"},{"_sys":{"filename":"do-android-police-dream-of-electric-black-people","basename":"do-android-police-dream-of-electric-black-people.mdx","hasReferences":null,"breadcrumbs":["en","2026-01","do-android-police-dream-of-electric-black-people"],"path":"content/blog/en/2026-01/do-android-police-dream-of-electric-black-people.mdx","relativePath":"en/2026-01/do-android-police-dream-of-electric-black-people.mdx","extension":".mdx"},"id":"content/blog/en/2026-01/do-android-police-dream-of-electric-black-people.mdx","__typename":"Post","createdAt":"2026-01-19T14:40:25.644Z","updatedAt":"2026-01-19T15:42:22.479Z","canonicalId":"do-android-polices-dream-of-electric-nigger","draft":false,"featured":null,"publishedAt":"2026-02-03T13:39:48.665Z","title":"Do Android Police Dream of Electric Black People?","excerpt":"As AI becomes an indispensable part of daily life, this article examines the risks of delegating human judgment to algorithms. Drawing parallels to the Sibyl System, the author highlights how AI, as a statistical prediction engine, often replicates historical biases found in its training data. While acknowledging the efficiency of these tools, the post emphasizes the importance of understanding AI's limitations and maintaining a critical perspective to prevent technology from entrenching social prejudices.","readingTime":10,"author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["Creator","Lifelong Learner","Aspiring Digital Nomad"],"jobTitle":"Programmer (frontend-first, backend in progress)","company":"Stockmark Inc.","intro":"An older single guy. A beginner at investing. Coding is a hobby — mainly because I like to make things, and code is a low-cost, pollution-free way to make them; it's also my job. Working remotely for now, with digital nomad as the goal.\nNext I want to make games, and try 3D printing.\nI move too little, so I make myself ride a bike — though I do genuinely like cycling; and lift a little, so I don't look too skinny. I like spicy food, and cilantro. I like horror films.\nI like learning — all sorts of skills, useful or not.\nI have a soft spot for the literary girl.\nCurrently trying to break free from “reverse philosophical suicide”.","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Fed up with codex's incompetence, I switched to Claude and went full '3/n Sword Style' — running several projects at once: this site, a local board-game platform, a task manager. Claude is a notch better than codex, but the token limits are too tight, and I still have to keep an eye on the details myself."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"On the investing side, every headline out of Trump and the Middle East tugs at my nerves. I bought a fair bit of gold — too high, as it turns out, so I'm underwater for now; my only gain comes from the yen sliding. Will the Japanese government ever get it together?!"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"I crave meaning, yet I don't believe in it."}]},{"type":"p","children":[{"type":"text","text":"To others I probably come across as a fairly rational person — and I used to think so myself. But only recently have I realized — or rather, only recently become willing to face — that deep down there has always been another, far more emotional self, sitting underneath as the ground tone of who I am. Perhaps it is exactly this long war between reason and feeling that has made me who I am today."}]},{"type":"h5","children":[{"type":"text","text":"The Suffering Sisyphus"}]},{"type":"p","children":[{"type":"text","text":"The Buddha speaks of the Eight Sufferings. Birth, old age, sickness, death — that is the half decreed by heaven, beyond anyone's will, that no one escapes. The other half — not getting what you want, parting from those you love, meeting those you hate, and that “blaze of the five aggregates” — is all born of the human heart. Being emotional, I am too easily moved, and so too easily wounded. The world is impermanent; in life, eight or nine times out of ten things do not go your way. And so suffering follows me like a shadow."}]},{"type":"p","children":[{"type":"text","text":"Over time I have worked out a few ways to cope with it: distracting myself, which is what I have consciously tried; and “reverse philosophical suicide,” which is what I have unconsciously been doing all along."}]},{"type":"p","children":[{"type":"text","text":"At this age, looking back, I don't think reason was something I was born with. It feels more like a choice — I chose to keep myself rational, to push back against feeling, against the pain that feeling brings. To be honest, it has not worked very well."}]},{"type":"p","children":[{"type":"text","text":"Camus held that “the absurd” arises from the collision between “man's longing for meaning” and “the silence of the world.” Faced with a universe that offers no meaning at all, you either commit physical suicide and end the suffering at its root — a coward's compromise; or you commit “philosophical suicide,” throwing yourself into faith (the leap of faith) to grant meaning by force — a betrayal of reason."}]},{"type":"p","children":[{"type":"text","text":"I tried to distract myself. I learned all sorts of skills, useful and useless. I like making things by hand, I like origami, I like writing code. I like making — I like this kind of thing, the kind with a clear goal. When I walk a clear path step by step, I can lose myself in it completely; “I” dissolves, and the feeling of pain can be set aside for a while."}]},{"type":"p","children":[{"type":"text","text":"But forgetting is brief, and distraction is only temporary."}]},{"type":"p","children":[{"type":"text","text":"To look away is not to resolve. So I entered the reverse of “philosophical suicide.” My reason and my pride will not let me admit that there is some greater being I could never become — so faith is no cure for me. Instead, I chose to dissolve my own need for meaning."}]},{"type":"p","children":[{"type":"text","text":"I tell myself the world is meaningless: that the sun will one day swallow the earth, that the universe will wind down into heat death. I tell myself everything runs by fixed laws — past, present and future already determined — and that so-called free will is nothing but the arrogance of our species, an illusion."}]},{"type":"p","children":[{"type":"text","text":"But this, clearly, has not worked either; otherwise by now I would have shaved my head and be tapping a wooden fish in some temple, or roaming the famed mountains and rivers in Daoist robes."}]},{"type":"p","children":[{"type":"text","text":"Which leaves me where I am now: neither here nor there; wanting much, yet afraid to lose; with a faint sense of learned helplessness. All of it steeped in the powerlessness that comes from fighting the absurd and losing."}]},{"type":"p","children":[{"type":"text","text":"But I have grown a little tired of this unhealthy way of living."}]},{"type":"p","children":[{"type":"text","text":"Lately I have begun to try something new — "},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":", to love one's fate: no longer fixing my eyes only on the road beneath my feet, but learning to lift my head and take in the scenery along the way."}]},{"type":"p","children":[{"type":"text","text":"I remember one evening, cycling along the Yodo River, the setting sun falling on the leaves by the bank; they trembled and glittered, tender and dewy — and in that instant I understood something new about the word “lovely.” I also remember an animated series I watched as a child, whose hero was named Martin: every morning Martin woke in a different place, became someone with a different identity, lived a different life — and what I have wanted, it seems, has been exactly that, all along."}]},{"type":"p","children":[{"type":"text","text":"Maybe this is the answer Camus held up against the absurd: revolt?"}]},{"type":"h5","children":[{"type":"text","text":"The Happy Sisyphus"}]},{"type":"p","children":[{"type":"text","text":"I have started preparing to become a digital nomad. I have begun managing my money and learning to invest; I look for ways to grow my income, passive income above all; I have started paying attention to the people and things around me, in all their variety. I am beginning to try to enjoy this feeling of being “on the road.”"}]},{"type":"p","children":[{"type":"text","text":"Is this really my path? I don't know. But I have to make myself believe that this path is a happy one. If I am lucky enough, then perhaps one day I will find the “Way” that is truly my own."}]},{"type":"p","children":[{"type":"text","text":"A hundred hurried years of life, like a dream, an illusion, a bubble, a shadow. I only hope that, when my appointed death comes, I can say in peace: “I have walked the road; though I die, I have no regret.”"}]}]},"skills":[{"__typename":"AuthorSkills","group":"Tech","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"Languages","items":["Chinese · Native","Japanese · Fluent","English · Beginner"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["Learning","Reading","Making","Cycling","Practicing guitar"]},{"__typename":"AuthorInterests","group":"To try","items":["Game dev","3D printing"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["en","Toshinaki"],"path":"content/authors/en/Toshinaki.json","relativePath":"en/Toshinaki.json","extension":".json"},"id":"content/authors/en/Toshinaki.json"},"tags":null,"coverImage":"/uploads/posts/covers/https___substack-post-media.s3.amazonaws.com_public_images_9e6026ae-3214-40c8-ba45-d30fcf31967d_1456x910[1].jpeg","coverImageAlt":"The infinitely expanding megastructure","series":null,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"I believe many people share a feeling similar to mine:"}]},{"type":"p","children":[{"type":"text","text":"Since last year, AI has gradually become an indispensable presence in our lives—used with increasing frequency, covering a wider range of tasks, and fostering a deeper level of dependence.\nAt the same time, various AI products have emerged at an explosive pace, covering almost all information-intensive fields such as writing, programming, searching, design, and customer service."}]},{"type":"p","children":[{"type":"text","text":"For a long time, using these AI products didn't trigger much extra thought for me; it was mostly just a simple exclamation:\n"},{"type":"text","text":"What a convenient era we live in.","bold":true}]},{"type":"p","children":[{"type":"text","text":"Until one day, I happened to come across an \"AI tool\" used for recruitment. The synapses in my brain were instantly activated, and the first image that surfaced was—"},{"type":"text","text":"the Sibyl System","bold":true},{"type":"text","text":"."}]},{"type":"p","children":[{"type":"img","url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQ1pyYno_kAAw3Eo_uDOM0J_w96pJGnfn1Q&s","caption":null,"children":[{"type":"text","text":""}]}]},{"type":"h2","children":[{"type":"text","text":"The Sibyl System: More Than Just \"Crime Prediction\""}]},{"type":"p","children":[{"type":"text","text":"The Sibyl System is a fictional social management system in the anime "},{"type":"a","url":"https://ja.wikipedia.org/wiki/PSYCHO-PASS_%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%82%B9","title":null,"children":[{"type":"text","text":"PSYCHO-PASS","italic":true}]},{"type":"text","text":". Many people's impression of it stops at \"monitoring crime coefficients,\" mainly because the theme of \"crime\" is easier to use for creating dramatic conflict and thus receives more depiction in the work.\nIn the earlier film "},{"type":"text","text":"Minority Report","italic":true},{"type":"text","text":", a similar crime prediction system was also depicted; and in the widely acclaimed TV series "},{"type":"text","text":"Black Mirror","italic":true},{"type":"text","text":" in recent years, such plots appear even more frequently."}]},{"type":"p","children":[{"type":"text","text":"But the Sibyl System is far more than just a monitoring system for criminal tendencies. It can directly determine what a person is suited for and how far they can go: from education and career to whether they are qualified for high-responsibility positions, and even influencing marriage and childbearing rights. In other words, an individual's \"life choices\" are replaced by the \"optimal solution\" calculated by the system. Under the control of the Sibyl System, individuals are not making choices, but executing an assigned life path."}]},{"type":"p","children":[{"type":"text","text":"Of course, current real-world AI technology is still a far cry from the systems in these works."}]},{"type":"p","children":[{"type":"text","text":"And the grand issues discussed in these works, such as \"freedom,\" \"choice,\" and \"human rights,\" are not the problems I am most concerned about at this moment."}]},{"type":"p","children":[{"type":"text","text":"My true concern comes from another dimension."}]},{"type":"h2","children":[{"type":"text","text":"The \"Bias\" of AI"}]},{"type":"p","children":[{"type":"text","text":"Let's look at some real-world cases first."}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"In a 2018 report, Amazon's recruitment AI was abandoned because it was trained on ten years of past hiring data and learned gender bias. "},{"type":"a","url":"https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"1"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"A 2016 investigation into the COMPAS recidivism risk assessment tool showed that the system was significantly more likely to rate Black defendants as \"high risk\" than white defendants, raising serious questions about fairness in judicial practice. "},{"type":"a","url":"https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"2"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Experiments and subsequent academic papers from MIT showed that mainstream commercial facial recognition systems have significantly higher error rates for dark-skinned women than for light-skinned men. "},{"type":"a","url":"https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"3"}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"A 2024 study found that ChatGPT is more likely to produce stereotypes, derogatory content, and a condescending tone when responding to non-standard English (such as Indian English or African American Vernacular English). "},{"type":"a","url":"https://arxiv.org/abs/2406.08818?utm_source=chatgpt.com","title":null,"children":[{"type":"text","text":"4"}]}]}]}]},{"type":"p","children":[{"type":"text","text":"Sexism, racism."}]},{"type":"blockquote","children":[{"type":"text","text":"Why does \"AI\" have these biases?"}]},{"type":"h2","children":[{"type":"text","text":"Bias is Not Innate: The Essence of AI"}]},{"type":"p","children":[{"type":"text","text":"To answer this question, we first need to clarify a fact."}]},{"type":"p","children":[{"type":"text","text":"The AI currently widely recognized and used by the public, especially Large Language Models (LLMs), is essentially a "},{"type":"text","text":"statistical prediction engine","bold":true},{"type":"text","text":". Its goal is to maximize the probability of the \"next token (word or subword)\" appearing given a context, based on massive amounts of text and labels."}]},{"type":"p","children":[{"type":"text","text":"It doesn't truly \"understand\" meaning or causality; it simply looks for the most probable continuation within a statistical structure."}]},{"type":"p","children":[{"type":"text","text":"This also directly leads to one of the most well-known or notorious problems of current AI—\"hallucination\": generating incorrect information confidently even when facts are lacking."}]},{"type":"p","children":[{"type":"text","text":"And problems like recruitment discrimination and judicial bias essentially come from the same source: "},{"type":"text","text":"the historical and social biases carried by the training data itself","bold":true},{"type":"text","text":"."}]},{"type":"p","children":[{"type":"text","text":"Amazon's recruitment system wasn't \"discriminating against women\"; it was faithfully learning \"who was more frequently hired\" in history. The problem with COMPAS wasn't the subjective malice of the algorithm, but rather unequal law enforcement and data recording."}]},{"type":"p","children":[{"type":"text","text":"Furthermore, concepts like \"fairness,\" \"excellence,\" \"safety,\" and \"normality\" are not objective entities themselves, but subjective judgments composed of adjectives and their derived concepts. They do not possess absolute nature; they only form relative consensus within specific social, cultural, and temporal contexts. Once these "},{"type":"text","text":"relative","italic":true},{"type":"text","text":" values are encoded into model parameters, they are solidified and repeatedly output in the form of \"technological "},{"type":"text","text":"neutrality","italic":true},{"type":"text","text":".\""}]},{"type":"p","children":[{"type":"text","text":"There is an analogy from the field of psychology: because a large number of psychological surveys and experiments rely on college students as samples, modern psychology is sometimes jokingly called \"college student psychology.\""}]},{"type":"p","children":[{"type":"text","text":"This also reminds us that the source and representativeness of data directly determine the scope of application for conclusions; and when similar problems appear in general-purpose AI systems, their impact will have a greater amplification effect than the sample bias of a single discipline."}]},{"type":"h3","children":[{"type":"text","text":"Data Poisoning Attacks"}]},{"type":"p","children":[{"type":"text","text":"Moreover, the problem isn't limited to \"unintentional replication,\" but also includes the possibility of \"active contamination.\""}]},{"type":"p","children":[{"type":"text","text":"In 2016, Microsoft's chatbot Tay was forced offline within hours of its launch because it quickly learned and output extreme and hateful speech due to a large amount of malicious input. In recent years, technologies like Nightshade have further demonstrated the practical feasibility of systematically \"poisoning\" models by adding tiny perturbations to training data."}]},{"type":"p","children":[{"type":"text","text":"Data itself has become a new attack surface: whoever can influence data distribution might change model behavior and the resulting social outcomes without being noticed."}]},{"type":"h2","children":[{"type":"text","text":"Warnings from AI Founders"}]},{"type":"p","children":[{"type":"text","text":"It is worth noting that these concerns do not exist only among external critics; many founding figures in the field of AI have also publicly expressed similar vigilance. They generally believe that while large-scale self-supervised learning and representation learning have indeed touched the edges of general intelligence, LLMs still operate within a framework of probabilistic prediction, lacking robust causal models and an internal understanding of real-world constraints."}]},{"type":"p","children":[{"type":"text","text":"This allows models to generate content that is grammatically perfect and logically coherent, yet factually incorrect or even clearly problematic at the value level."}]},{"type":"p","children":[{"type":"text","text":"In other words, an LLM is more like an extremely fluent \"speaker\" than an understander who truly \"knows what they are saying.\" Setting aside sharp political issues, when this fluency is granted authoritative status and used in critical fields such as recruitment, justice, education, and finance, the risk is no longer an abstract theoretical problem, but a tangible social risk."}]},{"type":"h2","children":[{"type":"text","text":"Dialectics"}]},{"type":"p","children":[{"type":"text","text":"Of course, this doesn't stop me from continuing to use existing AI tools. The widespread use of tools has already led to the degradation of certain abilities in practice—for example, it is now difficult for me to write a complete article with a pen without an input method."}]},{"type":"p","children":[{"type":"text","text":"Historically, no technology has ever been perfect at its inception; the fact that bows and arrows were replaced by pistols does not negate their important value in a specific historical stage."}]},{"type":"p","children":[{"type":"text","text":"I am not against technology itself, nor do I deny the huge efficiency and convenience brought by AI; I am simply uneasy about handing over the power of judgment entirely to the system too early."}]},{"type":"p","children":[{"type":"text","text":"Compared to traditional machine learning, LLMs are undoubtedly a huge leap. They have profoundly changed information acquisition, knowledge production, and ways of working.\nBut precisely because of this, "},{"type":"text","text":"understanding its essence","bold":true},{"type":"text","text":", "},{"type":"text","text":"recognizing its boundaries","bold":true},{"type":"text","text":", and "},{"type":"text","text":"being alert to its side effects","bold":true},{"type":"text","text":" becomes particularly important."}]},{"type":"p","children":[{"type":"text","text":"I still have expectations for true artificial intelligence, but what I look forward to even more is that technological progress will ultimately bring about a more comprehensive and profound liberation for humanity."}]}]},"reading":null,"pageLayout":null,"locale":"en","slug":"do-android-police-dream-of-electric-black-people"}],"pagination":{"currentPage":1,"totalPages":1,"totalPosts":2,"hasNextPage":false,"hasPrevPage":false},"fetchResult":{"data":{"pages":{"_sys":{"filename":"home","basename":"home.mdx","hasReferences":false,"breadcrumbs":["en","blog","home"],"path":"content/pages/en/blog/home.mdx","relativePath":"en/blog/home.mdx","extension":".mdx"},"id":"content/pages/en/blog/home.mdx","__typename":"Pages","createdAt":"2026-01-19T02:11:25.052Z","updatedAt":"2026-01-19T03:46:55.346Z","title":"Blog","showTitle":null,"titleStand":null,"showTitleStand":null,"description":null,"blocks":[{"__typename":"PagesBlocksCover","fixed":true,"item":[{"__typename":"PagesBlocksCoverItemHero","title":"Blog","subtitle":"2 posts","textAlign":"center","children":{"type":"root","children":[]},"background":null,"spacing":null,"flex":{"__typename":"PagesBlocksCoverItemHeroFlex","direction":"column","gap":"md","customGap":null,"align":"center","justify":"center","wrap":false,"breakpoints":null}}],"height":"25rem","background":null,"spacing":null}],"pageLayout":null}},"errors":null,"query":"$18","variables":{"relativePath":"en/blog/home.mdx"}},"isFallback":false}]

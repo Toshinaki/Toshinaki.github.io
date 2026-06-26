@@ -1,0 +1,370 @@
+1:"$Sreact.fragment"
+2:I[11351,[],""]
+3:I[66283,[],""]
+6:I[71838,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[71838,[],"ViewportBoundary"]
+c:I[71838,[],"MetadataBoundary"]
+e:I[31293,[],"default",1]
+:HL["/_next/static/media/013465ab24b5e2ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/03f17d7c3aa26da2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/07742062c2ec3b55-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/091c03e5d6ea6d84-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0a002f5319e6b358-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0a3f9be12cd52d6a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/0e4e843640321a14-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/105f650fe2b5d42b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1245abf6aff69198-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/15fb600d42056579-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/167ee8e96fbb569c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/17072c6d3ac5dd2b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1bec96b1fc532b39-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1d3ab314c572fe59-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1fe2c2cc73a996ca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/215992f82a7fc8d9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2329f82f48d3e252-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/235349d9c353e5d7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/235e1413f94eb7df-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/27189fa32c829a10-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2721c83bedfbfacc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2d39ca87528a10fe-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2eae2d0d526dd7e7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2ff7fc6f93c85c9f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3061f5b6eb250216-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3195b9990a471e0e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/37f1fd599fd51852-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/399fe7a00b199ff6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/39a945e867963fe5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3a793f372ad6908f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3b210ad12b47ded7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3c282db8a43b7648-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3cf3730779422fda-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3d031459eacc86dd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3d8917b52af967ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3db8134653b57583-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3ef86813b18244e4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/400ef3b3d658076e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4046ec9b7a3cd7ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/44788dbce07da950-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/45542685dcea2778-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4759979789a5a53d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4840173a88d500b9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/48ee0eb829fd67dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/492a05f84d892f68-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/494bd1e605f65b51-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/495c95e95df6df48-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4a0ad145d59630d5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4be9076b1e8d9d3a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4eaae9a755d6739d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4fb89f155b696c77-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/503e02acc3651395-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/533e956dcf04c523-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5486cf78ec8b6aa4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5535d313c4d0dd07-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/580e937fa63cc299-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5865568f9f0ed48b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5956e233d38b36b0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5a63fca0554e2af7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5a9ef9d66f53ab0d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6003289b1a0723d3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/606cdd767ee835e0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/609eb1ae761915cb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/60b4cf9c89d558b0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/63885f7c1e9eccfb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/640eaa65cf124f08-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/64698228b2165a7c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/677590baa4ca2e13-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/691f29e396bda4f2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6d95d0c27d8047ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e0a7691717621ac-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6e99d52b70c1c780-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f28feadd9af1a00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f9cf82daf0013d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70141a28668ebc54-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7527bcc8ad8212dc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/78db4f537e4b09d0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ab863dbb91a9ebb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7bf733c96a9957d7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7cc2c9a860b885ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7d8c7b021bdcbfbb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/804a1838fe4df1f2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/827817a6583e8e63-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/855bf691c0a65918-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/85a55989c080432c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/86e95c1ae558f263-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/87374e80e25182dd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8a968650a42b8e0a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8fb1a96451cec840-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92ebb4d8a0e206c8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/92f9a759eb15589b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/953b7aa585d36a2b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/963e7e1f88cb3a00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97327acf874ffa11-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9734ccb552bd325e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/97f8c491b42d68d2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/985dd91a244380ce-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/986436dc0499dd2f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9a9788a4e16c5c51-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9ced71d9a17429e0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a191b9bac6f8600d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a4129c4f34f1b5c0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a591cdc407ab586f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a65337acff4f4821-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a849c6a4a23421a7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a92656b129864a12-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a9cda1d8a2085c55-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/aacbf89b63ff3595-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b00dd9bf215f2bdd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b3a72d9fe424b761-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b4453bb1af72eecd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b5db02f0d09d688d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b70f4c267ee5d80a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7b43acee81d05a8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b7ffde2383bb16ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b8360fe28dd22583-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b86cd06026fa06d1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ba207823b79d7338-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/baf38b70164202b2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd4e47cdb1b92e8e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bd8b174424a8a846-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bdf029be9f79bf1e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/bfb532d5b1e18ccb-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0085ea68429c35d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0139f7fd13515ba-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c050c0dd427d93a6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c0731ba78c40a013-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c40eb5c239e2500e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c4123ec14930c740-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5195215cb712e9c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5aea32fcbdafb2d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c5e23c4ce2ad4d33-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c7f0fb8f1284c686-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cb2592f89a5b3482-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cdf2c76defadf6a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cf3bc018c5e93c8c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2354fc5eec55fa8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d297340ef23eda35-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d2cb8298fb1a7960-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3553b6f774f5f10-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3dfc32b7cd0c1b2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f4148e673eefa1-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3f4c1319cb9fc96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d40b82f1199447e9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d426e27a540fb37b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d4df281bd2c98884-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d5390949c79b867c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d5eb20bcdcf5616a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6aadaac38d50a34-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6db785f12578923-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d707554fc70c9fe8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7b08b16873350f4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d7b77a371bb6ff1a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db113296d95e0ea3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd25e201a7365ca8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dd72cf8ee95a6209-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dea7fd53655a05d8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dedba05d74695149-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/dfa838533585ac88-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e02314469b6a91af-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e03d93e818236bd0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e25467c81b2f6847-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e5ac5a164fe4de15-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e63949304190a2f6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e7c031161b7acec9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e8e727663d48509c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef6d3f52c547a6e3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/efad461bde42560a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0519f43f8688da0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f0a41d057f0cb19e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f1f373d0bf9183e9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f2896b9701b79d61-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f3b2fa186c207b4f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f77b4e4ded2b5d1a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f892e6109f32666c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f8d8377bcc8eeb37-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/faa67b8e498729b3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/faab3f8f77e50539-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fab5947736a1b125-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fbba1c17701ceb2c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fc1b5331646ff7ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fed0a2adbb55725b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ff03e98909115ed9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ffbe681f6d1db2a9-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/262bd2d5b52b8135.css","style"]
+:HL["/_next/static/css/fedaceebeafe1473.css","style"]
+:HL["/_next/static/css/d8be5d8584e4e908.css","style"]
+:HL["/_next/static/css/8ba300abfc2ca1ee.css","style"]
+:HL["/_next/static/css/bed7463ddbed6219.css","style"]
+0:{"P":null,"c":["","en","notes","deliberate-practice",""],"q":"","i":false,"f":[[["",{"children":[["locale","en","d",null],{"children":["notes",{"children":[["series","deliberate-practice","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/262bd2d5b52b8135.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/fedaceebeafe1473.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/d8be5d8584e4e908.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/8ba300abfc2ca1ee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/bed7463ddbed6219.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"2yBnKGnaMEeI0Gg021CGq"}
+f:[]
+9:"$Wf"
+10:I[41879,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"ColorSchemeScript"]
+4:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"__variable_3dc64f __variable_d2b1f7 __variable_6a8b35","children":[["$","head",null,{"children":["$","$L10",null,{}]}],["$","body",null,{"children":"$L11"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[8847,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","579","static/chunks/579-f65c76ee6a002b84.js","947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-beadf149a352c546.js"],"default"]
+11:["$","$L12",null,{"formats":"$undefined","locale":"en","messages":{"share":{"label":"Share","webShare":"Share…","copy":"Copy link","copied":"Copied","platforms":{"x":"Share on X","facebook":"Share on Facebook","reddit":"Share on Reddit","line":"Share on LINE","weibo":"Share on Weibo","qzone":"Share on Qzone","douban":"Share on Douban","email":"Share via email"}},"meta":{"siteName":"Re:Jeunesse","siteDescription":"Free yourself. Free the world.","titleTemplate":"{title} | {siteName}","noteSeriesDescription":"Notes from the {series} series"},"home":{"intro":{"greeting":"{greeting}, I'm {name} 👋","greetings":{"default":"Hi","morning":{"hello":["Good morning","Morning"],"line":["Up already","Another day"]},"noon":{"hello":["Hey"],"line":["Midday","Lunchtime"]},"afternoon":{"hello":["Good afternoon"],"line":["The drowsy hour","Still going"]},"evening":{"hello":["Good evening"],"line":["Day's done","Nice night"]},"night":{"hello":[],"line":["It's late","Still up","The night's young"]}},"more":"About me"},"hero":{"reshuffle":"Shuffle"},"recent":{"heading":"Recent"},"featured":{"heading":"Featured","drag":"↔ Drag to browse"},"entries":{"heading":"Explore","go":"Enter","blog":{"title":"Blog","description":"Essays, thoughts & tech notes"},"notes":{"title":"Notes","description":"Structured reading & study series"},"projects":{"title":"Projects","description":"Things I've built & open source"}}},"pages":{"404":{"title":"Page Not Found | {siteName}","description":"Sorry, the page you are looking for does not exist or has been removed."},"blog":{"title":"Blog","description":"Recording & Sharing","allPosts":"All Posts","recentPosts":"Recent Posts","featuredPosts":"Featured Posts","byTag":"Tag: {tag}","bySeries":"Series: {series}","noPosts":"No posts yet","postsCount":"{count, plural, one {# post} other {# posts}}","series":{"title":"Series","viewAll":"View Full Series"}},"notes":{"title":"Notes","description":"Learning Log","allNotes":"All Notes","allSeries":"All Series","seriesOverview":"Series Overview","noNotes":"No notes yet","notesCount":"{count, plural, one {# note} other {# notes}}","chapters":"Total {count, plural, one {# note} other {# notes}}","progress":{"label":"Progress","not-started":"Not Started","in-progress":"In Progress","completed":"Completed","on-hold":"On Hold"},"source":{"title":"Resources","book":"Book","video":"Video","by":"{creator}","platform":"Platform: {platform}","moreInfo":"More Info"}},"projects":{"title":"Projects","description":"Portfolio","allProjects":"All Projects","featuredProjects":"Featured Projects","noProjects":"No projects yet","projectsCount":"{count, plural, one {# project} other {# projects}}","techStack":"Tech Stack","viewProject":"View Project","viewSource":"View Source","status":{"label":"Status","inProgress":"In Progress","completed":"Completed","archived":"Archived"},"date":"Date","linkType":{"website":"Website","github":"GitHub","gitlab":"GitLab","gitee":"Gitee","bitbucket":"Bitbucket","npm":"npm","docs":"Docs","other":"Link"}},"about":{"title":"About Site"},"portfolio":{"title":"About Me","now":"Now","bio":"Who I Am","background":{"education":"Education","experience":"Experience"},"expertise":{"skills":"Skills","interests":"Interests","languages":"Languages"},"social":"Connect"},"diary":{"title":"Diary","subtitle":"Personal Log","allEntries":"All Entries","noEntries":"No entries yet","diaryCount":"{count, plural, one {# entry} other {# entries}}","mood":{"label":"Mood","great":"Great","good":"Good","okay":"Okay","bad":"Bad","terrible":"Terrible"},"calendar":{"title":"Calendar View","today":"Today","hasEntry":"Has entry"}}},"common":{"readMore":"Read More","readingTime":"{minutes, plural, one {# min read} other {# min read}}","publishedAt":"Published on","updatedAt":"Updated on","author":"Author","tags":"Tags","share":"Share","copyLink":"Copy Link","linkCopied":"Link copied","loading":"Loading...","noResults":"No content found","viewAll":"View All","previous":"Previous","next":"Next","backTo":"Back to {target}","draft":"Draft","private":"Private","featured":"Featured","types":{"blog":"Blog","notes":"Notes","projects":"Projects"}},"layout":{"themeToggle":"Toggle Theme","themeDark":"Dark Mode","themeLight":"Light Mode","themeSystem":"System","languageSwitch":"Switch Language","menu":"Menu","closeMenu":"Close menu","copyright":"© {year} {name}. All rights reserved.","poweredBy":"Powered by {tech}"},"components":{"AdjacentPagination":{"prev":"Previous","next":"Next"},"FallbackIndicator":{"title":"Language fallback","message":"This page is not available in {requested}; displaying {fallback} version."},"ScrollToTop":{"label":"Back to Top"},"headingLinkButton":{"label":"Copy link","copiedLabel":"Copied","failedLabel":"Copy failed","ariaLabel":"Copy link to this heading","copiedAriaLabel":"Link to this heading copied"},"pagination":{"page":"Page {current} of {total}","first":"First","last":"Last","prev":"Prev","next":"Next"},"toc":{"title":"Table of Contents","expandAll":"Expand all","collapseAll":"Collapse all"},"seriesNav":{"title":"Series Navigation","previous":"Previous","next":"Next","partOf":"Part of series \"{series}\"","partN":"Part {n} of {total, plural, one {# part} other {# parts}}"},"tagCloud":{"title":"Tags","postCount":"{count, plural, one {# post} other {# posts}}"}},"tags":{"title":"Tags","allTags":"All Tags","postsWithTag":"Content tagged \"{tag}\"","noTags":"No tags found"},"search":{"title":"Search","placeholder":"Search posts, notes...","results":"Found {count, plural, one {# result} other {# results}}","noResults":"No results found","searching":"Searching...","filterBy":"Filter by","filters":{"all":"All","blog":"Blog","notes":"Notes","projects":"Projects"}},"error":{"404":{"title":"Page Not Found","message":"The page you are looking for does not exist or has been removed.","action":"Back to Home"},"500":{"title":"Server Error","message":"Something went wrong. Please try again later.","action":"Refresh Page"}},"a11y":{"skipToContent":"Skip to content","openMenu":"Open menu","closeMenu":"Close menu","externalLink":"(opens in a new tab)","currentPage":"Current page"},"time":{"justNow":"Just now","minutesAgo":"{minutes} minutes ago","hoursAgo":"{hours} hours ago","daysAgo":"{days} days ago","weeksAgo":"{weeks} weeks ago","monthsAgo":"{months} months ago","yearsAgo":"{years} years ago"}},"now":"$undefined","timeZone":"UTC","children":"$L13"}]
+14:I[14971,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"AppProvider"]
+15:I[96353,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","389","static/chunks/389-81c8d27b7af9c4f5.js","69","static/chunks/69-6d25cd9a738b9ba3.js","971","static/chunks/971-47594f3ccbc13412.js","450","static/chunks/app/%5Blocale%5D/layout-03e143e210f9a91b.js"],"DatesProvider"]
+13:["$","$L14",null,{"globalConfig":{"_sys":{"filename":"global.en","basename":"global.en.json","hasReferences":false,"breadcrumbs":["global.en"],"path":"content/global/global.en.json","relativePath":"global.en.json","extension":".json"},"id":"content/global/global.en.json","__typename":"Global","locale":"en","createdAt":"2026-01-07T16:05:34.692Z","updatedAt":"2026-01-08T14:31:46.182Z","siteName":"Re:Jeunesse","siteDescription":null,"logoConfig":{"__typename":"GlobalLogoConfig","type":"icon","iconConfig":null,"image":null,"text":"Re:Jeunesse"},"favicon":null,"ogImage":null,"header":{"__typename":"GlobalHeader","showThemeToggle":null,"nav":[{"__typename":"GlobalHeaderNav","label":"Blog","href":"/blog","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"Notes","href":"/notes","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"Projects","href":"/projects","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"Diary","href":"/diary","external":false,"group":"","isPrivate":true},{"__typename":"GlobalHeaderNav","label":"About Me","href":"/portfolio","external":false,"group":"About","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"About This Site","href":"/about","external":false,"group":"About","isPrivate":false}],"height":"6.5rem","breakpoints":null,"background":null},"footer":{"__typename":"GlobalFooter","copyrightText":"© 2026 JM. All rights reserved.","authorForSocial":null,"nav":[{"__typename":"GlobalFooterNav","label":"Blog","href":"/blog","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"Notes","href":"/notes","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"Projects","href":"/projects","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"About Me","href":"/portfolio","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"About This Site","href":"/about","external":false,"group":""}],"height":"11rem","breakpoints":null,"background":null},"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":{"__typename":"GlobalThemeFontFamily","heading":"josefinSans","body":"domine"},"colorScheme":"light"},"i18n":{"__typename":"GlobalI18n","defaultLocale":"zh","supportedLocales":["zh","en","ja"]},"reading":{"__typename":"GlobalReading","showTopToc":true,"showTopTocTitle":true,"topTocCollapsedByDefault":false,"tocMaxHeadingLevel":"h3","showSideToc":true,"sideTocMaxHeadingLevel":"h3","enableHeadingCollapse":true,"headingCollapseLevels":["h2","h3"]},"analytics":null,"rss":null,"comments":null},"shouldIncludePrivate":false,"children":["$","$L15",null,{"settings":{"locale":"en"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]
+16:I[96825,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","579","static/chunks/579-f65c76ee6a002b84.js","947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-beadf149a352c546.js"],"SeriesRenderer"]
+17:Ta10,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    private
+    featured
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        name
+        pronouns
+        avatar
+        avatarAlt
+        tagline
+        jobTitle
+        company
+        intro
+        now
+        about
+        skills {
+          __typename
+          group
+          items
+        }
+        interests {
+          __typename
+          group
+          items
+        }
+        email
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+    reading {
+      __typename
+      showTopToc
+      showTopTocTitle
+      topTocCollapsedByDefault
+      tocMaxHeadingLevel
+      showSideToc
+      sideTocMaxHeadingLevel
+      enableHeadingCollapse
+      headingCollapseLevels
+    }
+  }
+}
+    5:["$","$L16",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["en","deliberate-practice","index"],"path":"content/notes/en/deliberate-practice/index.mdx","relativePath":"en/deliberate-practice/index.mdx","extension":".mdx"},"id":"content/notes/en/deliberate-practice/index.mdx","__typename":"NoteSeries","createdAt":"2026-01-23T03:32:35.713Z","updatedAt":"2026-01-25T08:10:15.651Z","canonicalId":"peak-secrets-from-the-new-science-of-expertise","seriesName":"Deliberate Practice","title":"Reading Notes on \"Peak\"","description":null,"showOrder":false,"private":null,"featured":null,"progress":"not-started","coverImage":"/uploads/notes/covers/刻意练习.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"Peak: Secrets from the New Science of Expertise","creator":"Anders Ericsson / Robert Pool","platform":null,"url":"https://book.douban.com/subject/26895993/","coverImage":"/uploads/notes/sources/刻意练习.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null}},"errors":null,"query":"$17","variables":{"relativePath":"en/deliberate-practice/index.mdx"}},"isFallback":false,"notes":[{"_sys":{"filename":"deliberate-practice-for-excellence","basename":"deliberate-practice-for-excellence.mdx","hasReferences":null,"breadcrumbs":["en","deliberate-practice","deliberate-practice-for-excellence"],"path":"content/notes/en/deliberate-practice/deliberate-practice-for-excellence.mdx","relativePath":"en/deliberate-practice/deliberate-practice-for-excellence.mdx","extension":".mdx"},"id":"content/notes/en/deliberate-practice/deliberate-practice-for-excellence.mdx","__typename":"NoteNote","createdAt":"2026-01-24T02:58:59.838Z","updatedAt":"2026-01-25T04:38:27.113Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["Creator","Lifelong Learner","Aspiring Digital Nomad"],"jobTitle":"Programmer (frontend-first, backend in progress)","company":"Stockmark Inc.","intro":"An older single guy. A beginner at investing. Coding is a hobby — mainly because I like to make things, and code is a low-cost, pollution-free way to make them; it's also my job. Working remotely for now, with digital nomad as the goal.\nNext I want to make games, and try 3D printing.\nI move too little, so I make myself ride a bike — though I do genuinely like cycling; and lift a little, so I don't look too skinny. I like spicy food, and cilantro. I like horror films.\nI like learning — all sorts of skills, useful or not.\nI have a soft spot for the literary girl.\nCurrently trying to break free from “reverse philosophical suicide”.","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Fed up with codex's incompetence, I switched to Claude and went full '3/n Sword Style' — running several projects at once: this site, a local board-game platform, a task manager. Claude is a notch better than codex, but the token limits are too tight, and I still have to keep an eye on the details myself."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"On the investing side, every headline out of Trump and the Middle East tugs at my nerves. I bought a fair bit of gold — too high, as it turns out, so I'm underwater for now; my only gain comes from the yen sliding. Will the Japanese government ever get it together?!"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"I crave meaning, yet I don't believe in it."}]},{"type":"p","children":[{"type":"text","text":"To others I probably come across as a fairly rational person — and I used to think so myself. But only recently have I realized — or rather, only recently become willing to face — that deep down there has always been another, far more emotional self, sitting underneath as the ground tone of who I am. Perhaps it is exactly this long war between reason and feeling that has made me who I am today."}]},{"type":"h5","children":[{"type":"text","text":"The Suffering Sisyphus"}]},{"type":"p","children":[{"type":"text","text":"The Buddha speaks of the Eight Sufferings. Birth, old age, sickness, death — that is the half decreed by heaven, beyond anyone's will, that no one escapes. The other half — not getting what you want, parting from those you love, meeting those you hate, and that “blaze of the five aggregates” — is all born of the human heart. Being emotional, I am too easily moved, and so too easily wounded. The world is impermanent; in life, eight or nine times out of ten things do not go your way. And so suffering follows me like a shadow."}]},{"type":"p","children":[{"type":"text","text":"Over time I have worked out a few ways to cope with it: distracting myself, which is what I have consciously tried; and “reverse philosophical suicide,” which is what I have unconsciously been doing all along."}]},{"type":"p","children":[{"type":"text","text":"At this age, looking back, I don't think reason was something I was born with. It feels more like a choice — I chose to keep myself rational, to push back against feeling, against the pain that feeling brings. To be honest, it has not worked very well."}]},{"type":"p","children":[{"type":"text","text":"Camus held that “the absurd” arises from the collision between “man's longing for meaning” and “the silence of the world.” Faced with a universe that offers no meaning at all, you either commit physical suicide and end the suffering at its root — a coward's compromise; or you commit “philosophical suicide,” throwing yourself into faith (the leap of faith) to grant meaning by force — a betrayal of reason."}]},{"type":"p","children":[{"type":"text","text":"I tried to distract myself. I learned all sorts of skills, useful and useless. I like making things by hand, I like origami, I like writing code. I like making — I like this kind of thing, the kind with a clear goal. When I walk a clear path step by step, I can lose myself in it completely; “I” dissolves, and the feeling of pain can be set aside for a while."}]},{"type":"p","children":[{"type":"text","text":"But forgetting is brief, and distraction is only temporary."}]},{"type":"p","children":[{"type":"text","text":"To look away is not to resolve. So I entered the reverse of “philosophical suicide.” My reason and my pride will not let me admit that there is some greater being I could never become — so faith is no cure for me. Instead, I chose to dissolve my own need for meaning."}]},{"type":"p","children":[{"type":"text","text":"I tell myself the world is meaningless: that the sun will one day swallow the earth, that the universe will wind down into heat death. I tell myself everything runs by fixed laws — past, present and future already determined — and that so-called free will is nothing but the arrogance of our species, an illusion."}]},{"type":"p","children":[{"type":"text","text":"But this, clearly, has not worked either; otherwise by now I would have shaved my head and be tapping a wooden fish in some temple, or roaming the famed mountains and rivers in Daoist robes."}]},{"type":"p","children":[{"type":"text","text":"Which leaves me where I am now: neither here nor there; wanting much, yet afraid to lose; with a faint sense of learned helplessness. All of it steeped in the powerlessness that comes from fighting the absurd and losing."}]},{"type":"p","children":[{"type":"text","text":"But I have grown a little tired of this unhealthy way of living."}]},{"type":"p","children":[{"type":"text","text":"Lately I have begun to try something new — "},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":", to love one's fate: no longer fixing my eyes only on the road beneath my feet, but learning to lift my head and take in the scenery along the way."}]},{"type":"p","children":[{"type":"text","text":"I remember one evening, cycling along the Yodo River, the setting sun falling on the leaves by the bank; they trembled and glittered, tender and dewy — and in that instant I understood something new about the word “lovely.” I also remember an animated series I watched as a child, whose hero was named Martin: every morning Martin woke in a different place, became someone with a different identity, lived a different life — and what I have wanted, it seems, has been exactly that, all along."}]},{"type":"p","children":[{"type":"text","text":"Maybe this is the answer Camus held up against the absurd: revolt?"}]},{"type":"h5","children":[{"type":"text","text":"The Happy Sisyphus"}]},{"type":"p","children":[{"type":"text","text":"I have started preparing to become a digital nomad. I have begun managing my money and learning to invest; I look for ways to grow my income, passive income above all; I have started paying attention to the people and things around me, in all their variety. I am beginning to try to enjoy this feeling of being “on the road.”"}]},{"type":"p","children":[{"type":"text","text":"Is this really my path? I don't know. But I have to make myself believe that this path is a happy one. If I am lucky enough, then perhaps one day I will find the “Way” that is truly my own."}]},{"type":"p","children":[{"type":"text","text":"A hundred hurried years of life, like a dream, an illusion, a bubble, a shadow. I only hope that, when my appointed death comes, I can say in peace: “I have walked the road; though I die, I have no regret.”"}]}]},"skills":[{"__typename":"AuthorSkills","group":"Tech","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"Languages","items":["Chinese · Native","Japanese · Fluent","English · Beginner"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["Learning","Reading","Making","Cycling","Practicing guitar"]},{"__typename":"AuthorInterests","group":"To try","items":["Game dev","3D printing"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["en","Toshinaki"],"path":"content/authors/en/Toshinaki.json","relativePath":"en/Toshinaki.json","extension":".json"},"id":"content/authors/en/Toshinaki.json"},"canonicalId":"peak-secrets-from-the-new-science-of-expertise-01","seriesName":"Deliberate Practice","title":"Deliberate Practice for Excellence","order":1,"body":{"type":"root","children":[{"type":"h2","children":[{"type":"text","text":"TLDR"}]},{"type":"h2","children":[{"type":"text","text":"Chapter Summaries"}]},{"type":"h3","children":[{"type":"text","text":"0. Introduction: Does Talent Exist?"}]},{"type":"p","children":[{"type":"text","text":"Core Argument: Excellence is not innate, but a skill mastered through correct training methods."}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The True \"Gift\" is Adaptability: The extraordinary talents possessed by outstanding individuals are actually the innate human capacity for adaptability. They simply utilize this adaptability more than the average person."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Training Creates Skills"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The Brain is Not Fixed: Traditional views suggest that potential is fixed and learning aims to \"uncover\" it. However, since the 1990s, research has shown that the brain has a much greater capacity for adaptation than we previously imagined."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Training Changes Structure: Training can act as a \"trigger,\" causing the brain to \"rewire\" in various ways, such as forming new connections between neurons or strengthening existing ones."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Age and Adaptability: Although the brains of young people (e.g., before age 6) are more adaptable, the body and brain retain significant adaptability throughout adulthood, allowing for the development of various new abilities through correct training."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Experts vs. Ordinary People: Experts prompt changes in the brain and body through focused training. The significant talent they possess is the same talent we all have: the brain and body's capacity for adaptability. They simply utilize that capacity more than we do."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Correct Practice is the Only Way: Relying solely on \"sincere desire and hard work\" is not enough for continuous improvement. The only path to excellence is correct practice, namely \"deliberate practice.\""}]}]}]},{"type":"h4","children":[{"type":"text","text":"Case Studies"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Mozart's Perfect Pitch"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Traditional Perception: Mozart could accurately identify any tone by age 7. This perfect pitch was once seen as a manifestation of his innate, magical talent."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Scientific Discovery: Research has found that perfect pitch is more common among speakers of tonal languages, and almost all possessors received musical training in early childhood (ages three or four)."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Experimental Evidence: Ayako Sakakibara successfully developed perfect pitch in children participating in a study through training. This indicates that perfect pitch is not a gift at all, but an ability that can be cultivated and developed through moderate exposure and training."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The Truth About Mozart: Mozart's perfect pitch and precocious achievements were the result of systematic training starting at age 4, conducted with greater intensity and for longer durations by his father, Leopold Mozart."}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Ray Allen and Effort"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Public Misconception: NBA star Ray Allen is a famous three-point shooter, often mistakenly thought to be \"naturally gifted.\""}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Allen's View: Allen himself opposes this claim, emphasizing that his achievements are due to the immense effort he puts into shooting practice every day. His example illustrates that achievement comes from continuous hard work rather than inherited superior genes."}]}]}]}]}]},{"type":"h4","children":[{"type":"text","text":"Adaptability of the Brain and Body"}]},{"type":"p","children":[{"type":"text","text":"Further research shows:"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"The Brain is Not Fixed: In the past, scientists believed that the \"wiring\" of the adult brain was fixed. However, since the 1990s, research has shown that the brain has a much greater capacity for adaptation than we previously imagined."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Training Changes Structure: Training can act as a \"trigger,\" causing the brain to \"rewire\" in various ways, such as forming new connections between neurons or strengthening existing ones."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Age and Adaptability: Although the brains of young people (e.g., before age 6) are more adaptable, the body and brain retain significant adaptability throughout adulthood, allowing for the development of various new abilities through correct training."}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Experts vs. Ordinary People: Experts prompt changes in the brain and body through focused training. The significant talent they possess is the same talent we all have: the brain and body's capacity for adaptability. They simply utilize that capacity more than we do."}]}]}]}]},"reading":null}]}]
+18:I[1259,[],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Reading Notes on \"Peak\" | Re:Jeunesse"}],["$","link","1",{"rel":"canonical","href":"https://re-jeunesse.org/en/notes/deliberate-practice/"}],["$","link","2",{"rel":"alternate","hrefLang":"zh","href":"https://re-jeunesse.org/zh/notes/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0/"}],["$","link","3",{"rel":"alternate","hrefLang":"ja","href":"https://re-jeunesse.org/ja/notes/%E9%99%90%E7%95%8C%E7%9A%84%E7%B7%B4%E7%BF%92/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://re-jeunesse.org/en/notes/deliberate-practice/"}],["$","meta","5",{"property":"og:title","content":"Reading Notes on \"Peak\""}],["$","meta","6",{"property":"og:image","content":"https://re-jeunesse.org/uploads/notes/covers/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0.jpg"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Reading Notes on \"Peak\""}],["$","meta","9",{"name":"twitter:image","content":"https://re-jeunesse.org/uploads/notes/covers/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0.jpg"}],["$","link","10",{"rel":"icon","href":"/icon.svg?ce7055fa98cb49d8","type":"image/svg+xml","sizes":"any"}],["$","$L18","11",{}]]

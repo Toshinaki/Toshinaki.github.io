@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[96825,["19","static/chunks/3ef5b71a-e24e2f942a5fa0f0.js","504","static/chunks/38ecee97-3865e07ffa46eb10.js","247","static/chunks/3406dd65-9d3e0366350ff637.js","590","static/chunks/7f2d301b-2f3cb2814ad24770.js","670","static/chunks/3d43efc3-bbdde2c677c2cdd4.js","757","static/chunks/68fcee7b-5e855f8ba55ae3e3.js","389","static/chunks/389-81c8d27b7af9c4f5.js","195","static/chunks/195-9060979059bf73c8.js","23","static/chunks/23-3f71dc609cfeef42.js","90","static/chunks/90-5f1a4502eeed1f8e.js","971","static/chunks/971-47594f3ccbc13412.js","500","static/chunks/500-b84684510be687fc.js","76","static/chunks/76-a3774cd78291835b.js","579","static/chunks/579-f65c76ee6a002b84.js","947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-beadf149a352c546.js"],"SeriesRenderer"]
+5:I[71838,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:Ta10,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    private
+    featured
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        name
+        pronouns
+        avatar
+        avatarAlt
+        tagline
+        jobTitle
+        company
+        intro
+        now
+        about
+        skills {
+          __typename
+          group
+          items
+        }
+        interests {
+          __typename
+          group
+          items
+        }
+        email
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+    reading {
+      __typename
+      showTopToc
+      showTopTocTitle
+      topTocCollapsedByDefault
+      tocMaxHeadingLevel
+      showSideToc
+      sideTocMaxHeadingLevel
+      enableHeadingCollapse
+      headingCollapseLevels
+    }
+  }
+}
+    0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["ja","子犬のマネー","index"],"path":"content/notes/ja/子犬のマネー/index.mdx","relativePath":"ja/子犬のマネー/index.mdx","extension":".mdx"},"id":"content/notes/ja/子犬のマネー/index.mdx","__typename":"NoteSeries","createdAt":"2026-02-08T06:50:19.761Z","updatedAt":"2026-02-08T07:00:57.839Z","canonicalId":"a-dog-called-money","seriesName":"子犬のマネー","title":"『子犬のマネー』読書ノート","description":null,"showOrder":true,"private":null,"featured":true,"progress":"completed","coverImage":"/uploads/notes/covers/小狗钱钱1.jpg","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"子犬のマネー：子供たちに富を正しく認識させ、富を創造するように導く「お金の童話」","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/3576486/","coverImage":"/uploads/notes/sources/小狗钱钱1.jpg","notes":{"type":"root","children":[]}},{"__typename":"NoteSeriesSources","type":"book","title":"子犬のマネー2：子供たちの優れた品格を発見し育む","creator":"[德] 博多·舍费尔","platform":null,"url":"https://book.douban.com/subject/6971390/","coverImage":"/uploads/notes/sources/小狗钱钱2.jpg","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null}},"errors":null,"query":"$3","variables":{"relativePath":"ja/子犬のマネー/index.mdx"}},"isFallback":false,"notes":[{"_sys":{"filename":"第1巻-金色の卵を産むガチョウを育てる","basename":"第1巻-金色の卵を産むガチョウを育てる.mdx","hasReferences":null,"breadcrumbs":["ja","子犬のマネー","第1巻-金色の卵を産むガチョウを育てる"],"path":"content/notes/ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","relativePath":"ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","extension":".mdx"},"id":"content/notes/ja/子犬のマネー/第1巻-金色の卵を産むガチョウを育てる.mdx","__typename":"NoteNote","createdAt":"2026-02-08T06:54:13.353Z","updatedAt":"2026-02-08T07:17:54.916Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["創造者","生涯学習","デジタルノマド（目標）"],"jobTitle":"プログラマー（フロント中心、バックエンド勉強中）","company":"Stockmark Inc.","intro":"いい年の独身男。投資・資産運用は初心者。プログラミングは趣味——「作る」ことが好きで、コードは低コストで無公害な制作手段だから。そして仕事でもある。今はリモートワーク、目標はデジタルノマド。\nこれからはゲームを作りたいし、3Dプリンターも触ってみたい。\n運動不足なので、自分に無理やり自転車を漕がせている——もちろん自転車そのものも好きだけど。痩せすぎに見えないよう、軽く筋トレも。辛いものが好き、パクチーも好き。ホラー映画も好き。\n学ぶのが好きで、役に立つものも立たないものも、いろんなスキルを。\n文学少女が好き。\n「逆・哲学的自殺」から抜け出そうともがいている最中。","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"codex の無能さにうんざりして、Claude に乗り換えた。今は「3/n刀流」——このサイト、ローカルのボードゲームプラットフォーム、タスク管理システムを同時に進めている。Claude は codex よりはマシだが、トークンの制限がきつすぎるし、細かいところは結局自分で見るしかない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資のほうは、トランプと中東のニュースに心を揺さぶられっぱなし。ゴールドをだいぶ買ったが、高値づかみで、いまは含み損。唯一の利益は円安から——日本政府、いい加減なんとかならないのか？！"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"意味を渇望しながら、その意味を信じてはいない。"}]},{"type":"p","children":[{"type":"text","text":"他人の目に、俺はおそらくかなり理性的な人間として映る——自分でもそう思っていた。けれど最近になってようやく気づいた、というより、ようやく直視する気になったのだ。心の奥には、ずっともう一人のひどく感情的な自分が、底色として在り続けていた。たぶん、この理性と感性の長きにわたる争いこそが、今の俺を形づくってきたのだろう。"}]},{"type":"h5","children":[{"type":"text","text":"苦しむシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"仏は、人に八苦ありと説く。生・老・病・死、それは天の定めた半分であり、人の意志ではどうにもならず、誰一人逃れられない。もう半分——求不得、愛別離、怨憎会、そしてあの「五陰熾盛」——は、すべて人の心から生まれる。感性ゆえに、俺はあまりにたやすく心を動かされ、それゆえあまりにたやすく傷つく。世は無常、人生は意のままにならぬことが十のうち八九。こうして苦しみは、影のように付きまとう。"}]},{"type":"p","children":[{"type":"text","text":"少しずつ、それに対処するすべを編み出してきた。気を紛らわすこと、これは意識的にずっと試みてきたもの。「逆・哲学的自殺」、これは無意識のうちに、ずっとやってきたもの。"}]},{"type":"p","children":[{"type":"text","text":"この歳になって振り返ると、理性はおそらく、生まれつき備わったものではない。むしろ一つの選択なのだ——感性に、そして感性の生む苦しみに対抗するために、俺は自分を理性的に保つことを選んだ。正直に言えば、効き目はさほどよくない。"}]},{"type":"p","children":[{"type":"text","text":"カミュは言う。「不条理」は、「意味を求める人間」と「沈黙する世界という現実」との衝突から生まれる、と。いかなる意味も与えてくれない宇宙を前にして、人は——物理的に自殺し、苦しみを根元から断つか。それは臆病な妥協だ。あるいは「哲学的自殺」、信仰（信仰への飛躍）に身を投じて人為的に意味を与えるか。それは理性への裏切りだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は気を紛らわそうとした。役に立つものも立たないものも、さまざまな技能を学んだ。手仕事が好きだ。折り紙が好きだ。コードを書くのが好きだ。「作る」ことが好きなのだ——こういう、目標のはっきりしたことが。一本の明快な道を一歩ずつ進んでいるとき、俺はそこへ完全に没入できる。そのとき「自分」は消え去り、苦しみの感覚も、しばし忘れていられる。"}]},{"type":"p","children":[{"type":"text","text":"けれど忘却は束の間で、気晴らしもまた一時のものにすぎない。"}]},{"type":"p","children":[{"type":"text","text":"目をそらすことは、解決ではない。そこで俺は、逆向きの「哲学的自殺」へと入っていった。俺の理性と矜持は、より偉大な存在があり、しかも自分は決してそれには成り得ない、と認めることを許さない。だから信仰は、俺の解にはならない。代わりに俺は、自分の内にある意味への欲求そのものを、解体することを選んだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は自分に言い聞かせる。世界に意味などないのだと。太陽はいつか地球を呑み込み、宇宙もやがて熱的死へと帰してゆくのだと。すべては定められた法則のままに動き、過去も現在も未来もとうに決まっていて、いわゆる自由意志など、人間の傲慢が生んだ幻にすぎないのだと。"}]},{"type":"p","children":[{"type":"text","text":"だが、これも明らかにうまくはいかなかった。さもなければ、俺は今ごろどこかの寺で頭を剃り、木魚を叩いているか、道服をまとって名山大川を訪ね歩いているはずだ。"}]},{"type":"p","children":[{"type":"text","text":"その果てが、今の俺だ——帯に短し襷に長し。多くを望みながら、失うことを恐れている。うっすらと、学習性無力感のようなものが漂う。何もかもが、不条理との戦いに敗れたあとの無力感に満ちている。"}]},{"type":"p","children":[{"type":"text","text":"だが、こんな不健康な生き方に、俺は少し倦んできた。"}]},{"type":"p","children":[{"type":"text","text":"最近、新しい試みを始めた。"},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":"——運命を愛せよ。足もとの道ばかりを見つめるのではなく、道すがらの風景にも、目を向けてみる。"}]},{"type":"p","children":[{"type":"text","text":"覚えている。ある夕暮れ、淀川沿いを自転車で走っていると、夕日が岸辺の木の葉に射していた。葉は揺れながらきらきらと光り、みずみずしくて——その一瞬、「かわいい」という言葉の意味が、少しわかった気がした。それから、子どもの頃に見た、マーティンという少年が主人公のアニメを思い出す。マーティンは毎朝ちがう場所で目を覚まし、ちがう素性の誰かになり、ちがう人生を生きる——俺が望んでいたのは、どうやらずっと、それだったのだ。"}]},{"type":"p","children":[{"type":"text","text":"もしかすると、これこそがカミュの説いた、不条理への対し方——反抗、なのだろうか。"}]},{"type":"h5","children":[{"type":"text","text":"幸福なシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"俺は、デジタルノマドになるための準備を始めた。お金の管理を始め、投資を学び、収入を——とりわけ不労所得を——増やす方法を探している。身のまわりの、さまざまな人や物事に目を留めるようになった。この「道を行く」という感覚を、楽しもうとし始めている。"}]},{"type":"p","children":[{"type":"text","text":"これは本当に、俺の道なのだろうか。わからない。それでも俺は、この道は幸福なのだと、自分に信じ込ませなければならない。もし十分に幸運なら、いつの日か、本当に自分のものと呼べる「道」を、見つけられるかもしれない。"}]},{"type":"p","children":[{"type":"text","text":"人生はあわただしい百年、夢幻泡影のごとし。ただ願わくは、定められた死が訪れるそのとき、俺が安らかにこう言えますように——「我すでに道を行く、死すとも悔いなし」と。"}]}]},"skills":[{"__typename":"AuthorSkills","group":"技術","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"言語","items":["中国語 · 母語","日本語 · 流暢","英語 · 入門"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["学習","読書","制作","サイクリング","ギター練習"]},{"__typename":"AuthorInterests","group":"やりたいこと","items":["ゲーム開発","3Dプリント"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"canonicalId":"a-dog-called-money-01","seriesName":"子犬のマネー","title":"第1巻：金色の卵を産むガチョウを育てる","order":1,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"『子犬のマネー』第1巻は、お金に関する物語を通して、資産形成の考え方を確立し、収入を増やし、投資を配分するまでの全プロセスを体系的に紹介しています。以下は、本書の核となる資産形成のスキルと概念です。"}]},{"type":"h3","children":[{"type":"text","text":"一、 資産形成の目標と心構えの構築"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"富を築く願望を明確にする","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"豊かになりたい"},{"type":"text","text":"10の理由","bold":true},{"type":"text","text":"を書き出し、その中から"},{"type":"text","text":"最も重要な3つの願望","bold":true},{"type":"text","text":"を核となる目標として選びます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"目標は"},{"type":"text","text":"具体化","bold":true},{"type":"text","text":"する必要があります："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「夢のアルバム」を作成し、願望に関連する写真を収集し、毎日数回見て「視覚化」思考を行い、実現した姿を想像します。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「夢の貯金箱」を設立し、実際の進捗を見えるようにします。"}]}]}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自信を築く（成功日記）","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自信は富を築く鍵です。毎日少なくとも"},{"type":"text","text":"5つの小さな成功","bold":true},{"type":"text","text":"を記録し、それによって自信を築きます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"困難や恐怖に直面したときは、成功日記を読み返し、"},{"type":"text","text":"あなたが知っていること、できること、持っているもの","bold":true},{"type":"text","text":"にエネルギーを集中させます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「する」は「する」であり、「試みる」「試す」「挑戦する」などの言葉は避けます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"周囲の意見に影響されないようにし、「意見」と「助言」の違いを明確にします。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"二、 富を築く原則と行動力"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"問題を解決することが富である","bold":true},{"type":"text","text":"：他人の問題を解決したり、価値を提供したりすることで、お金を稼ぐことができます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"行動規範","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"72時間ルール","bold":true},{"type":"text","text":"：何かをすると決めたら、72時間以内に行動に移さなければ、二度としない可能性があります。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"10分ルール","bold":true},{"type":"text","text":"：状況がどうであれ、毎日10分間、将来に大きな意味のあること（成功日記の記録、将来の構想など）を続ける。"},{"type":"text","text":"順境","bold":true},{"type":"text","text":"でも"},{"type":"text","text":"逆境","bold":true},{"type":"text","text":"でも、毎日"},{"type":"text","text":"前進","bold":true},{"type":"text","text":"し続ける必要があります。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"多様な収入源","bold":true},{"type":"text","text":"：単一の仕事だけに頼らず、自分の"},{"type":"text","text":"興味や得意なこと","bold":true},{"type":"text","text":"を利用して価値を交換し、代替収入源を探します。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"三、 収入の配分と債務処理"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"50-40-10収入配分法","bold":true},{"type":"text","text":"（基本的な生活費を差し引いた後）："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"50%は「ガチョウを育てる」ため","bold":true},{"type":"text","text":"（貯蓄投資、配当を生み出す）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"40%は「夢の貯金箱」に入れる","bold":true},{"type":"text","text":"（中短期目標達成のための資金を蓄積する）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"10%は消費に使う","bold":true},{"type":"text","text":"（日常の出費と小遣い）。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"債務処理に関する4つの忠告","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"クレジットカードを破棄する","bold":true},{"type":"text","text":"：許容範囲を超える消費を避けます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"最低限の分割払いで返済する","bold":true},{"type":"text","text":"：より多くの現金を緊急時に備えて残し、すべての余剰資金を借金返済に充てないようにします。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「半分返済、半分貯蓄」","bold":true},{"type":"text","text":"：生活費を差し引いた後、残りの資金の半分を貯蓄してガチョウを育て、もう半分を借金返済に充てることで、借金返済と同時に資産形成も行います。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"消費前の問いかけ","bold":true},{"type":"text","text":"：消費する前に「これは本当に必要か？」と自問します。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"四、 投資による資産増加（「金色の卵を産むガチョウ」を育てる）"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"ガチョウと金色の卵の論理","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"「ガチョウ」は元本、「金色の卵」は利息または収益","bold":true},{"type":"text","text":"を表します。目先の消費のために「ガチョウを殺す」のではなく、元本を複利で増やし続ける必要があります。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"利息収入（金色の卵）が生活費を賄えるようになったとき、経済的自由が達成されます。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資信託の原則","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"少なくとも10年の歴史","bold":true},{"type":"text","text":"があり、"},{"type":"text","text":"大規模な多国籍","bold":true},{"type":"text","text":"の株式ファンドを選びます。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"長期保有","bold":true},{"type":"text","text":"：5〜10年の投資期間を準備し、短期的な市場の下落によって売却しないようにします。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"資産形成計算ツール","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"72の法則","bold":true},{"type":"text","text":"：「72を年利で割る」と"},{"type":"text","text":"元本が2倍になるまでの時間","bold":true},{"type":"text","text":"が得られます。また、「72をインフレ率で割る」と"},{"type":"text","text":"お金の価値が半分になるまでの時間","bold":true},{"type":"text","text":"が得られます。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"五、 核となる名言のまとめ"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"お金は中立的","bold":true},{"type":"text","text":"であり、人を幸福にも不幸にもしません。それは単なる拡大鏡であり、その人の本来の姿を映し出すだけです。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"より幸福な生活を送るためには、環境の変化を期待するだけでなく、自分自身を変える必要があります","bold":true},{"type":"text","text":"。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"幸運は、十分な準備と努力の結果","bold":true},{"type":"text","text":"です。"}]}]}]}]},"reading":null},{"_sys":{"filename":"第二巻-根と実の弁証法","basename":"第二巻-根と実の弁証法.mdx","hasReferences":null,"breadcrumbs":["ja","子犬のマネー","第二巻-根と実の弁証法"],"path":"content/notes/ja/子犬のマネー/第二巻-根と実の弁証法.mdx","relativePath":"ja/子犬のマネー/第二巻-根と実の弁証法.mdx","extension":".mdx"},"id":"content/notes/ja/子犬のマネー/第二巻-根と実の弁証法.mdx","__typename":"NoteNote","createdAt":"2026-02-09T13:57:35.142Z","updatedAt":"2026-02-09T13:57:35.142Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-01-17T13:20:25.697Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["創造者","生涯学習","デジタルノマド（目標）"],"jobTitle":"プログラマー（フロント中心、バックエンド勉強中）","company":"Stockmark Inc.","intro":"いい年の独身男。投資・資産運用は初心者。プログラミングは趣味——「作る」ことが好きで、コードは低コストで無公害な制作手段だから。そして仕事でもある。今はリモートワーク、目標はデジタルノマド。\nこれからはゲームを作りたいし、3Dプリンターも触ってみたい。\n運動不足なので、自分に無理やり自転車を漕がせている——もちろん自転車そのものも好きだけど。痩せすぎに見えないよう、軽く筋トレも。辛いものが好き、パクチーも好き。ホラー映画も好き。\n学ぶのが好きで、役に立つものも立たないものも、いろんなスキルを。\n文学少女が好き。\n「逆・哲学的自殺」から抜け出そうともがいている最中。","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"codex の無能さにうんざりして、Claude に乗り換えた。今は「3/n刀流」——このサイト、ローカルのボードゲームプラットフォーム、タスク管理システムを同時に進めている。Claude は codex よりはマシだが、トークンの制限がきつすぎるし、細かいところは結局自分で見るしかない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資のほうは、トランプと中東のニュースに心を揺さぶられっぱなし。ゴールドをだいぶ買ったが、高値づかみで、いまは含み損。唯一の利益は円安から——日本政府、いい加減なんとかならないのか？！"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"意味を渇望しながら、その意味を信じてはいない。"}]},{"type":"p","children":[{"type":"text","text":"他人の目に、俺はおそらくかなり理性的な人間として映る——自分でもそう思っていた。けれど最近になってようやく気づいた、というより、ようやく直視する気になったのだ。心の奥には、ずっともう一人のひどく感情的な自分が、底色として在り続けていた。たぶん、この理性と感性の長きにわたる争いこそが、今の俺を形づくってきたのだろう。"}]},{"type":"h5","children":[{"type":"text","text":"苦しむシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"仏は、人に八苦ありと説く。生・老・病・死、それは天の定めた半分であり、人の意志ではどうにもならず、誰一人逃れられない。もう半分——求不得、愛別離、怨憎会、そしてあの「五陰熾盛」——は、すべて人の心から生まれる。感性ゆえに、俺はあまりにたやすく心を動かされ、それゆえあまりにたやすく傷つく。世は無常、人生は意のままにならぬことが十のうち八九。こうして苦しみは、影のように付きまとう。"}]},{"type":"p","children":[{"type":"text","text":"少しずつ、それに対処するすべを編み出してきた。気を紛らわすこと、これは意識的にずっと試みてきたもの。「逆・哲学的自殺」、これは無意識のうちに、ずっとやってきたもの。"}]},{"type":"p","children":[{"type":"text","text":"この歳になって振り返ると、理性はおそらく、生まれつき備わったものではない。むしろ一つの選択なのだ——感性に、そして感性の生む苦しみに対抗するために、俺は自分を理性的に保つことを選んだ。正直に言えば、効き目はさほどよくない。"}]},{"type":"p","children":[{"type":"text","text":"カミュは言う。「不条理」は、「意味を求める人間」と「沈黙する世界という現実」との衝突から生まれる、と。いかなる意味も与えてくれない宇宙を前にして、人は——物理的に自殺し、苦しみを根元から断つか。それは臆病な妥協だ。あるいは「哲学的自殺」、信仰（信仰への飛躍）に身を投じて人為的に意味を与えるか。それは理性への裏切りだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は気を紛らわそうとした。役に立つものも立たないものも、さまざまな技能を学んだ。手仕事が好きだ。折り紙が好きだ。コードを書くのが好きだ。「作る」ことが好きなのだ——こういう、目標のはっきりしたことが。一本の明快な道を一歩ずつ進んでいるとき、俺はそこへ完全に没入できる。そのとき「自分」は消え去り、苦しみの感覚も、しばし忘れていられる。"}]},{"type":"p","children":[{"type":"text","text":"けれど忘却は束の間で、気晴らしもまた一時のものにすぎない。"}]},{"type":"p","children":[{"type":"text","text":"目をそらすことは、解決ではない。そこで俺は、逆向きの「哲学的自殺」へと入っていった。俺の理性と矜持は、より偉大な存在があり、しかも自分は決してそれには成り得ない、と認めることを許さない。だから信仰は、俺の解にはならない。代わりに俺は、自分の内にある意味への欲求そのものを、解体することを選んだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は自分に言い聞かせる。世界に意味などないのだと。太陽はいつか地球を呑み込み、宇宙もやがて熱的死へと帰してゆくのだと。すべては定められた法則のままに動き、過去も現在も未来もとうに決まっていて、いわゆる自由意志など、人間の傲慢が生んだ幻にすぎないのだと。"}]},{"type":"p","children":[{"type":"text","text":"だが、これも明らかにうまくはいかなかった。さもなければ、俺は今ごろどこかの寺で頭を剃り、木魚を叩いているか、道服をまとって名山大川を訪ね歩いているはずだ。"}]},{"type":"p","children":[{"type":"text","text":"その果てが、今の俺だ——帯に短し襷に長し。多くを望みながら、失うことを恐れている。うっすらと、学習性無力感のようなものが漂う。何もかもが、不条理との戦いに敗れたあとの無力感に満ちている。"}]},{"type":"p","children":[{"type":"text","text":"だが、こんな不健康な生き方に、俺は少し倦んできた。"}]},{"type":"p","children":[{"type":"text","text":"最近、新しい試みを始めた。"},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":"——運命を愛せよ。足もとの道ばかりを見つめるのではなく、道すがらの風景にも、目を向けてみる。"}]},{"type":"p","children":[{"type":"text","text":"覚えている。ある夕暮れ、淀川沿いを自転車で走っていると、夕日が岸辺の木の葉に射していた。葉は揺れながらきらきらと光り、みずみずしくて——その一瞬、「かわいい」という言葉の意味が、少しわかった気がした。それから、子どもの頃に見た、マーティンという少年が主人公のアニメを思い出す。マーティンは毎朝ちがう場所で目を覚まし、ちがう素性の誰かになり、ちがう人生を生きる——俺が望んでいたのは、どうやらずっと、それだったのだ。"}]},{"type":"p","children":[{"type":"text","text":"もしかすると、これこそがカミュの説いた、不条理への対し方——反抗、なのだろうか。"}]},{"type":"h5","children":[{"type":"text","text":"幸福なシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"俺は、デジタルノマドになるための準備を始めた。お金の管理を始め、投資を学び、収入を——とりわけ不労所得を——増やす方法を探している。身のまわりの、さまざまな人や物事に目を留めるようになった。この「道を行く」という感覚を、楽しもうとし始めている。"}]},{"type":"p","children":[{"type":"text","text":"これは本当に、俺の道なのだろうか。わからない。それでも俺は、この道は幸福なのだと、自分に信じ込ませなければならない。もし十分に幸運なら、いつの日か、本当に自分のものと呼べる「道」を、見つけられるかもしれない。"}]},{"type":"p","children":[{"type":"text","text":"人生はあわただしい百年、夢幻泡影のごとし。ただ願わくは、定められた死が訪れるそのとき、俺が安らかにこう言えますように——「我すでに道を行く、死すとも悔いなし」と。"}]}]},"skills":[{"__typename":"AuthorSkills","group":"技術","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"言語","items":["中国語 · 母語","日本語 · 流暢","英語 · 入門"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["学習","読書","制作","サイクリング","ギター練習"]},{"__typename":"AuthorInterests","group":"やりたいこと","items":["ゲーム開発","3Dプリント"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"canonicalId":"a-dog-called-money-02","seriesName":"子犬のマネー","title":"第二巻：根と実の弁証法","order":2,"body":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"『子犬のマネー2』の核心テーマは、第一巻の「お金の管理方法」から**「人格の形成方法」"},{"type":"text","text":"へと昇華しています。著者は","bold":true},{"type":"text","text":"「ドーナツ原理」**を通じて、物質的富（外側の輪）と内なる人格（中央の穴）が表裏一体である弁証法的関係を説明し、優れた人格が永続的な幸福と真の成功を得るための礎であることを強調しています。"}]},{"type":"h3","children":[{"type":"text","text":"一、核心理論：ドーナツ原理 (The Donut Principle)"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"外側の輪（目に見える成功）","bold":true},{"type":"text","text":"：お金、名声、キャリアを表します。これらは目に見えますが、外側の輪だけでは人生は不完全です。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"中央の穴（内なる人格）","bold":true},{"type":"text","text":"：人間の内面を表します。目には見えませんが、ドーナツが真に存在する意味です。人格に裏打ちされていない成功は空虚で脆いものです。"}]}]}]},{"type":"h4","children":[{"type":"text","text":"根と実の弁証法"}]},{"type":"p","children":[{"type":"text","text":"中国語の文脈により適合させるため、「ドーナツ」を**「樹木モデル」**に変換することができます。"}]},{"type":"p","children":[{"type":"text","text":"• "},{"type":"text","text":"実","bold":true},{"type":"text","text":"（外的な成功）：ドーナツの外側の輪に対応します。お金、名声、キャリアを表します。これらは目に見える成果ですが、実だけを追い求め、根系を無視すれば、富は長続きしません。"}]},{"type":"p","children":[{"type":"text","text":"• "},{"type":"text","text":"根系","bold":true},{"type":"text","text":"（内なる人格）：ドーナツの中央の穴に対応します。人間の内面を表します。地中に深く埋まっていて目には見えませんが、木全体の生命の源であり、実の豊かさと甘さを決定します。"}]},{"type":"p","children":[{"type":"text","text":"• 核心ロジック：お金自体は中立的な拡大鏡であり、その人の本来の姿を映し出します。"},{"type":"text","text":"真の豊かさとは、内面と外面を共に磨き、物質と精神のバランスが取れた状態です","bold":true},{"type":"text","text":"。優れた人格に裏打ちされていない成功は空虚で脆いものです。"}]},{"type":"h3","children":[{"type":"text","text":"二、優れた人格を形成するための七つの原則"}]},{"type":"p","children":[{"type":"text","text":"本書の真髄は、「内なる富」を育むための七つの具体的な原則にあり、これこそが人を「より価値ある存在」にする鍵です。"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"友好的で親しみやすい (Friendly & Kind)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"無益な争いには一切介入せず、自分を抑える。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"謙虚で礼儀正しく、自分が常に正しいわけではないと認める。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"他人を傷つけず、他人も同様に素晴らしい人生を送れることを願う。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"責任を負う勇気 (Courage to Take Responsibility)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"職責と答え","bold":true},{"type":"text","text":"：答え（Antwort）は職責（Verantwortung）の中に隠されている。何かあったら自分で決断し、責任を環境や他人に押し付けない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"言い訳をしない","bold":true},{"type":"text","text":"：責任を他人に押し付けると同時に、それに応じた権限も相手に渡してしまう。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"コントロールできることに焦点を当てる","bold":true},{"type":"text","text":"：不公平な扱いにではなく、自分ができ、知り、持っているものに注意を集中する。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"他人に親切にする (Be Kind to Others)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"光の法則","bold":true},{"type":"text","text":"：他人の長所だけを褒める。褒めるのが適切でない場合は沈黙を守る（光だけを見れば、あなた自身が光となる）。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"建設的な批判","bold":true},{"type":"text","text":"：できるだけ他人を批判しない。もし批判する必要がある場合は、礼儀正しく友好的な方法で行う。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"助け、与える (Helping & Giving)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"利他精神","bold":true},{"type":"text","text":"：無償で他人を助けたり、喜びをもたらしたりする機会を探す。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"感情の調整","bold":true},{"type":"text","text":"：気分が落ち込んでいるとき、他人を助けることでポジティブなフィードバックと喜びを得る。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"感謝の心 (Gratitude)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"奇跡に注目する","bold":true},{"type":"text","text":"：当たり前のように見えること（見る、聞く、歩く能力など）に感謝の気持ちを持ち続ける。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"困難の中での気づき","bold":true},{"type":"text","text":"：困難に遭遇したとしても、その中から感謝すべきこと（健康の価値など）を見つける。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"たゆまぬ学習 (Constant Learning)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"謙虚さを保つ","bold":true},{"type":"text","text":"：傲慢さは学習の停止を意味する。毎日新しいことを学ぶべきである。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"他者から学ぶ","bold":true},{"type":"text","text":"：広く読書し、優れた人々から学ぶことで自己を向上させる。他人と盲目的に比較するのではなく。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"信頼に値する (Trustworthy)","bold":true},{"type":"text","text":"："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"自律の力","bold":true},{"type":"text","text":"：成功は習慣にかかっている。時間を守り、自律的な人間になる。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"約束を守る","bold":true},{"type":"text","text":"：他人や自分自身に対して行った約束（例：72時間ルール）は必ず実行する。"}]}]}]}]}]},{"type":"h3","children":[{"type":"text","text":"三、内なる人格の修練方法"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"7枚のインデックスカード法","bold":true},{"type":"text","text":"：7枚のカードを用意し、それぞれに一つの原則とその説明を書き込む。毎日そのうちの一枚に集中し、これらの原則が完全に生活習慣として内面化されるまで繰り返す。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"恐怖への対処（成功日記）","bold":true},{"type":"text","text":"：恐れを感じたとき、成功日記を読み返す。恐怖は失敗を想像することから生じるが、成功日記に注目することで、ポジティブな目標に向かって考えることができる。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"四、社交と価値観の昇華"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"関係口座 (Relationship Account)","bold":true},{"type":"text","text":"：人との関係は銀行口座のようなものだ。善行は「預金」、傷つけることは「引き出し」。口座の預金が豊富であれば、意図しない過ちや摩擦もより容易に解消できる。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"二重の帰属意識","bold":true},{"type":"text","text":"：人はある国の市民であると同時に、「世界市民」でもある。自分を世界市民と見なすことで、異なる文化をよりよく理解し、受け入れ、利己心から生じる争いを避けることができる。"}]}]}]},{"type":"h3","children":[{"type":"text","text":"まとめ"}]},{"type":"p","children":[{"type":"text","text":"第一巻が**「いかにしてお金を持つか」"},{"type":"text","text":"（実を摘むこと）を教えるなら、第二巻は","bold":true},{"type":"text","text":"「いかにお金にふさわしい人間になるか」**（深く根を張ること）を教えています。根が深く張ってこそ、富という果実は甘く、永続的なものとなるでしょう。"}]}]},"reading":null}]}],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2yBnKGnaMEeI0Gg021CGq"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null
