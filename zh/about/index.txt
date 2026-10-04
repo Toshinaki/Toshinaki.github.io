@@ -1,0 +1,1984 @@
+1:"$Sreact.fragment"
+2:I[55455,[],""]
+3:I[55811,[],""]
+6:I[1878,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[1878,[],"ViewportBoundary"]
+c:I[1878,[],"MetadataBoundary"]
+e:I[7621,[],"default",1]
+:HC["/",""]
+:HL["/_next/static/css/cb1295b7574760d2.css","style"]
+:HL["/_next/static/css/2062977d3f3687e6.css","style"]
+:HL["/_next/static/css/7ae3229a4818b50e.css","style"]
+:HL["/_next/static/css/6f08a9baad671f96.css","style"]
+:HL["/_next/static/css/5e0e3e9b5491d034.css","style"]
+9:X
+0:{"P":null,"c":["","zh","about",""],"q":"","i":false,"f":[[["",{"children":[["locale","zh","d",["_not-found","_global-error","apple-icon.png","icon.svg","manifest.webmanifest","robots.txt","s","sitemap.xml"]],{"children":[["slugs","about","c",["blog","feed.xml","notes","portfolio","projects"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cb1295b7574760d2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2062977d3f3687e6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/7ae3229a4818b50e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/6f08a9baad671f96.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/5e0e3e9b5491d034.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"yCfAvnwZTwV_TIqCwMyrH"}
+9:C
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[57768,["5760","static/chunks/d984392d-05d6a46765eb1805.js","8558","static/chunks/11cd74dc-c34ec26a5256226d.js","3630","static/chunks/b807ed94-bef33398140680dc.js","2816","static/chunks/2a53158f-e8e38d59fbd75231.js","9848","static/chunks/3c270457-1f3f90138aa21e88.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8078","static/chunks/8078-837792b87d5b8ca4.js","9856","static/chunks/9856-11da840774e3ddde.js","6957","static/chunks/6957-fe63bc19c431fca8.js","9882","static/chunks/9882-f43994fbd00ac94c.js","4054","static/chunks/4054-9e11895b85feb255.js","465","static/chunks/app/%5Blocale%5D/page-05299b9f2180bb88.js"],"PageRenderer"]
+10:Tacaa,
+    query pages($relativePath: String!) {
+  pages(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...PagesParts
+  }
+}
+    
+    fragment PagesParts on Pages {
+  __typename
+  createdAt
+  updatedAt
+  title
+  showTitle
+  titleStand
+  showTitleStand
+  description
+  blocks {
+    __typename
+    ... on PagesBlocksCover {
+      fixed
+      item {
+        __typename
+        ... on PagesBlocksCoverItemCarousel {
+          slides {
+            __typename
+            ... on PagesBlocksCoverItemCarouselSlidesFlex {
+              items {
+                __typename
+                ... on PagesBlocksCoverItemCarouselSlidesFlexItemsHero {
+                  title
+                  subtitle
+                  textAlign
+                  children
+                  background {
+                    __typename
+                    color
+                    image
+                    overlay {
+                      __typename
+                      enabled
+                      color
+                      opacity
+                    }
+                  }
+                  spacing {
+                    __typename
+                    margin {
+                      __typename
+                      top
+                      customTop
+                      right
+                      customRight
+                      bottom
+                      customBottom
+                      left
+                      customLeft
+                    }
+                    padding {
+                      __typename
+                      top
+                      customTop
+                      right
+                      customRight
+                      bottom
+                      customBottom
+                      left
+                      customLeft
+                    }
+                    breakpoints {
+                      __typename
+                      breakpoint
+                      margin {
+                        __typename
+                        top
+                        customTop
+                        right
+                        customRight
+                        bottom
+                        customBottom
+                        left
+                        customLeft
+                      }
+                      padding {
+                        __typename
+                        top
+                        customTop
+                        right
+                        customRight
+                        bottom
+                        customBottom
+                        left
+                        customLeft
+                      }
+                    }
+                  }
+                  flex {
+                    __typename
+                    direction
+                    gap
+                    customGap
+                    align
+                    justify
+                    wrap
+                    breakpoints {
+                      __typename
+                      breakpoint
+                      direction
+                      gap
+                      customGap
+                      align
+                      justify
+                      wrap
+                    }
+                  }
+                }
+                ... on PagesBlocksCoverItemCarouselSlidesFlexItemsContent {
+                  content
+                  background {
+                    __typename
+                    color
+                    image
+                    overlay {
+                      __typename
+                      enabled
+                      color
+                      opacity
+                    }
+                  }
+                  spacing {
+                    __typename
+                    margin {
+                      __typename
+                      top
+                      customTop
+                      right
+                      customRight
+                      bottom
+                      customBottom
+                      left
+                      customLeft
+                    }
+                    padding {
+                      __typename
+                      top
+                      customTop
+                      right
+                      customRight
+                      bottom
+                      customBottom
+                      left
+                      customLeft
+                    }
+                    breakpoints {
+                      __typename
+                      breakpoint
+                      margin {
+                        __typename
+                        top
+                        customTop
+                        right
+                        customRight
+                        bottom
+                        customBottom
+                        left
+                        customLeft
+                      }
+                      padding {
+                        __typename
+                        top
+                        customTop
+                        right
+                        customRight
+                        bottom
+                        customBottom
+                        left
+                        customLeft
+                      }
+                    }
+                  }
+                }
+              }
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                customGap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  customGap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PagesBlocksCoverItemCarouselSlidesHero {
+              title
+              subtitle
+              textAlign
+              children
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                customGap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  customGap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PagesBlocksCoverItemCarouselSlidesContent {
+              content
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+            }
+          }
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          carousel {
+            __typename
+            height
+            orientation
+            type
+            slides {
+              __typename
+              slideSize
+              slideGap
+              customSlideGap
+              includeGapInSize
+              initialSlide
+            }
+            align
+            loop
+            interaction {
+              __typename
+              draggable
+              dragFree
+              withKeyboardEvents
+            }
+            animation {
+              __typename
+              duration
+              skipSnaps
+              containScroll
+              inViewThreshold
+            }
+            controls {
+              __typename
+              withControls
+              controlSize
+              controlsOffset
+              customControlsOffset
+              nextControlIcon
+              previousControlIcon
+            }
+            indicators {
+              __typename
+              withIndicators
+            }
+            plugins {
+              __typename
+              autoplay {
+                __typename
+                enabled
+                delay
+                stopOnInteraction
+                stopOnMouseEnter
+                stopOnFocusIn
+                stopOnLastSnap
+                jump
+                playOnInit
+              }
+              fade {
+                __typename
+                enabled
+              }
+              classNames {
+                __typename
+                enabled
+              }
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              slideSize
+              slideGap
+              customSlideGap
+            }
+          }
+        }
+        ... on PagesBlocksCoverItemFlex {
+          items {
+            __typename
+            ... on PagesBlocksCoverItemFlexItemsHero {
+              title
+              subtitle
+              textAlign
+              children
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                customGap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  customGap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PagesBlocksCoverItemFlexItemsContent {
+              content
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+            }
+          }
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksCoverItemHero {
+          title
+          subtitle
+          textAlign
+          children
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksCoverItemContent {
+          content
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+        }
+      }
+      height
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+    }
+    ... on PagesBlocksCarousel {
+      slides {
+        __typename
+        ... on PagesBlocksCarouselSlidesFlex {
+          items {
+            __typename
+            ... on PagesBlocksCarouselSlidesFlexItemsHero {
+              title
+              subtitle
+              textAlign
+              children
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+              flex {
+                __typename
+                direction
+                gap
+                customGap
+                align
+                justify
+                wrap
+                breakpoints {
+                  __typename
+                  breakpoint
+                  direction
+                  gap
+                  customGap
+                  align
+                  justify
+                  wrap
+                }
+              }
+            }
+            ... on PagesBlocksCarouselSlidesFlexItemsContent {
+              content
+              background {
+                __typename
+                color
+                image
+                overlay {
+                  __typename
+                  enabled
+                  color
+                  opacity
+                }
+              }
+              spacing {
+                __typename
+                margin {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                padding {
+                  __typename
+                  top
+                  customTop
+                  right
+                  customRight
+                  bottom
+                  customBottom
+                  left
+                  customLeft
+                }
+                breakpoints {
+                  __typename
+                  breakpoint
+                  margin {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                  padding {
+                    __typename
+                    top
+                    customTop
+                    right
+                    customRight
+                    bottom
+                    customBottom
+                    left
+                    customLeft
+                  }
+                }
+              }
+            }
+          }
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksCarouselSlidesHero {
+          title
+          subtitle
+          textAlign
+          children
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksCarouselSlidesContent {
+          content
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+        }
+      }
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+      carousel {
+        __typename
+        height
+        orientation
+        type
+        slides {
+          __typename
+          slideSize
+          slideGap
+          customSlideGap
+          includeGapInSize
+          initialSlide
+        }
+        align
+        loop
+        interaction {
+          __typename
+          draggable
+          dragFree
+          withKeyboardEvents
+        }
+        animation {
+          __typename
+          duration
+          skipSnaps
+          containScroll
+          inViewThreshold
+        }
+        controls {
+          __typename
+          withControls
+          controlSize
+          controlsOffset
+          customControlsOffset
+          nextControlIcon
+          previousControlIcon
+        }
+        indicators {
+          __typename
+          withIndicators
+        }
+        plugins {
+          __typename
+          autoplay {
+            __typename
+            enabled
+            delay
+            stopOnInteraction
+            stopOnMouseEnter
+            stopOnFocusIn
+            stopOnLastSnap
+            jump
+            playOnInit
+          }
+          fade {
+            __typename
+            enabled
+          }
+          classNames {
+            __typename
+            enabled
+          }
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          slideSize
+          slideGap
+          customSlideGap
+        }
+      }
+    }
+    ... on PagesBlocksFlex {
+      items {
+        __typename
+        ... on PagesBlocksFlexItemsHero {
+          title
+          subtitle
+          textAlign
+          children
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+          flex {
+            __typename
+            direction
+            gap
+            customGap
+            align
+            justify
+            wrap
+            breakpoints {
+              __typename
+              breakpoint
+              direction
+              gap
+              customGap
+              align
+              justify
+              wrap
+            }
+          }
+        }
+        ... on PagesBlocksFlexItemsContent {
+          content
+          background {
+            __typename
+            color
+            image
+            overlay {
+              __typename
+              enabled
+              color
+              opacity
+            }
+          }
+          spacing {
+            __typename
+            margin {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            padding {
+              __typename
+              top
+              customTop
+              right
+              customRight
+              bottom
+              customBottom
+              left
+              customLeft
+            }
+            breakpoints {
+              __typename
+              breakpoint
+              margin {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+              padding {
+                __typename
+                top
+                customTop
+                right
+                customRight
+                bottom
+                customBottom
+                left
+                customLeft
+              }
+            }
+          }
+        }
+      }
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+      flex {
+        __typename
+        direction
+        gap
+        customGap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          customGap
+          align
+          justify
+          wrap
+        }
+      }
+    }
+    ... on PagesBlocksHero {
+      title
+      subtitle
+      textAlign
+      children
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+      flex {
+        __typename
+        direction
+        gap
+        customGap
+        align
+        justify
+        wrap
+        breakpoints {
+          __typename
+          breakpoint
+          direction
+          gap
+          customGap
+          align
+          justify
+          wrap
+        }
+      }
+    }
+    ... on PagesBlocksContent {
+      content
+      background {
+        __typename
+        color
+        image
+        overlay {
+          __typename
+          enabled
+          color
+          opacity
+        }
+      }
+      spacing {
+        __typename
+        margin {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        padding {
+          __typename
+          top
+          customTop
+          right
+          customRight
+          bottom
+          customBottom
+          left
+          customLeft
+        }
+        breakpoints {
+          __typename
+          breakpoint
+          margin {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+          padding {
+            __typename
+            top
+            customTop
+            right
+            customRight
+            bottom
+            customBottom
+            left
+            customLeft
+          }
+        }
+      }
+    }
+  }
+  pageLayout {
+    __typename
+    flat
+    containerWidth
+    customContainerWidth
+    contentMaxWidth
+    customContentMaxWidth
+    contentOffset
+  }
+}
+    5:["$","$Lf",null,{"fetchResult":{"data":{"pages":{"_sys":{"filename":"about","basename":"about.mdx","hasReferences":false,"breadcrumbs":["zh","about"],"path":"content/pages/zh/about.mdx","relativePath":"zh/about.mdx","extension":".mdx"},"id":"content/pages/zh/about.mdx","__typename":"Pages","createdAt":"2026-01-16T02:02:58.287Z","updatedAt":"2026-01-17T09:02:42.273Z","title":"关于本站","showTitle":null,"titleStand":null,"showTitleStand":null,"description":null,"blocks":[{"__typename":"PagesBlocksCover","fixed":true,"item":[{"__typename":"PagesBlocksCoverItemHero","title":"关于本站","subtitle":null,"textAlign":"center","children":{"type":"root","children":[]},"background":null,"spacing":null,"flex":{"__typename":"PagesBlocksCoverItemHeroFlex","direction":"column","gap":"md","customGap":null,"align":"center","justify":"center","wrap":false,"breakpoints":null}}],"height":"25rem","background":null,"spacing":null},{"__typename":"PagesBlocksContent","content":{"type":"root","children":[{"type":"h2","children":[{"type":"text","text":"为什么要做这个网站"}]},{"type":"p","children":[{"type":"text","text":"去年（2025）二三月份为了换工作而疯狂投简历时，偶遇一家提供 CMS 建站服务的公司。久违地遇到 \"CMS\" 这个词，脑中的记忆被瞬间激活。我想起了多年前使用 Wordpress、在如今看来已经有些\"幼稚\"的建站经历。"}]},{"type":"p","children":[{"type":"text","text":"入门编程这么多年，为了学习技术看了不少的教程、文章等，也看到不少好看的、或者有着新奇动画/粒子效果的、让人眼前一亮的网站。于是总有几次会突发奇想，想着自己也要做（或者说——抄）一个这样的网站。但往往想法是美好的，实际做起来才发现一点都不简单。"}]},{"type":"p","children":[{"type":"text","text":"好看的设计见多了，便总想着这里抄一点，那里也要参考参考，结果各种纠结内耗，基本上开了个头便无疾而终。没有系统地学习过设计的小白自然是无法做到一个完整统一的设计。"}]},{"type":"p","children":[{"type":"text","text":"也曾经想过，不如就用那些博客平台一类的建站算了。但也是注册个账号后便没了下文。"}]},{"type":"p","children":[{"type":"text","text":"现在想来，其实我的主要目的似乎并不是要建站后用这个它做些什么，而是单纯地在体验建站的这个过程。"}]},{"type":"p","children":[{"type":"text","text":"指着月亮的手指并不是月亮，但我总是会不自觉地看向手指。"}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"p","children":[{"type":"text","text":"于是痛定思痛，我发现问题并不出在代码层面，而是卡在内容规划和视觉设计上——我很容易在真正开始做一件事情前就想太多。比如要预先定义多少标签？如何划分分类目录？样式风格怎么统一？是否需要多语言支持？而我又特别怕麻烦——毕竟编程的目的不就是为了减少手动劳作嘛。纠结到最后往往还没动工就丧失了动力。"}]},{"type":"p","children":[{"type":"text","text":"完成比完美更重要。于是最终决定，这次以内容为主，首先要让自己能写下去，其他不重要的一律靠后。"}]},{"type":"p","children":[{"type":"text","text":"当然，在最终确定技术栈、开始写这篇文章前，还是度过了不短的一段纠结期。"}]},{"type":"p","children":[{"type":"text","text":"（而现在这已经是这篇文章的第三个版本了。）"}]},{"type":"h3","children":[{"type":"text","text":"核心动力"}]},{"type":"p","children":[{"type":"text","text":"抛开建站兴趣这个因素不谈，最根本的驱动力在于我确实需要一个内容平台。"}]},{"type":"p","children":[{"type":"text","text":"我喜欢学习，也认为自己喜欢学习。但可能是学生时代的影响，我始终没法放下\"学了就要记笔记，否则就等于没学\"这个念头。但我又不喜欢用一些笔记平台或软件，也不喜欢东一个 "},{"type":"text","text":".txt","code":true},{"type":"text","text":" 西一个 "},{"type":"text","text":".doc","code":true},{"type":"text","text":"，整理是个大麻烦。于是就懒得记笔记，也就往往难以开始学习。而学过的知识不做一个记录实在是容易引发焦虑，而这又会导致难以开展新的学习。恶性循环了属于是。"}]},{"type":"h3","children":[{"type":"text","text":"网站的内容"}]},{"type":"p","children":[{"type":"text","text":"这不是一个技术博客，虽然会写技术。"}]},{"type":"p","children":[{"type":"text","text":"这不是一个生活博客，虽然偶尔会写生活。"}]},{"type":"p","children":[{"type":"text","text":"如上所述，这只是一个我需要记录点什么的地方。"}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h2","children":[{"type":"text","text":"技术选型"}]},{"type":"p","children":[{"type":"text","text":"首要原则是一切为写作服务。先让自己能写下去，其他不重要的一律靠后。这不仅意味着需要顺手的编辑器，更要求一个能够最大限度消除包括懒惰在内的一切写作阻力的解决方案。"}]},{"type":"p","children":[{"type":"text","text":"回顾之前用 Next.js + Markdown 文档，以及 Next.js + 用作 CMS 的 Github issues 的经历后，我意识到了一个强大的 CMS 的重要性。而说到 CMS，虽说不是经验丰富，也曾经浅尝辄止过 Wordpress（PHP）和 Wagtail（Python）。"}]},{"type":"p","children":[{"type":"text","text":"但作为一个半路出家的前端程序员，对 MDX 的支持成了目前最主要的考量。再结合轻量化和成本，最终选了 TinaCMS。有瑕疵，但勉强够用。"}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"p","children":[{"type":"text","text":"接下来是前端部分。"}]},{"type":"p","children":[{"type":"text","text":"对 React 的熟悉让我本能地想选择以 React 为基础的一些解决方案。但出于对 React 近年发展方向的一些不安，加上当时接触到了 Astro，虽然难以割舍 React 生态和 UI 库，但考虑到本网站以内容优先，于是初版最终选择了 Astro。"}]},{"type":"p","children":[{"type":"text","text":"但 Astro 的高自由度意味着需要自己动手的部分也多，为了避免手写各种组件和 CSS，最终还是换回了 Next.js。也就是第二版和目前这个版本。这并不代表我有多喜欢这个框架（React 目前的问题基本上出自 Next.js 背后的公司），纯粹是 React 生态里做 SSG 没有更好的选择了。"}]},{"type":"h3","children":[{"type":"text","text":"第三版？"}]},{"type":"p","children":[{"type":"text","text":"为什么要做第三版？"}]},{"type":"p","children":[{"type":"text","text":"第三版和第二版在实现上其实差别不大。第二版其实也正常上线并持续了一段时间。最终让我放弃的原因还是——麻烦。"}]},{"type":"p","children":[{"type":"text","text":"当时正是生成式 AI 大火的时候，我在编码中也大量用到了 AI 的辅助。初版和第二版就是在 AI 的帮助下建立的。但代码越写越乱，视觉设计选择困难，复杂功能停滞不前，再加上一些现实因素，于是第二版就默默沉寂了小半年。"}]},{"type":"p","children":[{"type":"text","text":"而2026年1月的现在，AI 的代码能力更加强大，再加上第二版的经验，这次争取把之前踩过的坑都避开。"}]},{"type":"h3","children":[{"type":"text","text":"多语言"}]},{"type":"p","children":[{"type":"text","text":"网站虽然加入了多语言，但主要可能还是以中文写作为主，其他语言基本靠AI翻译（赞美 AI）。翻译质量无法保证，有空我可能会手动校对。只能说……凑合看吧。"}]},{"type":"hr","children":[{"type":"text","text":""}]},{"type":"h2","children":[{"type":"text","text":"技术栈"}]},{"type":"p","children":[{"type":"text","text":"（可能不全）"}]},{"type":"p","children":[{"type":"text","text":"赞美开源！"}]},{"type":"mdxJsxFlowElement","name":"TechStack","children":[{"type":"text","text":""}],"props":{"items":[{"name":"Next.js","description":"React 框架，静态生成","url":"https://nextjs.org/","color":"#000000","iconSlug":"nextdotjs"},{"name":"React","description":"UI 库","url":"https://react.dev/","color":"#61DAFB","iconSlug":"react"},{"name":"TypeScript","description":"类型安全","url":"https://www.typescriptlang.org/","color":"#3178C6","iconSlug":"typescript"},{"name":"TinaCMS","description":"Git-based CMS，可视化编辑","url":"https://tina.io/","color":"#EC4815","iconSlug":"tina"},{"name":"MDX","description":"Markdown + React 组件","url":"https://mdxjs.com/","color":"#1B1F24","iconSlug":"mdx"},{"name":"Mantine","description":"React 组件库","url":"https://mantine.dev/","color":"#339AF0","iconSlug":"mantine"},{"name":"CSS Modules","description":"局部作用域样式","url":"https://github.com/css-modules/css-modules","color":"#000000","iconSlug":"cssmodules"},{"name":"next-intl","description":"Next.js 国际化","url":"https://next-intl.dev/","color":"#4169E1","iconSlug":""},{"name":"Cloudflare","description":"域名，主部署，边缘网络","url":"https://www.cloudflare.com/","color":"#F38020","iconSlug":"cloudflare"},{"name":"GitHub","description":"代码管理，备份部署，CI/CD 自动化","url":"https://github.com/","color":"#181717","iconSlug":"github"},{"name":"Gemini","description":"AI 翻译","url":"https://ai.google.dev/","color":"#8E75B2","iconSlug":"googlegemini"},{"name":"pnpm","description":"包管理器","url":"https://pnpm.io/","color":"#F69220","iconSlug":"pnpm"},{"name":"Claude","description":"最最重要的大功臣","url":"https://claude.ai/","color":"#D97757","iconSlug":"claude"}]}}]},"background":null,"spacing":null}],"pageLayout":{"__typename":"PagesPageLayout","flat":null,"containerWidth":"71.25rem","customContainerWidth":null,"contentMaxWidth":"60rem","customContentMaxWidth":null,"contentOffset":null}}},"errors":null,"query":"$10","variables":{"relativePath":"zh/about.mdx"}},"isFallback":false,"share":"$L11"}]
+12:I[27309,["5760","static/chunks/d984392d-05d6a46765eb1805.js","8558","static/chunks/11cd74dc-c34ec26a5256226d.js","3630","static/chunks/b807ed94-bef33398140680dc.js","2816","static/chunks/2a53158f-e8e38d59fbd75231.js","9848","static/chunks/3c270457-1f3f90138aa21e88.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8078","static/chunks/8078-837792b87d5b8ca4.js","9882","static/chunks/9882-f43994fbd00ac94c.js","4054","static/chunks/4054-9e11895b85feb255.js","1352","static/chunks/app/%5Blocale%5D/%5B...slugs%5D/page-4a3400dbf5cf2880.js"],"ShareBar"]
+11:["$","$L12",null,{"url":"https://re-jeunesse.org/zh/about","title":"关于本站"}]
+13:I[82931,[],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"关于本站 | 再：青年"}],["$","link","1",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","link","2",{"rel":"canonical","href":"https://re-jeunesse.org/zh/about/"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"https://re-jeunesse.org/en/about/"}],["$","link","4",{"rel":"alternate","hrefLang":"ja","href":"https://re-jeunesse.org/ja/about/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh","href":"https://re-jeunesse.org/zh/about/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://re-jeunesse.org/zh/about/"}],["$","meta","7",{"property":"og:title","content":"关于本站"}],["$","meta","8",{"property":"og:site_name","content":"再：青年"}],["$","meta","9",{"property":"og:locale","content":"zh_CN"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"关于本站"}],["$","link","13",{"rel":"icon","href":"/icon.svg?ce7055fa98cb49d8","type":"image/svg+xml","sizes":"any"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?2d1abb9690dbf0e7","type":"image/png","sizes":"180x180"}],["$","$L13","15",{}]]
+:HL["/fonts/_subset/noto-serif-sc.css","style"]
+:HL["/fonts/_subset/noto-sans-sc.css","style"]
+14:I[49258,["5760","static/chunks/d984392d-05d6a46765eb1805.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8322","static/chunks/8322-3ff325f8905ebffa.js","9882","static/chunks/9882-f43994fbd00ac94c.js","8450","static/chunks/app/%5Blocale%5D/layout-f1bdadf358c96cfd.js"],"ColorSchemeScript"]
+15:["$","style",null,{"children":"[data-splash]{display:none}"}]
+16:[["$","link","/fonts/_subset/noto-serif-sc.css",{"rel":"stylesheet","href":"/fonts/_subset/noto-serif-sc.css"}],["$","link","/fonts/_subset/noto-sans-sc.css",{"rel":"stylesheet","href":"/fonts/_subset/noto-sans-sc.css"}]]
+4:["$","html",null,{"lang":"zh","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"cjk-noto-serif-sc cjk-noto-sans-sc __variable_7fb7ee","children":[["$","head",null,{"children":[["$","$L14",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem(\"re-jeunesse:splash-seen\"))document.documentElement.setAttribute(\"data-splash-seen\",\"\");else sessionStorage.setItem(\"re-jeunesse:splash-seen\",\"1\")}catch(e){}"}}],["$","noscript",null,{"children":"$15"}],[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"[\"/fonts/_subset/noto-serif-sc.css\",\"/fonts/_subset/noto-sans-sc.css\"].forEach(function(h){var l=document.createElement(\"link\");l.rel=\"stylesheet\";l.href=h;document.head.appendChild(l);});"}}],["$","noscript",null,{"children":"$16"}]],["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/zh/feed.xml"}]]}],["$","body",null,{"children":"$L17"}]]}]
+18:I[37604,["5760","static/chunks/d984392d-05d6a46765eb1805.js","8558","static/chunks/11cd74dc-c34ec26a5256226d.js","3630","static/chunks/b807ed94-bef33398140680dc.js","2816","static/chunks/2a53158f-e8e38d59fbd75231.js","9848","static/chunks/3c270457-1f3f90138aa21e88.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8078","static/chunks/8078-837792b87d5b8ca4.js","9856","static/chunks/9856-11da840774e3ddde.js","6957","static/chunks/6957-fe63bc19c431fca8.js","9882","static/chunks/9882-f43994fbd00ac94c.js","4054","static/chunks/4054-9e11895b85feb255.js","465","static/chunks/app/%5Blocale%5D/page-05299b9f2180bb88.js"],"default"]
+19:I[51177,["5760","static/chunks/d984392d-05d6a46765eb1805.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8322","static/chunks/8322-3ff325f8905ebffa.js","9882","static/chunks/9882-f43994fbd00ac94c.js","8450","static/chunks/app/%5Blocale%5D/layout-f1bdadf358c96cfd.js"],"AppProvider"]
+17:["$","$L18",null,{"formats":"$undefined","locale":"zh","messages":{"share":{"label":"分享","webShare":"分享…","copy":"复制链接","copied":"已复制","platforms":{"x":"分享到 X","facebook":"分享到 Facebook","reddit":"分享到 Reddit","line":"分享到 LINE","weibo":"分享到微博","qzone":"分享到 QQ空间","douban":"分享到豆瓣","email":"通过邮件分享"}},"meta":{"siteName":"再：青年","siteDescription":"解放自己。解放世界。","noteSeriesDescription":"《{series}》系列笔记"},"home":{"intro":{"greeting":"{greeting}，我是 {name} 👋","greetings":{"default":"嗨","morning":{"hello":["早上好","早安"],"line":["醒了","又是一天"]},"noon":{"hello":["午安","中午好"],"line":["吃了吗"]},"afternoon":{"hello":["下午好"],"line":["犯困的点","还撑着"]},"evening":{"hello":["晚上好"],"line":["忙完了","夜色刚好"]},"night":{"hello":[],"line":["夜深了","还没睡","夜还长"]}},"more":"关于我"},"hero":{"reshuffle":"换一批"},"recent":{"heading":"最近更新","updatedNotes":"{count, plural, other {更新了 # 篇}}","chapter":"第 {order} 篇","viewSeries":"查看系列「{title}」"},"featured":{"heading":"精选","drag":"↔ 拖动浏览"},"entries":{"heading":"去逛逛","go":"进入","blog":{"title":"博客","description":"随笔、思考与技术札记"},"notes":{"title":"笔记","description":"成体系的阅读 / 学习系列"},"projects":{"title":"项目","description":"做过的东西与开源作品"}}},"pages":{"404":{"title":"页面未找到 | 再：青年","description":"抱歉，您访问的页面不存在或已被移除"},"blog":{"title":"博客","description":"记录与分享","allPosts":"所有文章","recentPosts":"最近文章","featuredPosts":"精选文章","byTag":"标签: {tag}","bySeries":"系列: {series}","noPosts":"暂无文章","postsCount":"{count, plural, one {# 篇文章} other {# 篇文章}}","series":{"title":"系列文章","viewAll":"查看完整系列"}},"notes":{"title":"笔记","description":"学习记录","allNotes":"所有笔记","allSeries":"所有系列","seriesOverview":"系列概览","noNotes":"暂无笔记","notesCount":"{count, plural, one {# 篇笔记} other {# 篇笔记}}","seriesCount":"{count, plural, one {# 个系列} other {# 个系列}}","chapters":"共 {count, plural, one {# 篇笔记} other {# 篇笔记}}","progress":{"label":"学习进度","not-started":"未开始","in-progress":"进行中","completed":"已完成","on-hold":"暂停"},"source":{"title":"学习资源","book":"书籍","video":"视频","by":"{creator}","platform":"平台: {platform}","moreInfo":"更多信息"}},"projects":{"title":"项目","description":"作品集","allProjects":"所有项目","noProjects":"暂无项目","projectsCount":"{count, plural, one {# 个项目} other {# 个项目}}","techStack":"技术栈","viewProject":"查看项目","viewSource":"查看源码","status":{"label":"状态","active":"积极维护","maintaining":"维护中","todo":"计划中","archived":"已归档"},"date":"项目时间","linkType":{"website":"网站","github":"GitHub","gitlab":"GitLab","gitee":"Gitee","bitbucket":"Bitbucket","npm":"npm","docs":"文档","other":"链接"}},"about":{"title":"关于本站"},"portfolio":{"title":"关于我","now":"最近在忙","bio":"我是谁","background":{"education":"教育背景","experience":"工作经历"},"expertise":{"skills":"我会","interests":"我喜欢","languages":"我会说"},"social":"关注我"},"diary":{"title":"日记","subtitle":"私人记录","allEntries":"所有日记","noEntries":"暂无日记","diaryCount":"{count, plural, one {# 篇日记} other {# 篇日记}}","mood":{"label":"心情","great":"很好","good":"不错","okay":"一般","bad":"不好","terrible":"很差"},"calendar":{"title":"日历视图","today":"今天","hasEntry":"有日记"}}},"common":{"readingTime":"{minutes, plural, one {# 分钟阅读} other {# 分钟阅读}}","updatedAt":"更新于","private":"私密","types":{"blog":"博客","notes":"笔记","projects":"项目"}},"layout":{"languageSwitch":"切换语言","menu":"菜单","closeMenu":"关闭菜单"},"components":{"AdjacentPagination":{"prev":"上一篇","next":"下一篇"},"FallbackIndicator":{"title":"语言回退","message":"此页面暂无{requested}版本，正在显示{fallback}版本"},"ScrollToTop":{"label":"回到顶部"},"headingLinkButton":{"label":"复制链接","copiedLabel":"已复制","failedLabel":"复制失败","ariaLabel":"复制当前标题链接","copiedAriaLabel":"当前标题链接已复制"},"toc":{"title":"目录","expandAll":"全部展开","collapseAll":"全部折叠"},"breadcrumbs":{"label":"面包屑导航","home":"首页"},"noteMeta":{"published":"{time}发布","updated":"{time}更新"},"seriesNav":{"title":"系列章节","position":"第 {n} 章 / 共 {total} 章","seriesHome":"系列首页","expand":"展开","collapse":"收起","showAll":"展开全部 {total} 章","current":"正在阅读"},"tagCloud":{"title":"标签云","postCount":"{count, plural, one {# 篇文章} other {# 篇文章}}"}},"tags":{"title":"标签","allTags":"所有标签","postsWithTag":"包含「{tag}」的内容","noTags":"暂无标签"},"search":{"title":"搜索","placeholder":"搜索文章、笔记...","results":"找到 {count, plural, one {# 个结果} other {# 个结果}}","noResults":"未找到相关内容","searching":"搜索中...","filterBy":"筛选","filters":{"all":"全部","blog":"博客","notes":"笔记","projects":"项目"}}},"now":"$undefined","timeZone":"UTC","children":["$","$L19",null,{"globalConfig":{"_sys":{"filename":"global.zh","basename":"global.zh.json","hasReferences":false,"breadcrumbs":["global.zh"],"path":"content/global/global.zh.json","relativePath":"global.zh.json","extension":".json"},"id":"content/global/global.zh.json","__typename":"Global","locale":"zh","createdAt":"2026-01-07T16:05:34.692Z","updatedAt":"2026-02-01T08:57:45.860Z","siteName":"再：青年","siteDescription":null,"logoConfig":{"__typename":"GlobalLogoConfig","type":"icon","iconConfig":null,"image":null,"text":"再：青年"},"favicon":null,"ogImage":null,"header":{"__typename":"GlobalHeader","showThemeToggle":null,"nav":[{"__typename":"GlobalHeaderNav","label":"博客","href":"/blog","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"笔记","href":"/notes","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"项目","href":"/projects","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"日记","href":"/diary","external":false,"group":"","isPrivate":true},{"__typename":"GlobalHeaderNav","label":"关于我","href":"/portfolio","external":false,"group":"关于","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"关于本站","href":"/about","external":false,"group":"关于","isPrivate":false}],"height":"6.5rem","breakpoints":null,"background":null},"footer":{"__typename":"GlobalFooter","copyrightText":"© 2026 JM. All rights reserved.","authorForSocial":null,"nav":[{"__typename":"GlobalFooterNav","label":"博客","href":"/blog","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"笔记","href":"/notes","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"项目","href":"/projects","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"关于我","href":"/portfolio","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"关于本站","href":"/about","external":false,"group":""}],"height":"11rem","breakpoints":null,"background":null},"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":{"__typename":"GlobalThemeFontFamily","heading":"notoSerifSC","body":"notoSansSC"},"colorScheme":"light"},"i18n":{"__typename":"GlobalI18n","defaultLocale":"zh","supportedLocales":["zh","en","ja"]},"reading":{"__typename":"GlobalReading","showTopToc":true,"showTopTocTitle":true,"topTocCollapsedByDefault":false,"tocMaxHeadingLevel":"h3","showSideToc":true,"sideTocMaxHeadingLevel":"h3","enableHeadingCollapse":true,"headingCollapseLevels":["h2","h3"]},"analytics":null,"rss":{"__typename":"GlobalRss","enabled":true},"comments":null},"shouldIncludePrivate":false,"children":["$L1a","$L1b"]}]}]
+1c:I[62044,["5760","static/chunks/d984392d-05d6a46765eb1805.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8322","static/chunks/8322-3ff325f8905ebffa.js","9882","static/chunks/9882-f43994fbd00ac94c.js","8450","static/chunks/app/%5Blocale%5D/layout-f1bdadf358c96cfd.js"],"Splash"]
+1d:I[13871,["5760","static/chunks/d984392d-05d6a46765eb1805.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8322","static/chunks/8322-3ff325f8905ebffa.js","9882","static/chunks/9882-f43994fbd00ac94c.js","8450","static/chunks/app/%5Blocale%5D/layout-f1bdadf358c96cfd.js"],"DatesProvider"]
+1a:["$","$L1c",null,{}]
+1b:["$","$L1d",null,{"settings":{"locale":"zh"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]

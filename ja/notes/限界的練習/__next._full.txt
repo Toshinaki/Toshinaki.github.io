@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+2:I[55455,[],""]
+3:I[55811,[],""]
+6:I[1878,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[1878,[],"ViewportBoundary"]
+c:I[1878,[],"MetadataBoundary"]
+e:I[7621,[],"default",1]
+:HC["/",""]
+:HL["/_next/static/css/cb1295b7574760d2.css","style"]
+:HL["/_next/static/css/2062977d3f3687e6.css","style"]
+:HL["/_next/static/css/7ae3229a4818b50e.css","style"]
+:HL["/_next/static/css/6f08a9baad671f96.css","style"]
+:HL["/_next/static/css/5e0e3e9b5491d034.css","style"]
+9:X
+0:{"P":null,"c":["","ja","notes","%E9%99%90%E7%95%8C%E7%9A%84%E7%B7%B4%E7%BF%92",""],"q":"","i":false,"f":[[["",{"children":[["locale","ja","d",["_not-found","_global-error","apple-icon.png","icon.svg","manifest.webmanifest","robots.txt","s","sitemap.xml"]],{"children":["notes",{"children":[["series","%E9%99%90%E7%95%8C%E7%9A%84%E7%B7%B4%E7%BF%92","d",["page"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cb1295b7574760d2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2062977d3f3687e6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/7ae3229a4818b50e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/6f08a9baad671f96.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/5e0e3e9b5491d034.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,"$9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"yCfAvnwZTwV_TIqCwMyrH"}
+f:I[49258,["5760","static/chunks/d984392d-05d6a46765eb1805.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8322","static/chunks/8322-3ff325f8905ebffa.js","9882","static/chunks/9882-f43994fbd00ac94c.js","8450","static/chunks/app/%5Blocale%5D/layout-f1bdadf358c96cfd.js"],"ColorSchemeScript"]
+:HL["/fonts/_subset/noto-serif-jp.css","style"]
+:HL["/fonts/_subset/noto-sans-jp.css","style"]
+9:C
+10:["$","style",null,{"children":"[data-splash]{display:none}"}]
+11:[["$","link","/fonts/_subset/noto-serif-jp.css",{"rel":"stylesheet","href":"/fonts/_subset/noto-serif-jp.css"}],["$","link","/fonts/_subset/noto-sans-jp.css",{"rel":"stylesheet","href":"/fonts/_subset/noto-sans-jp.css"}]]
+4:["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"data-mantine-color-scheme":"light","className":"cjk-noto-serif-jp cjk-noto-sans-jp __variable_7fb7ee","children":[["$","head",null,{"children":[["$","$Lf",null,{}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem(\"re-jeunesse:splash-seen\"))document.documentElement.setAttribute(\"data-splash-seen\",\"\");else sessionStorage.setItem(\"re-jeunesse:splash-seen\",\"1\")}catch(e){}"}}],["$","noscript",null,{"children":"$10"}],[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"[\"/fonts/_subset/noto-serif-jp.css\",\"/fonts/_subset/noto-sans-jp.css\"].forEach(function(h){var l=document.createElement(\"link\");l.rel=\"stylesheet\";l.href=h;document.head.appendChild(l);});"}}],["$","noscript",null,{"children":"$11"}]],["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/ja/feed.xml"}]]}],["$","body",null,{"children":"$L12"}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:I[37604,["5760","static/chunks/d984392d-05d6a46765eb1805.js","8558","static/chunks/11cd74dc-c34ec26a5256226d.js","3630","static/chunks/b807ed94-bef33398140680dc.js","2816","static/chunks/2a53158f-e8e38d59fbd75231.js","9848","static/chunks/3c270457-1f3f90138aa21e88.js","8784","static/chunks/fc2bf299-d0c4a33ec35dac2b.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8078","static/chunks/8078-837792b87d5b8ca4.js","9856","static/chunks/9856-11da840774e3ddde.js","1672","static/chunks/1672-f42daf5cb9b46dec.js","9882","static/chunks/9882-f43994fbd00ac94c.js","4054","static/chunks/4054-9e11895b85feb255.js","9676","static/chunks/9676-99367e29eaee0900.js","7215","static/chunks/7215-5803d79bb7353a30.js","3947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-0504df0c0667aa8f.js"],"default"]
+12:["$","$L13",null,{"formats":"$undefined","locale":"ja","messages":{"share":{"label":"シェア","webShare":"シェア…","copy":"リンクをコピー","copied":"コピーしました","platforms":{"x":"X でシェア","facebook":"Facebook でシェア","reddit":"Reddit でシェア","line":"LINE でシェア","weibo":"Weibo でシェア","qzone":"Qzone でシェア","douban":"Douban でシェア","email":"メールでシェア"}},"meta":{"siteName":"再：青年","siteDescription":"自分を解放せよ。世界を解放せよ。","noteSeriesDescription":"「{series}」シリーズのノート"},"home":{"intro":{"greeting":"{greeting}、{name} です 👋","greetings":{"default":"こんにちは","morning":{"hello":["おはよう","おはようございます"],"line":["起きた","また一日"]},"noon":{"hello":["こんにちは","やあ"],"line":["お昼ですね"]},"afternoon":{"hello":["こんにちは"],"line":["眠くなる時間","まだ頑張ってる"]},"evening":{"hello":["こんばんは"],"line":["一日お疲れ","いい夜です"]},"night":{"hello":[],"line":["夜更けです","まだ起きてる","夜は長い"]}},"more":"私について"},"hero":{"reshuffle":"シャッフル"},"recent":{"heading":"最近の更新","updatedNotes":"{count, plural, other {#件を更新}}","chapter":"第{order}回","viewSeries":"シリーズ「{title}」を見る"},"featured":{"heading":"おすすめ","drag":"↔ ドラッグで移動"},"entries":{"heading":"見てまわる","go":"入る","blog":{"title":"ブログ","description":"随筆・思考・技術メモ"},"notes":{"title":"ノート","description":"体系的な読書・学習シリーズ"},"projects":{"title":"プロジェクト","description":"作ったもの・オープンソース"}}},"pages":{"404":{"title":"ページが見つかりません | {siteName}","description":"お探しのページは存在しないか、移動した可能性があります。"},"blog":{"title":"ブログ","description":"記録と共有","allPosts":"すべての記事","recentPosts":"最近の記事","featuredPosts":"おすすめの記事","byTag":"タグ: {tag}","bySeries":"シリーズ: {series}","noPosts":"記事がありません","postsCount":"{count, plural, one {# 記事} other {# 記事}}","series":{"title":"連載シリーズ","viewAll":"シリーズ全体を見る"}},"notes":{"title":"ノート","description":"学習の記録","allNotes":"すべてのノート","allSeries":"すべてのシリーズ","seriesOverview":"シリーズ概要","noNotes":"ノートがありません","notesCount":"{count, plural, one {# ノート} other {# ノート}}","seriesCount":"{count, plural, one {# シリーズ} other {# シリーズ}}","chapters":"全 {count, plural, one {# 章} other {# 章}}","progress":{"label":"学習状況","not-started":"未着手","in-progress":"学習中","completed":"完了","on-hold":"保留"},"source":{"title":"学習リソース","book":"書籍","video":"動画","by":"{creator}","platform":"プラットフォーム: {platform}","moreInfo":"詳細情報"}},"projects":{"title":"プロジェクト","description":"制作物・ポートフォリオ","allProjects":"すべてのプロジェクト","noProjects":"プロジェクトがありません","projectsCount":"{count, plural, one {# プロジェクト} other {# プロジェクト}}","techStack":"使用技術","viewProject":"プロジェクトを見る","viewSource":"ソースコードを見る","status":{"label":"ステータス","active":"積極的にメンテナンス中","maintaining":"メンテナンス中","todo":"予定","archived":"アーカイブ済み"},"date":"日付","linkType":{"website":"ウェブサイト","github":"GitHub","gitlab":"GitLab","gitee":"Gitee","bitbucket":"Bitbucket","npm":"npm","docs":"ドキュメント","other":"リンク"}},"about":{"title":"このサイトについて"},"portfolio":{"title":"私について","now":"近況","bio":"私という人間","background":{"education":"学歴","experience":"職歴"},"expertise":{"skills":"スキル","interests":"趣味・関心","languages":"言語"},"social":"フォローする"},"diary":{"title":"日記","subtitle":"私的な記録","allEntries":"すべての日記","noEntries":"日記がありません","diaryCount":"{count, plural, one {# 篇の日記} other {# 篇の日記}}","mood":{"label":"気分","great":"最高","good":"良い","okay":"普通","bad":"悪い","terrible":"最悪"},"calendar":{"title":"カレンダー表示","today":"今日","hasEntry":"日記あり"}}},"common":{"readingTime":"{minutes, plural, one {読了まで約 # 分} other {読了まで約 # 分}}","updatedAt":"更新日","private":"非公開","types":{"blog":"ブログ","notes":"ノート","projects":"プロジェクト"}},"layout":{"languageSwitch":"言語切り替え","menu":"メニュー","closeMenu":"メニューを閉じる"},"components":{"AdjacentPagination":{"prev":"前の記事","next":"次の記事"},"FallbackIndicator":{"title":"言語フォールバック","message":"このページは{requested}版が利用できないため、{fallback}版を表示しています。"},"ScrollToTop":{"label":"トップへ戻る"},"headingLinkButton":{"label":"リンクをコピー","copiedLabel":"コピーしました","failedLabel":"コピーに失敗しました","ariaLabel":"この見出しへのリンクをコピー","copiedAriaLabel":"この見出しへのリンクをコピーしました"},"toc":{"title":"目次","expandAll":"すべて展開","collapseAll":"すべて折りたたむ"},"breadcrumbs":{"label":"パンくずリスト","home":"ホーム"},"noteMeta":{"published":"{time}に公開","updated":"{time}に更新"},"seriesNav":{"title":"シリーズの章","position":"第 {n} 章 / 全 {total} 章","seriesHome":"シリーズトップ","expand":"開く","collapse":"閉じる","showAll":"全 {total} 章を表示","current":"閲覧中"},"tagCloud":{"title":"タグクラウド","postCount":"{count, plural, one {# 記事} other {# 記事}}"}},"tags":{"title":"タグ","allTags":"すべてのタグ","postsWithTag":"「{tag}」タグの付いたコンテンツ","noTags":"タグがありません"},"search":{"title":"検索","placeholder":"記事やノートを検索...","results":"{count, plural, one {# 件見つかりました} other {# 件見つかりました}}","noResults":"見つかりませんでした","searching":"検索中...","filterBy":"絞り込み","filters":{"all":"すべて","blog":"ブログ","notes":"ノート","projects":"プロジェクト"}}},"now":"$undefined","timeZone":"UTC","children":"$L14"}]
+15:I[51177,["5760","static/chunks/d984392d-05d6a46765eb1805.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8322","static/chunks/8322-3ff325f8905ebffa.js","9882","static/chunks/9882-f43994fbd00ac94c.js","8450","static/chunks/app/%5Blocale%5D/layout-f1bdadf358c96cfd.js"],"AppProvider"]
+16:I[62044,["5760","static/chunks/d984392d-05d6a46765eb1805.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8322","static/chunks/8322-3ff325f8905ebffa.js","9882","static/chunks/9882-f43994fbd00ac94c.js","8450","static/chunks/app/%5Blocale%5D/layout-f1bdadf358c96cfd.js"],"Splash"]
+17:I[13871,["5760","static/chunks/d984392d-05d6a46765eb1805.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8322","static/chunks/8322-3ff325f8905ebffa.js","9882","static/chunks/9882-f43994fbd00ac94c.js","8450","static/chunks/app/%5Blocale%5D/layout-f1bdadf358c96cfd.js"],"DatesProvider"]
+14:["$","$L15",null,{"globalConfig":{"_sys":{"filename":"global.ja","basename":"global.ja.json","hasReferences":false,"breadcrumbs":["global.ja"],"path":"content/global/global.ja.json","relativePath":"global.ja.json","extension":".json"},"id":"content/global/global.ja.json","__typename":"Global","locale":"ja","createdAt":"2026-01-07T16:05:34.692Z","updatedAt":"2026-01-07T16:08:32.942Z","siteName":"再：青年","siteDescription":null,"logoConfig":{"__typename":"GlobalLogoConfig","type":"icon","iconConfig":null,"image":null,"text":"再：青年"},"favicon":null,"ogImage":null,"header":{"__typename":"GlobalHeader","showThemeToggle":null,"nav":[{"__typename":"GlobalHeaderNav","label":"ブログ","href":"/blog","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"ノート","href":"/notes","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"プロジェクト","href":"/projects","external":false,"group":"","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"日記","href":"/diary","external":false,"group":"","isPrivate":true},{"__typename":"GlobalHeaderNav","label":"私について","href":"/portfolio","external":false,"group":"概要","isPrivate":false},{"__typename":"GlobalHeaderNav","label":"当サイトについて","href":"/about","external":false,"group":"概要","isPrivate":false}],"height":"6.5rem","breakpoints":null,"background":null},"footer":{"__typename":"GlobalFooter","copyrightText":"© 2026 JM. All rights reserved.","authorForSocial":null,"nav":[{"__typename":"GlobalFooterNav","label":"ブログ","href":"/blog","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"ノート","href":"/notes","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"プロジェクト","href":"/projects","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"私について","href":"/portfolio","external":false,"group":""},{"__typename":"GlobalFooterNav","label":"当サイトについて","href":"/about","external":false,"group":""}],"height":"11rem","breakpoints":null,"background":null},"theme":{"__typename":"GlobalTheme","primaryColor":"red","fontFamily":{"__typename":"GlobalThemeFontFamily","heading":"notoSerifJP","body":"notoSansJP"},"colorScheme":"light"},"i18n":{"__typename":"GlobalI18n","defaultLocale":"zh","supportedLocales":["zh","en","ja"]},"reading":{"__typename":"GlobalReading","showTopToc":true,"showTopTocTitle":true,"topTocCollapsedByDefault":false,"tocMaxHeadingLevel":"h3","showSideToc":true,"sideTocMaxHeadingLevel":"h3","enableHeadingCollapse":true,"headingCollapseLevels":["h2","h3"]},"analytics":null,"rss":{"__typename":"GlobalRss","enabled":true},"comments":null},"shouldIncludePrivate":false,"children":[["$","$L16",null,{}],["$","$L17",null,{"settings":{"locale":"ja"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]
+18:I[69425,["5760","static/chunks/d984392d-05d6a46765eb1805.js","8558","static/chunks/11cd74dc-c34ec26a5256226d.js","3630","static/chunks/b807ed94-bef33398140680dc.js","2816","static/chunks/2a53158f-e8e38d59fbd75231.js","9848","static/chunks/3c270457-1f3f90138aa21e88.js","8784","static/chunks/fc2bf299-d0c4a33ec35dac2b.js","7604","static/chunks/7604-46c472b455d8325b.js","3289","static/chunks/3289-d659a1ed75f7066a.js","8078","static/chunks/8078-837792b87d5b8ca4.js","9856","static/chunks/9856-11da840774e3ddde.js","1672","static/chunks/1672-f42daf5cb9b46dec.js","9882","static/chunks/9882-f43994fbd00ac94c.js","4054","static/chunks/4054-9e11895b85feb255.js","9676","static/chunks/9676-99367e29eaee0900.js","7215","static/chunks/7215-5803d79bb7353a30.js","3947","static/chunks/app/%5Blocale%5D/notes/%5Bseries%5D/page-0504df0c0667aa8f.js"],"SeriesRenderer"]
+19:Ta10,
+    query note($relativePath: String!) {
+  note(relativePath: $relativePath) {
+    ... on Document {
+      _sys {
+        filename
+        basename
+        hasReferences
+        breadcrumbs
+        path
+        relativePath
+        extension
+      }
+      id
+    }
+    ...NoteParts
+  }
+}
+    
+    fragment NoteParts on Note {
+  __typename
+  ... on NoteSeries {
+    createdAt
+    updatedAt
+    canonicalId
+    seriesName
+    title
+    description
+    showOrder
+    private
+    featured
+    progress
+    coverImage
+    tags {
+      __typename
+      tag {
+        ... on Tag {
+          __typename
+          createdAt
+          updatedAt
+          name
+          label
+          description
+          badgeConfig {
+            __typename
+            color
+            icon
+            iconPosition
+            variant
+            size
+            customSize
+            radius
+            customRadius
+          }
+        }
+        ... on Document {
+          _sys {
+            filename
+            basename
+            hasReferences
+            breadcrumbs
+            path
+            relativePath
+            extension
+          }
+          id
+        }
+      }
+    }
+    sources {
+      __typename
+      type
+      title
+      creator
+      platform
+      url
+      coverImage
+      notes
+    }
+    body
+    pageLayout {
+      __typename
+      flat
+      containerWidth
+      customContainerWidth
+      contentMaxWidth
+      customContentMaxWidth
+      contentOffset
+    }
+  }
+  ... on NoteNote {
+    createdAt
+    updatedAt
+    author {
+      ... on Author {
+        __typename
+        createdAt
+        updatedAt
+        name
+        pronouns
+        avatar
+        avatarAlt
+        tagline
+        jobTitle
+        company
+        intro
+        now
+        about
+        skills {
+          __typename
+          group
+          items
+        }
+        interests {
+          __typename
+          group
+          items
+        }
+        email
+        social {
+          __typename
+          platform
+          username
+          url
+        }
+      }
+      ... on Document {
+        _sys {
+          filename
+          basename
+          hasReferences
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        id
+      }
+    }
+    canonicalId
+    seriesName
+    title
+    order
+    body
+    reading {
+      __typename
+      showTopToc
+      showTopTocTitle
+      topTocCollapsedByDefault
+      tocMaxHeadingLevel
+      showSideToc
+      sideTocMaxHeadingLevel
+      enableHeadingCollapse
+      headingCollapseLevels
+    }
+  }
+}
+    5:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ノート\",\"item\":\"https://re-jeunesse.org/ja/notes/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"『限界的練習』読書ノート\",\"item\":\"https://re-jeunesse.org/ja/notes/%E9%99%90%E7%95%8C%E7%9A%84%E7%B7%B4%E7%BF%92/\"}]}"}}],["$","$L18",null,{"fetchResult":{"data":{"note":{"_sys":{"filename":"index","basename":"index.mdx","hasReferences":false,"breadcrumbs":["ja","限界的練習","index"],"path":"content/notes/ja/限界的練習/index.mdx","relativePath":"ja/限界的練習/index.mdx","extension":".mdx"},"id":"content/notes/ja/限界的練習/index.mdx","__typename":"NoteSeries","createdAt":"2026-01-23T03:32:35.713Z","updatedAt":"2026-07-12T17:29:45.541Z","canonicalId":"peak-secrets-from-the-new-science-of-expertise","seriesName":"限界的練習","title":"『限界的練習』読書ノート","description":null,"showOrder":false,"private":null,"featured":null,"progress":"not-started","coverImage":"/uploads/notes/covers/限界的練習.avif","tags":null,"sources":[{"__typename":"NoteSeriesSources","type":"book","title":"超一流になるのは才能か努力か？","creator":"[米] アンダース・エリクソン（Anders Ericsson） / ロバート・プール（Robert Pool）","platform":null,"url":"https://book.douban.com/subject/26895993/","coverImage":"/uploads/notes/covers/限界的練習.avif","notes":{"type":"root","children":[]}}],"body":{"type":"root","children":[]},"pageLayout":null}},"errors":null,"query":"$19","variables":{"relativePath":"ja/限界的練習/index.mdx"}},"isFallback":false,"notes":[{"_sys":{"filename":"卓越した成果を出すために","basename":"卓越した成果を出すために.mdx","hasReferences":null,"breadcrumbs":["ja","限界的練習","卓越した成果を出すために"],"path":"content/notes/ja/限界的練習/卓越した成果を出すために.mdx","relativePath":"ja/限界的練習/卓越した成果を出すために.mdx","extension":".mdx"},"id":"content/notes/ja/限界的練習/卓越した成果を出すために.mdx","__typename":"NoteNote","createdAt":"2026-01-24T02:58:59.838Z","updatedAt":"2026-01-25T04:38:27.113Z","author":{"__typename":"Author","createdAt":"2026-01-08T16:27:13.341Z","updatedAt":"2026-10-03T10:13:05.593Z","name":"Toshinaki","pronouns":"♂","avatar":"/uploads/authors/avatars/ChatGPT-Image-Jun-23,-2026,-06_02_44-PM.png","avatarAlt":"Toshinaki","tagline":["創造者","生涯学習","デジタルノマド（目標）"],"jobTitle":"プログラマー（フロント中心、バックエンド勉強中）","company":"Stockmark Inc.","intro":"いい年の独身男。投資・資産運用は初心者。プログラミングは趣味——「作る」ことが好きで、コードは低コストで無公害な制作手段だから。そして仕事でもある。今はリモートワーク、目標はデジタルノマド。\nこれからはゲームを作りたいし、3Dプリンターも触ってみたい。\n運動不足なので、自分に無理やり自転車を漕がせている——もちろん自転車そのものも好きだけど。痩せすぎに見えないよう、軽く筋トレも。辛いものが好き、パクチーも好き。ホラー映画も好き。\n学ぶのが好きで、役に立つものも立たないものも、いろんなスキルを。\n文学少女が好き。\n「逆・哲学的自殺」から抜け出そうともがいている最中。","now":{"type":"root","children":[{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"Claude、ほんとに最高🤤。これまで進めていたいくつかのプロジェクト（このサイト、ローカルのボードゲームプラットフォーム）はほぼ片付いて、ついでに長いこと放置していた小さなツール（動画ダウンローダーなど）もちょっと更新した。いろいろな制約で止めていたツールも、また続きを作れるようになった。前は勝手に先走るところがあったけど、Opus 5.5 からはそれもほとんどなくなったみたいだ。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"投資のほうは、2か月ほど前に家賃分くらい稼いで調子に乗った。そのあと銀に手を出したら、ずっと含み損。いま損切りすると、前の利益が吹き飛ぶうえに持ち出しになる。10月に少しでも損を減らすチャンスがあるか、様子を見るつもり。"}]}]}]}]},"about":{"type":"root","children":[{"type":"p","children":[{"type":"text","text":"意味を渇望しながら、その意味を信じてはいない。"}]},{"type":"p","children":[{"type":"text","text":"他人の目に、俺はおそらくかなり理性的な人間として映る——自分でもそう思っていた。けれど最近になってようやく気づいた、というより、ようやく直視する気になったのだ。心の奥には、ずっともう一人のひどく感情的な自分が、底色として在り続けていた。たぶん、この理性と感性の長きにわたる争いこそが、今の俺を形づくってきたのだろう。"}]},{"type":"h5","children":[{"type":"text","text":"苦しむシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"仏は、人に八苦ありと説く。生・老・病・死、それは天の定めた半分であり、人の意志ではどうにもならず、誰一人逃れられない。もう半分——求不得、愛別離、怨憎会、そしてあの「五陰熾盛」——は、すべて人の心から生まれる。感性ゆえに、俺はあまりにたやすく心を動かされ、それゆえあまりにたやすく傷つく。世は無常、人生は意のままにならぬことが十のうち八九。こうして苦しみは、影のように付きまとう。"}]},{"type":"p","children":[{"type":"text","text":"少しずつ、それに対処するすべを編み出してきた。気を紛らわすこと、これは意識的にずっと試みてきたもの。「逆・哲学的自殺」、これは無意識のうちに、ずっとやってきたもの。"}]},{"type":"p","children":[{"type":"text","text":"この歳になって振り返ると、理性はおそらく、生まれつき備わったものではない。むしろ一つの選択なのだ——感性に、そして感性の生む苦しみに対抗するために、俺は自分を理性的に保つことを選んだ。正直に言えば、効き目はさほどよくない。"}]},{"type":"p","children":[{"type":"text","text":"カミュは言う。「不条理」は、「意味を求める人間」と「沈黙する世界という現実」との衝突から生まれる、と。いかなる意味も与えてくれない宇宙を前にして、人は——物理的に自殺し、苦しみを根元から断つか。それは臆病な妥協だ。あるいは「哲学的自殺」、信仰（信仰への飛躍）に身を投じて人為的に意味を与えるか。それは理性への裏切りだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は気を紛らわそうとした。役に立つものも立たないものも、さまざまな技能を学んだ。手仕事が好きだ。折り紙が好きだ。コードを書くのが好きだ。「作る」ことが好きなのだ——こういう、目標のはっきりしたことが。一本の明快な道を一歩ずつ進んでいるとき、俺はそこへ完全に没入できる。そのとき「自分」は消え去り、苦しみの感覚も、しばし忘れていられる。"}]},{"type":"p","children":[{"type":"text","text":"けれど忘却は束の間で、気晴らしもまた一時のものにすぎない。"}]},{"type":"p","children":[{"type":"text","text":"目をそらすことは、解決ではない。そこで俺は、逆向きの「哲学的自殺」へと入っていった。俺の理性と矜持は、より偉大な存在があり、しかも自分は決してそれには成り得ない、と認めることを許さない。だから信仰は、俺の解にはならない。代わりに俺は、自分の内にある意味への欲求そのものを、解体することを選んだ。"}]},{"type":"p","children":[{"type":"text","text":"俺は自分に言い聞かせる。世界に意味などないのだと。太陽はいつか地球を呑み込み、宇宙もやがて熱的死へと帰してゆくのだと。すべては定められた法則のままに動き、過去も現在も未来もとうに決まっていて、いわゆる自由意志など、人間の傲慢が生んだ幻にすぎないのだと。"}]},{"type":"p","children":[{"type":"text","text":"だが、これも明らかにうまくはいかなかった。さもなければ、俺は今ごろどこかの寺で頭を剃り、木魚を叩いているか、道服をまとって名山大川を訪ね歩いているはずだ。"}]},{"type":"p","children":[{"type":"text","text":"その果てが、今の俺だ——帯に短し襷に長し。多くを望みながら、失うことを恐れている。うっすらと、学習性無力感のようなものが漂う。何もかもが、不条理との戦いに敗れたあとの無力感に満ちている。"}]},{"type":"p","children":[{"type":"text","text":"だが、こんな不健康な生き方に、俺は少し倦んできた。"}]},{"type":"p","children":[{"type":"text","text":"最近、新しい試みを始めた。"},{"type":"text","text":"amor fati","italic":true},{"type":"text","text":"——運命を愛せよ。足もとの道ばかりを見つめるのではなく、道すがらの風景にも、目を向けてみる。"}]},{"type":"p","children":[{"type":"text","text":"覚えている。ある夕暮れ、淀川沿いを自転車で走っていると、夕日が岸辺の木の葉に射していた。葉は揺れながらきらきらと光り、みずみずしくて——その一瞬、「かわいい」という言葉の意味が、少しわかった気がした。それから、子どもの頃に見た、マーティンという少年が主人公のアニメを思い出す。マーティンは毎朝ちがう場所で目を覚まし、ちがう素性の誰かになり、ちがう人生を生きる——俺が望んでいたのは、どうやらずっと、それだったのだ。"}]},{"type":"p","children":[{"type":"text","text":"もしかすると、これこそがカミュの説いた、不条理への対し方——反抗、なのだろうか。"}]},{"type":"h5","children":[{"type":"text","text":"幸福なシーシュポス"}]},{"type":"p","children":[{"type":"text","text":"俺は、デジタルノマドになるための準備を始めた。お金の管理を始め、投資を学び、収入を——とりわけ不労所得を——増やす方法を探している。身のまわりの、さまざまな人や物事に目を留めるようになった。この「道を行く」という感覚を、楽しもうとし始めている。"}]},{"type":"p","children":[{"type":"text","text":"これは本当に、俺の道なのだろうか。わからない。それでも俺は、この道は幸福なのだと、自分に信じ込ませなければならない。もし十分に幸運なら、いつの日か、本当に自分のものと呼べる「道」を、見つけられるかもしれない。"}]},{"type":"p","children":[{"type":"text","text":"人生はあわただしい百年、夢幻泡影のごとし。ただ願わくは、定められた死が訪れるそのとき、俺が安らかにこう言えますように——「我すでに道を行く、死すとも悔いなし」と。"}]}]},"skills":[{"__typename":"AuthorSkills","group":"技術","items":["React","Next.js","TypeScript","Vue","Python"]},{"__typename":"AuthorSkills","group":"言語","items":["中国語 · 母語","日本語 · 流暢","英語 · 入門"]}],"interests":[{"__typename":"AuthorInterests","group":"","items":["学習","読書","制作","サイクリング","ギター練習"]},{"__typename":"AuthorInterests","group":"やりたいこと","items":["ゲーム開発","3Dプリント"]}],"email":null,"social":[{"__typename":"AuthorSocial","platform":"github","username":"Toshinaki","url":"https://github.com/Toshinaki"},{"__typename":"AuthorSocial","platform":"npm","username":"toshinaki","url":"https://www.npmjs.com/~toshinaki"},{"__typename":"AuthorSocial","platform":"x","username":"shaduking","url":"https://x.com/shaduking"},{"__typename":"AuthorSocial","platform":"facebook","username":"jm.wang42","url":"https://www.facebook.com/jm.wang42"}],"_sys":{"filename":"Toshinaki","basename":"Toshinaki.json","hasReferences":null,"breadcrumbs":["ja","Toshinaki"],"path":"content/authors/ja/Toshinaki.json","relativePath":"ja/Toshinaki.json","extension":".json"},"id":"content/authors/ja/Toshinaki.json"},"canonicalId":"peak-secrets-from-the-new-science-of-expertise-01","seriesName":"限界的練習","title":"卓越した成果を出すために","order":1,"body":{"type":"root","children":[{"type":"h2","children":[{"type":"text","text":"TLDR"}]},{"type":"h2","children":[{"type":"text","text":"各章のまとめ"}]},{"type":"h3","children":[{"type":"text","text":"0. はじめに 天才は存在するか"}]},{"type":"p","children":[{"type":"text","text":"核心的な論点：卓越性は生まれつきのものではなく、正しい訓練方法を通じて習得されるスキルである。"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"本当の「天才」とは適応能力である： 傑出した人物が持つ卓越した才能は、実は人間に本来備わっている適応能力である。彼らは普通の人よりもその適応能力をより多く活用したに過ぎない。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"訓練がスキルを創造する"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"脳は固定されていない 従来の観点では、ポテンシャルは固定されており、学習はポテンシャルを「掘り起こす」ためのものだと考えられていた。しかし、1990年代以降の研究により、脳は想像以上に強い適応能力を持っていることが示されている。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"訓練が構造を変える 訓練は「トリガー」として機能し、脳を様々な方法で「再配線」させる。例えば、ニューロン間に新しい接続を形成したり、既存の接続を強化したりする。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"年齢と適応能力 若い時期（6歳以前など）の脳は適応能力がより高いものの、身体と脳は成人期を通じて極めて大きな適応能力を保持しており、正しい訓練によって様々な新しい能力を養うことができる。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"エキスパートと常人 エキスパートは集中した訓練を通じて脳と身体に変化を促す。彼らが持つ重要な才能は、私たち一人一人が持っている才能と同じである。つまり、脳と身体には適応能力があり、彼らはその能力を私たちよりも多く利用しただけなのだ。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"正しい練習が唯一の道である： 単なる「心からの願いと懸命な努力」だけでは、継続的な向上には不十分である。卓越性への唯一の道は、正しい練習、すなわち「限界的練習（刻意練習）」である。"}]}]}]},{"type":"h4","children":[{"type":"text","text":"事例"}]},{"type":"ol","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"モーツァルトの絶対音感"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"従来の認識： モーツァルトは7歳の時にどんな音も正確に聞き分けることができた。この絶対音感は、彼の生まれ持った不思議な才能の現れだと考えられていた。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"科学的発見： 研究により、絶対音感は声調言語を話す人々の間でより一般的であり、かつ所有者のほぼ全員が幼少期（3、4歳）に音楽訓練を受けていることが判明した。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"実験的証拠： 榊原彩子氏は訓練を通じて、研究に参加した子供たちに絶対音感を身につけさせることに成功した。これは、絶対音感が決して天賦の才ではなく、適切な接触と訓練によって養い、発展させることができる能力であることを示している。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"モーツァルトの真実： モーツァルトの絶対音感と早熟な成果は、父レオポルト・モーツァルトが彼が4歳の時から行った、より強度の高い、長時間の系統的な訓練の結果であった。"}]}]}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"レイ・アレンと努力"}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"世間の誤解： NBAのスター選手であるレイ・アレンは有名なスリーポイントシューターであり、しばしば「生まれつき傑出している」と誤解されていた。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"アレンの視点： アレン本人はこの説を否定し、自身の成果はシュート練習に毎日費やした多大な努力のおかげであると強調している。彼の例は、成果が優れた遺伝子からではなく、絶え間ない懸命な練習から生まれることを物語っている。"}]}]}]}]}]},{"type":"h4","children":[{"type":"text","text":"脳と身体の適応能力"}]},{"type":"p","children":[{"type":"text","text":"さらなる研究が示すこと："}]},{"type":"ul","children":[{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"脳は固定されていない かつて科学者は成人の脳の「配線」は固定されていると考えていた。しかし、1990年代以降の研究により、脳は想像以上に強い適応能力を持っていることが示されている。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"訓練が構造を変える 訓練は「トリガー」として機能し、脳を様々な方法で「再配線」させる。例えば、ニューロン間に新しい接続を形成したり、既存の接続を強化したりする。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"年齢と適応能力 若い時期（6歳以前など）の脳は適応能力がより高いものの、身体と脳は成人期を通じて極めて大きな適応能力を保持しており、正しい訓練によって様々な新しい能力を養うことができる。"}]}]},{"type":"li","children":[{"type":"lic","children":[{"type":"text","text":"エキスパートと常人\nエキスパートは集中した訓練を通じて脳と身体に変化を促す。彼らが持つ重要な才能は、私たち一人一人が持っている才能と同じである。つまり、脳と身体には適応能力があり、彼らはその能力を私たちよりも多く利用しただけなのだ。"}]}]}]}]},"reading":null}],"breadcrumbs":[{"name":"ノート","path":"/notes","kind":"notes"},{"name":"『限界的練習』読書ノート","path":"/notes/限界的練習"}],"shareUrl":"https://re-jeunesse.org/s/?id=peak-secrets-from-the-new-science-of-expertise"}]]
+1a:I[82931,[],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"『限界的練習』読書ノート | 再：青年"}],["$","link","1",{"rel":"manifest","href":"/manifest.webmanifest","crossOrigin":"$undefined"}],["$","link","2",{"rel":"canonical","href":"https://re-jeunesse.org/ja/notes/%E9%99%90%E7%95%8C%E7%9A%84%E7%B7%B4%E7%BF%92/"}],["$","link","3",{"rel":"alternate","hrefLang":"zh","href":"https://re-jeunesse.org/zh/notes/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0/"}],["$","link","4",{"rel":"alternate","hrefLang":"ja","href":"https://re-jeunesse.org/ja/notes/%E9%99%90%E7%95%8C%E7%9A%84%E7%B7%B4%E7%BF%92/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://re-jeunesse.org/en/notes/deliberate-practice/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://re-jeunesse.org/zh/notes/%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0/"}],["$","meta","7",{"property":"og:title","content":"『限界的練習』読書ノート"}],["$","meta","8",{"property":"og:site_name","content":"再：青年"}],["$","meta","9",{"property":"og:locale","content":"ja_JP"}],["$","meta","10",{"property":"og:image","content":"https://re-jeunesse.org/uploads/notes/covers/%E9%99%90%E7%95%8C%E7%9A%84%E7%B7%B4%E7%BF%92.avif"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"『限界的練習』読書ノート"}],["$","meta","13",{"name":"twitter:image","content":"https://re-jeunesse.org/uploads/notes/covers/%E9%99%90%E7%95%8C%E7%9A%84%E7%B7%B4%E7%BF%92.avif"}],["$","link","14",{"rel":"icon","href":"/icon.svg?ce7055fa98cb49d8","type":"image/svg+xml","sizes":"any"}],["$","link","15",{"rel":"apple-touch-icon","href":"/apple-icon.png?2d1abb9690dbf0e7","type":"image/png","sizes":"180x180"}],["$","$L1a","16",{}]]
