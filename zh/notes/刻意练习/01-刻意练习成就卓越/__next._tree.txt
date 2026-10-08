@@ -1,0 +1,7 @@
+:HC["/",""]
+:HL["/_next/static/css/2bf95125685c00d9.css","style"]
+:HL["/_next/static/css/cb1295b7574760d2.css","style"]
+:HL["/_next/static/css/9fed636ab5b7d04d.css","style"]
+:HL["/fonts/_subset/noto-serif-sc.css?v=f276aea6","style"]
+:HL["/fonts/_subset/noto-sans-sc.css?v=eaa23865","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"zh","siblings":["_not-found","_global-error","apple-icon.png","icon.svg","manifest.webmanifest","robots.txt","s","sitemap.xml"]},"prefetchHints":4128,"slots":{"children":{"name":"notes","param":null,"prefetchHints":4160,"slots":{"children":{"name":"series","param":{"type":"d","key":"%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0","siblings":["page"]},"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"01-%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0%E6%88%90%E5%B0%B1%E5%8D%93%E8%B6%8A","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"FZwU23a7Mby_EajqQfDWf"}

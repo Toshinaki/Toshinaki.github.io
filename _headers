@@ -1,0 +1,40 @@
+# Cloudflare Pages 的自定义响应头，构建时复制到 out/ 根目录。
+# 只有生产环境（Cloudflare Pages）读取这个文件，GitHub Pages 预览版会忽略它。
+# 静态导出时 next.config.ts 的 headers() 不起作用，响应头只能在这里设置。
+# 一个请求匹配多条规则时，各条规则的头部会合并。
+
+# 禁止其他网站用 iframe 嵌入本站页面（防点击劫持）。
+/*
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: frame-ancestors 'self'
+
+# 以下文件的地址带内容哈希，内容变了地址也会变，可以让浏览器长期缓存：
+# - /_next/static/：Next 生成的 JS、CSS 等，文件名带哈希。
+# - /_img/：构建时由 public/uploads/ 转换出的图片（scripts/image/generate-images.ts），文件名带哈希。
+# - /fonts/_subset/：woff2 的文件名就是内容哈希；子集 CSS 的地址带 `?v=<内容哈希>`（scripts/font/generate-fonts.mjs）。
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/_img/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/_subset/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 图标、国旗的文件名不带哈希，但很少改动，缓存 7 天。
+# HTML、RSC 的 .txt、sitemap、RSS 不在这里设置：发新文章、改代码时它们会变，
+# 保持 Cloudflare Pages 默认的 max-age=0，内容没变时服务器返回 304，不重新下载。
+/icons/*
+  Cache-Control: public, max-age=604800
+
+/flags/*
+  Cache-Control: public, max-age=604800
+
+/favicon.ico
+  Cache-Control: public, max-age=604800
+
+/icon.svg
+  Cache-Control: public, max-age=604800
+
+/apple-icon.png
+  Cache-Control: public, max-age=604800

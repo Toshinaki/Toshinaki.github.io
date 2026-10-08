@@ -1,0 +1,269 @@
+{
+  "share": {
+    "label": "分享",
+    "webShare": "分享…",
+    "copy": "复制链接",
+    "copied": "已复制",
+    "platforms": {
+      "x": "分享到 X",
+      "facebook": "分享到 Facebook",
+      "reddit": "分享到 Reddit",
+      "line": "分享到 LINE",
+      "weibo": "分享到微博",
+      "qzone": "分享到 QQ空间",
+      "douban": "分享到豆瓣",
+      "email": "通过邮件分享"
+    }
+  },
+
+  "meta": {
+    "siteName": "再：青年",
+    "siteDescription": "解放自己。解放世界。",
+    "noteSeriesDescription": "《{series}》系列笔记"
+  },
+
+  "home": {
+    "intro": {
+      "greeting": "{greeting}，我是 {name} 👋",
+      "greetings": {
+        "default": "嗨",
+        "morning": {
+          "hello": ["早上好", "早安"],
+          "line": ["醒了", "又是一天"]
+        },
+        "noon": {
+          "hello": ["午安", "中午好"],
+          "line": ["吃了吗"]
+        },
+        "afternoon": {
+          "hello": ["下午好"],
+          "line": ["犯困的点", "还撑着"]
+        },
+        "evening": {
+          "hello": ["晚上好"],
+          "line": ["忙完了", "夜色刚好"]
+        },
+        "night": {
+          "hello": [],
+          "line": ["夜深了", "还没睡", "夜还长"]
+        }
+      },
+      "more": "关于我"
+    },
+    "hero": { "reshuffle": "换一批" },
+    "recent": {
+      "heading": "最近更新",
+      "updatedNotes": "{count, plural, other {更新了 # 篇}}",
+      "chapter": "第 {order} 篇",
+      "viewSeries": "查看系列「{title}」"
+    },
+    "featured": { "heading": "精选", "drag": "↔ 拖动浏览" },
+    "entries": {
+      "heading": "去逛逛",
+      "go": "进入",
+      "blog": { "title": "博客", "description": "随笔、思考与技术札记" },
+      "notes": { "title": "笔记", "description": "成体系的阅读 / 学习系列" },
+      "projects": { "title": "项目", "description": "做过的东西与开源作品" }
+    }
+  },
+
+  "pages": {
+    "blog": {
+      "title": "博客",
+      "description": "记录与分享",
+      "allPosts": "所有文章",
+      "recentPosts": "最近文章",
+      "featuredPosts": "精选文章",
+      "byTag": "标签: {tag}",
+      "bySeries": "系列: {series}",
+      "noPosts": "暂无文章",
+      "postsCount": "{count, plural, one {# 篇文章} other {# 篇文章}}",
+      "series": {
+        "title": "系列文章",
+        "viewAll": "查看完整系列"
+      }
+    },
+
+    "notes": {
+      "title": "笔记",
+      "description": "学习记录",
+      "allNotes": "所有笔记",
+      "allSeries": "所有系列",
+      "seriesOverview": "系列概览",
+      "noNotes": "暂无笔记",
+      "notesCount": "{count, plural, one {# 篇笔记} other {# 篇笔记}}",
+      "seriesCount": "{count, plural, one {# 个系列} other {# 个系列}}",
+      "chapters": "共 {count, plural, one {# 篇笔记} other {# 篇笔记}}",
+      "progress": {
+        "label": "学习进度",
+        "not-started": "未开始",
+        "in-progress": "进行中",
+        "completed": "已完成",
+        "on-hold": "暂停"
+      },
+      "source": {
+        "title": "学习资源",
+        "book": "书籍",
+        "video": "视频",
+        "by": "{creator}",
+        "platform": "平台: {platform}",
+        "moreInfo": "更多信息"
+      }
+    },
+
+    "projects": {
+      "title": "项目",
+      "description": "作品集",
+      "allProjects": "所有项目",
+      "noProjects": "暂无项目",
+      "projectsCount": "{count, plural, one {# 个项目} other {# 个项目}}",
+      "techStack": "技术栈",
+      "viewProject": "查看项目",
+      "viewSource": "查看源码",
+      "status": {
+        "label": "状态",
+        "active": "积极维护",
+        "maintaining": "维护中",
+        "todo": "计划中",
+        "archived": "已归档"
+      },
+      "date": "项目时间",
+      "linkType": {
+        "website": "网站",
+        "github": "GitHub",
+        "gitlab": "GitLab",
+        "gitee": "Gitee",
+        "bitbucket": "Bitbucket",
+        "npm": "npm",
+        "docs": "文档",
+        "other": "链接"
+      }
+    },
+
+    "about": {
+      "title": "关于本站"
+    },
+
+    "portfolio": {
+      "title": "关于我",
+      "now": "最近在忙",
+      "bio": "我是谁",
+      "background": {
+        "education": "教育背景",
+        "experience": "工作经历"
+      },
+      "expertise": {
+        "skills": "我会",
+        "interests": "我喜欢",
+        "languages": "我会说"
+      },
+      "social": "关注我"
+    },
+
+    "diary": {
+      "title": "日记",
+      "subtitle": "私人记录",
+      "allEntries": "所有日记",
+      "noEntries": "暂无日记",
+      "diaryCount": "{count, plural, one {# 篇日记} other {# 篇日记}}",
+      "mood": {
+        "label": "心情",
+        "great": "很好",
+        "good": "不错",
+        "okay": "一般",
+        "bad": "不好",
+        "terrible": "很差"
+      },
+      "calendar": {
+        "title": "日历视图",
+        "today": "今天",
+        "hasEntry": "有日记"
+      }
+    },
+
+    "404": {
+      "title": "页面未找到 | 再：青年",
+      "description": "抱歉，您访问的页面不存在或已被移除"
+    }
+  },
+
+  "common": {
+    "readingTime": "{minutes, plural, one {# 分钟阅读} other {# 分钟阅读}}",
+    "updatedAt": "更新于：{time}",
+    "private": "私密",
+    "types": { "blog": "博客", "notes": "笔记", "projects": "项目" }
+  },
+
+  "layout": {
+    "languageSwitch": "切换语言",
+    "menu": "菜单",
+    "closeMenu": "关闭菜单"
+  },
+
+  "components": {
+    "AdjacentPagination": {
+      "prev": "上一篇",
+      "next": "下一篇"
+    },
+    "FallbackIndicator": {
+      "title": "语言回退",
+      "message": "此页面暂无{requested}版本，正在显示{fallback}版本"
+    },
+    "ScrollToTop": {
+      "label": "回到顶部"
+    },
+    "headingLinkButton": {
+      "label": "复制链接",
+      "copiedLabel": "已复制",
+      "failedLabel": "复制失败",
+      "ariaLabel": "复制当前标题链接",
+      "copiedAriaLabel": "当前标题链接已复制"
+    },
+    "toc": {
+      "title": "目录",
+      "expandAll": "全部展开",
+      "collapseAll": "全部折叠"
+    },
+    "breadcrumbs": {
+      "label": "面包屑导航",
+      "home": "首页"
+    },
+    "noteMeta": {
+      "published": "{time}发布",
+      "updated": "{time}更新"
+    },
+    "seriesNav": {
+      "title": "系列章节",
+      "position": "第 {n} 章 / 共 {total} 章",
+      "seriesHome": "系列首页",
+      "showAll": "展开全部 {total} 章",
+      "current": "正在阅读"
+    },
+    "tagCloud": {
+      "title": "标签云",
+      "postCount": "{count, plural, one {# 篇文章} other {# 篇文章}}"
+    }
+  },
+
+  "tags": {
+    "title": "标签",
+    "allTags": "所有标签",
+    "postsWithTag": "包含「{tag}」的内容",
+    "noTags": "暂无标签"
+  },
+
+  "search": {
+    "title": "搜索",
+    "placeholder": "搜索文章、笔记...",
+    "results": "找到 {count, plural, one {# 个结果} other {# 个结果}}",
+    "noResults": "未找到相关内容",
+    "searching": "搜索中...",
+    "filterBy": "筛选",
+    "filters": {
+      "all": "全部",
+      "blog": "博客",
+      "notes": "笔记",
+      "projects": "项目"
+    }
+  }
+}

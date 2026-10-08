@@ -1,0 +1,269 @@
+{
+  "share": {
+    "label": "シェア",
+    "webShare": "シェア…",
+    "copy": "リンクをコピー",
+    "copied": "コピーしました",
+    "platforms": {
+      "x": "X でシェア",
+      "facebook": "Facebook でシェア",
+      "reddit": "Reddit でシェア",
+      "line": "LINE でシェア",
+      "weibo": "Weibo でシェア",
+      "qzone": "Qzone でシェア",
+      "douban": "Douban でシェア",
+      "email": "メールでシェア"
+    }
+  },
+
+  "meta": {
+    "siteName": "再：青年",
+    "siteDescription": "自分を解放せよ。世界を解放せよ。",
+    "noteSeriesDescription": "「{series}」シリーズのノート"
+  },
+
+  "home": {
+    "intro": {
+      "greeting": "{greeting}、{name} です 👋",
+      "greetings": {
+        "default": "こんにちは",
+        "morning": {
+          "hello": ["おはよう", "おはようございます"],
+          "line": ["起きた", "また一日"]
+        },
+        "noon": {
+          "hello": ["こんにちは", "やあ"],
+          "line": ["お昼ですね"]
+        },
+        "afternoon": {
+          "hello": ["こんにちは"],
+          "line": ["眠くなる時間", "まだ頑張ってる"]
+        },
+        "evening": {
+          "hello": ["こんばんは"],
+          "line": ["一日お疲れ", "いい夜です"]
+        },
+        "night": {
+          "hello": [],
+          "line": ["夜更けです", "まだ起きてる", "夜は長い"]
+        }
+      },
+      "more": "私について"
+    },
+    "hero": { "reshuffle": "シャッフル" },
+    "recent": {
+      "heading": "最近の更新",
+      "updatedNotes": "{count, plural, other {#件を更新}}",
+      "chapter": "第{order}回",
+      "viewSeries": "シリーズ「{title}」を見る"
+    },
+    "featured": { "heading": "おすすめ", "drag": "↔ ドラッグで移動" },
+    "entries": {
+      "heading": "見てまわる",
+      "go": "入る",
+      "blog": { "title": "ブログ", "description": "随筆・思考・技術メモ" },
+      "notes": { "title": "ノート", "description": "体系的な読書・学習シリーズ" },
+      "projects": { "title": "プロジェクト", "description": "作ったもの・オープンソース" }
+    }
+  },
+
+  "pages": {
+    "blog": {
+      "title": "ブログ",
+      "description": "記録と共有",
+      "allPosts": "すべての記事",
+      "recentPosts": "最近の記事",
+      "featuredPosts": "おすすめの記事",
+      "byTag": "タグ: {tag}",
+      "bySeries": "シリーズ: {series}",
+      "noPosts": "記事がありません",
+      "postsCount": "{count, plural, one {# 記事} other {# 記事}}",
+      "series": {
+        "title": "連載シリーズ",
+        "viewAll": "シリーズ全体を見る"
+      }
+    },
+
+    "notes": {
+      "title": "ノート",
+      "description": "学習の記録",
+      "allNotes": "すべてのノート",
+      "allSeries": "すべてのシリーズ",
+      "seriesOverview": "シリーズ概要",
+      "noNotes": "ノートがありません",
+      "notesCount": "{count, plural, one {# ノート} other {# ノート}}",
+      "seriesCount": "{count, plural, one {# シリーズ} other {# シリーズ}}",
+      "chapters": "全 {count, plural, one {# 章} other {# 章}}",
+      "progress": {
+        "label": "学習状況",
+        "not-started": "未着手",
+        "in-progress": "学習中",
+        "completed": "完了",
+        "on-hold": "保留"
+      },
+      "source": {
+        "title": "学習リソース",
+        "book": "書籍",
+        "video": "動画",
+        "by": "{creator}",
+        "platform": "プラットフォーム: {platform}",
+        "moreInfo": "詳細情報"
+      }
+    },
+
+    "projects": {
+      "title": "プロジェクト",
+      "description": "制作物・ポートフォリオ",
+      "allProjects": "すべてのプロジェクト",
+      "noProjects": "プロジェクトがありません",
+      "projectsCount": "{count, plural, one {# プロジェクト} other {# プロジェクト}}",
+      "techStack": "使用技術",
+      "viewProject": "プロジェクトを見る",
+      "viewSource": "ソースコードを見る",
+      "status": {
+        "label": "ステータス",
+        "active": "積極的にメンテナンス中",
+        "maintaining": "メンテナンス中",
+        "todo": "予定",
+        "archived": "アーカイブ済み"
+      },
+      "date": "日付",
+      "linkType": {
+        "website": "ウェブサイト",
+        "github": "GitHub",
+        "gitlab": "GitLab",
+        "gitee": "Gitee",
+        "bitbucket": "Bitbucket",
+        "npm": "npm",
+        "docs": "ドキュメント",
+        "other": "リンク"
+      }
+    },
+
+    "about": {
+      "title": "このサイトについて"
+    },
+
+    "portfolio": {
+      "title": "私について",
+      "now": "近況",
+      "bio": "私という人間",
+      "background": {
+        "education": "学歴",
+        "experience": "職歴"
+      },
+      "expertise": {
+        "skills": "スキル",
+        "interests": "趣味・関心",
+        "languages": "言語"
+      },
+      "social": "フォローする"
+    },
+
+    "diary": {
+      "title": "日記",
+      "subtitle": "私的な記録",
+      "allEntries": "すべての日記",
+      "noEntries": "日記がありません",
+      "diaryCount": "{count, plural, one {# 篇の日記} other {# 篇の日記}}",
+      "mood": {
+        "label": "気分",
+        "great": "最高",
+        "good": "良い",
+        "okay": "普通",
+        "bad": "悪い",
+        "terrible": "最悪"
+      },
+      "calendar": {
+        "title": "カレンダー表示",
+        "today": "今日",
+        "hasEntry": "日記あり"
+      }
+    },
+
+    "404": {
+      "title": "ページが見つかりません | {siteName}",
+      "description": "お探しのページは存在しないか、移動した可能性があります。"
+    }
+  },
+
+  "common": {
+    "readingTime": "{minutes, plural, one {読了まで約 # 分} other {読了まで約 # 分}}",
+    "updatedAt": "更新日：{time}",
+    "private": "非公開",
+    "types": { "blog": "ブログ", "notes": "ノート", "projects": "プロジェクト" }
+  },
+
+  "layout": {
+    "languageSwitch": "言語切り替え",
+    "menu": "メニュー",
+    "closeMenu": "メニューを閉じる"
+  },
+
+  "components": {
+    "AdjacentPagination": {
+      "prev": "前の記事",
+      "next": "次の記事"
+    },
+    "FallbackIndicator": {
+      "title": "言語フォールバック",
+      "message": "このページは{requested}版が利用できないため、{fallback}版を表示しています。"
+    },
+    "ScrollToTop": {
+      "label": "トップへ戻る"
+    },
+    "headingLinkButton": {
+      "label": "リンクをコピー",
+      "copiedLabel": "コピーしました",
+      "failedLabel": "コピーに失敗しました",
+      "ariaLabel": "この見出しへのリンクをコピー",
+      "copiedAriaLabel": "この見出しへのリンクをコピーしました"
+    },
+    "toc": {
+      "title": "目次",
+      "expandAll": "すべて展開",
+      "collapseAll": "すべて折りたたむ"
+    },
+    "breadcrumbs": {
+      "label": "パンくずリスト",
+      "home": "ホーム"
+    },
+    "noteMeta": {
+      "published": "{time}に公開",
+      "updated": "{time}に更新"
+    },
+    "seriesNav": {
+      "title": "シリーズの章",
+      "position": "第 {n} 章 / 全 {total} 章",
+      "seriesHome": "シリーズトップ",
+      "showAll": "全 {total} 章を表示",
+      "current": "閲覧中"
+    },
+    "tagCloud": {
+      "title": "タグクラウド",
+      "postCount": "{count, plural, one {# 記事} other {# 記事}}"
+    }
+  },
+
+  "tags": {
+    "title": "タグ",
+    "allTags": "すべてのタグ",
+    "postsWithTag": "「{tag}」タグの付いたコンテンツ",
+    "noTags": "タグがありません"
+  },
+
+  "search": {
+    "title": "検索",
+    "placeholder": "記事やノートを検索...",
+    "results": "{count, plural, one {# 件見つかりました} other {# 件見つかりました}}",
+    "noResults": "見つかりませんでした",
+    "searching": "検索中...",
+    "filterBy": "絞り込み",
+    "filters": {
+      "all": "すべて",
+      "blog": "ブログ",
+      "notes": "ノート",
+      "projects": "プロジェクト"
+    }
+  }
+}
